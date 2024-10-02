@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: a9244b32-c845-4176-b413-4a814fd474ab
+      url: 'https://friskogfunksjonell.netlify.app'
