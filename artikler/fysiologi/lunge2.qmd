@@ -1,0 +1,10 @@
+---
+title: "Alkohol"
+author: "Andreas Wahl Blomkvist"
+date: "2015.12.13"
+categories: 
+  - Fysiologi
+  - Lunge
+---
+
+[Tilbake til artikkelserien om menneskets fysiologi](../../fysiologi.html)

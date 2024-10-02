@@ -1,0 +1,10 @@
+---
+title: "Nyrene del 2: Væskebalanse og urinproduksjon"
+author: "Vegard Lysne"
+date: "2013.07.29"
+categories: 
+  - Fysiologi
+  - Nyre
+---
+
+[Tilbake til artikkelserien om menneskets fysiologi](../../fysiologi.html)

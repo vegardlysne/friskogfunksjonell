@@ -1,0 +1,9 @@
+---
+title: "Eikosanoider"
+author: "Andreas Wahl Blomkvist"
+date: "2015.03.20"
+categories: 
+  - Metabolismen
+---
+
+[Tilbake til artikkelserien om metabolismen](../../metabolismen.html)

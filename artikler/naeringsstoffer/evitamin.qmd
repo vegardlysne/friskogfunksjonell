@@ -1,0 +1,9 @@
+---
+title: "E-vitamin"
+date: "2011.10.20"
+categories: 
+  - Næringsstoffene
+  - Fettløselige vitaminer
+---
+
+[Tilbake til artikkelserien om næringsstoffene](../../naeringsstoffer.html)

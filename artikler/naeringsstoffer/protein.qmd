@@ -1,0 +1,9 @@
+---
+title: "Protein"
+date: "2011.10.16"
+categories: 
+  - Næringsstoffene
+  - Makronæringsstoffer
+---
+
+[Tilbake til artikkelserien om næringsstoffene](../../naeringsstoffer.html)

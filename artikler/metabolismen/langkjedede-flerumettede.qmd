@@ -1,0 +1,9 @@
+---
+title: "Langkjedede og umettede fettsyrer"
+author: "Vegard Lysne"
+date: "2013.08.29"
+categories: 
+  - Metabolismen
+---
+
+[Tilbake til artikkelserien om metabolismen](../../metabolismen.html)

@@ -1,0 +1,9 @@
+---
+title: "Genetiske og metabolske sykdommer - genetikk"
+author: "Vegard Lysne"
+date: "2013.01.21"
+categories: 
+  - Metabolismen
+---
+
+[Tilbake til artikkelserien om metabolismen](../../metabolismen.html)

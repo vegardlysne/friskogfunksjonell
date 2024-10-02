@@ -1,0 +1,9 @@
+---
+title: "Elektrontransportkjeden"
+author: "Vegard Lysne"
+date: "2012.02.02"
+categories: 
+  - Metabolismen
+---
+
+[Tilbake til artikkelserien om metabolismen](../../metabolismen.html)

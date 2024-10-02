@@ -1,0 +1,10 @@
+---
+title: "Hjertet del 2: Energisubstrat, oksygenforbruk, ytelse og aktivitetsnivå"
+author: "Thomas Olsen"
+date: "2013.12.12"
+categories: 
+  - Fysiologi
+  - Hjertet
+---
+
+[Tilbake til artikkelserien om menneskets fysiologi](../../fysiologi.html)

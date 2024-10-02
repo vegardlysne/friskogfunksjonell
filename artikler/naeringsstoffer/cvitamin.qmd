@@ -1,0 +1,9 @@
+---
+title: "C-vitamin"
+date: "2011.10.22"
+categories: 
+  - Næringsstoffene
+  - Vannløselige vitaminer
+---
+
+[Tilbake til artikkelserien om næringsstoffene](../../naeringsstoffer.html)

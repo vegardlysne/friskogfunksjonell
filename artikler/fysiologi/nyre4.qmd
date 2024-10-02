@@ -1,0 +1,10 @@
+---
+title: "Nyrene del 4: Nyresykdom"
+author: "Vegard Lysne"
+date: "2013.09.19"
+categories: 
+  - Fysiologi
+  - Nyre
+---
+
+[Tilbake til artikkelserien om menneskets fysiologi](../../fysiologi.html)

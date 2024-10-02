@@ -1,0 +1,9 @@
+---
+title: "Glykogenmetabolismen"
+author: "Vegard Lysne"
+date: "2013.08.19"
+categories: 
+  - Metabolismen
+---
+
+[Tilbake til artikkelserien om metabolismen](../../metabolismen.html)

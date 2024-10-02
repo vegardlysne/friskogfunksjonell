@@ -1,0 +1,9 @@
+---
+title: "Proteinmetabolismen"
+author: "Vegard Lysne"
+date: "2012.01.24"
+categories: 
+  - Metabolismen
+---
+
+[Tilbake til artikkelserien om metabolismen](../../metabolismen.html)

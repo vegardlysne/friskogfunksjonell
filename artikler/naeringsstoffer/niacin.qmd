@@ -1,0 +1,9 @@
+---
+title: "Niacin, vitamin B3"
+date: "2011.10.25"
+categories: 
+  - Næringsstoffene
+  - Vannløselige vitaminer
+---
+
+[Tilbake til artikkelserien om næringsstoffene](../../naeringsstoffer.html)

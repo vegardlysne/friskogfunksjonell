@@ -1,0 +1,10 @@
+---
+title: "Nyrene del 1: Oppbygging og glomerulær filtrasjonsrate"
+author: "Vegard Lysne"
+date: "2013.07.18"
+categories: 
+  - Fysiologi
+  - Nyre
+---
+
+[Tilbake til artikkelserien om menneskets fysiologi](../../fysiologi.html)

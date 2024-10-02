@@ -1,0 +1,10 @@
+---
+title: "Leveren - metabolismens dirigent"
+author: "Vegard Lysne"
+date: "2013.07.15"
+categories: 
+  - Fysiologi
+  - Lever
+---
+
+[Tilbake til artikkelserien om menneskets fysiologi](../../fysiologi.html)

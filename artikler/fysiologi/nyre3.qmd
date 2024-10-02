@@ -1,0 +1,10 @@
+---
+title: "Nyrene del 3: Elektrolyttstatus og andre funksjoner"
+author: "Vegard Lysne"
+date: "2013.08.08"
+categories: 
+  - Fysiologi
+  - Nyre
+---
+
+[Tilbake til artikkelserien om menneskets fysiologi](../../fysiologi.html)

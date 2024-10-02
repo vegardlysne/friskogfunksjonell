@@ -1,0 +1,9 @@
+---
+title: "Homeostase"
+author: "Vegard Lysne"
+date: "2013.11.07"
+categories: 
+  - Fysiologi
+---
+
+[Tilbake til artikkelserien om menneskets fysiologi](../../fysiologi.html)

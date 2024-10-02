@@ -1,0 +1,29 @@
+---
+title: "Bloggposter"
+listing:
+  contents: artikler/**/*.qmd
+  sort: "date desc"
+  type: table
+  fields: [date, title, author, reading-time, categories]
+  field-display-names: 
+    date: Publiseringsdato
+    title: Tittel
+    author: Forfatter
+    reading-time: Lesetid
+    categories: Kategorier
+  categories: true
+  sort-ui: false
+  filter-ui: [title, categories, author]
+page-layout: full
+title-block-banner: false
+---
+
+I listen under finner du alle innleggene publisert på Frisk og Funksjonell. Opprinnelige illustrasjonsbilder er i hovedsak ikke tatt med.
+
+I søkeboksen kan du filtrere på *Tittel*, *Forfatter* og *Kategorier*
+
+**Artikkelserier**:
+
+-   [Næringsstoffene](/naeringsstoffer.html)
+-   [Metabolismen](/metabolismen.html)
+-   [Menneskets fysiologi](fysiologi.html)

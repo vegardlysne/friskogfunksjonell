@@ -1,0 +1,9 @@
+---
+title: "Karbohydratforbruk under trening"
+author: "Thomas Olsen"
+date: "2013.10.28"
+categories: 
+  - Metabolismen
+---
+
+[Tilbake til artikkelserien om metabolismen](../../metabolismen.html)

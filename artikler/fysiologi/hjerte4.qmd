@@ -1,0 +1,10 @@
+---
+title: "Hjertet del 4: Aterosklerose - hva og hvordan"
+author: "Thomas Olsen"
+date: "2014.03.24"
+categories: 
+  - Fysiologi
+  - Hjertet
+---
+
+[Tilbake til artikkelserien om menneskets fysiologi](../../fysiologi.html)

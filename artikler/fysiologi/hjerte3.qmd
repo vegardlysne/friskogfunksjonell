@@ -1,0 +1,10 @@
+---
+title: "Hjertet del 3: Hjertets ledningssystem"
+author: "Thomas Olsen"
+date: "2014.03.13"
+categories: 
+  - Fysiologi
+  - Hjertet
+---
+
+[Tilbake til artikkelserien om menneskets fysiologi](../../fysiologi.html)

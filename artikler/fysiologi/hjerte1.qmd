@@ -1,0 +1,10 @@
+---
+title: "Hjertet del 1: Fysiologi og Anatomi"
+author: "Thomas Olsen"
+date: "2013.11.14"
+categories: 
+  - Fysiologi
+  - Hjertet
+---
+
+[Tilbake til artikkelserien om menneskets fysiologi](../../fysiologi.html)

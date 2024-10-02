@@ -1,0 +1,9 @@
+---
+title: "Fettsyresyntese"
+author: "Vegard Lysne"
+date: "2013.08.22"
+categories: 
+  - Metabolismen
+---
+
+[Tilbake til artikkelserien om metabolismen](../../metabolismen.html)

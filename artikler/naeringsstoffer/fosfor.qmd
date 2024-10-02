@@ -1,0 +1,9 @@
+---
+title: "Fosfor"
+date: "2011.11.02"
+categories: 
+  - Næringsstoffene
+  - Mineraler
+---
+
+[Tilbake til artikkelserien om næringsstoffene](../../naeringsstoffer.html)

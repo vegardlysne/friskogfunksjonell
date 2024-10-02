@@ -1,0 +1,9 @@
+---
+title: "Lipoproteinmetabolismen"
+author: "Vegard Lysne"
+date: "2013.04.11"
+categories: 
+  - Metabolismen
+---
+
+[Tilbake til artikkelserien om metabolismen](../../metabolismen.html)

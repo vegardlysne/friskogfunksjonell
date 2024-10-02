@@ -1,0 +1,9 @@
+---
+title: "Fettsyrenedbrytning - betaoksidasjon"
+author: "Vegard Lysne"
+date: "2012.01.26"
+categories: 
+  - Metabolismen
+---
+
+[Tilbake til artikkelserien om metabolismen](../../metabolismen.html)

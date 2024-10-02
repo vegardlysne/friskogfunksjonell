@@ -1,0 +1,9 @@
+---
+title: "Bukspyttkjertelen"
+author: "Vegard Lysne"
+date: "2013.10.21"
+categories: 
+  - Fysiologi
+---
+
+[Tilbake til artikkelserien om menneskets fysiologi](../../fysiologi.html)

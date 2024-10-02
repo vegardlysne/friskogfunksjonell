@@ -1,0 +1,10 @@
+---
+title: "Hjerteinfarkt, hva er det egentlig"
+author: "Thomas Geisner"
+date: "2012.01.12"
+categories: 
+  - Fysiologi
+  - Hjertet
+---
+
+[Tilbake til artikkelserien om menneskets fysiologi](../../fysiologi.html)

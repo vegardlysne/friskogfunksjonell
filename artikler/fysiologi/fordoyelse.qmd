@@ -1,0 +1,9 @@
+---
+title: "Fordøyelsessystemet"
+author: "Vegard Lysne"
+date: "2011.12.12"
+categories: 
+  - Fysiologi
+---
+
+[Tilbake til artikkelserien om menneskets fysiologi](../../fysiologi.html)

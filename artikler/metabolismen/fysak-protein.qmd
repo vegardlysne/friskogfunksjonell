@@ -1,0 +1,9 @@
+---
+title: "Proteinmetabolismen under trening"
+author: "Thomas Olsen"
+date: "2014.04.07"
+categories: 
+  - Metabolismen
+---
+
+[Tilbake til artikkelserien om metabolismen](../../metabolismen.html)

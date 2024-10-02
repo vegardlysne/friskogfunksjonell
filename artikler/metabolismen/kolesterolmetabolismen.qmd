@@ -1,0 +1,9 @@
+---
+title: "Kolesterolmetabolismen"
+author: "Vegard Lysne"
+date: "2013.10.14"
+categories: 
+  - Metabolismen
+---
+
+[Tilbake til artikkelserien om metabolismen](../../metabolismen.html)

@@ -1,0 +1,9 @@
+---
+title: "Jern"
+date: "2011.11.08"
+categories: 
+  - Næringsstoffene
+  - Mineraler
+---
+
+[Tilbake til artikkelserien om næringsstoffene](../../naeringsstoffer.html)

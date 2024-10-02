@@ -1,0 +1,9 @@
+---
+title: "Medfødte sykdommer i karbohydratmetabolismen"
+author: "Vegard Lysne"
+date: "2013.08.26"
+categories: 
+  - Metabolismen
+---
+
+[Tilbake til artikkelserien om metabolismen](../../metabolismen.html)

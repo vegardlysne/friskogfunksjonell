@@ -1,0 +1,47 @@
+---
+title: "Artikkelserie om næringsstoffene"
+listing:
+  contents: artikler/naeringsstoffer/*.qmd
+  sort: "date"
+  type: table
+  fields: [date, title, author, reading-time]
+  field-display-names: 
+    date: Publiseringsdato
+    title: Tittel
+    author: Forfatter
+    reading-time: Lesetid
+  categories: true
+  sort-ui: false
+  filter-ui: [title, description, author]
+page-layout: full
+title-block-banner: false
+---
+
+I denne artikkelserien vil jeg ta for meg de ulike næringsstoffene vi får i oss gjennom kostholdet. Jeg vil komme inn på en del sider ved hvert næringsstoff:
+
+-   Hvordan de tas opp i kroppen
+-   Hvilke funksjoner de har
+-   Behov og anbefalinger
+-   Konsekvenser av mangel/utilstrekkelig inntak
+-   Konsekvenser av for høyt inntak
+-   Kilder
+-   Aktuelt, ny forskning og liknende
+
+Jeg vil prøve å formulere meg på en måte som alle kan forstå, uavhengig av bakgrunnskunnskaper. Likevel vil det dukke opp litt biokjemi i forklaring av enkelte prosesser, men dette er mest for de spesielt interesserte.
+
+Under behov og anbefalinger vil jeg ta utgangspunkt i de norske anbefalingene, og gi noen eksempler på hvor mye man må innta av vanlige matvarer for å tilfredsstille de anbefalte mengdene. De nøyaktige anbefalingene fokuserer jeg ikke på, da dette ikke har noen verdi for enkeltindividet, siden behovene varierer utifra faktorer som vekt, aktivitetsnivå og status på de andre næringsstoffene. Anbefalingene er i de fleste tilfeller bestemt til en mengde som er tilstrekkelig for at 97,5% av befolkningen skal unngå mangeltilstander, noe som ikke nødvendigvis sier noe om optimalt nivå for enkeltindividet.
+
+Hvert enkelt næringsstoff presenteres i et eget innlegg, og alle innleggene vil være levende dokumenter, dvs at de vil oppdateres fortløpende om ny informasjon skulle dukke opp. Jeg oppfordrer også alle til å komme med innspill i kommentarfeltet dersom man skulle oppdage noe som ikke stemmer, eller noe som burde vært tatt med.
+
+Under finner du en liste over de næringsstoffene som inngår.
+
+Informasjon er hentet fra bøkene Modern Nutrition (1), Present Knowledge in Nutrition (2),Textbook of Medical Physiology (3),Nutritional Neuroscience (4) og Food – the chemistry of its components (5). Noe er hentet fra forelesninger jeg har hatt på ernæringsstudiet. Innhold i ulike matvarer er hentet fra matvaretabellen (6).
+
+**Referanser:**
+
+1.  Shils M, Shike M, Ross A, Caballero B, Cousins R (eds.): Modern Nutrition, In Health And Disease, 10 edn: Lippincott Williams&Wilkins; 2005.
+2.  Erdman Jr, Macdonald, Zeisel: Present Knowledge in Nutrition, 10 edn: Wiley-Blackwell; 2012.
+3.  Guyton and Hall: Textbook of Medical Physiology, 12.edn: Saunders Elsevier; 2011
+4.  Lieberman HR, Kanarek RB, Prasad C: Nutritional Neuroscience: CRC Press; 2005.
+5.  Coultate T: FOOD: The Chemistry of its Components, 5 edn: RSC Publishing; 2009.
+6.  www.matportalen.no/matvaretabellen

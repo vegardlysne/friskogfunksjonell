@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "Frisk og Funksjonell (arkiv)"
+  description: "Arkivert versjon av bloggen Frisk og Funksjonell"
+  navbar:
+    right:
+      - text: Alle poster
+        href: poster.qmd
+      - text: Næringsstoffene
+        href: naeringsstoffer.qmd
+      - text: Metabolismen
+        href: metabolismen.qmd
+      - text: Fysiologi
+        href: fysiologi.qmd
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+editor: visual
+

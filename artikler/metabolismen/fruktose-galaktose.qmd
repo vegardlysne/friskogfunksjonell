@@ -1,0 +1,9 @@
+---
+title: "Fruktose- og galaktosemetabolismen"
+author: "Vegard Lysne"
+date: "2013.08.15"
+categories: 
+  - Metabolismen
+---
+
+[Tilbake til artikkelserien om metabolismen](../../metabolismen.html)

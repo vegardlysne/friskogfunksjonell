@@ -1,0 +1,10 @@
+---
+title: "Alkohol"
+author: "Andreas Wahl Blomkvist"
+date: "2015.01.29"
+categories: 
+  - Fysiologi
+  - Lunge
+---
+
+[Tilbake til artikkelserien om næringsstoffene](../../naeringsstoffer.html)

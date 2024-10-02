@@ -1,0 +1,9 @@
+---
+title: "Protein"
+date: "2013.06.06"
+categories: 
+  - Næringsstoffene
+  - Mineraler
+---
+
+[Tilbake til artikkelserien om næringsstoffene](../../naeringsstoffer.html)

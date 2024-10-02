@@ -1,0 +1,9 @@
+---
+title: "Jod"
+date: "2011.11.09"
+categories: 
+  - Næringsstoffene
+  - Mineraler
+---
+
+[Tilbake til artikkelserien om næringsstoffene](../../naeringsstoffer.html)

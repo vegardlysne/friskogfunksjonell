@@ -1,0 +1,9 @@
+---
+title: "Cellen"
+author: "Vegard Lysne"
+date: "2011.11.25"
+categories: 
+  - Fysiologi
+---
+
+[Tilbake til artikkelserien om menneskets fysiologi](../../fysiologi.html)

@@ -1,0 +1,9 @@
+---
+title: "D-vitamin"
+date: "2011.10.19"
+categories: 
+  - Næringsstoffene
+  - Fettløselige vitaminer
+---
+
+[Tilbake til artikkelserien om næringsstoffene](../../naeringsstoffer.html)

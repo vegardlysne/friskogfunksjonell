@@ -1,0 +1,9 @@
+---
+title: "Aminosyre- og proteinmetabolismen"
+author: "Vegard Lysne"
+date: "2014.06.11"
+categories: 
+  - Metabolismen
+---
+
+[Tilbake til artikkelserien om metabolismen](../../metabolismen.html)

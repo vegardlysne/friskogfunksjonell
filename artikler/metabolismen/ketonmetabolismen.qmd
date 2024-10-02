@@ -1,0 +1,9 @@
+---
+title: "Ketonmetabolismen"
+author: "Vegard Lysne"
+date: "2013.09.09"
+categories: 
+  - Metabolismen
+---
+
+[Tilbake til artikkelserien om metabolismen](../../metabolismen.html)

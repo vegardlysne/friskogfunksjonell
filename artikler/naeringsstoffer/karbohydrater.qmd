@@ -1,0 +1,133 @@
+---
+title: "Karbohydrater"
+date: "2011.10.15"
+categories: 
+  - Næringsstoffene
+  - Makronæringsstoffer
+---
+
+[Tilbake til artikkelserien om næringsstoffene](../../naeringsstoffer.html)
+
+Karbohydrater er et av de energigivende næringsstoffene, kalt makronæringsstoffer, og gir 4 kcal/g. Det er stor variasjon i hvordan karbohydratene forekommer i maten vår. Alt fra enkle sukkerarter til lengre kjeder som stivelse, samt ufordøyelig fiber regnes som karbohydrater. Felles for de alle disse er at de er bygget opp av atomene karbon, hydrogen og oksygen. Navnet karbohydrat kommer fra fransk, hydrates de carbon. For de fleste av oss er karbohydrater den viktigste energikilden i kostholdet, men næringsstoffet er også koblet til en rekke metabolske sykdommer som overvekt, diabetes, hjertesykdom og kreft.
+
+## Oppbygging
+
+Alle karbohydrater er bygget opp av enkle sukkerarter, monosakkarider. Det finnes tre monosakkarider, glukose, fruktose og galaktose. De enkleste karbohydratmolekylene består av to monosakkarider, og kalles disakkarider. Blant disse finner vi sukrose/bordsukker (glukose+fruktose), laktose/melkesukker (glukose+galaktose) og maltose (glukose+glukose/maltsukker).
+
+Polysakkarider er lengre kjeder av sukkermolekyler. Et kjent polysakkarid i kosten vår er stivelse, som er lange kjeder av glukose, som enten kan være forgreinet (amylopektin) eller rettkjedede (amylose). Mesteparten av stivelsen fordøyes og absorberes i tarmen, men noe slipper unna og fraktes ned i tykktarmen. Dette kalles resistent stivelse. Vi kjenner til fire ulike former for resistent stivelse, som både kan opptre naturlig eller oppstå ved tilberedning. Et eksempel på det siste er retrogradert stivelse, som oppstår når stivelsesrike matvarer varmes opp for så å kjøles ned igjen.
+
+Glykogen er kroppens måte å lagre karbohydrater på, og finnes i leveren og i muskelvev. Glykogen likner på stivelsesmolekylet amylopektin i oppbyggingen.
+
+## Opptak
+
+Opptaket av karbohydrater er avhengig av nedbrytning til enkle sukkerarter, monosakkarider. Denne nedbrytningen starter allerede i munnen, da spyttet inneholder enzymet amylase, som bryter bindingene mellom glukosemolekylene. Dette, kombinert med en mekanisk nedbryting i form av tygging, er starten på karbohydratopptaket.
+
+Nede i magesekken fortsetter nedbrytningen ved hjelp av amylasen fra spyttet. Kontraksjoner i magesekken sørger for at innholdet blander seg sammen med magesyren og fordøyelsesvæskene. Når maten tømmes ut av magesekken, blandes den med bukspytt fra bukspyttkjertelen og galle fra galleblæren. Bukspyttkjertelen produserer amylase og glukosidase, som fortsetter å spalte stivelsesmolekylene ned til disakkaridet maltose.
+
+På overflaten av tarmcellene har vi enzymer, disakkaridaser, som bryter ned disakkaridene. Maltase, sukrase og laktase spalter hhv. maltose, sukrose og laktose. Til slutt står vi igjen med monosakkaridene glukose, fruktose og galaktose. Det finnes noen sjeldne, medfødte sykdommer som medfører disakkaridasemangel, noe som gjør at man ikke er i stand til å fordøye en eller flere typer disakkarider.
+
+For å krysse cellemembraner, er monosakkaridene avhengig av hjelp fra transportproteiner som heter GLUT (Glukosetransporter). Vi kjenner til fem slike transportproteiner, som finnes i alle kroppens celler. Opptaket til tarmcellene skjer hovedsakelig gjennom tre transportproteiner. GLUT2 og GLUT5 transporterer hhv. glukose og fruktose inn i cellene. Denne prosessen er passiv, og styres av konsentrasjoner på innsiden og utsiden av cellen. Et annet transportprotein, SGLT1 (Natriumkoblet glukosetransporter), sørger for en aktiv transport av glukose og galaktose sammen med [natrium](http://www.friskogfunksjonell.no/natrium-og-klor/ "Natrium og klor").
+
+Glukose fraktes fritt i blodet som blodsukker. Fruktose og galaktose omdannes til glukose i leveren, og lagres som glykogen eller sendes ut i blodet. De ulike GLUT-proteinene sørger for opptak av glukose fra blodet til kroppens ulike celler, slik at det kan brukes som energi.
+
+-   GLUT1 sørger for opptak til de røde blodcellene. Proteinet er også ansvarlig for at glukosen kan krysse blod/hjerne-barrieren.
+
+-   GLUT2 finnes i tarmen og leveren, og sørger for opptak av glukose og fruktose.
+
+-   GLUT3 finnes hovedsakelig i hjernen, nyrene og morkaken.
+
+-   GLUT4 sørger for opptak til fett- og muskelceller. Proteinet befinner seg i utgangspunktet inni cellen, og fraktes til cellemembranen som en reaksjon på hormonet insulin. GLUT4 kalles derfor insulinavhengig glukosetransporter.
+
+-   GLUT5 finnes hovedsakelig i tarmen, og er en effektiv fruktosetransporter. GLUT5 finnes også i modne spermceller, da disse bruker fruktose som energi.
+
+Blodsukkeret er et mål på hvor raskt karbohydrater fra maten tas opp, og blodsukkerstigningen etter et måltid kalles glykemisk respons. Glykemisk indeks (GI) er et mål på hvor raskt karbohydrater fra ulike matvarer tas opp, men absorbsjonen påvirkes av mange faktorer. Hva du spiser ved siden av karbohydratene vil påvirke fordøyelsen, der spesielt fett og fiber vil senke et måltids glykemiske indeks. Ulike personer kan også ha veldig ulik respons på den samme maten, noe som er en begrensning ved å benytte GI som et mål alene.
+
+Metabolismen av karbohydrater utdypes i egne artikler:
+
+-   [Glukosemetabolismen](http://www.friskogfunksjonell.no/glukosemetabolismen/ "Glukosemetabolismen")
+
+-   [Fruktose- og galaktosemetabolismen](http://www.friskogfunksjonell.no/fruktose-og-galaktosemetabolismen/ "Fruktose- og galaktosemetabolismen")
+
+-   [Glykogenmetabolismen](http://www.friskogfunksjonell.no/glykogenmetabolismen/ "Glykogenmetabolismen")
+
+## Funksjoner
+
+Karbohydrater har primært sin funksjon som energikilde, og bidrar med 4 kcal per gram. Inne i cellene foregår en prosess som heter glykolyse, som bryter ned glukose og frigir energi. Et biprodukt ved glykolyse er melkesyre, noe som merkes ved hard fysisk aktivitet, der glukose er hovedenergikilde. Cori syklus er en prosess der melkesyren blir omdannet til ny glukose, og dette foregår i leveren.
+
+Hvis vi har for mye glukose tilgjengelig, kan den lagres som glykogen. Dette foregår i [leveren](http://www.friskogfunksjonell.no/leveren/ "Leveren – metabolismens dirigent") (ca 100g, 10% av leverens vekt) og i skjelettmusklene (ca 400g, ca 1% av muskelvekten). Innlagring av karbohydrater på denne måten heter glykogensyntese. Nedbryting av muskelglykogen heter glykogenolyse, og gir glukosemolekyler som kan brytes ned ved glykolyse. Leverglykogenet brukes bare til å opprettholde blodsukkeret, mens muskelglykogen brukes som energikilde lokalt i musklene. Dette skyldes at muskelvevet mangler et nødvendig enzym for å kunne sende glukosen ut av cellene igjen. For idrettsprestasjon, er mengden muskelglykogen avgjørende for ytelsesevnen.
+
+Ved mangel på glukose, kan kroppen danne egen glukose i en prosess som heter glukoneogenese (nydanning av glukose). Substrater for denne prosessen er aminosyrer fra nedbrutt protein, eller glycerol, som er et resultat av fettsyrenedbrytning. Vi kan altså lage glukose fra [protein](http://www.friskogfunksjonell.no/protein/ "Protein") og [fett](http://www.friskogfunksjonell.no/fett/ "Fett"). Denne funksjonen er livsviktig, og gjør oss i stand til å overleve uten å innta karbohydrater. Uten glukoneogenesen kunne vi aldri overlevd en istid f.eks.
+
+Glykoproteiner er proteiner som har et sukkermolekyl bundet til seg. Dette gir proteinet spesielle egenskaper.
+
+## Blodsukkerregulering
+
+Så godt som all karbohydrat vi tar opp fra tarmen ender i blodet i form av blodsukker, glukose. Jo mer komplekse karbohydratene er, jo saktere går denne prosessen, men blodsukkeret vil uansett stige. Alle matvarer har en glykemisk indeks (GI), som beskriver hvor raskt karbohydratene kommer ut i blodet som glukose. GI tar imidlertid ikke hensyn til hvor mye karbohydrat matvaren inneholder, noe som er ganske vesentlig. Derfor har vi en annen verdi, glykemisk belastning (GB), som er lik GI x mengde karbohydrat. En høy GB vil tilsi at blodsukkerstigningen blir stor.
+
+Normal blodsukkerkonsentrasjon er 3,9-5,8mmol/L, noe som ved et blodvolum på 5L gir en glukosemengde på 3,5-5,2g. (Hvis du vet blodsukkeret ditt i mmol/L, kan du regne det om til g/L ved å gange tallet med 0,18).
+
+Høyt blodsukker, hyperglykemi, er giftig for kroppen, og derfor er blodsukkerregulering veldig høyt prioritert. Vi har ett hormon som senker blodsukkeret, og det er insulin. Når blodet som strømmer gjennom bukspyttkjertelen inneholder for mye glukose, skilles insulin ut. Insulin sørger for at glukosen fraktes inn i lagringsvevene, muskler og fettvev, ved å aktivere GLUT4.
+
+Lavt blodsukker, hypoglykemi, er også alvorlig for kroppen. I en slik situasjon risikerer man at hjernen ikke får tilstrekkelig med drivstoff. Vi har fire hormoner som øker blodsukkeret, glukagon, adrenalin, kortisol og veksthormon, der glukagon har hovedansvaret. Glukagon produseres i bukspyttkjertelen, og skilles ut som et svar på hypoglykemi. Dette hormonet øker nedbrytingen av glykogen og nydanningen av glukose, og øker dermed glukosemengden i blodet.
+
+Insulin og glukagon har motsatte funksjoner, og nivåene av disse er nøye regulert etter blodets innhold av glukose.
+
+## Hva er spesielt med fruktose?
+
+Absorbert fruktose fraktes til leveren, som står for mesteparten av fruktosemetabolismen. I normale mengder vil fruktosen brytes ned og inngå i leverens glykolyse. Denne prosessen har ikke en veldig stor kapasitet, og ved et høyt inntak av fruktose vil overskuddet omdannes til fettsyrer. Fruktose er derfor det mest lipogene karbohydratet.
+
+En stor syntese av fettsyrer i leveren kan føre til økte verdier av triglyserider i blodet. Det kan også føre til utvikling av fettlever, en såkalt NAFLD (Non-alcoholic fatty liver disease). Studier har linket et høyt inntak av fruktose til metabolske sykdommer som hyperlipidemi, insulinresistens og overvekt.
+
+Hovedkilden til store mengder fruktose i kostholdet er ikke frukt, som navnet skulle tilsi, men vanlig sukker, sukrose, som ofte tilsettes i mye mat. Sukrose består av 50% fruktose, og opptaket av fruktose fra sukker har vist seg å være raskere enn opptaket av fruktose fra andre kilder.
+
+## Intoleranser
+
+Noen mennesker har problemer med å fordøye karbohydrater. Uabsorberte sukkerarter i tarmen vil føre til at vann trekkes ut i tarmen, noe som vil gi problemer med løs avføring. Økt vannutskillelse kan føre til dehydrering.
+
+Mange mister enzymet laktase etterhvert som de blir eldre, og kan derfor ikke bryte ned melkesukker. Denne tilstanden er kjent som melkeintoleranse. Denne tilstanden gir de samme symptomene som nevnt over ved inntak av større mengder melkesukker. Som oftest går det greit i veldig små mengder.
+
+## Behov og anbefalinger
+
+Kroppen har et absolutt minimumsbehov for glukose, da vev som hjernen og nervesystemet, blodceller og delvis nyrene er avhengig av glukose som energikilde. Dette betyr imidlertid ikke at vi er avhengig av å få karbohydrater gjennom kosten. Kroppen vil alltid ha tilgjengelig substrater som kan omdannes til glukose ved behov gjennom glukoneogenesen. En del av energibehovet kan også dekkes fra andre kilder, da spesielt ketonlegemer som dannes ved nedbryting av fettsyrer. Karbohydrater er derfor ikke regnet som et essensielt næringsstoff.
+
+De norske anbefalingene er at 50-60% av energiinntaket vårt bør komme fra karbohydrater. Ved et energiinntak på 2500kcal vil dette si ca 300-375g karbohydrater om dagen. Det er spesifisert at tilsatt sukker maksimalt bør utgjøre 10% av det daglige energiinntaket.
+
+## Kan vi få for mye?
+
+Dette er et godt spørsmål, og selv om det ikke er observert noen negative helseeffekter hos friske personer, er det mye som tyder på at det over tid kan oppstå metabolske problemer. Ettersom fruktose metaboliseres ulikt glukose er det mange som mener at fruktose i større grad bidrar til disse enn glukose.
+
+-   Mange epidemi0logiske studier har knyttet et høyt inntak av raske karbohydrater til økt energiinntak og dermed overvekt.
+
+-   Høyt inntak av karbohydrater, og da spesielt sukker, er knyttet til utviklingen av diabetes type 2. I de fleste studiene forsvinner imidlertid denne koblingen når man justerer for energiinntak, noe som kan tyde på at det er for høyt energiinntak som er det største problemet.
+
+-   Høyt sukkerinntak, spesielt fra sukkersøtet drikke, er satt i sammenheng med hjertesykdom. De fleste studiene har sett på myke endepunkter som blodtrykk og blodlipider.
+
+-   Høyt inntak av raffinerte karbohydrater er knyttet til økt risiko for tykktarmskreft.
+
+Som du ser er raske karbohydrater knyttet til en rekke negative helseutfall, men på den andre siden er høyt inntak av komplekse karbohydrater som eksempelvis fullkorn knyttet til positive helseeffekter. Dette peker mot at ulike typer karbohydrater har ulik effekt på helsen, og at hvilke karbohydrater vi spiser kanskje er viktigere enn den totale mengden.
+
+Personer med diabetes type 1 har ikke egen insulinproduksjon. Disse er avhengig av å tilføre insulin etter hvor mye karbohydrater de spiser for å kontrollere blodsukkeret og unngå hyperglykemi.
+
+Karies kan være en konsekvens av et høyt sukkerinntak, men mekanismen bak dette er ikke tydelig kartlagt enda. Trolig er en økt syreproduksjon i munnen, som følge av bakteriers metabolisering av glukose, en medvirkende årsak.
+
+## Gode kilder
+
+Karbohydrater finner vi stort sett overalt. Kornbaserte produkter, stivelsesrike rotfrukter som potet/kålrot, ris og pasta bidrar med mesteparten i et vanlig kosthold. Frukt inneholder en del karbohydrater. Grønnsaker og bær inneholder karbohydrater i mindre mengder.
+
+## Aktuelt om karbohydrater
+
+Det er i dag stor uenighet om hvor stor del av kostholdet vårt som bør utgjøres av karbohydrater. Flere og flere mener at de offentlige anbefalingene for dette næringsstoffet er alt for store, basert på de effektene karbohydrater har på blodsukkeret vårt. Mange opplever svært gode effekter av å redusere inntaket av karbohydrater til fordel for mer fett og protein. Spesielt personer med overvekt eller metabolsk syndrom kan ha godt av å redusere inntaket av karbohydrater, fortrinnsvis de raske karbohydratene. Studier viser konsekvent at når man reduserer inntaket av karbohydrater i større grupper, så reduserer de også energiinntaket. Dette kan forklare hvorfor lavkarbodiettene ser ut til å være veldig effektive for vekttap.
+
+Alle er enige i at de raffinerte karbohydratene som finnes i sukker og fint mel bør reduseres, og uenigheten handler hovedsakelig om hvorvidt også inntaket av andre karbohydrater bør reduseres.
+
+-   Her er et [populært foredrag fra youtube](http://www.youtube.com/watch?v=dBnniua6-oM) der Robert H. Lustig snakker om fruktose, biokjemiker [Richard D. Feinman kommenterer](http://rdfeinman.wordpress.com/2011/07/29/wait-a-minute-lustig-the-threat-of-fructophobia-and-the-opportunity/).
+
+-   [Her er en studie som omhandler fruktose og fettlever](http://www.ncbi.nlm.nih.gov/pubmed/20368739)
+
+-   [Innføring i lavkarbo](http://www.friskogfunksjonell.no/en-enkel-innforing-i-lavkarbokosthold/ "En kort innføring i lavkarbokosthold og tilpasning til din livsstil")
+
+-   [Skribentpanel om lavkarbo](http://www.friskogfunksjonell.no/skribentpanel-lavkarbo-gull-eller-tull/ "Skribentpanel: Lavkarbo, gull eller tull?")
+
+-   [FODMAP – fermenterbare karbohydrater som kanskje bør reduseres ved irritabel tarm?](http://www.friskogfunksjonell.no/irritabel-tarm-og-hva-du-kan-gjore-med-det/ "Irritabel tarm og hva du kan gjøre med det!")
+
+-   [Medfødte sykdommer i karbohydratmetabolismen](http://www.friskogfunksjonell.no/karbohydratmetabolismen-sykdommer/ "Medfødte sykdommer i karbohydratmetabolismen")
