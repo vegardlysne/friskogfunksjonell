@@ -2,8 +2,8 @@
 title: "Biotin, vitamin B7"
 date: "2011.10.28"
 categories: 
-  - Næringsstoffene
-  - Vannløselige vitaminer
+  - næringsstoffene
+  - vannløselige vitaminer
 ---
 
 [Tilbake til artikkelserien om næringsstoffene](../../naeringsstoffer.html)

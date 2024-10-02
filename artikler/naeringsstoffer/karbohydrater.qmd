@@ -2,8 +2,8 @@
 title: "Karbohydrater"
 date: "2011.10.15"
 categories: 
-  - Næringsstoffene
-  - Makronæringsstoffer
+  - næringsstoffene
+  - makronæringsstoffer
 ---
 
 [Tilbake til artikkelserien om næringsstoffene](../../naeringsstoffer.html)

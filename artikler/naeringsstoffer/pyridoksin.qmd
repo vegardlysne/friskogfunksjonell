@@ -2,8 +2,8 @@
 title: "Pyridoksin, vitamin B6"
 date: "2011.10.27"
 categories: 
-  - Næringsstoffene
-  - Vannløselige vitaminer
+  - næringsstoffene
+  - vannløselige vitaminer
 ---
 
 [Tilbake til artikkelserien om næringsstoffene](../../naeringsstoffer.html)

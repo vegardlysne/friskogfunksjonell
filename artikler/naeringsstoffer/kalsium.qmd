@@ -2,8 +2,8 @@
 title: "Kalsium"
 date: "2011.11.01"
 categories: 
-  - Næringsstoffene
-  - Mineraler
+  - næringsstoffene
+  - mineraler
 ---
 
 [Tilbake til artikkelserien om næringsstoffene](../../naeringsstoffer.html)

@@ -2,8 +2,8 @@
 title: "Kobalamin, vitamin B12"
 date: "2011.10.30"
 categories: 
-  - Næringsstoffene
-  - Vannløselige vitaminer
+  - næringsstoffene
+  - vannløselige vitaminer
 ---
 
 [Tilbake til artikkelserien om næringsstoffene](../../naeringsstoffer.html)

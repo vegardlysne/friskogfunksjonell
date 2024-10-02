@@ -2,8 +2,8 @@
 title: "Alkohol"
 date: "2011.12.03"
 categories: 
-  - Næringsstoffene
-  - Makronæringsstoffer
+  - næringsstoffene
+  - makronæringsstoffer
 ---
 
 [Tilbake til artikkelserien om næringsstoffene](../../naeringsstoffer.html)

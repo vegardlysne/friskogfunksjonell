@@ -2,8 +2,8 @@
 title: "Fett"
 date: "2011.10.17"
 categories: 
-  - Næringsstoffene
-  - Makronæringsstoffer
+  - næringsstoffene
+  - makronæringsstoffer
 ---
 
 [Tilbake til artikkelserien om næringsstoffene](../../naeringsstoffer.html)

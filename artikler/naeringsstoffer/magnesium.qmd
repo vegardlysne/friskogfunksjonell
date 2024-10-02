@@ -2,8 +2,8 @@
 title: "Magnesium"
 date: "2011.11.04"
 categories: 
-  - Næringsstoffene
-  - Mineraler
+  - næringsstoffene
+  - mineraler
 ---
 
 [Tilbake til artikkelserien om næringsstoffene](../../naeringsstoffer.html)

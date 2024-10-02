@@ -2,8 +2,8 @@
 title: "Fiber"
 date: "2013.08.12"
 categories: 
-  - Næringsstoffene
-  - Makronæringsstoffer
+  - næringsstoffene
+  - makronæringsstoffer
 ---
 
 [Tilbake til artikkelserien om næringsstoffene](../../naeringsstoffer.html)

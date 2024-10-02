@@ -2,8 +2,8 @@
 title: "Natrium og Klor"
 date: "2013.06.20"
 categories: 
-  - Næringsstoffene
-  - Mineraler
+  - næringsstoffene
+  - mineraler
 ---
 
 [Tilbake til artikkelserien om næringsstoffene](../../naeringsstoffer.html)

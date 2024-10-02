@@ -2,8 +2,8 @@
 title: "Kobber"
 date: "2013.07.25"
 categories: 
-  - Næringsstoffene
-  - Mineraler
+  - næringsstoffene
+  - mineraler
 ---
 
 [Tilbake til artikkelserien om næringsstoffene](../../naeringsstoffer.html)
