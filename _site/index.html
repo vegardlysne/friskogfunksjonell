@@ -103,6 +103,10 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./fysiologi.html"> 
 <span class="menu-text">Fysiologi</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./om.html"> 
+<span class="menu-text">Om bloggen</span></a>
+  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -125,8 +129,9 @@ ul.task-list li input[type="checkbox"] {
   </div>
 </header><main class="content" id="quarto-document-content">
 <p>Dette er en arkivert versjon av bloggen Frisk og Funksjonell, tidligere www.friskogfunksjonell.no.</p>
-<p><a href="./poster.html">Her</a> finner du alle innlegg publisert på bloggen.</p>
 <p>Artiklene er ikke redigert siden de ble publisert opprinnelig, og informasjonen kan derfor være utdatert.</p>
+<p>Flytting pågår, og mer og mer innhold vil dukke opp her den neste tiden. Den originale siden vil etterhvert bli borte.</p>
+<p><a href="./poster.html">Her</a> finner du alle innlegg publisert på bloggen.</p>
 
 
 </main>  
@@ -217,7 +222,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/mellifluous-selkie-1376a8\.netlify\.app");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

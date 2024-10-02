@@ -1,0 +1,199 @@
+---
+title: "Bli sterkere med mengdetrening (Del 1)"
+author: "Eivind Eliasson"
+date: "2011.12.09"
+categories: 
+  - trening
+---
+
+Så godt som alle toppidrettsutøvere har en høy treningsmengde, og det er ikke uvanlig med en treningsmengde rundt 500 til 1200 timer i året. Mannen i gata vil likevel bli overrasket over hvor stor del av treninga som trenes med lav belastning!
+
+En [artikkel](http://www.forskning.no/artikler/2009/juni/223524) fra forskning.no forteller oss at omtrent 80% av all treningen toppidrettsutøvere som Bente Skari, Hanne Staff og Ingrid Kristiansen kjørte for å bli blant verdens beste i sine idretter var lett trening i sone 1 og 2 (sonene er gradert fra 1 til 5 hvor 5 er tyngst, og de er gradert etter hvor høy puls de trener med). Mengdetrening er et ord som beskriver denne typen trening. Disse prinsippene kan du ta i bruk på din egen trening, og dermed oppnå gode resultater. Nå betyr ikke dette at du skal sette i gang med 1200 treningstimer i året hvorav 80% skal være lette, men heller det at du som i dag kanskje trener 5 timer i uka med fordel kan trene mer lett og så i perioder presse deg hardt og opp mot maks.
+
+## Mengdetrening for maksstyrke?
+
+Hvordan kan dette overføres til styrketrening? Jo, ta en kikk på styrkeløfterne og vektløfterne. Hva kjennetegner mange av de beste styrke- og vektløfterne i Norge i dag? De trener med stort treningsvolum, hyppig og for det meste relativt lett belastning. Nå vil ikke mannen i gata si at å kjøre 8 sett x 5 reps på 150 kg i knebøy er lett, men for en styrkeløfter som tar 260 kg uten utstyr er dette relativt lett belastning.
+
+#### Hva er fordelene med å trene på denne måten?
+
+-   Liten skaderisiko
+
+-   Minimal sjanse for å bli overtrent
+
+-   Du får god tid til å trene inn teknikk
+
+-   Supplert med noe intensiv trening er dette en god måte å få fremgang på lengre sikt
+
+-   Du øker arbeidskapasiteten din
+
+#### Hva er ulempene?
+
+-   Det tar tid
+
+-   Å gjenta det du trener på mye og ofte kan være kjedelig om du ikke er topp motivert for det du driver med
+
+-   Du får som regel ikke rask fremgang, dette er et opplegg for den som ønsker å tenke langsiktig og ikke er ute etter raske økninger
+
+*Husk at det kan være lurt å [trene som en idrettsutøver](tren-som-en-idrettsutover.html "Tren som en idrettsutøver – se ut som en!")!*
+
+## Et enkelt basisopplegg for styrkeøkning
+
+Under har jeg skissert et opplegg som kan være en grei introduksjon til mengdetrening og som har gitt både meg og flere andre jeg kjenner gode styrkeøkninger og forbedringer i teknikk. Opplegget er tilpasset nybegynnere og middels trente, og passer dårligere for avanserte/viderekommende utøvere:
+
+Opplegget inneholder 3 gjennomkjøringer av styrkeløftøvelsene knebøy, benkpress og markløft hver uke. En av øktene er tung (8x3), en er middels (5x5) og en er lett (4x4). Om du velger å følge et litt annet oppsett med tanke på repetisjoner og antall sett bør du likevel differensiere belastningen mellom dagene. Programmet er lagt opp til å vare i 10 uker hvor du øker ca. 30% fra startvektene på tung og middelsdagen og ca. 20% på lettdagen. Den siste uken er det lagt opp til noen lette økter for å bygge overskudd til en test av nye maksløft. Er du ikke så opptatt av å teste maksløftet kan du i stedet ta deg en liten pause, for så å starte på nytt med det samme eller et annet program (selvfølgelig med høyere belastning enn forrige gang).
+
+## Støtteøvelser
+
+Du bør i tillegg til basisøvelsene også ha med noen støtteøvelser. Siden du trener mye benkpress anbefaler jeg ikke så mange pressøvelser over hodet eller dips, siden belastningen på skuldrene allerede er ganske høy. Roøvelser/trekkøvelser bør inkluderes i programmet. Sittende roing, omvendt roing, T-bar-roing, facepulls, enarms roing og lignende er gode øvelser her. Tren relativt lett også her og med litt flere repetisjoner og færre sett enn på basisøvelsene. Noen vertikale trekkøvelser kan også være med, men en bør begrense litt på tunge øvelser som brede chins, håndstående pushups og lignende for å spare skuldrene litt.
+
+Det er også lurt å ha med kjerneøvelser for å forebygge ryggplager og øke stabilitet, styrke og utholdenhet i mage og korsrygg. Gode øvelser for kjernemusklene kan f.eks. være planke og sideplanke (og varianter av disse), omvendt crunch med noen sekunder hold på toppen, ab-wheel og pallof press.
+
+## Selve programmet
+
+Her følger et oppsett av selve programmet. Du trenger å vite maksløftene dine i de ulike øvelsene, eventuelt gjøre et godt estimat av hvor du ligger. Du kan laste ned et excel-ark som regner ut hva du skal løfte [**HER**](http://filer.friskogfunksjonell.no/mengdeprogram.xls).
+
+|              |                    |               |
+|--------------|--------------------|---------------|
+| **Uke 1:**   |                    |               |
+| ***Dag 1:*** | *% av maksløft*    | *Sett x reps* |
+| Knebøy       | 62,5               | 8x3           |
+| Benkpress    | 65,0               | 8x3           |
+| Markløft     | 45,0               | 4x4           |
+| ***Dag 2:*** | *% av maksløft*    | *Sett x reps* |
+| Knebøy       | 47,5               | 4x4           |
+| Benkpress    | 50,0               | 4x4           |
+| Markløft     | 60,0               | 8x3           |
+| ***Dag 3:*** | *% av maksløft*    | *Sett x reps* |
+| Knebøy       | 52,5               | 5x5           |
+| Benkpress    | 55,0               | 5x5           |
+| Markløft     | 50,0               | 5x5           |
+|              |                    |               |
+| **Uke 2:**   |                    |               |
+| ***Dag 1:*** | *% av maksløft*    | *Sett x reps* |
+| Knebøy       | 65,0               | 8x3           |
+| Benkpress    | 67,5               | 8x3           |
+| Markløft     | 45,0               | 4x4           |
+| ***Dag 2:*** | *% av maksløft*    | *Sett x reps* |
+| Knebøy       | 47,5               | 4x4           |
+| Benkpress    | 50,0               | 4x4           |
+| Markløft     | 62,5               | 8x3           |
+| ***Dag 3:*** | *% av maksløft*    | *Sett x reps* |
+| Knebøy       | 54,5               | 5x5           |
+| Benkpress    | 57,0               | 5x5           |
+| Markløft     | 52,0               | 5x5           |
+|              |                    |               |
+| **Uke 3:**   |                    |               |
+| ***Dag 1:*** | *% av maksløft*    | *Sett x reps* |
+| Knebøy       | 67,5               | 8x3           |
+| Benkpress    | 70,0               | 8x3           |
+| Markløft     | 47,5               | 4x4           |
+| ***Dag 2:*** | *% av maksløft*    | *Sett x reps* |
+| Knebøy       | 50,0               | 4x4           |
+| Benkpress    | 52,5               | 4x4           |
+| Markløft     | 65,0               | 8x3           |
+| ***Dag 3:*** | *% av maksløft*    | *Sett x reps* |
+| Knebøy       | 56,5               | 5x5           |
+| Benkpress    | 59,5               | 5x5           |
+| Markløft     | 54,0               | 5x5           |
+|              |                    |               |
+| **Uke 4:**   |                    |               |
+| ***Dag 1:*** | *% av maksløft*    | *Sett x reps* |
+| Knebøy       | 70,0               | 8x3           |
+| Benkpress    | 73,0               | 8x3           |
+| Markløft     | 47,5               | 4x4           |
+| ***Dag 2:*** | *% av maksløft*    | *Sett x reps* |
+| Knebøy       | 50,0               | 4x4           |
+| Benkpress    | 52,5               | 4x4           |
+| Markløft     | 67,0               | 8x3           |
+| ***Dag 3:*** | *% av maksløft*    | *Sett x reps* |
+| Knebøy       | 59,0               | 5x5           |
+| Benkpress    | 61,5               | 5x5           |
+| Markløft     | 56,0               | 5x5           |
+|              |                    |               |
+| **Uke 5:**   |                    |               |
+| ***Dag 1:*** | *% av maksløft*    | *Sett x reps* |
+| Knebøy       | 72,5               | 8x3           |
+| Benkpress    | 75,5               | 8x3           |
+| Markløft     | 49,5               | 4x4           |
+| ***Dag 2:*** | *% av maksløft*    | *Sett x reps* |
+| Knebøy       | 52,0               | 4x4           |
+| Benkpress    | 55,0               | 4x4           |
+| Markløft     | 70,0               | 8x3           |
+| ***Dag 3:*** | *% av maksløft*    | *Sett x reps* |
+| Knebøy       | 61,0               | 5x5           |
+| Benkpress    | 64,0               | 5x5           |
+| Markløft     | 58,0               | 5x5           |
+|              |                    |               |
+| **Uke 6:**   |                    |               |
+| ***Dag 1:*** | *% av maksløft*    | *Sett x reps* |
+| Knebøy       | 75,0               | 8x3           |
+| Benkpress    | 78,0               | 8x3           |
+| Markløft     | 49,5               | 4x4           |
+| ***Dag 2:*** | *% av maksløft*    | *Sett x reps* |
+| Knebøy       | 52,0               | 4x4           |
+| Benkpress    | 55,0               | 4x4           |
+| Markløft     | 72,0               | 8x3           |
+| ***Dag 3:*** | *% av maksløft*    | *Sett x reps* |
+| Knebøy       | 63,0               | 5x5           |
+| Benkpress    | 66,0               | 5x5           |
+| Markløft     | 60,0               | 5x5           |
+|              |                    |               |
+| **Uke 7:**   |                    |               |
+| ***Dag 1:*** | *% av maksløft*    | *Sett x reps* |
+| Knebøy       | 77,5               | 8x3           |
+| Benkpress    | 80,5               | 8x3           |
+| Markløft     | 52,0               | 4x4           |
+| ***Dag 2:*** | *% av maksløft*    | *Sett x reps* |
+| Knebøy       | 54,5               | 4x4           |
+| Benkpress    | 57,5               | 4x4           |
+| Markløft     | 74,5               | 8x3           |
+| ***Dag 3:*** | *% av maksløft*    | *Sett x reps* |
+| Knebøy       | 65,0               | 5x5           |
+| Benkpress    | 68,0               | 5x5           |
+| Markløft     | 62,0               | 5x5           |
+|              |                    |               |
+| **Uke 8:**   |                    |               |
+| ***Dag 1:*** | *% av maksløft*    | *Sett x reps* |
+| Knebøy       | 80,0               | 8x3           |
+| Benkpress    | 83,0               | 8x3           |
+| Markløft     | 52,0               | 4x4           |
+| ***Dag 2:*** | *% av maksløft*    | *Sett x reps* |
+| Knebøy       | 54,5               | 4x4           |
+| Benkpress    | 57,5               | 4x4           |
+| Markløft     | 77,0               | 8x3           |
+| ***Dag 3:*** | *% av maksløft*    | *Sett x reps* |
+| Knebøy       | 67,5               | 5x5           |
+| Benkpress    | 70,5               | 5x5           |
+| Markløft     | 64,0               | 5x5           |
+|              |                    |               |
+| **Uke 9:**   |                    |               |
+| ***Dag 1:*** | *% av maksløft*    | *Sett x reps* |
+| Knebøy       | 82,5               | 8x3           |
+| Benkpress    | 86,0               | 8x3           |
+| Markløft     | 54,0               | 4x4           |
+| ***Dag 2:*** | *% av maksløft*    | *Sett x reps* |
+| Knebøy       | 57,0               | 4x4           |
+| Benkpress    | 60,0               | 4x4           |
+| Markløft     | 79,0               | 8x3           |
+| ***Dag 3:*** | *% av maksløft*    | *Sett x reps* |
+| Knebøy       | 70,0               | 5x5           |
+| Benkpress    | 72,5               | 5x5           |
+| Markløft     | 66,0               | 5x5           |
+|              |                    |               |
+| **Uke 10:**  |                    |               |
+| ***Dag 1:*** | *% av maksløft*    | *Sett x reps* |
+| Knebøy       | 62,5               | 4x4           |
+| Benkpress    | 65,0               | 4x4           |
+| Markløft     | 60,0               | 4x4           |
+| ***Dag 2:*** | *% av maksløft*    | *Sett x reps* |
+| Knebøy       | 47,5               | 3x3           |
+| Benkpress    | 50,0               | 3x3           |
+| Markløft     | 45,0               | 3x3           |
+| ***Dag 3:*** |                    |               |
+| Knebøy       | Eventuell makstest |               |
+| Benkpress    | Eventuell makstest |               |
+| Markløft     | Eventuell makstest |               |
+
+## Avslutning
+
+I denne delen av artikkelen har vi sett på prinsippene bak mengdetrening, øvelsesutvalg og gitt et eksempel på et programoppsett. I [del 2](mengdetrening-2.html "Bli sterkere med mengdetrening (Del 2)") går vi nærmere inn på gjennomføringen av selve programmet, tilpasning i forhold til skader og ser litt på veien videre.

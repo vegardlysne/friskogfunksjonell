@@ -1,0 +1,128 @@
+---
+title: "Omega-3 og Omega-6 i kostholdet"
+author: "Vegard Lysne"
+date: "2011.11.03"
+categories:
+  - kosthold
+  - fettsyrer
+---
+
+Det snakkes mye om balansen mellom omega-3 og omega-6. I denne artikkelen vil jeg ta for meg disse [fettsyrene](naeringsstoffer/fett.html), deres funksjoner i kroppen, og hvorfor vi trenger begge deler. Deler av artikkelen er ment for spesielt interesserte, og kan kreve litt forkunnskaper.
+
+## Essensielle fettsyrer
+
+Fettet vi får i oss fra kostholdet, får vi i form av triglyserider (tre fettsyrer koblet til et glyserolmolekyl) og strukturelle lipider som fosfolipider (finnes i cellemembraner). Både mettede, enumettede og flerumettede fettsyrer inngår i disse lipidene. Mettede og enumettede fettsyrer kan kroppen produsere selv, men enkelte flerumettede fettsyrer må vi få gjennom kosten.
+
+To fettsyrefamilier er essensielle for mennesket, omega-3 og omega-6. Disse er essensielle fordi vi ikke kan lage dem selv, og derfor er avhengig av å få dem tilført via kostholdet. Både omega-3 og omega-6 er flerumettede fettsyrer, men kommer i flere varianter, med ulik lengde, og ulik metningsgrad. De to spesifikke fettsyrene som regnes som essensielle, er linolsyre, (omega-6, LA) og alfalinolensyre (omega-3, ALA). Disse har begge 18 karbonatomer, og er de korteste av de flerumettede fettsyrene. Disse kan i kroppen omdannes til lengre fettsyrer, som har ulike funksjoner.
+
+## Hvilke funksjoner har de essensielle fettsyrene i kroppen?
+
+Etter at de essensielle fettsyrene har blitt absorbert i tarmen, fordeles de til kroppens ulike vev. Noe brukes som energi, mens resten inkorporeres i strukturelle lipider, som f.eks. cellemembraner. Andelen flerumettede fettsyrer i cellemembranen, avgjør hvor bevegelig membranen blir (fluiditeten). Jo større andel av fettet vi spiser som er flerumettet, jo mindre rigid/stødig blir cellemembranene våre. Kolesterol og mettede fettsyrer bidrar til at membranen blir mer rigid.
+
+### Hvorfor trenger vi omega-3?
+
+Omega-3 befinner seg hovedsakelig i retina (øyet) og i sentralnervesystemet. Spesielt for nyfødte er det viktig med tilstrekkelig tilførsel av omega-3, da hjernen og sentralnervesystemet vokser raskt den første tiden\[1, 2\]. Omega-3-fettsyren EPA gir opphav til noen signalstoffer kalt eikosanoider, som vi skal se nærmere på lenger nede.
+
+### Hvorfor trenger vi omega-6?
+
+Omega-6-fettsyrer er nødvendig for å stimulere til vekst, og en mangel på disse fettsyrene kan føre til redusert vekst. Sammen med omega-3 er omega-6 nødvendig for å vedlikeholde normal funksjon for alle kroppens celler. Dette skjer hovedsakelig i form av signalstoffer, eikosanoider, som det kommer mer om under.
+
+## Essensielle fettsyrer og hjernen
+
+50-60% av hjernens vekt består av fettstoffer, og over en tredjedel av dette utgjøres av de langkjedede fettsyrene AA og DHA. Siden en så stor del av fettsyrene i cellemembranene i hjernen er flerumettet, fører dette til at membranene blir veldig lite rigide. Dette antas å ha en betydning for signaloverføringen i sentralnervesystemet \[2\].
+
+## Eikosanoider
+
+Eikosanoider er hormonliknende stoffer derivert av flerumettede fettsyrer med fettsyrelengde=20 karbonatomer (eikos=20). Disse stoffene er med å regulere kardiovaskulære, pulmonale, immune, reproduktive og sekretoriske funksjoner\[1\]. Eikosanoidene lagres ikke, og blir raskt metabolisert til inaktive produkter \[3\]
+
+**Funksjonsmessig sammenliknes eikosanoidene med hormoner, men på et par punkter skilles de fra hverandre \[3\]:**
+
+1.  Hormoner produseres i spesialiserte kjertler, som skjoldbruskkjertelen og bukspyttkjertelen, mens eikosanoider produseres i små mengder i alle kroppens celler og vev .
+
+2.  Hormoner fraktes med blodet til målcellene, mens eikosanoidene har en lokal effekt der det produseres.
+
+**Det finnes tre hovedtyper stoffer som regnes som eikosanoider: Prostaglandiner (PG), tromboxaner (TXA) og leukotriener (LT)**. Hver av disse er inndelt i undergrupper, som vises med en ekstra bokstav. Hvert enkelt eikosanoid har også et nummer, som representerer antall dobbeltbindinger i molekylet (TXA~2~ har 2 dobbeltbindinger). Dette nummeret sier noe om hvilken fettsyre som har vært forløper, mer om dette lenger nede. Det finnes også flere typer eikosanoider, som hydroksyfettsyrer og lipoxiner, men de kommer vi ikke inn på i denne artikkelen.
+
+Syntesen av eikosanoider styres av flere enzymer. Først må forløperfettsyren (DGLA, AA eller EPA) frigjøres fra cellemembranen. Dette styres av enzymet Fosfolipase A, som finnes i alle celler \[1\].
+
+Når fettsyren er frigjort, er det to enzymer som styrer den videre syntesen, altså er det to mulige reaksjonsveier. Det første enzymet er cyclooxygenase (COX), som styrer syntesen av PG og TXA. Det andre enzymet er lipoxygenase (LOX), som styrer syntesen av LT \[1, 3-5\].
+
+De ulike fettsyreforløperne gir opphav til eikosanoider med ulikt antall dobbeltbindinger. Derfor kan du se på tallet bak navnet, og utifra dette lese hvilken fettsyre som har vært forløper. Her er en kort oversikt over hvilke tall som hører til hvilke fettsyrer \[1\]:
+
+De ulike eikosanoidene har ulike funksjoner i kroppen. Her er litt om de ulike typene:
+
+-   **Prostaglandiner:** Har mange funksjoner. Det er fire kjente reseptorer for PGE~2~, som kommer fra AA. PGE~2~kan blant annet øke opplevelsen av smerte, endre på kroppens termostat og dermed gi feber, og øke effekten av histamin på blodårene. Prostaglandiner påvirker med andre ord kroppens inflammasjonsrespons. I tillegg regulerer prostaglandinene slimproduksjon og bikarbonatsekresjon i gastrointestinaltrakten, noe som beskytter mot syreskader som magesår. De er også med å regulere blodgjennomstrømmingen i de ulike organene \[1\].Aktiviteten til prostaglandinene avhenger av forholdet mellom nedbrytning og syntese. Den avhenger også av hvilke prostaglandiner som blir syntetisert. PGE~3~ fra EPA har en mye mindre proinflammatorisk effekt enn PGE~2~fra AA, noe som er med å forklare hvorfor omega-3 virker betennelsesdempende \[1\].Prostasyklin, PGI~2~, har en spesiell funksjon, som motvirker TXA~2~, og dermed hindrer at blodet klumper seg sammen. På samme måte vil PGI~3~ fra EPA også motvirke sammenklebring.
+
+-   **Tromboxaner:** Har sin hovedeffekt på blodplatene. TXA~2~, som kommer fra AA, fremmer sammenklebring av blodplatene, og er veldig viktig for hemostase, som er kroppens måte å stanse blødninger på. TXA~3~ fra EPA har en mye mindre effekt enn TXA~2~.
+
+-   **Leukotriener:** Leukotriener er de eikosanoidene som produseres ved hjelp av LOX-enzymet, og de produseres hovedsakelig i hvite blodceller (leukocytter). Som forventet er LT med å regulere immunrespons, spesielt ved allergi og betennelse \[3\]. LT fra AA er generelt mer proinflammatoriske enn LT fra EPA, noe som er med å forklare hvorfor omega-3 virker betennelsesdempende \[1\].
+
+## Hvorfor virker smertestillende medikamenter?
+
+Smertestillende medisiner som aspirin og ibux er eksempler på en gruppe stoffer som kalles NSAID, som står for non steroidal anti-inflammatory drug. Disse medisinene fungerer ved å påvirke produksjonen av eikosanoidene, og dette skjer ved at de blokkerer aktiviteten til COX ved å binde til enzymet, og hindrer det i å binde til fettsyrene \[1, 3, 4\] .
+
+På denne måten får vi blokkert syntesen av blant annet PGE2, som er med å forklare hvorfor disse medisinene virker smertedempende, febernedsettende og kan dempe betennelse.
+
+Lave doser av disse medisinene brukes ved hjertesykdom. En reduksjon i produksjonen av TXA, vil motvirke uønsket sammenklebring av blodplater \[1\]. Blodplater som har fått sitt COX inaktivert, kan ikke produsere nytt, da de ikke har cellekjerne og egen proteinsyntese. Dette utgjør den blodfortynnende effekten av denne typen stoffer \[3\].
+
+I store doser, kan disse medisinene ha noen negative effekter. Prostaglandinene øker som nevnt slim- og bikarbonatproduksjon i mage/tarmsystemet. En hemming av denne prosessen som følge av stort forbruk av f.eks. ibux, kan bidra til at man kan utvikle magesår som følge av syreskader \[1, 3\].
+
+En hemming av COX-aktivitet kan føre til en økning av LOX-aktivitet, og dermed en økt produksjon av leukotriener. Noen prostaglandiner blokkerer LOX-aktivitet, og en reduksjon av disse vil øke leukotrienproduksjonen ytterligere. Noen personer har unormalt høy LOX-aktivitet. For disse, kan medisiner av typoen NSAID føre til en konstriksjon av bronkiolene (luftrørene i lungene), som igjen kan utløse det som kalles aspirinindusert astma \[1\].
+
+## Kilder til omega-3
+
+Som nevnt øverst i artikkelen er det bare en fettsyre som regnes som essensiell innenfor omega-3-familien, og det er ALA. De lengre omega-3-fettsyrene kan lages utifra denne, da vi kan forlenge fettsyrer etter behov.
+
+Det er imidlertid gode argumenter for at vi bør innta de lengre omega-3-fettsyrene EPA, DPA og DHA gjennom kosten, da omdanningen fra ALA har vist seg å være begrenset. Når disse fettsyrene foreligger preformet i kosten, inkorporeres de 20 ganger mer effektivt i strukturelle lipider enn dersom vi lager de selv \[1\].
+
+Gode kilder til ALA er valnøtter, linfrø og de respektive oljene. ALA får vi i oss i små mengder fra stort sett all mat som inneholder flerumettet fett i større eller mindre grad. Problemet er at de fleste kildene inneholder mye større mengder av omega-6-fettsyren LA, slik at forholdsmessig er det få gode kilder til ALA.
+
+Når det gjelder de lengre fettsyrene, EPA, DPA og DHA, er dette de såkalte marine omega-3-fettsyrene. Som kallenavnet tilsier, så finner vi dette fettet i sjømat. Disse fettsyrene produseres av krill, som igjen spises av fisken. Krill, fet fisk, og dyr som lever av fisk som f.eks. sel, er gode kilder til disse fettsyrene. Oljer som er utvunnet fra disse, som f.eks. krillolje, tran, lakseolje og selolje er gode kilder. Oppdrettsfisk får i seg mye mindre krill enn villfisk, da de fores med vegetabilsk kraftfor. Dette gjenspeiles i omega-3-innholdet i denne fisken, som er mye lavere.
+
+Vi får også i oss litt av disse langkjedede fettsyrene fra dyr, og innholdet varierer med hva de har spist. Innmat kan være spesielt rik på disse fettsyrene, og f.eks. er hjernen bygget opp av mye DHA.
+
+## Kilder til omega-6
+
+Omega-6-fettsyren LA, som er den essensielle fettsyren i omega-6-familien, finner vi i nært sagt all mat. Spesielt høyt innhold finner vi i vegetabilske oljer som maisolje, soyaolje og solsikkeolje, og i en del nøtter. Kornvarer bidrar også mye til omega-6-inntaket. Som hovedregel finner vi LA i vegetabilsk fett.
+
+Når det gjelder AA, finner vi dette i animalsk mat, som følge av at dyrene har omdannet LA fra sin mat.
+
+## Hvorfor balanse mellom omega 3 og 6?
+
+På samme måte som fettsyresammensetningen i kjøtt bestemmes av hva dyret har spist, bestemmes fettsyresammensetningen i vår kropp av hva vi har spist. Fordelingen av de ulike fettsyrene i våre cellemembraner avgjør membranens egenskaper i forhold til gjennomtrengelighet og struktur. Dette styres først og fremst av forholdet mellom mettede/umettede fettsyrer, og kolesterol spiller også en rolle her.
+
+Et forhold mellom omega-6:omega-3 som er over 10, er betegnet som ubalansert, sammenlignet med et forhold på 2-4 som er funnet hos jeger/samler-populasjoner \[1\]. Dagens vestlige kosthold, som i hovedsak er basert på korn, gir oss et alt for høyt inntak av omega-6-fettsyrer, noe kan være årsak til mange sykdomstilstander.
+
+LA og ALA bruker de samme enzymene for å omdannes til sine respektive lengre fettsyrer. Det er en konkurranse om hvem som får bruke enzymene, og derfor spiller fettsyresammensetningen i kostholdet en stor rolle \[2\].
+
+De ulike forløperfettsyrene konkurrerer om å produsere sine respektive eikosanoider, siden de bruker de samme enzymene. Forholdet mellom hvilke eikosanoider som blir produsert og i hvilke mengder, avgjøres i stor grad av balansen mellom omega-3 og omega-6 i kostholdet \[2\]. Som du ser av gjennomgangen over, er det mange gode grunner til at vi vil ha en fornuftig balanse av disse, siden de er med å regulere mange av kroppens prosesser. Eikosanoidene fra hhv. omega-3 og omega-6 påvirker disse funksjonene i ulik grad og i ulike retninger. En overproduksjon av omega-6-eikosanoider har vist seg å ha en sammenheng med mange inflammatoriske og autoimmune sykdommer, kreft og psoriasis \[1\]. Dette antas å være hovedårsaken til at tilskudd av omega-3 har vist så gode effekter, da det bidrar til å rette opp denne balansen i eikosanoidproduksjonen.
+
+**Oppdatering (2015): Det har lenge vært regnet som en sannhet at omega-3 virker antiinflammatorisk mens omega-6 fremmer inflammasjon. Nyere forskning indikerer derimot at både omega-3 og omega-6 har antiinflammatorisk funksjon hos mennesker. Thomas har skrevet mer om dette i følgende artikkel: [Overekt, fettsyrer og inflammasjon](http://www.friskogfunksjonell.no/fett-inflammasjon/ "Overvekt, fettsyrer og inflammasjon")**
+
+## Oppsummering
+
+1.  Linolsyre (omega-6) og alfalinolensyre (omega-3) utgjør de essensielle fettsyrene som vi er avhengige av å ha i kostholdet vårt
+
+2.  Disse gir opphav for lengre fettsyrer, som har viktige funksjoner i kroppen vår
+
+3.  Hjernen vår er bygget opp av langkjedede, flerumettede fettsyrer, og hjernens utvikling er avhengig av tilstrekkelig tilførsel av essensielle fettsyrer, spesielt tidlig i livet, når hjernen utvikles raskt.
+
+4.  Eikosanoider er hormonliknende signalstoffer som er med å regulere mange livsviktige funksjoner i alle kroppens celler.
+
+5.  Eikosanoider syntetisert fra hhv. omega-3 og omega-6 har ulike virkninger, både i styrke og retning.
+
+6.  Smertestillende medikamenter blokkerer eikosanoidsyntesen, og det er dette som gjør at de virker. I store doser kan disse medisinene gi ulike, uønskede effekter.
+
+7.  De ulike forløperfettsyrene til eikosanoidene kjemper om de samme enzymene, så en god balanse mellom de ulike eikosanoidene avhenger av en god balanse mellom omega-3 og omega-6-fett i kostholdet.
+
+## **Referanser**
+
+1.  Shils.M SM, Ross.A, Caballero.B, Cousins.R: **Modern Nutrition, In Health And Disease,**10 edn: Lippincott Williams&Wilkins; 2005.
+
+2.  Lieberman.H.R. KRB, Prasad.C: **Nutritional Neuroscience**: CRC Press; 2005.
+
+3.  Champe.P.C HRA, Ferrier.D.R: **Biochemistry**, 4 edn: Lippincott Williams&Wilkins; 2008.
+
+4.  Berg.J.M. TJL, Stryer.L: **Biochemistry**, 6 edn: Freeman; 2007.
+
+5.  Drevon.C BR, Bjørneboe.G: **Mat og Medisin**, 5 edn: Høyskoleforlaget; 2007.

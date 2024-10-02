@@ -7,3 +7,59 @@ categories:
 ---
 
 [Tilbake til artikkelserien om næringsstoffene](../../naeringsstoffer.html)
+
+K-vitamin er det siste av de fire fettløselige vitaminene. I utgangspunktet ble vitaminet oppdaget for sin rolle i blodets koagulasjonsprosess, men etterhvert har det blitt identifisert flere viktige fysiologiske funksjoner. Nå vet vi at vitaminet er involvert i beinmetabolismen, kardiovaskulær helse, cellevekst, hjernefunksjon og energimetabolismen.\
+
+Det finnes ulike former av vitaminet; K1 (fyllokinon) dannes i planter og er hovedformen vi finner i mat, mens K2 (menakinon) dannes av bakterier som finnes i tykktarmen.
+
+## Opptak og metabolisme
+
+K-vitamin følger, som de andre fettløselige vitaminene, vanlig [fettopptak](http://www.friskogfunksjonell.no/fett) i tarmen. Fra den øvre delen av tynntarmen pakkes vitaminet i kylomikroner som fraktes med lymfesystemet til leveren. Litt blir levert til målcellene på veien til leveren, mens resten fraktes fra leveren og ut i blodet pakket i lipoproteiner.
+
+I leveren vil fyllokinonet tas opp av en reseptor som heter ApoE før det sendes ut i sirkulasjonen og til målcellene. I motsetning til andre fettløselige vitaminer er det ingen kjente transportproteiner for K-vitamin, og det fraktes hovedsakelig i blodet i VLDL (\>50%) og litt i LDL og HDL (ca 15% i hver). Hovedstedet for lagring er i leveren, der vi hovedsakelig finner menakinon. Vitaminet kan også lagres i hjerte, bukspyttkjertel, lunger, nyrer, hjerne og bein.
+
+Vitaminet metaboliseres raskt og det er anslått at ca 20% skilles ut i urinen og 40-50% i avføring via gallen. Etter inntak vil blodkonsentrasjonene nå en topp etter 6 timer, og etter 24 timer er nivåene tilbake til utgangspunktet.
+
+## Funksjoner
+
+K-vitamin fungerer som kofaktor for enzymet Gamma-glutamyl karboksylase, som posttranslasjonelt omdanner aminosyren glutamat (Glu) til γ-karboksyglutamat (Gla). Denne endringen påvirker funksjonene til en del proteiner, som regnes som K-vitamin-avhengige proteiner (Gla-proteiner). Denne omdanningen øker proteinenes affinitet for kalsium, som er viktig for funksjonen.
+
+Figuren under illustrerer vitamin-K-syklusen. Her ser du hvordan glutamin omdannes til γ-karboksyglutamat ved hjelp av Gamma-glutamyl karboksylase (GGCX). I denne reaksjonen reagerer hydrokinon og oksygen med hverandre og danner basen for at et γ-karbon fjernes fra glutamat, slik at det dannes en metabolitt som deretter karboksyleres og danner γ-karboksyglutamat.
+
+![](images/clipboard-1345053982.png)
+
+Vi kjenner til en rekke Gla-proteiner, og stadig flere oppdages. Som nevnt i innledningen så er vitaminet først og fremst kjent for å ha en funksjon i blodkoaguleringen, og det er hele syv Gla-proteiner involvert i denne prosessen. Tilsammen bidrar disse til at protrombin omdannes til trombin, som igjen stimulerer omdanningen av fibrinogen til fibrin som er viktig for koaguleringen. På denne måten er K-vitamin viktig for å regulere blodkoagulering og dermed blant annet sårtilheling og blødning.
+
+I beinvev kjenner vi per i dag til tre Gla-proteiner, osteokalsin, matrix Gla protein (MGP) og protein S. I tillegg har vi to nyoppdagede proteiner som sannsynligvis også hører til her, Gla-rikt protein og periostin. Osteokalsin utgjør omtrent 15-20% av ikke-kollagent protein i beinvev. Omtrent 20% av nydannet osteokalsin slippes ut i blodet, og fungerer som en markør på beindannelse. Rottestudier har vist at uten osteokalsin så vokser beina for mye, noe som indikerer at proteinet nedregulerer og dermed er med å balansere beinsyntesen. MGP er et protein som akkumuleres i kalsifisert vev, og den fysiologiske funksjonen er antatt å være å motvirke kalsifisering. Mekanismene er ikke kjente, men det antas at proteinets evne til å binde kalsium hindrer krystalldannelser.
+
+Av andre kjente Gla-proteiner har vi transmembrane Gla-proteiner (TMG), som man antar spiller en rolle i signaloverføring mellom celler, Gla-rikt protein som muligens har en funksjon i regulering av kalsiummetabolismen, periostin som som promoterer cellemigrering og angiogenese (dannelse av nye blodkar), og transtyretin som er en kjent ligand for retinolbindende protein (frakter A-vitamin) og tyroideahormonene.
+
+Av nye funksjoner som det nå forskes videre på så er K-vitamin involvert i syntesen av sfingolipider, som er viktige fettstoffer i nervesystemet. I cellestudier har menakinon-4 vist at det kan redusere produksjonen av proinflammatoriske cytokiner. Det er også foreslått at vitaminet kan beskytte mot insulinresistens og mot enkelte kreftformer.
+
+## Behov og anbefalinger
+
+De norske anbefalingene for K-vitamin er i området 100µg/dag. Dette tilsvarer mengden i ca 25g spinat eller 50g brokkoli. De fleste typer kosthold dekker dette behovet med god margin.
+
+Alle nyfødte barn får en injeksjon med K-vitamin rett etter fødselen, for å forhindre komplikasjoner med indre blødninger. Dette skyldes at k-vitamin i liten grad fraktes over til fosteret fra morkaken, og at produksjonen av koagulasjonsfaktorer ikke er kommet skikkelig i gang.
+
+## Mangeltilstander
+
+K-vitaminmangel er sjeldent, og skyldes ofte medikamentbruk. Antikoagulerende medisiner er antagonister for K-vitamin, og fører derfor til lavere konsentrasjon på cellenivå. Rottegift (Marevan) er en kraftig antagonist til K-vitamin, og barn som får i seg rottegift trenger tilførsel av K-vitamin for å motvirke skadene.
+
+Et symptom på mangel er økt blødningstid. Lavt inntak er assosiert med lavere beinmasse og økt risiko for beinskjørhet. Lavt inntak er også satt i sammenheng med kalsifisering av bløtvev, som følge av redusert MGP-funksjon. Kalsifisering av muskelcellene rundt blodårene kan øke risikoen for hjertesykdom.
+
+## Kan vi få for mye?
+
+Det er ingen kjente toksiske bivirkninger, verken for K1 eller K2.
+
+## Gode kilder
+
+Grønne bladgrønnsaker er den beste kilden til K1. Spinat, brokkoli og isbergsalat inneholder spesielt mye. Biotilgjengeligheten til K1 er ganske lav, men øker dersom man inntar fett ved siden av.
+
+Gode kilder til K2 er ost, smør og eggeplomme, samt kjøtt og fisk. Natto, et produkt som består av fermenterte soyabønner, inneholder veldig mye. Natto er en vanlig matvare i Japan. Biotilgjengeligheten til K2 er mye høyere enn for K1. Hovedkilden til K2 er imidlertid produksjon fra bakteriefloraen i tykktarmen.
+
+## Aktuelt om K-vitamin
+
+-   Det forskes på hvorvidt tilskudd av K-vitamin kan ha en klinisk viktig effekt på beinhelse og hjertehelse. Observasjonsstudier på dette området er vanskelig å tolke ettersom et kosthold rikt på K-vitamin også er rikt på andre næringsstoffer som også er satt i sammenheng med god hjertehelse.
+
+Artikkelen er oppdatert juni 2013

@@ -7,3 +7,91 @@ categories:
 ---
 
 [Tilbake til artikkelserien om næringsstoffene](../../naeringsstoffer.html)
+
+Niacin er det tredje av de åtte B-vitaminene, og er også kjent som vitamin B3 eller nikotinsyre. B-vitaminene er vannløselige, så vi er avhengig av et kontinuerlig inntak av disse for å opprettholde god helse. Niacin ble først studert på grunn av sykdommen pellagra, som oppstår ved niacinmangel. Vi kan syntetisere niacin fra aminosyren tryptofan, men ikke i mengder som er tilstrekkelig til å dekke behovet. Anbefalingene for niacininntak er satt til en mengde som er tilstrekkelig for å forebygge pellagra.
+
+Niacin inngår i koenzymene NAD (nikotinamid dinukleotid) og NADP (nikotinamid dinukleotid fosfat), som fungerer som hydrogenbærere. Vitamin B3 er definert som kostholdets forløpere til disse utenom aminosyren tryptofan, og inkluderer tre ulike former: nikotinsyre (niacin), nikotinamid og nikotinamid ribosid.
+
+## Opptak og metabolisme
+
+I kosten foreligger niacin først og fremst som NAD eller NADP. Niacin tas opp fra tynntarmen ved diffusjon. Både niacin, nikotinamid og NAD fraktes via portåren til leveren.
+
+Vi har flere metabolske veier for syntese av NAD fra de ulike forløperne; nikotinsyre, nikotinamid, nikotinamid ribosid og tryptofan. Nikotinamid bruker et annet enzym enn nikotinsyre i omdannelsen til NAD. Dette enzymet hemmes av NAD i seg selv, noe som ikke gjelder enzymet som benyttes av nikotinsyre. Av denne grunnen vil nikotinsyre være mer effektivt for å øke nivåene av NAD inne i cellene. NAD-syntese fra tryptofan skjer gjennom syv enzymatiske steg, som er avhengig av [riboflavin](http://www.friskogfunksjonell.no/riboflavin/ "Riboflavin, vitamin B2"), [B6](http://www.friskogfunksjonell.no/b6/ "Pyridoksin, vitamin B6") og [C-vitamin](http://www.friskogfunksjonell.no/c-vitamin/ "C-vitamin").
+
+## Funksjoner
+
+Niacin omdannes til NAD, som er den vitaminderiverte kofaktoren som er involvert i flest reaksjoner i kroppen. Også den fosforylerte formen NADP er viktig, og til sammen er det over 470 proteiner som bruker disse som kofaktorer. Begge disse koenzymene fungerer som hydrogenbærere, det vil si at de kan overføre et hydrogenatom fra en forbindelse til en annen. Det er nikotinamid-delen av koenzymene som er den reaktive delen av molekylet, og det er her hydrogenatomet bindes.
+
+NAD er en elektronakseptor som er aktiv i katabole (nedbrytende) redoksreaksjoner, for eksempel nedbrytningen av energigivende næringsstoffer. Ved å ta imot et hydrogenatom, som avgis i nedbrytningen av karbohydrater, fett eller protein, blir det dannet NADH, som brukes for å produsere energimolekylet ATP i [elektrontransportkjeden](http://www.friskogfunksjonell.no/elektrontransportkjeden/ "Elektrontransportkjeden"). NADP er en hydrogendonor, som brukes i anabole (oppbyggende) redoksreaksjoner. Ved å gi fra seg et hydrogenatom, frigjøres energi som deretter bidrar til oppbyggingen av molekyler som f.eks. fettsyrer eller kolesterol.
+
+NAD har også andre funksjoner, blant annet i reguleringen av gentranskripsjon og stabilisering av DNA. Dette skjer hovedsakelig ved at NAD brukes som substrat for enzymer som hovedsakelig befinner seg i fire hovedkategorier.
+
+-   **Poly(ADP-ribose) polymerase (PARP 1-18)**
+
+    -   PARP-enzymene bruker NAD til å danne ADP-ribose som brukes til å reparere DNA ved skade på DNA, og disse enzymene aktiveres direkte som følge av slike skader. 
+
+-   **NAD-avhengige deacetylaser (sirtuin 1-7)**
+
+    -   Sirtuinene aktiveres av økte NAD-nivåer, og kan være med å regulere genuttrykk gjennom å deacetylere histoner. Dette er en av de mange epigenetiske mekanismene som er knyttet til kosthold. Dette er spennende ettersom vi kan påvirker nivåene av NAD gjennom kostholdet og dermed påvirke disse mekanismene. Imidlertid er dette ikke godt nok kartlagt per i dag.
+
+    -   Sirtuinene kan deacetylere mange ulike proteiner, og kan også regulere aktiviteten til PARP.
+
+-   **ADP-syklaser (CD38 og CD157)**
+
+    -   CD38 bruker NAD som et substrat for å mediere intracellulært kalsiumfrigjørelse. Dette er blant annet viktig for funksjonen til mange immunceller. CD38 reguleres blant annet av det proinflammatoriske cytokinet TNF-α, som produseres i fettvevet.
+
+-   **Indoleamin 2,3-dioksygenaser (IDO)**
+
+    -   Aktivering av IDO reduserer plasmakonsentrasjonene av tryptofan, noe som gjør at det kan produseres mindre NAD. Enzymet øker også antibakteriell og antiviral aktivitet, spesielt intracellulært.
+
+    -   IDO reguleres i stor grad av immunresponsen. Ved autoimmune sykdommer er IDO aktivert hele tiden, noe som kan gi symptomer på niacinmangel.
+
+NAD kan også fungere som en ligand som binder til P2Y1 reseptoren i tykktarmceller eller P2Y11-reseptoren i enkelte hvite blodceller. Når NAD binder til disse reseptorene så fungerer den som en nevrotransmitter. I tykktarmen hemmer P2Y1 muskelkontraksjon, noe som øker intracellulære nivåer av [kalsium](http://www.friskogfunksjonell.no/kalsium/ "Kalsium").
+
+## Behov og anbefalinger
+
+Inntaket av niacin måles i niacinekvivalenter, NE, og tilsvarer hvor mye NAD vi kan produsere. Dette er fordi både preformet niacin og aminosyren tryptofan bidrar til NAD-nivåene våre. 1NE = 1mg niacin = 60mg tryptofan. Tryptofan har likevel en mye lavere biotilgjengelighet enn preformet niacin, siden denne aminosyren først og fremst brukes i proteinsyntesen, til og med når det foreligger en niacinmangel.
+
+De norske anbefalingene ligger i området rundt 10-20NE/dag. Dette tilsvarer mengden du får i deg fra ca. 100g kyllingfilet, 100g peanøtter, 150g makrell eller 150g svinekoteletter.
+
+## Mangeltilstander
+
+Niacinmangel gir sykdommen pellagra, som kjennetegnes ved de fire D'ene: Dermatitt (pigmenterte utslett), diaré, demens og død. Andre symptomer er angst/depresjon, søvnløshet, desorientering og hallusinasjoner. Dermatitt er vanligvis det første symptomet som oppstår, og på italiensk betyr pellagra grov hud.
+
+Fordi niacin er med å stabilisere DNA og regulere gentranskripsjon, antas det at en mangel kan være med å øke risikoen for kreft og andre sykdommer assosiert med skader på DNA. Se mer om dette i neste avsnitt.
+
+Det kan være mange årsaker til mangel. For eksempel er omdanningen av tryptofan til niacin avhengig av flere andre næringsstoffer, og mangel på ett eller flere av disse kan resultere i niacinmangel. Utilstrekkelig inntak av B6 kan også trigge niacinmangel. Den vanligste årsaken til mangel er imidlertid dårlig tilgang på mat og dårlig proteinkvalitet.
+
+## Niacin og sykdom
+
+Det er mange potensielle bruksområder for niacin ved ulike sykdommer, og dette er et felt det forskes mye på.
+
+Niacin har lenge vært brukt terapeutisk for å redusere problematikk rundt hyperlipidemi og å redusere dødeligheten av ateroskleroserelaterte slag og infarkt. Høydose nikotinsyre øker HDL, samtidig som det reduserer triglyserider, LDL og VLDL. Noe av denne effekten kan skyldes at nikotinsyre binder til reseptorer som vanligvis bindes av ketonlegemer. Dette utløser en såkalt flush-respons, som er forbundet med korrigering av dyslipidemier. Nikotinamid binder ikke til disse reseptorene, og har heller ikke denne effekten. Dette er ikke forbundet med noen negative effekter. Alle mekanismene for hvordan dette fungerer er ikke kartlagt, og det forskes på dette. Man antar at mange ulike mekanismer bidrar, deriblant binding til de nevnte reseptorene, samt produksjon av prostaglandiner som virker på de samme reseptorene som ulike medikamenter.
+
+Kreft er et resultat av DNA-skade, og NAD er viktig for reparasjon av disse skadene samt å regulere celledød. Kreftceller har et skyhøyt forbruk av glukose og dermed også et stort forbruk av NAD som er nødvendig for glykolysen. Det er uvisst om tilskudd av niacin kan hjelpe ved enkelte kreftformer.
+
+Nerveceller krever mye energi, og mye av denne energien kommer fra glukose. Derfor er også NAD-behovene høye i disse cellene, noe som setter niacin i sammenheng med en rekke nevrodegenerative sykdommer som Alzheimer, Huntington, Parkinson, ALS, og MS. Hvorvidt niacin spiller en rolle i utviklingen eller behandlingen av disse sykdommene gjenstår å se, men grunnet NADs effekter på blodlipidene samt viktighet i glukosemetabolismen så er det et spennende felt som det forskes mye på.
+
+Ved autoimmune sykdommer er IDO kostant aktivert, noe som kan gi symptomer på niacinmangel.
+
+## Kan vi få for mye?
+
+Det er mulig å få i seg for mye niacin, men dette kan bare skje ved farmakologisk store doser, og bivirkningene kan blant annet være rødming, diaré, forstoppelse, svimmelhet, oppblåsthet og oppkast. I verste fall kan det medføre leversvikt.
+
+Det er ikke mulig å få i seg skadelige doser via kosten!
+
+## Gode kilder
+
+Hovedkildene til niacin i kosten er kjøtt, fisk og nøtter. Meieriprodukter og egg inneholder lite niacin, men mye tryptofan, noe som gjør at også disse matvarene kan regnes som gode kilder.
+
+## Aktuelt om niacin
+
+-   Det er gjort en del forskning på hvorvidt aktivering av SIRT1 er årsaken til at kalorirestriksjon har vist å øke levealderen hos forskningsdyr.
+
+-   Dyremodeller indikerer at aktivering av ulike sirtuiner kan være nyttig i behandlingen av diabetes og nevrodegenerering.
+
+-   Mus som mangler CD38-enzymet har kronisk høye NAD-nivåer. Disse har økte energinivåer, og blir ikke overvektige på tross av høyt energiinntak. De imidlertid mer utsatt for infeksjoner ettersom CD38 er viktig for immunfunksjon.
+
+-   Vi har høyt uttrykk av CD38 i hjernen, noe som gjør at det antas at det kan spille en rolle for funksjonen her. Dette er et område det forskes på.
+
+*Artikkelen er sist oppdatert juli 2013*

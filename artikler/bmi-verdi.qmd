@@ -1,0 +1,45 @@
+---
+title: "BMI og verdien av dette"
+author: "Vegard Lysne"
+date: "2011.12.04"
+categories:
+  - helse
+---
+
+Er du undervektig, normalvektig, overvektig eller rett og slett feit? Utifra en enkel formel kan du plasseres i en av disse kategoriene. Vi snakker selvfølgelig om den omdiskuterte verdien BMI, eller på godt norsk, KMI (kroppsmasseindeks). Jeg vil bruke BMI i denne artikkelen, siden det er mest brukt ellers.
+
+BMI er en formel der du utifra høyden og kroppsvekten din får ut en verdi, som derette plasserer deg i en av de nevnte kategoriene. Det er flere problemer med denne metoden, og her skal vi se på hvordan vi på best mulig måte kan benytte oss av dette verktøyet.
+
+## Hva er BMI?
+
+BMI er den verdien du får hvis du deler kroppsvekten din i kg på høyden din i meter opphøyd i andre. Om du er 1.80m høy og veier 80kg, har du en BMI på 80/1,8\^2 = 24,7. Dette plasserer deg i kategorien normalvektig.
+
+WHO opererer med følgende kategorier:
+
+![](images/clipboard-2317560993.png)
+
+## Hvorfor er ikke BMI en god markør for enkeltindividet?
+
+BMI tar som nevnt bare hensyn til høyde og vekt, og sier ingenting om hvordan kroppen din er satt sammen. Om du trener masse, og derfor har utviklet en del muskelmasse, er det stor sannsynlighet for at du utifra BMI-skalaen vil kategoriseres som overvektig. Om du derimot er inaktiv, og derfor har liten muskelmasse, kan du fort bli kategorisert som normalvektig, noe som kan gi deg en falsk trygghet om at det står bra til med helsen.
+
+Det er viktig å ta hensyn til flere ting enn BMI, og da er fettprosenten en god indikator. Også midjemålet gir en del informasjon, og dette bør være under 94cm for menn og under 80cm for kvinner. Er midjemålet over dette, har man høyere risiko for å utvikle metabolske sykdommer. Men, som for BMI, bør man være forsiktig med å bruke dette som absolutte grenser.
+
+For barn i vekst har man nå gått bort fra å bruke BMI som et verktøy, da dette gir et veldig dårlig bilde på risikoen for sykdom for denne gruppen. Her bruker man nå såkalte vektstkurver, som utifra fødselsvekten sier noe om hvordan vektutviklingen de første leveårene bør være.
+
+Når man blir eldre, vil man miste en del muskelmasse, noe som gjør at fettprosenten øker. Likevel vil BMI-verdien synke, og mange eldre kategoriseres som undervektige.
+
+Som du ser, så gir BMI i det store og det hele et veldig dårlig bilde av sykdomsrisiko for enkeltindividet.
+
+## Hvordan bør BMI benyttes?
+
+Til tross for at BMI er en dårlig indikator for enkeltindividet, gir det et godt bilde på vekten i store grupper. Ved å sammenligne gjennomsnittlig BMI i en befolkning over tid kan vi med stor sikkerhet si noe om forekomsten av overvekt og risikoen for metabolske sykdommer.
+
+Det kan være fristende å bruke dette til å sammenligne forskjellige befolkninger, men her skal man være klar over at det er ulike grenseverdier for sykdomsrisiko i ulike befolkninger. I vestlige land ser vi at risikoen for å utvikle diabetes type 2 øker når BMI kommer over 25. I India ser vi den samme økningen i risiko når BMI kommer over 23.
+
+## Egenrapportering, et problem?
+
+Når man benytter BMI-skalaen for å undersøke sykdomsrisikoen i en befolkning, baserer man seg på egenrapportering. Her er det en del feilkilder, og tendensen er at folk overrapporterer høyden og underrapporterer vekten. Dette fører til at den reelle verdien er noe høyere enn den målte verdien vil være.
+
+## Avslutning
+
+Det du skal ta med deg fra denne artikkelen, er at du ikke må basere deg på BMI alene for å si noe om egen helse. Det er individuelle forskjeller som spiller inn, og normalvekt for en person kan være på en BMI på 26, mens en annen er normalvektig ved BMI 19. Er du bekymret for din egen helse, bør du derfor heller ta deg en tur til legen og sjekke andre risikofaktorer i stedet for å ta hensyn til BMI!

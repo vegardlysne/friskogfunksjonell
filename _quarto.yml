@@ -1,5 +1,8 @@
 project:
   type: website
+  render:
+    - "*.qmd"
+    - "!upublisert/"
 
 website:
   title: "Frisk og Funksjonell (arkiv)"
@@ -14,6 +17,8 @@ website:
         href: metabolismen.qmd
       - text: Fysiologi
         href: fysiologi.qmd
+      - text: Om bloggen
+        href: om.qmd
 format:
   html:
     theme: cosmo

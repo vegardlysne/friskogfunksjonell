@@ -67,51 +67,6 @@
     ]
   },
   {
-    "listing": "/metabolismen.html",
-    "items": [
-      "/artikler/metabolismen/eikosanoider.html",
-      "/artikler/metabolismen/aminosyrer.html",
-      "/artikler/metabolismen/fysak-protein.html",
-      "/artikler/metabolismen/fysak-karbohydrat.html",
-      "/artikler/metabolismen/kolesterolmetabolismen.html",
-      "/artikler/metabolismen/ketonmetabolismen.html",
-      "/artikler/metabolismen/langkjedede-flerumettede.html",
-      "/artikler/metabolismen/sykdommer_karbohydrat.html",
-      "/artikler/metabolismen/fettsyresyntese.html",
-      "/artikler/metabolismen/glykogenmetabolismen.html",
-      "/artikler/metabolismen/fruktose-galaktose.html",
-      "/artikler/metabolismen/lipoproteinmetabolismen.html",
-      "/artikler/metabolismen/metabolskesykdommer.html",
-      "/artikler/metabolismen/genetikk.html",
-      "/artikler/metabolismen/elektrontransportkjeden.html",
-      "/artikler/metabolismen/sitronsyresyklusen.html",
-      "/artikler/metabolismen/fettsyrenedbrytning.html",
-      "/artikler/metabolismen/proteinmetabolismen.html",
-      "/artikler/metabolismen/glukosemetabolismen.html"
-    ]
-  },
-  {
-    "listing": "/fysiologi.html",
-    "items": [
-      "/artikler/fysiologi/lunge2.html",
-      "/artikler/fysiologi/lunge1.html",
-      "/artikler/fysiologi/hjerte4.html",
-      "/artikler/fysiologi/hjerte3.html",
-      "/artikler/fysiologi/hjerte2.html",
-      "/artikler/fysiologi/hjerte1.html",
-      "/artikler/fysiologi/homeostase.html",
-      "/artikler/fysiologi/bukspyttkjertel.html",
-      "/artikler/fysiologi/nyre4.html",
-      "/artikler/fysiologi/nyre3.html",
-      "/artikler/fysiologi/nyre2.html",
-      "/artikler/fysiologi/nyre1.html",
-      "/artikler/fysiologi/lever.html",
-      "/artikler/fysiologi/hjerte5.html",
-      "/artikler/fysiologi/fordoyelse.html",
-      "/artikler/fysiologi/cellen.html"
-    ]
-  },
-  {
     "listing": "/naeringsstoffer.html",
     "items": [
       "/artikler/naeringsstoffer/karbohydrater.html",
@@ -141,6 +96,51 @@
       "/artikler/naeringsstoffer/natrium-klor.html",
       "/artikler/naeringsstoffer/kobber.html",
       "/artikler/naeringsstoffer/fiber.html"
+    ]
+  },
+  {
+    "listing": "/fysiologi.html",
+    "items": [
+      "/artikler/fysiologi/lunge2.html",
+      "/artikler/fysiologi/lunge1.html",
+      "/artikler/fysiologi/hjerte4.html",
+      "/artikler/fysiologi/hjerte3.html",
+      "/artikler/fysiologi/hjerte2.html",
+      "/artikler/fysiologi/hjerte1.html",
+      "/artikler/fysiologi/homeostase.html",
+      "/artikler/fysiologi/bukspyttkjertel.html",
+      "/artikler/fysiologi/nyre4.html",
+      "/artikler/fysiologi/nyre3.html",
+      "/artikler/fysiologi/nyre2.html",
+      "/artikler/fysiologi/nyre1.html",
+      "/artikler/fysiologi/lever.html",
+      "/artikler/fysiologi/hjerte5.html",
+      "/artikler/fysiologi/fordoyelse.html",
+      "/artikler/fysiologi/cellen.html"
+    ]
+  },
+  {
+    "listing": "/metabolismen.html",
+    "items": [
+      "/artikler/metabolismen/eikosanoider.html",
+      "/artikler/metabolismen/aminosyrer.html",
+      "/artikler/metabolismen/fysak-protein.html",
+      "/artikler/metabolismen/fysak-karbohydrat.html",
+      "/artikler/metabolismen/kolesterolmetabolismen.html",
+      "/artikler/metabolismen/ketonmetabolismen.html",
+      "/artikler/metabolismen/langkjedede-flerumettede.html",
+      "/artikler/metabolismen/sykdommer_karbohydrat.html",
+      "/artikler/metabolismen/fettsyresyntese.html",
+      "/artikler/metabolismen/glykogenmetabolismen.html",
+      "/artikler/metabolismen/fruktose-galaktose.html",
+      "/artikler/metabolismen/lipoproteinmetabolismen.html",
+      "/artikler/metabolismen/metabolskesykdommer.html",
+      "/artikler/metabolismen/genetikk.html",
+      "/artikler/metabolismen/elektrontransportkjeden.html",
+      "/artikler/metabolismen/sitronsyresyklusen.html",
+      "/artikler/metabolismen/fettsyrenedbrytning.html",
+      "/artikler/metabolismen/proteinmetabolismen.html",
+      "/artikler/metabolismen/glukosemetabolismen.html"
     ]
   }
 ]

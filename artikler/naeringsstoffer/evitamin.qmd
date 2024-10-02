@@ -7,3 +7,53 @@ categories:
 ---
 
 [Tilbake til artikkelserien om næringsstoffene](../../naeringsstoffer.html)
+
+E-vitamin er et fettløselig vitamin som først og fremst fungerer som en antioksidant, og beskytter de flerumettede fettsyrene i cellemembranene våre. **E-vitamin er en samlebetegnelse for forbindelser kalt tokoferoler og tokotrienoler med antioksidantegenskaper**. Det mest sentrale molekylet er α-tokoferol, og innholdet i maten vi spiser er regnet i α-tokoferolekvivalenter, α-TE.
+
+## Opptak
+
+**Som for de andre fettløselige vitaminene, følger E-vitamin [fettopptaket](http://www.friskogfunksjonell.no/fett/).** Tokoferol og tokotrienol pakkes inn i miceller som tas opp i tarmcellene. Fra tarmcellene fraktes de videre i lymfesystemet, pakket i kylomikroner.
+
+**Noe E-vitamin leveres direkte til målcellene fra kylomikronene, mens resten fraktes til leveren**. E-vitamin har ikke et spesifikt transportprotein, og fra leveren fraktes det uspesifikt i lipoproteiner. Fra leveren er det i hovedsakelig α-tokoferol som sendes videre. Α-tokoferol-transportprotein,  α-TTP, er et viktig enzym som finnes i leveren, som sørger for at det er α-tokoferol som sendes ut i kroppen.\
+Målcellene tar opp vitaminet på tre ulike måter:
+
+-   Lipoprotein lipase, LPL, bryter ned lipoproteinene slik at innholdet kan taes opp. Denne mekanismen er den viktigste i muskel og fettvev, som i hovedsak får E-vitamin fra kylomikroner og VLDL.
+
+-   LDL-reseptorer tar opp LDL-molekyler med innhold. Dette skjer i alle vev.
+
+-   HDL leverer E-vitamin, spesielt til sirkulerende celler som røde blodceller.
+
+## Funksjoner
+
+**E-vitamin fungerer i hovedsak som en antioksidant, og hovedoppgaven er å beskytte flerumettede fettsyrer**. Disse fettsyrene finnes i cellemembraner, og er veldig utsatt for oksidering. E-vitamin inkorporeres i cellemembranene og beskytter de flerumettede fettsyrene mot denne oksideringen.
+
+**Oksiderte lipoproteiner er regnet som en av årsakene til hjerte/karsykdom. E-vitamin beskytter også disse mot oksidering, og kan på den måten øke motstandskraften mot disse sykdommene.**
+
+## Behov og anbefalinger
+
+Inntaket av E-vitamin er målt i α-tokoferolekvivalenter, α-TE, som tilsvarer 1mg α-tokoferol. Norske anbefalinger ligger rundt 10 α-TE for menn, litt lavere for barn og kvinner. Behovet øker ved høyt oksidativt stress, f.eks. ved røyking, høyt inntak av flerumettet fett eller ved lave nivåer av [c-vitamin](http://www.friskogfunksjonell.no/c-vitamin/) og [selen](http://www.friskogfunksjonell.no/selen/). 10 α-TE tilsvarer innholdet i ca 100g peanøtter, 50g mandler eller 30g rapsolje .
+
+## Mangeltilstander
+
+**Mangel på E-vitamin er svært uvanlig hos friske, og er først og fremst knyttet til redusert fettopptak i tarmen**. En genetisk defekt i α-TTP-enzymet i leveren kan føre til reduserte nivåer av α-tokoferol.
+
+Røde blodceller, leveren og milten bruker raskt opp sitt E-vitamin, og er dermed utsatt ved mangel. Hjertet, musklene og nervesystemet bruker mye lenger tid, og vil derfor spares ved mangel.
+
+**Konsekvenser av mangel er økt oksidasjon av kroppsfettet og opphopning av oksidasjonsprodukter i leveren**. Degenerering av muskelvev og nervevev er langsiktige konsekvenser.
+
+## Kan vi få for mye?
+
+**Det er mulig å få i seg for mye E-vitamin, men man vil ikke klare dette gjennom mat.** For å oppleve negative konsekvenser må inntaket være veldig høyt, noe som bare kan oppnås via kosttilskudd.
+
+Symptomer på E-vitaminforgiftning er kvalme og diaré, og opptaket av A- og K-vitamin kan muligens påvirkes.\
+E-vitamin kan også føre til økt blødning, da vitaminet motvirker sammenklebring av blodceller.
+
+## Gode kilder
+
+**Bare planter kan syntetisere E-vitamin**. Matvarer som inneholder mye flerumettet fett inneholder som regel mye E-vitamin, noe som er logisk da vitaminets hovedoppgave er å beskytte disse fettsyrene. Vegetabilske oljer og nøtter, spesielt mandler, inneholder mye! I kjøtt finner vi E-vitamin i veldig små mengder.
+
+## Aktuelt om E-vitamin
+
+-   Det spekuleres i om E-vitamintilskudd kan redusere risikoen for diverse sykdommer. Risikoen for degenerative sykdommer som Alzheimers kan reduseres, noe som begrunnes med vitaminets beskyttende funksjoner for nervecellene.
+
+-   E-vitamin forhindrer dannelse av blodpropper ved å hemme sammenklebring av blodceller. Dette antas å ha en beskyttende effekt mot hjerte/kar-sykdom, men studier viser veldig varierende resultater.

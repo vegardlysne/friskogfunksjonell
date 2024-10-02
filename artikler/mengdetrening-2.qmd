@@ -1,0 +1,67 @@
+---
+title: "Bli sterkere med mengdetrening del 2"
+author: "Eivind Eliasson"
+date: "2011.12.11"
+categories: 
+  - trening
+---
+
+I [del 1](mengdetrening-1.qmd) av denne artikkelen så vi på prinsippene bak mengdetrening, og presenterte et enkelt programoppsett. Her skal vi se nærmere på den praktiske gjennomføringen av selve programmet, problemer som kan oppstå underveis og hvordan du kan implementere mengdetreningsopplegget i et helhetlig treningsprogram. Til slutt ser vi litt på veien videre etter endt program!
+
+## Oppvarming
+
+Det kan være lurt å kjøre en annen oppvarming enn mange er vant med. 5 minutter på ergometersykkelen er ikke optimalt før en tung økt med mye bøy og mark. De 3 store øvelsene krever god mobilitet i øvre del av ryggen, hoftene og bakside/innside lår. Øvelser som squat-to-stand, hoftependling, diagonalløft, seteløft, krum-svai korsrygg osv. kan være lurt å gjøre før hver økt, for å sikre god mobilitet før øvelsene. Enkelte som sliter med å unngå at ryggen krummer i nedre del i markløft og knebøy kan med fordel tøye hofteleddsbøyerne, setemusklene og bakside lår.
+
+## Skader
+
+Om du sliter med skader i f.eks. korsryggen eller skuldrene bør du oppsøke en dyktig terapeut og prøve å få fikset eventuelle skader før du begynner med dette programmet. Om noe gjør vondt, sjekk teknikken, og om det fremdeles gjør vondt, dropp øvelsen den dagen og prøv igjen senere. Gjør det da fremdeles vondt så kan du ha pådratt deg en skade, og du bør komme i gang med rehabilitering av denne.
+
+I andre tilfeller kan være at kroppsstrukturen din ikke passer så godt til akkurat denne øvelsen. Det kan da være lurt å oppsøke en dyktig idrettsfysioterapeut, manuellterapeut, naprapat eller lignende, men krev å få et egentreningsprogram og en grundig sjekk av bevegelsesmønster og kroppsholdning. Plagene oppstår som regel når noe ikke fungerer optmalt her. Ikke alle behandlere er like flinke, og en del vet lite om styrketrening. Blir du møtt med uttalelser som ”slutt med markløft, det er farlig for ryggen din”, bytt til en annen terapeut.
+
+En del av oss må ta individuelle hensyn pga. tidligere skader. For eksempel ved skulderskader som man ikke får gjort noe med, kan et smalere grep i benkpress være fornuftig. I markløft er det en del som løfter bedre med sumostilling enn tradisjonell stil. Om du er over gjennomsnittlig høy og har lange lårbein, er ofte sumostillinga mer behagelig å bruke enn tradisjonell stil, men ryggstrekkerne blir dårligere trent. Lange lårbein og tidligere ryggplager vil også ofte være et problem i knebøy, så med mindre man planlegger en styrkeløftkarriere, er frontbøy et godt alternativ her.
+
+## Forslag til oppsett av programmet med støtteøvelser og oppvarming
+
+**Dag 1:**\
+Dynamisk oppvarming\
+Bøy, benk og mark mengdetrening\
+Sittende roing 3x8-12 repetisjoner\
+Planken og sideplanken 3x10 sekund hold
+
+**Dag 2:**\
+Dynamisk oppvarming\
+Bøy, benk og mark mengdetrening\
+Facepulls 3x8-12 repetisjoner\
+Omvendt crunch med 5 sek hold på toppen 3x8-12 repetisjoner
+
+**Dag 3:**\
+Dynamisk oppvarming\
+Bøy, benk og mark mengdetrening\
+Chins med hammergrep 3x4-6 evt med avlastning eller ekstravekter\
+Pallof press 3x10 sek hold
+
+Noen enkle regler om du vil prøve programmet:
+
+-   
+
+-   Ligg unna failure! Øk 2-3% i uka i 8-12 uker og reduser vektene eller gå over til f.eks. et formtoppingsopplegg eller en lettuke før ny mengdetrening om du begynner å stagnere. Forskning viser at progresjon over tid er bedre om du holder deg unna failure.
+
+-   
+
+-   Bruk teknisk failure når du løfter, dvs at det første løftet hvor teknikken ikke er 100% pga utmattelse, bør være det siste løftet på øvelsen den dagen.
+
+-   
+
+-   De første ukene vil for mange være lette, svært lette, men her har du god tid til å perfeksjonere teknikken, bli godt vant med øvelsene og forberede deg på å trene med flere sett enn du pleier.
+
+-   
+
+-   Tell antall repetisjoner gjennom uken. Om du teller antallet med oppsettet slik det står, så ligger det på 65 repetisjoner på hver av de tre store øvelsene. Dette er en relativt forsiktig mengde som kan være fin i begynnelsen. Etter 1-2 gjennomføringer av opplegget kan du f.eks øke mengden litt. For topptrente styrkeløftere er ikke en total mengde på 150 løft i uken uvanlig, og da ofte med litt høyere intensitet enn skissert her. Dette er noe du bør bruke lang tid på å jobbe deg opp mot. Om du vil gjøre endringer i programmet med tanke på repetisjoner og sett, så er det helt greit, men det kan være fornuftig å holde seg rundt 3-8 repetisjoner. Ikke kjør på med for mye mengde de første månedene. 50-75 løft totalt kan være en fin start, litt avhengig av treningsgrunnlaget ditt.
+
+-   
+
+## Veien videre
+
+Hva gjør du når du har kjørt gjennom programmet en gang eller 2? Om du er nybegynner vil du trolig øke videre på flere gjennomføringer, men er du mer viderekommende, og har trent baseøvelser noen år, kan det være lurt å fokusere mer på svakheten i løftene, evt trene med høyere mengde som en progresjon. Her kan du f.eks. legge inn smalbenk på 5x5 og 4x4 dagen i benkpress om triceps er et svakt punkt. I mark sliter du kanskje på toppen, og kan da legge inn mark fra rack på lett og middelsdagen. Jeg anbefaler imidlertid at du holder deg til hovedøvelsen på tung-dagen. En økning i mengden kan f.eks. være å øke tungdagen fra 8x3 til 10x4, du øker da mengden med 16 reps her. Kanskje legger du inn 6x6 istedet for 5x5 på middelsdagen, og du har plutselig økt den totale mengden i uken med 27 reps. Et annet mengdeprogram det kan være lurt å prøve ut er programmet du finner [her](http://www.styrkeloft.no/treningsprogram). Mange har brukt det med gode resultater. Oppkjøringsprogrammene der er også i stor grad basert på mengdeprinsippet, og vil gi god fremgang for mange.
+
+Denne måten å trene på er ingen fasit, men mange ville nok hatt godt utbytte av noen runder med mengdetrening. Likevel kan man oppnå de samme resultatene på andre måter, det finnes tross alt mange veier til Rom!

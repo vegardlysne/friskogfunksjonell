@@ -1,0 +1,67 @@
+---
+title: "Thiamin, Vitamin B1"
+date: "2011.10.29"
+categories: 
+  - Næringsstoffene
+  - Vannløselige vitaminer
+---
+
+[Tilbake til artikkelserien om næringsstoffene](../../naeringsstoffer.html)
+
+Thiamin er det første av åtte B-vitaminer, og er også kjent som vitamin B1. Thiamin har viktige funksjoner i energimetabolismen, og er også viktig for funksjonen til nervesystemet. Dette var det første vitaminet som ble oppdaget, og la derfor grunnlaget for hele konseptet vitaminer. Thiamin ble først oppdaget i Asia. Da de begynte å polere risen fikk de en høy forekomst av mangelsykdommen beriberi. De skjønte at det var en sammenheng mellom å fjerne skallet på risen og sykdommen, og årsaken viste seg å være at poleringen fjernet thiaminet fra risen.
+
+## Opptak og metabolisme
+
+Thiamin tas opp i tarmen ved to hovedmekanismer. Ved lave konsentrasjoner er det i hovedsak aktiv transport via spesifikke transportproteiner, men ved høyere konsentrasjoner kan vitaminet også tas opp ved passiv diffusjon. Fra tarmcellene fraktes thiamin over i portåren, som frakter vitaminet til leveren.
+
+Fra leveren fraktes thiamin videre til målcellene sammen med røde blodceller eller bundet til albumin.
+
+## Funksjoner
+
+Thiamin finnes i kroppen som fritt thiamin eller de fosforylerte variantene TMP (thiamin monofosfat), TPP (thiamin difosfat) og TTP (thiamin trifosfat). Vi har ingen thiaminlagre, men relativt høye konsentrasjoner finnes i muskelceller, hjertet, leveren, nyrene og hjernen.
+
+Thiamin er sentral i energimetabolismen, spesielt forbrenningen av [glukose](http://www.friskogfunksjonell.no/karbohydrater/), og er kofaktor for flere sentrale enzymer. Omdanningen av pyruvat, sluttproduktet fra glykolysen, til Acetyl-CoA, utgangspunktet for sitronsyresyklusen, er avhengig av thiamin, som er kofaktor i prosessen. Thiamin er også kofaktor for et viktig enzym i sitronsyresyklusen, α-ketoglutarat dehydrogenase.
+
+Siden thiamin er sentral i glukosemetabolismen, er det også et viktig vitamin for hjernefunksjon, siden glukose er hjernens hovedenergikilde. Sitronsyresyklusen er essensiell for syntesen av hjernens signalstoffer, neurotransmittere, og uten thiamin vil syntesen av disse reduseres. Transporten av thiamin over blod-hjerne-barrieren har en maksimal hastighet, som er tilnærmet lik hjernens forbruk av vitaminet, og det er derfor veldig viktig å innta tilstrekkelig thiamin til å fylle denne kapasiteten.
+
+Thiamin er viktig for signaloverføring i nervecellene, tilsynelatende ved å bidra til å opprettholde membranpotensialet.
+
+## Behov og anbefalinger
+
+Behovet for thiamin henger sammen med energiinntaket, noe som er logisk i og med at vitaminet er sentralt i omsetningen av de andre næringsstoffene. Behovet øker derfor med et økt energiinntak. De norske anbefalingene ligger på 1-1,5mg/dag, og tilsvarer ca. 200g svinekjøtt, 70g solsikkefrø eller 120g peanøtter.
+
+## Mangeltilstander
+
+En mangel på thiamin vil føre til en forsuring av kroppen, siden det vil bli en opphopning av pyruvat og laktat som følge av en ufullstendig glukosemetabolisme.
+
+Beriberi er en mangelsykdom som skyldes thiaminmangel. Det finnes tre hovedformer av denne sykdommen: Tørr-, våt- og spedbarnsberiberi.
+
+-   Tørr beriberi rammer nervesystemet, og har effekter både sentralt og perifert. Sentrale symptomer er forvirring og lammelse av muskler i øyet. Perifere symptomer er økt stølhet i leggmusklene og nedsatt følsomhet i ekstremitetene.
+
+-   Våt beriberi er også kjent som kardiovaskulær beriberi, og rammer i hovedsak hjertet og sirkulasjonssystemet. Symptomer er forhøyet blodtrykk og puls, samt vannansamlinger (ødemer).
+
+-   Spedbarnsberiberi kan forekomme hos barn som ammes av mødre som selv har lave nivåer, og symtomer er manglende vekst, oppkast, rastløshet og søvnløshet.
+
+Thiaminmangel skyldes som oftest et par ting:
+
+-   Alkohol blokkerer opptak av thiamin fra tarmcellene til blodet. Langvarig alkoholisme fører derfor ofte til thiaminmangel. Sykdommen Wernicke-Korsakoff syndrom, som er den sentrale versjonen av tørr beriberi, er ofte observert hos alkoholikere.
+
+-   Enkelte matvarer inneholder thiaminaser, som bryter ned thiamin. Disse forbindelsene finnes spesielt i rå fisk og skalldyr. Thiaminaser inaktiveres ved varmebehandling.
+
+-   Fedmekirurgi har vist seg å kunne medføre thiaminmangel.
+
+## Kan vi få for mye?
+
+Det er ingen kjente negative effekter av et høyt inntak av thiamin. Overskudd skilles effektivt ut over nyrene.
+
+## Gode kilder
+
+Biotilgjengeligheten for thiamin er generelt sett lav, dvs at vi bare tar opp en liten del av det vi får i oss. Gode kilder til thiamin er kjøtt (spesielt svinekjøtt), blod og innmat. Fullkornsris inneholder ganske mye, men polert ris inneholder lite. Nøtter og frø inneholder en del thiamin, men siden vi inntar mindre mengder av disse kan de ikke regnes som hovedkilder.
+
+I et tradisjonelt norsk kosthold bidrar kornvarer med en stor del av thiaminet i kosten.
+
+Thiamin er følsomt for høy temperatur, og en del brytes ned ved steking av mat.
+
+## Aktuelt om thiamin
+
+-   I en [studie](http://www.ncbi.nlm.nih.gov/pubmed?term=Thiamin%20supplementation%2C%20mood%20and%20cognitive%20functioning) der det ble gitt høye doser thiamin, og deltakerne ikke på forhånd hadde noen mangel på vitaminet, ble det observert en klar forbedring både i humør og reaksjonstid.

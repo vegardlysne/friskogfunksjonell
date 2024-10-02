@@ -7,3 +7,53 @@ categories:
 ---
 
 [Tilbake til artikkelserien om næringsstoffene](../../naeringsstoffer.html)
+
+Biotin er det sjette av de åtte B-vitaminene, og er også kjent som vitamin B-7. B-vitaminene er vannløselige, så vi er avhengig av et kontinuerlig inntak av disse for å opprettholde god helse. Disse vitaminene er i stor grad involvert i kroppens energimetabolisme, som kofaktorer til viktige enzymer.
+
+**Biotin ble oppdaget pga symtomer som oppstod ved høyt inntak av eggehvite.** Det viste seg at et glykoprotein i eggehviten, avidin, koblet seg til biotin i tarmen og hindret opptak. Inntak av matvarer med høyt innhold av dette vitaminet kurerte denne «eggehvite-skaden».
+
+## Opptak
+
+**Biotin finnes i kosten bundet til protein. Enzymet biotinidase bidrar til å frigi vitaminet, slik at det kan tas opp fra tarmen.**
+
+Biotin absorberes inn i tarmcellene via to mekanismer. Den ene er gjennom en natrium-avhengig multivitamintransporter, SMVT, og den andre er passiv diffusjon.
+
+Fra tarmcellene transporteres biotin over i portåren ved hjelp av et transportprotein, og fraktes til leveren. Fra leveren sendes biotin ut i blodet, der det binder til proteiner som albumin, globulin eller biotinidase, som frakter vitaminet til målcellene.
+
+**Målcellene tar opp biotin ved hjelp av SMVT, tilsvarende det som ble brukt i tarmcellene.** Studier på både dyr og mennesker har foreslått at vitaminet kan krysse blod-hjerne-barrieren, og på denne måten kommer inn i sentralnervesystemet.
+
+## Funksjoner
+
+**Biotin er en essensiell kofaktor for fem spesifikke enzymer, karboksylaser, som alle er viktige i metabolismen.** En karboksylase katalyserer en karboksyleringsreaksjon, der en karboksylgruppe bindes til det opprinnelige molekylet.
+
+Her er en beskrivelse av de fem enzymene og hva de gjør:
+
+-   **Acetyl-koenzym A karboksylase** finnes i to isoformer. Begge produserer molekylet malonyl-koenzym A, som er utgangspunktet for fettsyresyntesen, og en av hovedregulatorene for fettsyreforbrenningen.
+
+-   **Pyruvat karboksylase** omdanner pyruvat til oksaloacetat, en metabolitt i sitronsyresyklusen, som er utgangspunktet for nydanningen av glukose, glukoneogenesen.
+
+-   **Metylkrotonyl-koenzym A karboksylase** er sentral i nedbrytningen av de forgreinede aminosyrene, BCAA (valin, isoleucin, leucin).
+
+-   **Propionyl-koenzym A karboksylase** omformer propionyl-koenzym A til metylmalonyl-koenzym A som igjen omdannes til succinyl-koenzym A, som er en metabolitt i sitronsyresyklusen. Dette enzymet er sentralt i nedbrytningen av fettsyrer med oddetall karbonmolekyler, og enkelte aminosyrer.
+
+## Behov og anbefalinger
+
+Som for pantotensyre, finnes det ikke norske anbefalinger for inntak av biotin. De amerikanske anbefalingene er i området 30µg/dag, men datagrunnlaget bak disse anbefalingene er mangelfulle.
+
+## Mangeltilstander
+
+**Mangel på biotin har blitt observert hos personer som inntar store mengder rå eggehvite, pga bindingen til glykoproteinet avidin.** Det har tidligere også vært observert mangel hos pasienter som får total parenteral ernæring, men biotin er nå tilsatt denne type ernæring, så det er ikke lenger et problem.
+
+Symptomer på mangel kan være tørr hud, utslett, sprø negler, tørt og sprøtt hår og hårtap. **En nedsatt glukoseomsetning som følge av mangel på biotin kan medføre et forhøyet blodsukker.**
+
+## Kan vi få for mye?
+
+Ekstremt store doser gitt både oralt og intravenøst har aldri vist uheldige effekter, så vi kan trygt si at det ikke finnes toksiske effekter av dette vitaminet. Et eventuelt overskudd skilles effektivt ut over nyrene.
+
+## Gode kilder
+
+Biotin produseres av gjær og bakterier i maten og i tarmfloraen. Det antas at dette er hovedkilden til vår tilførsel av vitaminet. Matvarer som inneholder relativt mye biotin er eggeplomme, lever, sjømat, meieriprodukter og enkelte grønnsaker.
+
+## Aktuelt om biotin
+
+-   Biotin er nødvendig for glukoseomsetningen, og høye nivåer er assosiert med lavt blodsukker. Diabetikere (type 2) har ofte lavt biotinnivå, og det høye blodsukkeret kan i noen tilfeller normaliseres med biotintilskudd.

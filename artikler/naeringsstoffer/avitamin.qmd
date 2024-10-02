@@ -7,3 +7,82 @@ categories:
 ---
 
 [Tilbake til artikkelserien om næringsstoffene](../../naeringsstoffer.html)
+
+A-vitamin er det første av fire fettløselige vitaminer, og er essensiell for synsfunksjonen, kommunikasjon mellom kroppens celler og regulering av genuttrykk, spesielt knyttet til cellenes vekst og utvikling. Faktisk er alle cellene i kroppen på en eller annen måte avhengig av dette vitaminet. Preformet A-vitamin får vi fra animalske kilder, mens planter inneholder karotenoider, som dannes ved fotosyntesen. Noen av karotenoidene, som β-karoten, har provitamin-A-aktivitet, og kan omdannes til A-vitamin i kroppen, mens andre som lycopen, lutein og zeaxantin ikke har denne egenskapen.
+
+I kroppen finner vi vitaminet i flere former. Retinol er lagrings- og transportformen, mens de biologisk aktive formene er retinal og retinsyre. I cellene omdannes retinol til de aktive formene, alt etter hva det skal brukes til.
+
+## Opptak og metabolisme
+
+A-vitamin fra kostholdet kommer i form av preformet retinol eller retinylestere fra animalske kilder eller karotenoider fra diverse vegetabilske kilder. Disse er fettløselige, og følger til syvende og sist [fettopptaket](http://www.friskogfunksjonell.no/fett/ "Velkommen"), men det er mange enzymer involvert. Retinol kan absorberes via en uidentifisert retinoltransporter. Retinylestere må først hydrolyseres til retinol i tarmen, noe som skjer ved hjelp av enzymene pankreatisk triglyseridlipase (PTL) som finnes i bukspyttet, og fosfolipase B (PLB) som befinner seg i cellemembranen til tarmcellene. Det er altså retinol som absorberes fra tarmen og over i tarmcellene, sammen med andre fettløselige molekyler i såkalte miceller som dannes ved hjelp av gallesalter. Provitamin-A-karotenoider absorberes også sammen med disse micellene, men den foreløpige kunnskapen indikerer at disse først og fremst absorberes ved enkel diffusjon.
+
+Inne i tarmcellene vil retinolet binde til et intracellulært retinolbindende protein (CRBP2), og ved hjelp av enzymet lecitin retinol acetyltransferase (LRAT) reesterifiseres det til en retinylester, som inkorporeres i kylomikroner og og fraktes via lymfesystemet til leveren. Uesterifisert retinol kan også fraktes direkte over til blodet i små mengder gjennom et uidentifisert transportprotein. Provitamin-A-karotenoider kan transporteres direkte over i lymfevevet via kylomikroner, omdannes til retinoider, omdannes til inaktive former eller rett og slett bare bli igjen i tarmcellen til denne dør.
+
+Omdannelsen av karotenoider til retinoider er avhengig av flere enzymer, deriblant karotein monooksygenase 1 (CMO1), og uttrykket av dette enzymet reguleres av kjernereseptoren PPARγ. Biokonverteringen av provitamin-A-karotenoider er avhengig av både ytre,  indre og genetiske faktorer. Ytre faktorer kan f.eks. være graden av nedbrytning som følge av hvordan maten er tilberedt, eller andre molekyler i maten som eksempelvis pektin. Fett er viktig for utnyttelsen, og øker omdanningen til aktivt vitamin A. Indre faktorer er først og fremst behovet for A-vitamin. Når det er nok vitamin tilgjengelig vil enzymene nedreguleres, slik at vi ikke får for mye. Det er også identifisert noen genetiske variasjoner i CMO1-enzymet, og mutasjoner her kan redusere funksjonen. Generelt har folk av asiatisk/afrikansk opprinnelse høyere aktivitet, noe som sannsynligvis skyldes at disse historisk sett har vært mer avhengig av vegetabilske kilder til A-vitamin.
+
+Mesteparten av kroppens A-vitamin er lagret, hovedsakelig i leveren i form av retinylesteren retinylpalmitat. Kylomikronrestene tas opp i leveren, og retinylester frigjøres. I lysosomene hydrolyseres disse tilbake til retinol, som binder til CRBP. CRBP er ansvarlig for å frakte retinolet der det skal. Her er det tre muligheter; det kan reesterifiseres til retinylestere og lagres i leverens stellatceller, det kan dehydrogeneres til retinal og videre til retinsyre eller det kan fraktes ut i sirkulasjonen bundet til RBP i et kompleks sammen med transtyretin (TTR). Hva som skjer med retinolet i leveren styres av CRBP. CRBP uten bundet retinol vil hemme reesterifiseringen og stimulere frigjøringen av lagret retinol, og produksjonen av CRBP styres av kroppens behov for vitaminet.
+
+Transport ut fra leveren til andre kroppsvev skjer som nevnt ved at retinol, i et kompleks sammen med RBP og TTR, fraktes i blodet. TTR sørger for at RBP binder til retinolreseptoren på målcellen, og inne i disse cellene kan retinolet omdannes til sine aktive former, retinal og retinsyre, og utføre sine oppgaver.
+
+Utskillelsen av vitaminet fra kroppen skjer hovedsakelig via gallen etter omdanning til inaktive metabolitter. Normalt skilles veldig lite ut via urinen, men visse omstendigheter som akutt nyresvikt eller store infeksjoner kan tapet her øke mye.
+
+## Funksjoner
+
+Som nevnt i innledningen så er funksjoner i alle cellene i kroppen avhengig av A-vitamin. De mest fremtredende funksjonene handler om synsfunksjon, cellekommunikasjon, cellevekst og fosterutvikling. De aktive formene er retinal, som er sentral for synsfunksjonen, og retinsyre, som binder til ulike reseptorer som igjen binder til DNA og er med å regulere genuttrykket. Sirkulerende retinsyre er hovedkilden til denne metabolitten for hjerne og lever, mens andre vev i større grad baserer seg på egenproduksjon.
+
+A-vitamin er kanskje aller mest kjent for sin viktighet for synsfunksjonen. Retinal og opsin slås sammen og danner rhodopsin, som er viktig for å danne aksjonspotensialer i synsnerven. Rhodopsin er en bestanddel i synsnervens staver, som styrer lysmengden og dermed blant annet mørkesynet, og tapper, som styrer fargesynet.
+
+Kommunikasjon mellom celler skjer først og fremst gjennom såkalte gap junctions. Både retinal og retinsyre har vist seg å kunne hemme denne mekanismen, og derfor være med å regulere denne kommunikasjonen. Samtidig stimulerer retisyre produksjonen av en rekke proteiner som er viktig for at cellene skal henge sammen, noe som også er viktig for kommunikasjonen.
+
+Retinsyre har sin funksjon i cellekjernen ved å aktivere kjernereseptorer. Retinsyrereseptoren (RAR, Retinoic Acid Receptor) aktiveres av retinsyre, mens en annen reseptor som kalles retinsyre X reseptor (RXR, retinoid X receptor) aktiveres av en spesifikk A-vitaminmetabolitt, 9-cis-retinsyre. Sammen former to slike reseptorer et kompleks, som enten kan være en homodimer (to av samme type) eller en heterodimer (RXR+RAR). Et slikt reseptorkompleks binder deretter til hormonresponsive elementer på DNA. Det er funnet over 500 gener som på denne måten enten er direkte eller indirekte styrt av retinsyre. Utviklingen av et foster krever god timing i uttrykking av gener, cellevekst og celledød. Mangel på A-vitamin kan gi fødselsdefekter og øke risikoen for spedbarnsdød.
+
+Immunsystemet er også avhengig av A-vitamin, og mangel har vist seg å gi dårlig motstandskraft mot infeksjoner. Nøyaktig hvordan vitaminet virker overfor spesifikke infeksjonssykdommer er uvisst, men det er godt dokumentert at det reduserer dødeligheten av disse sykdommene. A-vitaminmangel svekker barrierene i tarmcellene, slik at flere bakterier tas opp fra tarmen (vist i forsøk på rotter), noe som øker faren for infeksjon. En økt produksjon av proinflammatoriske molekyler er også observert, noe som øker forekomsten av betennelsestilstander.
+
+Karotenoider har den egenskapen at de kan fange opp oksygenmolekyler, og har derfor en antioksidantfunksjon. Høyt inntak av karoteinoider fra frukt og grønnsaker er assosiert med redusert risiko for kreft og kardiovaskulær sykdom. Det samme er ikke vist ved inntak av kosttilskudd, der det blant annet er vist økt risiko for lungekreft hos røykere ved tilskudd av β-karoten. Karotenoidenes antioksidantegenskaper gjør at de kan være delaktig i å redusere inflammasjon og i reguleringen av immunrespons.
+
+## Behov og anbefalinger
+
+A-vitamininnholdet i matvarer måles i retinolaktivitetsekvivalenter, RAE. 1 RAE tilsvarer 1µg retinol, 2µg β-karoten i olje, 12µg β-karoten i mat eller 24µg andre provitamin-A-karotenoider. Det daglige behovet varierer fra 300-600 RAE for barn til 700-1000 RAE for voksne. 1000 RAE tilsvarer innholdet i ca 250g gulrot, 500g egg, 25g leverpostei eller 20g tran.
+
+Som følge av konsekvensene av forgiftning er den internasjonale konsensus at 3000 µg retinol er grensen for tolerabelt daglig inntak. Provitamin-A-karotenoider går ikke inn under denne, ettersom omdanningen til aktivt A-vitamin styres av kroppens totale vitaminstatus som beskrevet under opptak og metabolisme.
+
+Noen steder vil du finne A-vitamin oppgitt i internasjonale enheter (IU) i stedet for i µg eller RAE.
+
+> **Omregningsfaktorer mellom IU og RAE**
+>
+> 1 IU = 0,3 RAE.\
+> 1 RAE = 3,33 IU.
+
+## Mangeltilstander
+
+A-vitaminmangel, eller hypovitaminose A, er ikke uvanlig. Globalt er dette et relativt stort problem, spesielt i utviklingsland, og det er regnet som den nest vanligste mikronæringsstoffmangelen. Mangel på A-vitamin har mange konsekvenser, men også det som regnes som tilstrekkelige nivåer kan påvirke helsen og påvirke fysiologisk funksjon.
+
+En av effektene er synsforverring, xeroftalmi, som i ytterste konsekvens kan dette medføre blindhet. Xeroftalmi er inndelt i ulike stadier, der dårlig tilpasning til mørkesyn og nattblindhet som oftest er det første symptomet som oppstår. Deretter følger tørrhet som følge av redusert slimproduksjon, Bitot spots som er skummende utvekster på øyet bestående av avviste celler. Tørre hornhinner (xerose) er det neste som oppstår, etterhvert også med sårdannelse. Siste stadie gjenkjennes av omfattende keratomalasi (oppbløting av hornhinnen) og arr.
+
+Keratinisering av epitelceller er et annet symptom som kan oppstå, noe som kan gi hard hud. Dette kan i tillegg til huden også ramme luftveiene. A-vitamin er også viktig for slimproduksjonen, så mangel kan gi mangelfull produksjon av slim i luftveier og fordøyelsestrakten, noe som kan øke risikoen for mikrobiell infeksjon. Betennelser i spiserøret er en nylig oppdaget konsekvens av A-vitaminmangel.
+
+Teratogenese er en fellesbetegnelse for negativ fosterutvikling. Mangel på A-vitamin kan gi visse teratogene effekter, som manglende vekst og tidlig død. Dette kan også skyldes for mye A-vitamin.
+
+Det er ingen kjente mangelsykdommer knyttet til karotenoider, men et høyt inntak er assosiert med økt motstandsdyktighet mot en rekke sykdommer. Aldersrelatert forverring av synet og grå stær er blant disse, men også kreft og hjerte/kar-sykdom.
+
+## Kan vi få for mye?
+
+A-vitaminforgiftning, eller hypervitaminose A, skyldes et akutt eller kronisk høyt inntak, som oftest i form av tilskudd. Den eneste matvaren som gir en realistisk risiko for denne tilstanden er lever, spesielt isbjørnlever, som inneholder ekstremt mye A-vitamin. Enkelte farmasøytiske midler kan inneholde mye A-vitamin, spesielt midler mot kviser, psoriasis og lignende. Effektene av forgiftning skyldes overekspresjon av gener.
+
+Symptomer på A-vitaminforgiftning kan være hodepine, oppkast, irritabel hud/utslett, ledd- og knokkelsmerter, og etterhvert koma og død. Kronisk forgiftning kan føre til fibrose av leveren og ascites (store vannansamlinger i bukhulen). Høyt inntak er også assosiert med redusert beintetthet, og det er godt etablert at A-vitamin stimulerer nedbrytning og hemmer nydanning av beinvev. Det er også vist at A-vitamin i store doser kan redusere effekten av D-vitamin, noe som også kan spille inn. Per i dag er dette et område det forskes på, og det er ikke mulig å gi noen råd om maksimalt inntak utover tolerabelt daglig inntak.
+
+Hypervitaminose A hos gravide kvinner kan i likhet med mangel gi teratogene effekter hos fosteret. Medfødte misdannelser  i øyne, lunger, hjerte og kjønnsorgan er blant de vanligste defektene.
+
+Når det gjelder karotenoider, kan et overdrevet inntak føre til gulfarging av hud (karotenodermia) og keratinisering av huden i håndflatene og fotsålene. Disse effektene er ikke farlig, og vil gradvis forsvinne når inntaket reduseres.
+
+## Gode kilder
+
+Siden A-vitamin lagres i leveren, sier det seg selv at lever er en ekstremt god kilde til dette vitaminet. I tillegg inneholder fete meieriprodukter, egg og tran en del.
+
+Fra planteriket finner vi en del karotenoider i bl.a. gulrøtter, grønne bladgrønnsaker, tomat, mango og appelsiner.
+
+## Aktuelt om A-vitamin
+
+-   A-vitamin og provitamin-A-karotenoider kan muligens bidra til å øke jernopptaket fra et måltid, sannsynligvis ved å redusere jernets binding til fytat. Denne effekten er foreløpig ikke godt dokumentert.
+
+Artikkelen er oppdatert juni 2013

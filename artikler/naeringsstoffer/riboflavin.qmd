@@ -7,3 +7,45 @@ categories:
 ---
 
 [Tilbake til artikkelserien om næringsstoffene](../../naeringsstoffer.html)
+
+Det andre av de åtte B-vitaminene er Riboflavin, også kjent som vitamin B2. B-vitaminene er vannløselige, så vi er avhengig av et kontinuerlig inntak av disse for å opprettholde god helse. Disse vitaminene er i stor grad involvert i kroppens energimetabolisme, som kofaktorer til viktige enzymer.
+
+**Riboflavin er grunnformen av vitaminet, mens de aktive formene er FMN (Flavin adenin mononukleotid) og FAD (Flavin adenin dinukleotid)**. Vi har ingen spesifikke lagre av dette vitaminet, men det finnes i de fleste celler bundet til proteiner, såkalte flavoproteiner.
+
+## Opptak
+
+Riboflavin, FMN og FAD fra maten tas opp i tynntarmen via et natriumavhengig transportprotein. Fra tarmcellene sendes riboflavin til leveren gjennom portåren, en blodåre som går fra tarmen til leveren. **Fra leveren sendes riboflavin ut i blodet, og fraktes sammen med immunoglobuliner eller albumin, og tas aktivt opp i målcellene gjennom spesifikke transportproteiner.**
+
+I målcellen omdannes riboflavin til de aktive formene FMN og FAD. Denne omdanningen skjer i alle vev, men spesielt mye omdannes i tarmen, leveren, hjertet og nyrene.
+
+## Funksjoner
+
+**FMN og FAD er koenzymer for mange enzymer, og har som oppgave å overføre hydrogenatomer.** Funksjoner som er avhengig av dette vitaminet er blant annet energiproduksjon i elektrontransportkjeden og regulering/modifisering av andre B-vitaminer ([B6](http://www.friskogfunksjonell.no/b6/ "Pyridoksin, vitamin B6"), [niacin](http://www.friskogfunksjonell.no/niacin/), [folat](http://www.friskogfunksjonell.no/folat/) og [B12](http://www.friskogfunksjonell.no/b12/)).
+
+**Siden riboflavin er involvert i energimetabolismen er det også nødvendig for hjernefunksjon, da energiproduksjonen i hjernen bruker de samme reaksjonsveiene.**
+
+Riboflavin er også involvert i antioksidantforsvaret, som kofaktor for enzymet glutation reduktase, som gjendanner den sterke antioksidanten glutation etter bruk.
+
+## Behov og anbefalinger
+
+**I motsetning til situasjonen med [thiamin](http://www.friskogfunksjonell.no/thiamin/), øker ikke behovet for riboflavin ved økt energiinntak.** Dette skyldes at vitaminet resirkuleres og kan brukes igjen. Ved negativ nitrogenbalanse (ikke tilstrekkelig proteininntak), øker utskillelsen, og dermed behovet. Behovet reflekterer den mengden som blir skilt ut i urinen daglig.
+
+De norske anbefalingene ligger rundt 1,5mg/dag, med litt variasjoner etter kjønn og alder. Dette tilsvarer innholdet i ca. 200g egg (3-4 stk), 1L melk (alle typer), 100g brunost eller 300g makrell.
+
+## Mangeltilstander
+
+Mangel på riboflavin kan oppstå ved malabsorbsjon i tarmen eller høyt alkoholinntak. Andre årsaker til mangel kan være et utilstrekkelig energiinntak (f.eks. ved anorexi), diaré eller infeksjonssykdommer. **Hovedårsaken til riboflavinmangel i verden i dag er matmangel eller dårlige lagringsforhold (vitaminet ødelegges/forsvinner), og er derfor spesielt utbredt i enkelte U-land.**
+
+Symptomer på mangel er sår hals, samt hevelser i slimhinnene i munnen/halsen. Rødhet og kløe, spesielt på hud som inneholder mye talgkjertler, som øyelokk og rundt nesen. Sår i munnvikene og oppssvulmet tunge er andre symptomer som kan oppstå.
+
+## Kan vi få for mye?
+
+Opptaket av riboflavin er nøye regulert, og et eventuelt overskudd skilles effektivt ut over nyrene. **Det er ingen kjente toksiske effekter av dette vitaminet.**
+
+## Gode kilder
+
+Riboflavin finnes i de fleste plante- og dyreceller. Gode kilder er egg, kjøtt, fet fisk, lever og meieriprodukter. **Vitaminet er veldig sensitivt for lys, noe som er en av grunnene til at melk oppbevares i kartonger og ikke flasker. En del forsvinner også i kokevann.**
+
+## Aktuelt om Riboflavin
+
+-   Riboflavin tilsettes i mat som et gult fargestoff, og har e-nummer E101.

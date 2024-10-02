@@ -1,0 +1,76 @@
+---
+title: "Belastningsskader: Runners knee"
+author: "Torbjørn Lysne"
+date: "2011.11.26"
+categories:
+  - trening
+  - skader
+---
+
+Mange sliter med belastningsskader, og spesielt gjelder dette mennesker som trener mye og ensidig. Jeg vil ta for meg de vanligste av disse og presentere de i egne artikler. Der vil jeg ta for meg hva som kjennetegner de ulike lidelsene, og hvordan de best kan behandles/forebygges. Først ut er ”Iliotibial Band Friction Syndrome” (ITBS), også kjent som ”Runners knee”.
+
+Runners Knee (ITBS) er en vanlig muskel-/skjelettlidelse som rammer idrettsutøvere som driver mye monoton trening. Skaden skyldes inflammasjon i nederste deler av **tractus iliotibialis** (se bilde) og gir smerter på utsiden av kneet.
+
+Tractus iliotibialis er en sterk og stram bindevevshinne på utsiden av låret som har utspring fra hoftekammen og fester på utside/fremside av det største leggbeinet (tibia). Både m. tensor fascia latae og m. gluteus maximus fester i Tractus iliotibialis, og båndet blir dermed en forlengelse av draget fra disse musklene.
+
+ITBS er en typisk idrettsskade som rammer utøvere som gjør mange repetitive fleksjons- og ekstensjonsbevegelser i kneleddet, for eksempel langdistanseløpere og syklister. Når kneet flekteres dras båndet over epicondylus lateralis (struktur nederst på lårbeinet - se bilde) på lårbeinet, mens det glir tilbake når kneet ekstenderes. Stadig glipping fram og tilbake over epicondylen  kan føre til betennelse av den nederste delen av tractus iliotibialis. Dette fører til smerter og man må kanskje ta noen dagers hvile fra normal trening.
+
+## Behandling og forebygging
+
+Ved ITBS finnes det mange forskjellige strategier, og her vil jeg se kort på ting man kan gjøre selv.
+
+Hovedmålet med behandling av ITBS er å minimalisere friksjonen mellom tractus iliotibialis og epicondylus lateralis på femur. I akuttfasen skal man begynne behandlingen ved å forsøke å redusere inflammasjonen. Ofte brukte metoder for dette er nedkjøling med is og betennelsesdempende/smertedempende medikamenter (NSAIDs). Det er også viktig å modifisere aktiviteten, slik at man ikke provoserer tractus iliotibialis på likt nivå som da skaden oppstod.
+
+**Den generelle betennelsestilstanden i kroppen påvirkes også av [balansen mellom omega-3 og omega-6](http://www.friskogfunksjonell.no/omega-3-og-omega-6-i-kostholdet/ "Omega-3 og Omega-6 i kostholdet").**
+
+Når betennelsen er under kontroll kan man begynne med videre behandling for å bedre vilkårene for tractus iliotibialis. Ut fra hoftebevegelighet, hoftestyrke og muskulær spenningsgrad kan man velge den metoden man er mest fortrolig med. Her er en rask gjennomgang av noen vanlige metoder:
+
+-   Massasje
+
+Ved ITBS er massasje en mye brukt behandlingsform. Dersom muskler som kan stramme opp tractus iliotibialis er påvirket, kan massasje normalisere spenningsnivået i muskelen og gjøre tractus iliotibialis litt mindre stram. Dette kan føre til at båndet glir lettere over epicondylus lateralis på femur når kneet beveges, som igjen kan gi mindre friksjon og minske sjansene for inflammasjon i bindevevet.
+
+Når man skal behandle og/eller forebygge ITBS ved massasje er det viktig å kunne anatomien for å vite hvilke muskler en bør massere. Muskler som har anatomisk sammenheng med tractus iliotibialis er som nevnt m. gluteus maximus og m. tensor fascia latae, men også mm. Quadriceps (fremside lår), mm. Hamstrings (bakside lår) og m. latissimus dorsi (vingemuskelen) bør inkluderes. Nevnt muskulatur kan masseres på egenhånd ved hjelp av egenmassasje (foam roller).
+
+-   Tøyninger
+
+Belastningsskader som ITBS kan forklares ved at repetitive bevegelser fører til belastninger som igjen fører til små mikrorupturer. Slike mikrotramer forårsaker større skader enn det kroppen klarer å reparere, og det oppstår en inflammasjon i vevet.
+
+ITBS kommer som en følge av en kombinasjon av overbenyttelse av vevet og biomekaniske faktorer. Bruk av muskulatur vil gjøre at fibrene trekker seg sammen og forkortes. Ved ITBS vil kort m. gluteus maximus og m. tensor facsia latae øke draget på tractus iliotibialis siden de fester i bindevevet. Dette kan igjen føre til et strammere drag over femurs laterale epicondyl, friksjonen er økt og faren for inflammasjon likeså. Tøyninger av tractus iliotibialis, sete- og lårmuskulatur blir dermed en vesentlig del av behandling og/eller forebygging av ITBS. Tøyninger av denne muskulaturen vil minske draget på tractus iliotibialis, mens tøyning av selve bindevevet vil øke lengden av det, og dermed gi bedre forhold under knebevegelser.
+
+-   Styrketrening av hoftemuskler
+
+Studier har vist at styrketrening på hoftens abduktorer (de som fører benet utover), ved siden av treningsbegrensninger og tøyninger, reduserte smertene til nesten samtlige i undersøkelsesgruppen. Et eksempel på en øvelse for denne muskulaturen kan være liggende sidehev av foten eller sidehev i slynge.
+
+## Tilbake til normal trening
+
+Ved siden av de fysiske behandlingene er det viktig å vite årsaken til at smertene oppstår. For å unngå å slå opp skaden etter kort tid må man vite hvordan treningen skal legges til rette for å komme tilbake i full trening. Det er samtidig viktig å ha en progressiv treningsperiode med gradvis økning i distanse/intensitet og frekvens på treningsøktene i oppbyggingsfasen. Hovedregelen på når man kan begynne å trene løping igjen etter å ha hatt ITBS er når man kan utføre styrkeøvelser.
+
+## Behandlingsmetoder ved langvarige plager
+
+Dersom de nevnte betennelsesdempende behandlingsmetodene ikke fungerer som normalt, kan kortisoninjeksjon være en alternativ metode for å redusere betennelse og smerte. Ved smerter over 6 måneder uten virkning av noen tiltak kan operasjon være siste utvei.
+
+Avslutningsvis kan jeg nevne at prognosen for ITBS er god, og så godt som alle kommer tilbake i full trening relativt kjapt. Som hovedregel ved ITBS følger man denne rekkefølgen fra akuttfase til vanlig trening:
+
+1.  NSAID, is og/eller hvile for å dempe betennelse
+
+2.  Tøyninger og massasje når betennelsen er redusert
+
+3.  Styrketrening av hoftemuskulatur når tøyning går greit uten smerter
+
+4.  Begynne vanlig trening når styrketrening går greit uten smerter
+
+**Referanser**
+
+1.  Anderson, M. K (2003) **Fundamentals of sports injury management**. Philadelphia, Lippincott Williams & Wilkins.
+
+2.  Bahr, R. red & Mæhlum, S. red (2006) **Idrettsskader**. Oslo, Gazette AS.
+
+3.  Buschbacher, R., Prahlow, N. & Dave, S. J. (2009) **Sports & medicine rehabilitation – a sport-spesific approach.** Philadelphia, Lippincott Williams & Wilkins.
+
+4.  Chaudhari, A. M., Cookingham, C. L., Dowdell, B. C., Fredericson, M., Oestricher, N. & Sahrmann, S. A. (2000) **Hip abductor weakness in distance runners with iliotibial band syndrome**. Clinical Journal of Sport Medicine \[Internett\], 10 (3), 169-175.
+
+5.  Flynn, S. H. & Khaund, R. (2005) **Iliotibial band syndrome: a common source of knee pain**. American Family Physician, 71 (8), 1545-1550.
+
+6.  Fredericsom M., & Wolf, C. (2005) **Iliotibialis band syndrome in runners: innovation in treatment**. Sports Med, 35 (5), 451-459.
+
+7.  Fritz, S. (2005) **Sports & exercise massage – Comprehensive care in athletics, fitness & rehabilitation**. St. Louis, Elsevier mosby

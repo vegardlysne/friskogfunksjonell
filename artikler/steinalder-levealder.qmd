@@ -1,0 +1,57 @@
+---
+title: "Steinaldermenneskets lave levealder, et argument i kostdebatten?"
+author: "Vegard Lysne"
+date: "2011.10.24"
+---
+
+Steinaldermennesket ble bare 30 år gamle. Dette er et argument som titt og ofte dukker opp i ulike diskusjoner om kosthold. Som oftest brukes det som et argument for at steinalderkosthold umulig kan være noe bra for oss, siden vi tross alt lever mye lenger i dag. Men er det egentlig sånn at forventet levealder kan fortelle oss hvor bra et kosthold er? Og sier den noe om hvor gammel vi kan bli?
+
+I følge Christian Drevon, som nylig deltok i en kostholdsdebatt på NRK, kan vi forklare steinaldermenneskets korte levealder med kostholdet. Men er dette egentlig tilfelle, og hvis ikke, hvorfor?
+
+## Hva er forventet levealder?
+
+Når vi snakker om forventet levealder i en populasjon, så tenker vi på den gjennomsnittlige levealderen. I Norge i dag kan en mann forvente å bli 78,6 år gammel, mens en kvinne kan forvente å leve nesten fem år lenger, til hun er 83,1 år. Likevel er det ikke sånn at alle blir så gammel, og mange blir også mye eldre.
+
+**For å enklest mulig forklare hvordan dette begrepet benyttes, har jeg laget en liten historie:**
+
+> Ola og Kari Nordmann levde et langt liv sammen som en familie. Ola døde i det øyeblikket han ble 78,6 år gammel, og noen år senere tok også Kari kvelden. Den observante leser har sikkert gjettet hvor gammel Kari ble. (For de litt mindre observante, kan jeg røpe at hun ble 83,1 år gammel.)
+
+> Ola og Kari ville veldig gjerne ha barn, og i løpet av livet var Kari gravid tre ganger. Pga komplikasjoner under fødselen, døde dessverre det første barnet allerede den første dagen. Det andre barnet, Lise, ble påkjørt av skolebussen og døde, bare 10 år gammel. Det tredje barnet fikk navnet Jens, og han lever fortsatt blant oss. Han er nå 55 år gammel, og lurer på hvor gammel han kommer til å bli.
+
+Hvis vi ser på familien Nordmann som en populasjon, så kan vi beregne gjennomsnittlig levealder og dermed forventet levealder for Jens. Ved å se på den gjennomsnittlige alderen på de som er døde i populasjonen, får vi et estimat på hvor gammel Jens kan forvente å bli. Vi prøver:
+
+> 78,6 + 83,1 + 0 + 10 = 171,7 år
+>
+> 171,7 år/ 4 = **42,9 år**
+
+Gjennomsnittlig levealder i familien Nordmann er i underkant av 43 år. Jens har med andre ord for lengst passert denne alderen. Burde Jens derfor se på seg selv som et medisinsk mirakel som fremdeles lever? Såklart ikke, da andre mennesker i samme populasjon har blitt mye eldre!
+
+## Forventet levealder vs maksimal levealder
+
+**Problemet med å se på forventet levealder for steinaldermennesket er nettopp dette. Med stor sannsynlighet var det mange som døde i ung alder, enten pga hygieniske forhold ved fødselen, harde klimatiske forhold, jaktulykker osv.** Jo flere som dør i en ung alder, jo lavere blir gjennomsnittsalderen i populasjonen, og dermed blir det forventede levealderen også lav.
+
+Genetisk sett er vi svært like våre forfedre i steinalderen, og det er da å forvente at den maksimale levealderen ikke har forandret seg noe særlig, selv om vi absolutt benytter oss bedre av den i dag!
+
+Det er derfor svært viktig at vi skiller mellom **forventet** levealder, som har mest med miljø å gjøre, og **maksimal** levealder, som er genetisk bestemt.
+
+## Hvordan har forventet levealder utviklet seg i Norge?
+
+Bare for ca. 100 år siden, rundt år 1900, var forventet levealder i Norge ca. 50 år. I 1950 var forventet levealder steget til 71 år, og tallet steg ytterligere opp til 81 år ved årtusenskiftet (1). Hovedårsaken til denne økningen er et fall i spedbarnsdødeligheten. I tillegg er det stadig flere som overlever sykdommer de tidligere ville dødd av, som f.eks. hjerteinfarkt.
+
+Bare siden år 1900 har forventet levealder økt med over 30 år her i Norge. Betyr dette at dagens kosthold er mye bedre enn for 100 år siden? Naturligvis ikke.
+
+## Hva har da levealder med kostholdsdebatten å gjøre?
+
+Jeg syns vi skal være forsiktige med å tillegge kostholdet en større rolle enn det har hatt i utviklingen av forventet levealder. **Selvfølgelig har kostholdet mye å si for enkeltindividet, men for store grupper er det helt andre faktorer som ligger bak denne økningen.**
+
+Mange bruker likevel levealder som et argument for at dagens kornbaserte kosthold er det sunneste. Iver Mysterud skriver i sin bok, "Mat, menneske og evolusjon" (2), at paleopatologer, som studerer rester etter mennesker fra eldre tidsperioder, mener at:
+
+> Det kornbaserte kostholdet førte til en rekke helseskader: folk ble lavere av vekst, **barnedødeligheten økte, levealderen ble lavere** og infeksjonssykdommer, jernmangelanemi, osteomalasi og andre defekter i skjelettdannelsen, tannråte og tannemaljeproblemer forekom hyppigere
+
+I og med at det er så mange andre ting som spiller inn på forventet levealder, og denne i tillegg ikke sier noe om alderen for enkeltindividet, mener jeg at dette argumentet må vekk fra kostholdsdebatten.
+
+#### Referanser
+
+1.  Folkehelseinstituttet - Levealder - fakta om forventa levealder i Noreg
+
+2.  Mysterud I: Mat, Menneske og Evolusjon, 1 edn: Gyldendal Akademisk; 2006

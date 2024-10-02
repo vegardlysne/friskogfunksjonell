@@ -7,3 +7,69 @@ categories:
 ---
 
 [Tilbake til artikkelserien om næringsstoffene](../../naeringsstoffer.html)
+
+Magnesium er det fjerde mest vanlige kationet i kroppen vår, etter [kalsium](http://www.friskogfunksjonell.no/kalsium/ "Kalsium"), [kalium](http://www.friskogfunksjonell.no/kalium/ "Kalium") og [natrium](http://www.friskogfunksjonell.no/natrium-og-klor/ "Natrium og klor"), spesielt intracellulært der det det viktigste divalente kationet og det nest viktigste kationet totalt sett. Magnesium har atomnummer 12 og symbolet Mg. Mineralet er det åttende mest utbredte elementene i naturen, og i sjøvann er det det nest mest utbredte kationet. Magnesium spiller en sentral rolle i mange viktige biologiske funksjoner, og mangel kan føre til alvorlige symptomer. Blant annet er magnesium involvert i reguleringen av ionekanaler, som sørger for transport av ulike ioner gjennom cellemembranene, som er kritisk for normal cellefunksjon.
+
+## Opptak og metabolisme
+
+Opptaket av magnesium skjer i hele tarmen, men mesteparten foregår i distale jejunum og ileum, altså nederst i tynntarmen. Opptaket skjer både ved aktiv transport, som er viktigst ved lavt inntak, og passiv transport, som er viktigst ved høyt inntak. Som med mange andre mineraler så vil en større andel absorberes ved lavt inntak, mens opptaket totalt sett er størst ved høyt inntak. Opptaket av magnesium starter ca en time etter inntak, og foregår i et jevnt tempo, før opptaket stopper helt opp etter ti timer.
+
+I kroppen finner vi omtrent 25g magnesium, hvorav 50-60% befinner seg i beinvevet. Resten fordeler seg ekstra- og intracellulært, og under 1% befinner seg i blodet. Omtrent en tredjedel av magnesiumet i beinvevet er utbyttbart og fungerer som et lager for å opprettholde de ekstracellulære nivåene. Den fysiologisk aktive formen er fritt, ionisert magnesium, og proteinbundet magnesium fungerer som en buffer for å sørge for at konsentrasjonene av den frie formen holdes stabilt. Av magnesium i blodet er omtrent 30% bundet til plasmaproteiner, og resten fritt. Intracellulært er det meste bundet til enten proteiner eller energirike fosfatholdig molekyler. Magnesium fraktes inn og ut av cellene gjennom transportproteiner, som oftes sammen med andre molekyler som natrium eller bikarbonat.
+
+Nyrene regulerer magnesiumhomeostasen i kroppen, og vil normalt kunne tilpasse utskillelsen etter hvor mye vi får i oss. Ved lavt inntak kan nyrene nesten kutte ut all utskillelse, noe som gjør at vi i stor grad sparer magnesium. Dersom vi spiser mye protein, salt eller kalsium, eller drikker mye koffein og alkohol, så vil utskillelsen av magnesium økes som følge av samtransportmekanismer i nyrene.
+
+## Funksjoner
+
+Magnesium har mange viktige funksjoner i kroppen, som kofaktor i enzymatiske reaksjoner, i energiomsetningen, stabilisering av RNA/DNA, dannelsen av membranpotensialer, ledning av nerveimpulser og for hjertets funksjon. Magnesium virker primært ved å danne komplekser med negativt ladde molekyler som fosfater og nukleinsyrer, slik at disse stabiliseres og lettere kan binde til enzymer eller substrater. På denne måten er magnesium en viktig kofaktor for over 300 metabolske reaksjoner i kroppen vår.
+
+Mange enzymatiske reaksjoner er avhengig av magnesium, og mineralet kan bidra på to forskjellige måter. Enten kan magnesium binde til substratet, og dermed danne et kompleks som enzymet kan binde til, eller så kan magnesium binde til selve enzymet, og endre dets struktur eller ha en katalytisk rolle.
+
+I energiomsetningen er magnesium blant annet en essensiell kofaktor for en rekke enzymer i nedbrytningen av glukose (glykolyse), sitronsyresyklusen, nydanning av glukose (glukoneogenese), fettmetabolisme og i proteinsyntesen. Syntesen av den sterke antioksidanten glutation er også avhengig av magnesium. Det er også studier som viser at magnesiumstatus er relatert til insulinsensitivitet, og at høyere inntak av magnesium kan forbedre insulinresistens hos de med lav magnesiumstatus.
+
+Magnesiums rolle med tanke på membranpotensialer, nerveimpulser og hjertets funksjon, henger sammen med mineralets påvirkning på ionekanaler. Ionekanalene er membranproteiner som styrer hvilke ioner (f.eks. K+, Na+,Ca2+) som slippes gjennom, og hvor mye. Magnesium er viktig for funksjonen til en rekke ionekanaler, noe som er viktig i alle de nevnte prosessene. Na/K-pumpen, som frakter kalium inn i cellen og natrium ut er en av de viktigste ionekanalene vi har, og denne er avhengig av magnesium for normal funksjon. Opprettholdelse av mengden intracellulært kalium er viktig for normal funksjon av membranpotensialet. Dette er spesielt sentralt i hjertemuskelen, da kalium er det viktigste ionet for å opprettholde regelmessige kontraksjoner.
+
+Magnesium har blitt kalt naturens fysiologiske kalsiumkanalblokker, noe som er fordi at intracellulære kalsiumnivåer øker når magnesiumnivåene reduseres. Kalsium er viktig for normal muskelfunksjon, og dette gir en forklaring på hvorfor magnesiummangel kan føre til kramper og hypertensjon.
+
+## Behov og anbefalinger
+
+Behovet for magnesium er vanskelig å beregne, og per i dag har vi ikke noen tilstrekkelig gode metoder å beregne dette behovet på. Anbefalingene er derfor satt utifra en estimert mengde, som skal være tilstrekkelig til å unngå mangeltilstander.
+
+De norske anbefalingene er et daglig inntak på 350mg, noe som tilsvarer mengden du får i deg ved å spise ca 100g solsikkefrø, 150g cashewnøtter eller 1kg kjøtt eller fisk.
+
+Flere analyser gjennomført i USA viser at det gjennomsnittlige inntaket av magnesium ikke er i nærheten av anbefalingene, og det er estimert at 75% av amerikanerne har et inntak som er langt under det anbefalte.
+
+## Mangeltilstander
+
+Magnesiummangel kan skyldes flere ting. Høyt inntak av alkohol, koffein eller bruk av vanndrivende medikamenter kan øke utskillelsen av magnesium. Det samme kan sykdommer som øker urinproduksjonen, eksempelvis diabetes. Acidoser kan også øke urinutskillelsen av magnesium. Malabsorbsjon kan skyldes kort tarm, cøliaki, inflammatorisk tarm eller infeksjoner, og føre til redusert opptak av magnesium. Personer med stomi (utlagt tarm) får veldig ofte mangel på magnesium ettersom mye tapes gjennom stomien. Utilstrekkelig inntak av magnesium er en siste årsak, og kan skyldes høyt inntak av hel- og halvfabrikata som inneholder lite magnesium, eller lavt matinntak generelt.
+
+De første symptomene på magnesiummangel er reduser apetitt, kvalme, oppkast, utmattethet og opplevelse av muskelsvakhet. Etterhvert som hypomagnesemien blir mer uttalt, kan man oppleve skjelving, rykninger og kramper. Hjertekramper (angina) eller arytmi kan også komme som følge av magnesiummangel.
+
+Kronisk, marginal magnesiummangel kan bidra til utviklingen av kliniske tilstander som forhøyet blodtrykk, aterosklorose, preeklampsi (svangerskapskomplikasjoner) og beinskjørhet. Magnesiummangel fører ofte til mangel på andre næringsstoffer, spesielt [kalsium](http://www.friskogfunksjonell.no/kalsium/ "Kalsium") og [kalium](http://www.friskogfunksjonell.no/kalium/ "Kalium"). Kaliummangelen skyldes sannsynligvis redusert funksjon av Na/K-pumpen slik at kalium transporteres fra cellene og ut i blodet slik at mer skilles ut, mens kalsiummangelen med stor sannsynlighet skyldes dysregulering av paratyroideahormon (PTH) og [D-vitamin](http://www.friskogfunksjonell.no/d-vitamin/ "D-vitamin").
+
+Folk med kroniske malabsorbsjonstilstander som cøliaki, inflammatoriske tarmsykdommer, fettmalabsorbsjon eller de som har gjennomgått kirurgi i tarmene (kort tarm) kan ha behov for magnesiumtilskudd ettersom de risikerer å tape en del gjennom avføringen. Eldre skiller ut mer magnesium i urinen og har et dårligere opptak i tarmen, i tillegg til at de gjerne får medikamenter som interagerer med magnesium. Disse kan også i mange tilfeller ha behov for tilskudd.
+
+## Kan vi få for mye?
+
+Overbelastning av magnesium er svært uvanlig, men forekommer. Vanligvis er årsaken et overdrevet inntak av tilskudd, kombinert med nyreproblemer. Dette kan være som følge av behandling av preeklampsi, der pasienten får store doser magnesium. Langvarig forstoppelse kan føre til et forhøyet opptak.
+
+Økte blodverdier av magnesium gir i første omgang diaré. Deretter vil symptomene kunne minne om de som oppstår ved mangel, som kvalme, oppkast, utmattethet, muskelsvakhet osv. En mer alvorlig magnesiumforgiftning kan gi konsekvenser som lavt blodtrykk, respiratoriske forstyrrelser, nyresvikt og hjertestans.
+
+## Biotilgjengelighet og gode kilder
+
+Biotilgjengeligheten av magnesium påvirkes av en rekke faktorer. For det første så vil andelen som absorberes være lavere jo høyere inntaket er. Antinæringsstoffer som fytat og oksalat kan binde magnesium i tarmen og hindre opptak, og det samme kan fiber. Store mengder frie fettsyrer i tarmen har vist seg å redusere magnesiumopptaket, noe som gjør at magnesium absorberes dårligere sammen med fettrike måltider.
+
+Magnesium finnes i alle matvarer, men stort sett i lave konsentrasjoner. Frukt inneholder lite magnesium. I et normalt kosthold bidrar grønnsaker, kornvarer, kjøtt, fisk og meieriprodukter med omtrent like mye.
+
+## Aktuelt om Magnesium
+
+-   Dersom du sliter med kramper, kan magnesiumtilskudd hjelpe med dette. Siden mat, og spesielt fettsyrer, i tarmen reduserer opptaket, er det en fordel å ta tilskuddet så langt unna andre måltider som mulig, gjerne rett før du legger deg.
+
+-   Magnesiumterapi kan være positivt ved hjerteinfarkt. Dette er fordi magnesium blokkerer intracellulære kalsiumkanaler og dermed kan redusere økningen i intracellulært kalsium og dermed redusere størrelsen på infarktet.
+
+-   Magnesium kan spille en rolle i behandling av høyt blodtrykk, og effekten ser ut til å være størst i kombinasjon med høyt inntak av kalsium og kalium.
+
+-   Det er økende evidens som setter magnesium i relasjon til utviklingen av diabetes type 2 og metabolsk syndrom. Hos personer med magnesiummangel har tilskudd av magnesium vist seg å kunne reversere disse tilstandene. Dette kan skyldes at suboptimale magnesiumnivåer kan redusere kinaseaktivitet på reseptornivå og dermed bidra til utviklingen av insulinresistens.
+
+-   Sammenhengen mellom magnesium og overvekt er foreløpig lite utforsket, men ettersom magnesium har en sammenheng med inflammasjon er det mange som tror at magnesium kan spille en rolle i overvekt, ettersom dette er forbundet med kronisk, lavgradig inflammasjon.
+
+*Artikkelen er sist oppdatert juli 2013*

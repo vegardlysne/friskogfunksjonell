@@ -1,0 +1,74 @@
+---
+title: "Hvordan bør en diabetiker spise?"
+author: "Vegard Lysne"
+date: "2011.12.08"
+categories:
+  - kosthold
+  - diabetes
+---
+
+Diabetes type 2 er en livsstilssykdom som har økt kraftig i omfang, og stadig flere rammes. Ved denne sykdommen er kroppens blodsukkerregulering påvirket, og kostholdet blir derfor viktig. Likevel er det en del uenighet om hva som er et gunstig kosthold for en diabetiker, og ikke minst hvilken type kosthold som er best for å forebygge denne sykdommen. En studie fra 2010 så på akkurat dette.
+
+## Omfanget av diabetes type 2
+
+Diabetes type 2 (DMT2) ble tidligere kalt gammelmannsdiabetes eller voksendiabetes, siden det var en sykdom som hovedsakelig rammet eldre mennesker. I nyere tid har man sett seg nødt til å gi sykdommen et nytt navn, siden stadig flere og yngre mennesker utvikler den.
+
+I europeiske land regnes prevalensen av DMT2 til 4-8%, men den er økende. Internasjonalt har forekomsten av DMT2 økt fra 50 millioner tilfeller i 1985 til 247 millioner tilfeller i 2007. Det er estimert at forekomsten vil være 472 millioner i 2025 dersom dagens utvikling fortsetter. I samme periode har prevalensen i Norge økt fra 2,9% til 4,3%.
+
+Den reelle utviklingen trenger ikke å være like stor som tallene tilsier, da tallene i stor grad baseres på hvor mange som registreres som syke. Vi vet at det tar ca 7 år før man får diagnosen, men likevel kan vi anta at vi oppdager flere tilfeller nå enn vi har gjort tidligere. Levealderen øker også, og siden diabetes er aldersrelatert, kan dette også bidra til den økte forekomsten. Likevel er det helt klart at forekomsten av DMT2 øker kraftig, spesielt i vestlige land, og med stor sannsynlighet er den typiske vestlige livsstilen sterkt medvirkende til dette.
+
+## Hvilke anbefalinger får diabetikere i dag?
+
+Diabetesforbundet har ikke noen direkte kostholdsråd på sine sider, men understreker at man bør velge:
+
+-   fiber i form av grove kornprodukter, grønnsaker og litt frukt
+
+-   mindre [fett](http://www.friskogfunksjonell.no/fett/ "Fett") fra kjøtt og meieriprodukter og mer fett fra fisk og plantekilder
+
+-   langsomme [karbohydrater](http://www.friskogfunksjonell.no/karbohydrater/ "Karbohydrater") fremfor raske karbohydrater, og unngå rent sukker og hvitt hvetemel
+
+Landsforeningen for hjerte- og lungesykdom anbefaler et ["hjertevennlig" kosthold](http://www.lhl.no/no/hjerteloftet/sunn-livsstil/kosthold/anbefalinger---hjertevennlig-kosthold/) med ekstra fokus på karbohydratene. Dette innebærer at maks en fjerdedel av tallerkenen fylles med karbohydratrike matvarer som brød, potet, pasta og ris. Ellers skal kostholdet bestå av grove kornprodukter, «5 om dagen», og være magert, med spesielt fokus på å redusere inntaket av mettet fett.
+
+Dette tilsvarer de offentlige anbefalingene som gis til hele befolkningen, men er dette egentlig optimalt? Ifølge en artikkel fra 2010 er det ikke nødvendigvis det, og den skal vi se på her.
+
+## Optimale kostholdsstrategier for å forebygge diabetes type 2
+
+Buyken og hans medforfattere har gått gjennom over 100 artikler skrevet om temaet, og har kommet fram til noen andre konklusjoner enn dagens anbefalinger. Disse konklusjonene ble presentert i en artikkel i 2010, som ble publisert i tidsskriftet Diabetologia \[1\].
+
+I innledningen knyttes den økte forekomsten av DMT2 til et spisemønster som fører til store postprandiale (etter måltid) økninger i blodsukker og insulinproduksjon, og det hevdes at et kosthold som reduserer dette vil være mer effektivt når det kommer til forebygging og behandling av DMT2.
+
+Forfatterne peker på at alternative kosthold, hovedsakelig lavkarbo, lav GI/GB og middelhavskosthold, gjentatte ganger viser seg å være mer effektive enn tradisjonelle lavfettdietter når det gjelder vektnedgang og å forbedre risikofaktorer for kardiovaskulær sykdom. Felles for disse kostholdene er at de via ulike mekanismer reduserer den postprandiale økningen i blodsukker og insulin.
+
+Tradisjonellt sett er [protein](http://www.friskogfunksjonell.no/protein/ "Protein") regnet som det næringsstoffet som metter best, etterfulgt av karbohydrater som igjen metter bedre enn fett. Derav har kosthold med mye protein og karbohydrater blitt regnet som den beste måten å begrense energiinntaket på. Når man så justerer for inntaket av fiber og den glykemiske indeksen (GI) til karbohydratene, ser man at karbohydrater med lav GI metter bedre enn de med høy GI. Samtidig ser man at et høyt og hyppig inntak av karbohydrater med høy GI gjør at kroppen i større grad forbrenner karbohydrater enn fett (pga insulin og dets effekter på fettforbrenningen), noe som gjør at den langvarige metthetsfølelsen blir mindre dominerende og energiinntaket øker. Den totale glykemiske belastningen (GB) handler både om GI og mengden karbohydrat.
+
+Når det gjelder diabetes, er blodsukkerkontrollen det mest sentrale elementet vi må ta hensyn til. Forfatterne av artikkelen hevder at gjentatt utfordring av kroppens blodsukkerregulerende systemer som oppstår når man spiser etter et lavfett/høykarbo-kosthold er bekymringsverdig. Det understrekes at aktive, friske mennesker vil tåle dette pga økt insulinsensitivitet, mens mindre aktive mennesker blir nødt til å øke insulinutskillelsen for å takle denne belastningen. For disse menneskene kan et slikt kosthold på sikt føre til utvikling av diabetes.
+
+Her er en figur fra artikkelen som illustrerer hvordan mat med høy eller lav GI/GB påvirker bukspyttkjertelens insulinproduserende betaceller:
+
+![](images/clipboard-1306021500.png)
+
+Når det gjelder nivåene av fettstoffer i blodet, fører ubegrensede lavkarbodietter til en mer fordelaktig fordeling enn energibegrensede lavfettdietter. Dette var ifølge en meta-analyse av fem vektreduksjonsstudier, noe som i ettertid er bekreftet i tre store studier.
+
+Man ser også at mens insulinsensitive, aktive mennesker i større grad klarer å gå ned i vekt på flere typer kosthold, er det for personer som er insulinresistente mye lettere å oppnå dette med et kosthold som reduserer den postprandiale økningen av blodsukker- og insulinnivået. Siden det er en klar sammenheng mellom DMT2 og overvekt er dette også viktig å ta hensyn til.
+
+## De ulike alternativene, og hvordan de er tenkt å fungere
+
+![](images/clipboard-4151329246.png)
+
+Alle de tre alternative kostholdsstrategiene som nevnes i artikkelen skal kunne føre til en reduksjon i postprandial blodsukkerøkning og insulinutskillelse og en økt fettforbrenning. Forfatterne ser på dette som de mest sentrale punktene for å forebygge DMT2.
+
+## Konklusjoner
+
+Forfatterne av studien kommer til følgende konklusjoner:
+
+-   Leger og ernæringsfysiologer kan gjøre noe bedre enn å anbefale tradisjonelle lavfett/høykarbo-dietter for å forebygge DMT2.
+
+-   Moderne industrimat med høyt innhold av karbohydrater stiller krav til bukspyttkjertelens betaceller. Høyt inntak av slik mat fører til at insulinproduksjonen øker for å kompensere.
+
+-   De kostholdsstrategiene med best bevisgrunnlag er alternative tilnærminger som sikter på å redusere blodsukkerøkningen og insulinutskillelsen.
+
+-   Middelhavskosthold eller kosthold med lav GI/GB nå kan anbefales fremfor de tradisjonelle kostholdsrådene.
+
+**Referanse**
+
+1.  Buyken AE, Mitchell P, Ceriello A, Brand-Miller J: **Optimal dietary approaches for prevention of type 2 diabetes: a life-course perspective.** Diabetologia 2010, 53(3):406-418.
