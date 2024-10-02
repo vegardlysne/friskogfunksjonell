@@ -5,7 +5,6 @@ author:
   - "Torbjørn Lysne"
 date: "2011.11.06"
 categories:
-execute: 
   - helse
 ---
 
