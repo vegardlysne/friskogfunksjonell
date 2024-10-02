@@ -6,6 +6,8 @@ about:
 
 Dette er en arkivert versjon av bloggen Frisk og Funksjonell, tidligere www.friskogfunksjonell.no.
 
-[Her](poster.qmd) finner du alle innlegg publisert på bloggen.
-
 Artiklene er ikke redigert siden de ble publisert opprinnelig, og informasjonen kan derfor være utdatert.
+
+Flytting pågår, og mer og mer innhold vil dukke opp her den neste tiden. Den originale siden vil etterhvert bli borte. 
+
+[Her](poster.qmd) finner du alle innlegg publisert på bloggen.
