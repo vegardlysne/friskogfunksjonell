@@ -1,5 +1,5 @@
 ---
-title: "Artikkelserie om metabolismen"
+title: "Hormonsystemet"
 listing:
   contents: artikler/hormoner/*.qmd
   sort: "date desc"
