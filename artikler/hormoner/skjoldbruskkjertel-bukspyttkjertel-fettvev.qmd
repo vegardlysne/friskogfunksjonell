@@ -1,0 +1,61 @@
+---
+title: "Skjoldbruskkjertelen, bukspyttkjertelen og fettvevet"
+---
+
+Tilbake til [innføringen i hormonsystemet](../../hormoner.qmd "En innføring i hormonsystemet").
+
+At bukspyttkjertelen og skjoldbruskkjertelen er endokrine kjertler er ingen hemmelighet, men visste du at også fettvevet produserer en del hormoner? Her skal vi se litt på disse organene.
+
+## Bukspyttkjertelen
+
+Bukspyttkjertelen (pankreas) kan deles i to funksjonelle deler. Den eksokrine delen av kjertelen produserer bukspytt, og er sentral i fordøyelsen. Den hormonproduserende, endokrine, delen av bukspyttkjertelen består av alta-, betaceller, som produserer peptidhormonene glukagon og insulin. Amylin er et litt mindre kjent hormon som produseres i bukspyttkjertelen. De hormonproduserende cellene er lokalisert i små grupper fordelt i hele kjertelen, såkalte langerhanske øyer. Her kommer en rask introduksjon av disse hormonene:
+
+-   Insulin produseres i betacellene, og har som hovedoppgave å senke blodsukkeret. Produksjonen av insulin styres av blodsukkerkonsentrasjonen i blodet som strømmer gjennom bukspyttkjertelen, og øker når blodsukkeret er høyt. En økning av frie aminosyrer i blodet vil også stimulere produksjonen.
+
+-   Glukagon produseres i alfacellene, og fungerer hovedsakelig på leveren. Glukagon øker blodsukkeret ved å stimulere nedbrytningen av glykogen og nydanning av glukose. Produksjonen av glukagon styres av blodsukkerkonsentrasjonen i blodet som strømmer gjennom bukspyttkjertelen, og øker når blodsukkeret er lavt. En økning av frie aminosyrer i blodet vil også stimulere produksjonen.
+
+-   Amylin produseres i betacellene, og skilles ut sammen med insulin. Effektene av dette hormonet er en hemming av glukagonutskillelsen, i tillegg til at det er med å redusere matinntaket (metthet).
+
+Insulin og glukagon vil presenteres i en egen artikkel, siden disse hormonene er veldig sentrale.
+
+## Skjoldbruskkjertelen
+
+![](images/clipboard-3881317301.png)
+
+Skjoldbruskkjertelen (tyroidea) er en liten kjertel som ligger rett under strupehodet. Egentlig er det snakk om to kjertler, som ligger på hver sin side av luftrøret, som er forbundet med hverandre. Totalt veier kjertelen bare 30-40g, men med tanke på størrelsen er blodgjennomstrømmingen ekstremt høy. Kjertelen består av kulelignende follikler, og det er cellene i disse folliklene som produserer tyroideahormonene T3 og T4. Mellom folliklene finner vi noen celler som kalles C-celler, eller parafolikkulære celler, som produserer et hormon som heter kalsitonin.
+
+Produksjonen av T3 og T4 stimuleres av TSH fra hypofysen, og disse har en hemmende effekt på utskillelsen av TSH (negativ tilbakekobling). Syntesen av disse hormonene er avhengig av tilstrekkelig tilgang på jod, og tallet sier oss hvor mange jodmolekyler som finnes i hormonet.
+
+Her følger en kort beskrivelse av hormonene fra skjoldbruskkjertelen:
+
+-   T4 (tyroksin) er egentlig et prohormon, som inne i cellene omdannes til T3 ved hjelp av et enzym som kalles en dejodinase.
+
+-   T3 (trijodtyronin) er det aktive tyroideahormonet. Effektene av dette hormonet er en økt stoffomsetning (varmeproduksjon), og normal lengdevekst og utvikling av nervesystemet er avhengig av normal produksjon av T3.
+
+-   Kalsitonin er et peptidhormon som har sin funksjon på kalsiumomsetningen i kroppen. C-cellene reagerer på kalsiumkonsentrasjonen i blodet, og skiller ut kalsitonin dersom konsentrasjonen blir for høy. Effektene av kalsitonin er en redusert kalsiumfrigjøring fra beinvev og en økt kalsiumutskillelse gjennom nyrene, og dermed en reduksjon av kalsiummengden i blodet.
+
+På baksiden av skjoldbruskkjertelen finner vi noen små kjertler som heter biskjoldbruskkjertlene (paratyroidea). Disse produserer et hormon, paratyroideahormon, som er sentralt i kroppens regulering av kalsium.
+
+T3 og T4 vil presenteres i et eget innlegg.
+
+## Fettvevet
+
+Fettvevet har i lang tid blitt sett på som et inaktivt lagringsvev, men dette er kanskje så langt fra sannsheten vi kommer. Det er etterhvert identifisert flere hormoner som produseres i fettvevet, som dermed kan ses på som kroppens største endokrine organ! Hormonene som produseres i fettvevet påvirker mange funksjoner rundt i kroppen, og deles i to hovedgrupper. Adipokiner produseres utelukkende i fettceller (adipocytter), mens cytokiner også kan produseres i andre celler.
+
+Mengden fettfev påvirker hvor mye som produseres av disse hormonene, noe som er sentralt i problemene som oppstår med overvekt. Her er en kort oversikt over noen av de ulike adipokinene og cytokinene.
+
+Adipokiner:
+
+-   Leptin – kanskje det mest kjente hormonet fra fettvevet. Leptin gir et metthetssignal, og er delaktig i reguleringen av kroppsvekten. Utskillelsen av leptin reflekterer mengden fettvev, noe som bidrar til å holde en stabil kroppsvekt. Leptin er også proinflammatorisk, noe som bidrar til betennelsestilstander i kroppen.
+
+<!-- -->
+
+-   Adiponektin – øker insulinsensitiviteten og virker antiinflammatorisk. I motsetning til leptin, reduseres utskillelsen av adiponektin når fettvevet vokser.
+
+Cytokiner:
+
+-   IL-6 – Interleukin 6. Dette cytokinet er veldig proinflammatorisk, og stimulerer akuttfaseproteiner som er en markør for inflammasjon, f.eks. CRP (C-reaktivt protein). Ved overvekt foreligger det som oftest en kronisk inflammasjon, noe IL-6 er medvirkende til.
+
+-   TNF-a – senker insulinsensitiviteten, og er muligens en av hovedårsakene til at økende overvekt som oftest fører til en økende insulinresistens.
+
+De viktigste adipokinene og cytokinene vil jeg presentere litt mer utfyllende i en egen artikkel.

@@ -1,0 +1,70 @@
+---
+title: "Artikkelserie om metabolismen"
+listing:
+  contents: artikler/hormoner/*.qmd
+  sort: "date desc"
+  type: table
+  fields: [date, title, author, reading-time]
+  field-display-names: 
+    date: Publiseringsdato
+    title: Tittel
+    author: Forfatter
+    reading-time: Lesetid
+  categories: false
+  sort-ui: false
+  filter-ui: [title, description, author]
+page-layout: full
+title-block-banner: false
+---
+
+Endokrinologi er læren om hormonsystemet. Hormonene er signalstoffer som produseres i ulike kjertler rundt i kroppen, og deretter fraktes med blodet til målcellene, som har reseptorer for det aktuelle hormonet. På denne måten er de hormonproduserende, endokrine, kjertlene med å styre prosesser i hele kroppen. I denne artikkelserien vil jeg gi en kort innføring i dette systemet, som forhåpentligvis blir enkel å forstå.
+
+## Endokrine kjertler
+
+![](images/clipboard-286604604.png)
+
+En endokrin kjertel er en kjertel som produserer et eller flere hormoner. I kroppen har vi flere spesialiserte endokrine kjertler, og disse vil jeg presentere i tre artikler.
+
+Del 1: [Hypotalamus, hypofysen og binyrene](http://www.friskogfunksjonell.no/hypotalamus-hypofysen-og-binyrene/ "Hypotalamus, hypofysen og binyrene")
+
+Del 2: [Skjoldbruskkjertelen, bukspyttkjertelen og fettvevet](http://www.friskogfunksjonell.no/skjoldbruskkjertelen-bukspyttkjertelen-og-fettvevet/ "Skjoldbruskkjertelen, bukspyttkjertelen og fettvevet")
+
+Del 3: [Ovariene, testiklene og morkaken](http://www.friskogfunksjonell.no/ovariene-testiklene-og-morkaken/ "Ovariene, Testiklene og Morkaken")
+
+I tillegg til disse har vi hormonproduksjon flere steder i kroppen, blant annet i nyrene, leveren, hjertet og i mage-/tarmkanalen, men de kommer jeg ikke inn på i denne serien.
+
+## Hormonene
+
+Vi har utrolig mange hormoner i kroppen, og de bidrar hovedsakelig til å holde det indre miljøet konstant. Hormonene regulerer ulike prosesser i målcellene, og disse prosessene kan deles i fire hovedkategorier:
+
+1.  Metabolisme
+
+2.  Vekst og utvikling
+
+3.  Elektrolytt og væskeomsetningen
+
+4.  Reproduksjon
+
+![](images/clipboard-778609096.png)
+
+Utskillelsen av hormoner fra de endokrine kjertlene styres stort sett ved det som kalles negativ tilbakekoblingskontroll. Dette betyr at endring i aktiviteten i målorganet fører til endret utskillelse av hormoner. Dette bidrar til at det indre miljøet holdes konstant, noe som er viktig for at cellene skal få optimale forhold til å fungere normalt. Hormoner deles inn i grupper etter hvordan de er bygget opp. Hovedgruppene er aminosyre- og fettsyreforbindelser (eks. T3, adrenalin), peptidhormoner (eks insulin og glukagon) og steroidhormoner (eks. testosteron).
+
+Hormonene kan være enten vannløselige eller fettløselige. De vannløselige hormonene fraktes som oftest fritt i blodet, mens de fettløselige må bindes til transportproteiner. Det finnes spesifikke transportproteiner (globuliner), som binder til et bestemt hormon, og uspesifikke transportproteiner (albuminer), som kan binde til alle typer hormoner. Så lenge hormonene er bundet til transportproteinene kan de ikke utføre sin funksjon, så disse fungerer som et hormonlager i blodet, som beskytter oss mot skadevirkninger av for høye hormonkonsentrasjoner.
+
+Målcellene for hormonene har reseptorer, enten i cellemembranen eller inne i selve cellen. Når et hormon binder til en reseptor på eller i målcellen, settes det i gang en reaksjon inne i cellen som fører til den ønskede effekten. De forskjellige reseptortypene fungerer på forskjellige måter, men dette prinsippet er det samme. Fettløselige hormoner, f.eks. steroidhormonene kan bevege seg gjennom cellemembranen og binde til reseptorer inne i selve cellen. Antallet reseptorer kan reguleres, noe som også er med å regulere styrken på hormonets virkninger.
+
+Jeg vil presentere noen sentrale hormoner i egne artikler.
+
+-   [Hypofysehormonene](http://www.friskogfunksjonell.no/hypofysehormonene/ "Hypofysehormonene")
+
+-   Skjoldbruskkjertelhormonene
+
+-   [Insulin/glukagon](http://www.friskogfunksjonell.no/insulin-og-glukagon)
+
+-   Binyrehormonene
+
+-   Hormoner fra fettvevet
+
+-   Kjønnshormonene
+
+Hormonsystemet er veldig komplekst, men jeg skal prøve å få fram grunnprinsippene på en enkel og forståelig måte. For en mer detaljert innføring bør du oppsøke en bok i enten fysiologi eller endokrinologi.
