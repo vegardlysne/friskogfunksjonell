@@ -1,0 +1,109 @@
+---
+title: "Alt du trenger å vite om proteinkvalitet"
+author: "Thomas Olsen"
+date: "2012.08.18"
+---
+
+Er alle kilder til protein like gode? Thomas forklarer deg her hvordan man evaluerer kvaliteten til protein fra ulike kilder, og gir deg litt informasjon om de ulike matvarene.
+
+## Proteiner
+
+[Proteiner](naeringsstoffer/protein.qmd "Protein") kommer i flerfoldige forskjellige størrelser og former. Som du kanskje vet er proteinene i kroppen vår satt sammen av opptil 20 forskjellige aminosyrer, hvorav 8 av dem essensielle. Disse 8 aminosyrene er betinget til mat og drikke som vi får i oss daglig.
+
+Spørsmål om proteiner kommer gjerne opp hos personer som nylig har begynt med fysisk aktivitet. Proteiner er nødvendig for gode resultater innenfor trening, og det er ikke bare viktig å få i seg nok, men også å vurdere kvaliteten på kildene. Noen tenker kanskje at det ikke er noen forskjell på proteiner fra kjøtt eller havregryn? Dette er en uheldig men vanlig misforståelse. Men det er kanskje ikke så rart det oppstår misforståelser når myndighetene nevner kornvarer som en av de viktigste proteinkildene vi har i det norske kostholdet. **Dette gjelder for øvrig bare mengde protein**.
+
+Proteinkvalitet påvirkes og bestemmes blant annet ut fra hvilke essensielle aminosyrer de inneholder, hvilke kilder de kommer fra og graden av fordøyelse. I denne artikkelen ser jeg nærmere på hva som er gode proteinkilder, og noen metoder for hvordan man har vedtatt *hva* som er gode proteinkilder.
+
+## De essensielle aminosyrene
+
+Før vi går inn på hvordan man bestemmer proteinkvaliteten i forskjellige matvarer lister jeg opp de essensielle aminosyrene for friske voksne mennesker og de fleste andre pattedyr:
+
+-   Valin
+
+-   Leucin
+
+-   Fenylalanin
+
+-   Tryptofan
+
+-   Lysin
+
+-   Isoleucin
+
+-   Metionin
+
+-   Threonin
+
+Mangel på disse aminosyrene vil begrense proteinsyntesen og kan med tid medføre alvorlige mangelsykdommer. Av disse aminosyrene har tre av dem alifatiske sidekjeder, såkalte forgrenede aminosyrer (BCAA). Dette gjelder valin, leucin og isoleucin.
+
+## Metoder for bestemmelse av kvalitet
+
+#### Protein efficiency ratio
+
+Metoden måler effekten av protein gjennom vekst hos rotter (2). Man mater rotter med et testprotein og måler antall gram vektøkning per gram protein som konsumeres. Den utregnede verdien sammenliknes med kasein (=2,7), og dersom den er høyere enn dette regnes den som en meget bra proteinkilde. Denne metoden har derimot ikke stor nok beviskraft hos mennesker til å bli benyttet i dag, men har blitt benyttet tidligere.
+
+#### Biologisk verdi
+
+Denne metoden måler proteinkvalitet ved å kalkulere mengden nitrogen som brukes for å danne vev, delt på mengden nitrogen som absorberes fra mat (2). Enklere sagt tar den hensyn til fordøyelighet og aminosyresammensetning. Dette tallet multipliseres så med 100 og uttrykker i prosent hvor mye nitrogen som utnyttes. Høye verdier korrelerer med en høy andel essensielle aminosyrer i matvaren. Denne metoden vurderer derimot ikke andre nøkkelelementer som spiller inn i fordøyelsen av aminosyrer.
+
+#### Protein Digestibility Corrected Amino Acid Score
+
+Den vanligste, og foretrukne metoden for å bestemme proteinkvalitet, er Protein Digestibility Corrected Amino Acid Score, heretter PDCAAS. Metoden baserer seg på menneskets behov for essensielle aminosyrer samt dets evne til å fordøye dem. Man sammenlikner konsentrasjonen av den første begrensende (essensielle) aminosyren i et testprotein med en referanseverdi. Referanseverdiene er derivert fra behovet for gitte essensielle aminosyrer hos barn mellom 2 og 5 år(1). Poengsummen som deretter regnes ut på bakgrunn av absorpsjon, justeres etter rester av testproteinet i avføringen (sann fekal fordøying).
+
+Det er noen betenkeligheter ved bruk av denne metoden (1). Studien som referanseverdiene bygger på undersøker et begrenset antall 2-åringer som ble behandlet for feilernæring. Disse er dermed ikke representative for normale, friske småbarn. En annen begrensning er at aminosyrer som passerer den ileale delen av tarmen kan absorberes og utnyttes av bakterier. Disse kan feilaktig regnes som absorbert av mennesket i og med at de ikke kommer frem i avføringen. Derfor bør man justere for den sanne ileale fordøyningen av testproteinet i stedet for den fekale.
+
+Inntil videre er denne metoden uansett ansett som den beste måten å måle proteinkvalitet.
+
+## Hvilke matvarer er best på protein?
+
+Animalske proteiner er ofte mer komplett og rikere på essensielle aminosyrer enn vegetabilske proteiner. JR Hoffman og MJ Falvo (2) så på hvilke proteiner som er best på kvalitet og dermed scorer høyt på PDCAAS-skalaen. Her er oversikten over noen matvarer:
+
+1.  Kasein – 1.0
+
+2.  Egg – 1.0
+
+3.  Myse – 1.0
+
+4.  Soya – 1.0
+
+5.  Kjøtt – 0.92
+
+6.  Peanøtter – 0.52
+
+7.  Hvete – 0.25
+
+#### Kasein
+
+Kasein er det proteinet man hovedsakelig finner i kumelk. Absorpsjonstiden kan ta opp til flere timer. Dette fører til bedre utnyttelse og retensjon av nitrogen. I tillegg til å være viktig for opptaket av vitaminer, inneholder kasein også fosfor og kalsium.
+
+#### Myse
+
+Kasein utgjør 80 % av proteininnholdet i melk. De resterende 20 % står myseproteinet (whey) for. Myse er rik på essensielle, og spesielt forgrenede aminosyrer. I tillegg inneholder proteinet vitaminer og mineraler. De fleste innenfor trening har hørt om både mysekonsentrat og isolat som man kan bruke som kosttilskudd i form av pulver. I mysisolat har man fjernet en del tilleggsstoffer som laktose og fett, men også noen mineraler. Myseisolat er en svært ren proteinkilde og består av 90 % myseprotein.
+
+#### Egg
+
+Egg inneholder alle de essensielle aminosyrene i tillegg til å være proppfull av nært sagt alle vitaminer og mineraler (med unntak av vitamin C). Spesielt godt representert er BCAA’er som leucin og isoleucin i tillegg til lysin.
+
+#### Soya
+
+Soya er den klart beste vegetabilske kilden til proteiner. Den populære belgfrukten bør være attraktiv for personer som lever på vegetardietter og kan gjøre aminosyresammensetningen mye mer komplett enn hva kornvarer, nøtter og andre belgfrukter kan. I tillegg til å være rik på forgrenede aminosyrer inneholder soya fytokjemikalier som kan ha flere gunstige effekter på helsen. Soya kan også skaffes som enten konsentrat eller mer fullverdig isolat.
+
+#### Kjøtt
+
+Kjøtt inneholder, som det animalske proteinet det er, alle de essensielle aminosyrene men har en noe lavere grad av fordøying enn de fire overnevnte matvarene(3). I rødt kjøtt er det likevel glutamin som er den dominerende aminosyren etterfulgt av arginin, alanin og asparginsyre.
+
+## Hva med frukt og grønt?
+
+Proteinkvaliteten i frukt og grønt varierer men ligger henholdsvis stort sett mellom 0.48-0.66 og 0.73-0.88. Med andre ord er sammensetningen av essensielle aminosyrer langt fra optimal. Det er derimot mulig å kombinere vegatbilske matvarer for å oppnå en god aminosyreprofil i kosten din. Det er eksempelvis sett at poteter og erter komplimenterer hverandre svært bra med tanke på aminosyrer.
+
+## Konklusjon
+
+Tenk gjennom hvor du får proteinene dine fra dersom du ønsker best mulig effekt av treningen. Jeg tror ikke jeg trenger å peke på studier som viser at man har økt effekt av treningen ved å la proteiner ta stor del i kostholdet ditt. Husk at mangel på aminosyrer også kan føre til mangelsykdommer.
+
+Vegetabilske proteinkilder har ofte begrenset innhold av én eller flere av de essensielle aminosyrene, og selv om du kan kombinere matvarer for å oppnå god kvalitet fra vegetabilske proteinkilder er det lurt å fokusere proteininntaket rundt melkeproteiner (kasein, myse), egg og kjøtt. Soya er unntaket, og selv om det er rikt på fytoøstrogener (en annen diskusjon), er det like fullt en fullverdig kilde til protein, spesielt dersom man er allergisk mot melkeprotein eller har en vegetarisk tilnærming til kosthold.
+
+##### Kilder:
+
+Schaafsma G, **The Protein Digestibility–Corrected Amino Acid Score**, *The Journal of Nutrition*, 2000\
+Hoffman JR, Falvo MJ, **Protein - Which Is Better?**, *Journal of Sports Science and Medicine,* 2004\
+Williams PG, **Nutritional Composition of Red Meat**, *University of Wollongong,* 2007

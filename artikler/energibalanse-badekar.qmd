@@ -1,0 +1,56 @@
+---
+title: "Energibalansen - historien om et badekar"
+dato: "2012.09.01"
+---
+
+Et tema som går igjen og igjen når man diskuterer kosthold er hvordan endringer i kroppsvekten fungerer. Den tradisjonelle tilnærmingen til saken er at det bare handler om energibalansen, og at energi inn - energi ut alltid vil forutsi hvordan kroppsvekten vil utvikle seg over tid. Etter at lavkarbobølgen skylte over landet har en ny oppfatning kommet til live, nemlig ideen om at en kalori ikke er en kalori, og at det er hva vi spiser, og ikke hvor mye, som avgjør hva som skjer med vekten.
+
+I dette innlegget vil jeg bygge litt videre på innlegget mitt om [energibalansen](energibalansen.qmd "Energibalansen – hva sier den egentlig?"), og rett og slett rive det ned til noe så enkelt som et badekar. Jeg vil anbefale alle å lese den artikkelen først, for å få et bilde av hvor kompleks energibalansen egentlig er.
+
+## Er en kalori en kalori?
+
+Kalori er et mål på energi, og en kcal er definert som den energien som trengs for å  øke temperaturen på en liter vann med en grad. Per definisjon er derfor en kalori en kalori.
+
+De som mener at en kalori ikke er en kalori snakker ofte om at de energigivende næringsstoffene oppfører seg ulikt i kroppen, noe som er helt riktig. Hva du spiser vil være med å påvirke hor mye du spiser, og det vil også påvirke hvor mye du forbrenner. [Protein](http://www.friskogfunksjonell.no/protein/ "Protein") har andre funksjoner i kroppen enn [karbohydrater](http://www.friskogfunksjonell.no/karbohydrater/ "Karbohydrater") og [fett](http://www.friskogfunksjonell.no/fett/ "Fett"), som hovedsakelig kan regnes som energikilder. [Ulike sammensetninger av næringsstoffene](http://www.friskogfunksjonell.no/metthetsfolelsen/ "Metthetsfølelsen – viktig når du skal velge kosthold") vil også ha ulike effekter på metthetsfølelse og hormonstatus.
+
+Begge sider av saken har altså poenger som er korrekte, men de må brukes i riktig sammenheng. Om du spiser et måltid som inneholder 500 kcal, så er det ikke likegyldig hvilke næringsstoffer måltidet er satt sammen av. Sammensetningen av måltidet vil nemlig påvirke matinntaket senere på dagen, gjennom sine effekter på hormoner og metthetssignaler. Men, hvis du i løpet av en dag har spist 2500 kcal og forbruket har vært 3000 kcal, så vil det være av mindre betydning hvor kaloriene har kommet fra, du er i negativ energibalanse uansett.
+
+## Badekaret
+
+Tenk deg at vi bytter ut menneskekroppen med et badekar. Mengden vann i badekaret, vannstanden, representerer kroppens totale lagre av energi, både fettvevet, muskelvevet og glykogenlagrene. Hver dag fyller vi på mer vann, noe som representerer maten vi spiser. Samtidig vil det også hele tiden renne vann ut gjennom sluken, noe som representerer forbruk av energi.  Noe vil også fordampe, eller rett og slett skvulpe utfor kanten. For å opprettholde vannstanden er vi avhengig av å helle oppi like mye vann som det forsvinner over tid. Hvis ikke vil vannstanden øke eller synke.
+
+Dette er utgangspunktet for denne analogien, her følger en forklaring av de ulike delene av energibalansen basert på dette. Som nevnt lenger oppe anbefaler jeg å lese artikkelen om [energibalansen](http://www.friskogfunksjonell.no/energibalansen/ "Energibalansen – hva sier den egentlig?") først.
+
+Energibalanseligningen:
+
+> Energi inn - energi ut = endring i kroppens energilagre
+
+#### Energi inn
+
+Energi inn tilsvarer i virkeligheten energien vi tilfører kroppen ved å spise og drikke. Når vi snakker om badekaret, er maten representert med vann som tømmes oppi. Nesten all energien vi spiser vil absorberes i tarmsystemet, men noe vil også gå rett gjennom og komme ut på andre siden (helst ikke i badekaret). Du kan tenke deg at vannmuggene holdes med en ustø hånd, og at noe rett og slett bommer og havner på gulvet.
+
+Måltidsstørrelse representeres ved hvor mye du fyller på om gangen, og måltidsfrekvensen representeres ved hvor ofte du fyller på. Det som er av betydning er hvor mye som fylles på **totalt sett over tid**, ikke hvor ofte eller hvor mye du fyller på om gangen.
+
+> **Energi inn** = Energien i maten vi spiser - det som ikke absorberes i tarmene
+
+#### Energi ut
+
+Energi ut tilsvarer all energi vi bruker. Som jeg skrev i den andre artikkelen så er dette summen av basalforbrenningen (BMR), forbrenning ved aktivitet og den termiske effekten av maten vi spiser (TEF), altså den energien som går med til å fordøye og metabolisere maten. Hvordan passer disse inn i badekaranalogien?
+
+BMR er den energien vi forbrenner hver dag, bare på å holde oss i live. Derfor kan du se for deg at det i et jevnt tempo renner vann ut av sluken hele døgnet.
+
+Hver gang vi beveger oss vil det koste energi, og jo høyere intensiteten/belastningen er, jo mer energi vil det koste. Tenk deg derfor at all bevegelse vil øke mengden vann som presses ned i sluket, og jo mer energikrevende aktiviteten er jo mer vann presses ut.
+
+TEF er den ekstra energien vi bruker i forbindelse med matinntak. Denne varierer for de ulike næringsstoffene, og er høyest for protein (20-30%), etterfulgt av karbohydrat (5-10%) og fett (0-5%). For et sammensatt måltid er det beregnet at ca 10% av energien vil gå med til dette formålet. Se for deg at hver gang du heller vann oppi badekaret fører bevegelsen av vannet til en temperaturøkning, slik at ca 10% av det tilførte vannet fordamper og forsvinner den veien.
+
+> **Energi ut** = BMR + TEF + aktivitet
+
+## Praktisk betydning
+
+Mye kan sies om energibalansen og hvordan den fungerer, men uenigheter handler stort sett om ulike tolkninger eller at man blander mellom fortid og fremtid. Termodynamikkens første læresetning forteller osv at energi verken kan oppstå eller forsvinne, bare overføres fra en form til en annen. Det er nettopp dette som skjer i kroppen vår. Når vi spiser eller drikker, vil den kjemiske energien fra maten kunne overføres til det vi trenger den til, enten det er produksjon av varme eller bevegelse. Om vi tilfører mer energi enn det som brukes, vil vi få en akkumulering av energi, som i kroppen lagres som fettvev. Tilfører vi mindre energi enn vi bruker, vil vi bruke fra kroppens energireserver, og dermed miste fettvev.
+
+Jeg vil også gjøre et ekstra poeng ut av at det er energibalansen over tid som har noe å si, ikke hver dag isolert. De færreste er i balanse fra dag til dag, men over tid har vi mekanismer som vil føre oss i retning balanse. Et tegn på dette er at de aller fleste faktisk er vektstabile, også undervektige og overvektige. Med mindre man stadig prøver å slanke seg med [midlertidige løsninger](http://www.friskogfunksjonell.no/midlertidige-losninger/ "Midlertidige løsninger – midlertidige resultater"), er det få som svinger betydelig opp og ned i vekt.
+
+For å oppnå en vektnedgang må man derfor oppnå en negativ energibalanse over tid, og det er her [livsstilsendringer](http://www.friskogfunksjonell.no/diett-eller-livsstilsendring/ "Diett eller livsstilsendring?") kommer inn i bildet. Midlertidige løsninger vil på grunn av kompensasjonsmekanismer i de fleste tilfeller gi midlertidige resultater, også kjent som jojo-slanking.
+
+Som jeg har prøvd å illustrere i disse to innleggene om energibalansen så er det viktig å ta hensyn til begge sider av ligningen, og ikke bare fokusere på den ene siden. Inntak og forbruk påvirker hverandre, og det er forholdet mellom disse over tid som har en betydning for hvorvidt vannstanden vil synke, stige eller holdes stabil.

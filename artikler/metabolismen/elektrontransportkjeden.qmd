@@ -7,3 +7,29 @@ categories:
 ---
 
 [Tilbake til artikkelserien om metabolismen](../../metabolismen.html)
+
+Hoveddelen av kroppens energiproduksjon skjer ved oksidativ fosforylering, og dette foregår i elektrontransportkjeden. Endeproduktene fra nedbrytningen av glukose, fettsyrer og aminosyrer ender til slutt opp her, og energien som er frigjort overføres til ATP-molekyler, som deretter kan overføre energien til muskelvev og andre energikrevende prosesser i kroppen.
+
+## Oksidativ fosforylering
+
+De elektronbærende molekylene NADH og FADH2 stammer fra [sitronsyresyklusen](http://www.friskogfunksjonell.no/sitronsyresyklusen/ "Sitronsyresyklusen") og [fettsyrenedbrytningen](http://www.friskogfunksjonell.no/fettmetabolismen/ "Fettmetabolismen"). Disse fraktes til den indre membranen i mitokondriene, der vi finner fem proteinkomplekser som utgjør elektrontransportkjeden. Her gir de fra seg elektronene de har mottatt i de nevnte prosessene, og energien som frigjøres brukes til å fosforylere ADP-molekyler til ATP. Bildet viser hvordan elektrontransportkjeden er bygget opp, og under kommer en rask gjennomgang av hva som skjer i de ulike delene.
+
+![](images/clipboard-2707218771.png)
+
+-   Kompleks 1 heter *NADH dehydrogenase*. Dette komplekset mottar to elektroner fra NADH, som dermed oksideres til NAD+.
+
+-   Kompleks 2 heter *succinat dehydrogenase*, og er kjent fra sitronsyresyklusen. I prosessen der succinat oksideres til fumarat, reduseres FAD til FADH2, og to elektroner overføres da videre i elektrontransportkjeden og vi får redannet FAD.
+
+-   Kompleks 3 heter *cytokrom oksidoreduktase*, og overfører elektronene videre til neste kompleks ved å redusere jern fra Fe3+ til Fe2+.
+
+-   Kompleks 4 heter *cytokrom C oksidase*. Dette komplekset kobler sammen oksygen og hydrogen, slik at det dannes vann.
+
+I kompleks nr 1, 3 og 4 pumpes det protoner (positivt ladede hydrogenatomer) ut mellom de to mitokondriemembranene. Når konsentrasjonen av protoner her blir høy nok, fører konsentrasjonsforskjellene til at de strømmer inn igjen gjennom kompleks 5.
+
+-   Kompleks 5 heter ATP-syntase, og det er her ATP blir produsert. Energien som frigjøres når protonene strømmer inn igjen brukes til å koble et fosfatmolekyl til et ADP-molekyl, og vi får ATP.
+
+## Mitokondriene
+
+Hoveddelen av kroppens energiproduksjon (sitronsyresyklusen og oksidativ fosforylering) skjer altså i mitokondriene, og disse kan derfor sees på som cellenes energifabrikker. Her er et oversiktsbilde over hva som skjer i disse organellene.
+
+![](images/clipboard-154859240.png)

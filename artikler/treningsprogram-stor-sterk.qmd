@@ -1,0 +1,91 @@
+---
+title: "Enkelt treningsprogram for deg som vil bli stor og sterk!"
+author: "Eivind Eliasson"
+date: "2012.09.07"
+---
+
+Det finnes svært mange gode programmer og treningsmetoder for å oppnå økt styrke og muskelvolum. Selv om man kan argumentere for at enkelte fremgangsmåter er bedre enn andre, så finnes det ingen fasit. Det vi kan si med sikkerhet er at for å oppnå økt styrke og muskelvolum må man over tid trene jevnlig med så høy intensitet at man oppnår høy til full muskelfiberaktivering.
+
+En studie (1) som illustrerer dette godt viste at man oppnådde like gode resultater for muskelvekst av å trene tre sett til utmattelse på henholdsvis 30 og 80% av 1 RM. Det skal sies at sistnevnte gruppe økte mer i styrke, men 30% gruppen kunne også vise til gode styrkeøkninger. Imidlertid vil det å trene til utmattelse på lette vekter være tøft både fysisk og psykisk, og tung trening vil som regel være best, selv om variasjon kan være fornuftig. Frekvens på 2 til 3 ganger i uken per muskelgruppe har i flere studier vist seg å gi raskere framgang enn 1 gang i uken. Å trene med flerleddsøvelser vil også gi bedre framgang enn ved å trene med isolerende enleddsøvelser. Jeg skal nedenfor skissere en enkelt treningsmetode med programoppsett hvor jeg prøver å implementere prinsipper som vi vet har god effekt
+
+## 3 x TF
+
+Metoden går ganske enkelt ut på å trene hver øvelse 3 sett til teknisk failure (TF). Som regel kan du stoppe på den første repetisjonen hvor vekta\\øvelsa går merkbart tregere. Man har som regel 1-2 til i reserve, men teknikken vil vanligvis bli dårligere, noe som gjør at treningseffekten blir mindre og skaderisikoen øker.
+
+Mellom settene kan en tommelfingerregel være at man tar 10 dype pust før man begynner igjen.
+
+Man teller antallet totale repetisjoner og legger opp progresjonen deretter. Et eksempel kan være at man sikter seg inn på minst 20 totale repetisjoner (TR). Om man f.eks. greier 10+6+4 og dermed totalt greier 20 kan man øke belastningen neste trening og igjen prøve å greie 20 TR. Om dagsformen ikke er der og man f.eks. bare greier 8+6+3 benytter man samme vekt igjen neste uke og ser om man greier å oppnå ønsket TR da.
+
+Man kan løfte vektene så fort opp som man greier, men prøve å utføre negativene rolig og kontroller, 2-4 sek er en grei regel. Prøv å holde spennet og ikke hvil stanga på brystet i benkpress. Bruk heller ikke lock-out som pause mellom repetisjoner.
+
+Enkelte øvelser bør man ikke kjøre 3xTF pga skaderisiko. Rykk, frivendinger og markløft er eksempler på slike øvelser. Øvelser som vanlig utfall, step-up og ligende kan også være vanskelig, da man i utgangspunktet sjelden trener slike øvelser helt til utmattelse. Øvelser som ettbens beinpress og bulgarske utfall kan gå an. Pausen blir da litt lenger, og man kan bytte mellom hvert ben uten pause.
+
+## Eksempler på programmer
+
+*3 dagers fullkropp:*
+
+**Dag 1:**
+
+-   Knebøy 3xTF
+-   Benkpress 3xTF
+-   Markløft 3x3 eksplosivt 50%
+-   Chin-ups 3xTF (evt med vekt)
+-   Crunches 3xTF (evt med vekt)
+
+**Dag 2:**
+
+-   Bulgarske utfall 3xTF
+-   Armhevinger 3xTF (evt med vekt)
+-   Nordic hamstrings 3xTF
+-   Facepulls 3xTF
+-   Ab-wheel 3xTF
+
+**Dag 3:**
+
+-   Frontbøy 3xTF
+-   Skulderpress 3xTF
+-   Strake markløft 3xTF
+-   Sittende roing 3xTF
+-   Reverse crunch 3xTF
+
+*2-splitt over 4 dager framre\\bakre kjede:*
+
+**Dag 1:**
+
+-   Knebøy 3xTF
+-   Benkpress 3xTF
+-   Crunch 3xTF (evt med vekt)
+-   Skulderpress 3xTF
+
+**Dag 2:**
+
+-   Markløft toppsett 3 reps
+-   Chin-ups 3xTF
+-   Enarms roing 3xTF
+-   Ab-wheel 3xTF
+
+**Dag 3:**
+
+-   Beinpress 3xTF
+-   Armhevinger 3xTF  (evt med vekt)
+-   Reverse crunch 3xTF (evt med vekt)
+-   Triceps push-dows 3xTF
+
+**Dag 4:**
+
+-   Strake markløft 3xTF
+-   Sittende roing 3xTF
+-   Planken 3xmaks sekund hold
+-   Preachercurl stang 3xTF
+
+## Progresjon
+
+Det er viktig å oppnå progresjon over tid. Dette kan måles ved å f.eks. sikte seg inn på 30 TR første 2 uker, 25 TR neste 2 uker så 20 TR ukene etter der. Så kan det være lurt å gjennomføre en deloaduke (lett trening),  før man trener mer rettet mot maksstyrke med 15 TR i 2 uker og så 10 TR i 2 uker. Så kan man f.eks ta en deloadøkt, vente noen dager, og deretter forsøke maksløft. Etter denne perioden kan det være lurt å legge inn en hvileuke, der du gjerne trener veldig lett eller bedriver en annen form for aktivitet. Over tid kan man f.eks. øke treningsmengden ved å ta lengre pauser, flere sett osv.
+
+Metoden er beregnet for nybegynnere som har trent litt og middels trente. For mange, spesielt de som kjenner egen kropp godt og kjenner dagsformen sin, vil metoder som myo-reps og autoregulering med stor sannsynlighet fungere bedre. Om man sikter mot spesielle idretter som f.eks. styrkeløft eller fotball vil mer spesialiserte metoder være bedre og mer hensiktsmessige. Dietmar- og Sheiko-programmene kan f.eks fungere svært bra for mange som trener styrkeløft.
+
+Metoden er inspirert av HST, myo-reps og autoregulering. Ære være Bryan Haycock, Børge Fagerli og Mike Tuscherer som har utviklet og/eller bidratt til å spre disse gode metodene til massene.
+
+Kilde:
+
+1.  http://www.sciencedaily.com/releases/2012/04/120430105358.htm

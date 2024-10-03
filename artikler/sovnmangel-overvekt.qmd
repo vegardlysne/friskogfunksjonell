@@ -1,0 +1,40 @@
+---
+title: "Kan søvnmangel bidra til overvekt?"
+date: "2012.08.21"
+---
+
+Det å sove lite er assosiert med en høyere kroppsvekt. Er dette tilfeldig, eller kan det være at søvnmangelen bidrar til vektøkning? En studie \[1\] som nylig ble publisert i [American Journal of Clinical Nutrition](http://www.ajcn.org) så på dette.
+
+Sult og metthet reguleres via flere systemer, både langsiktige og kortsiktige. Målet med denne reguleringen er å opprettholde en stabil kroppsvekt og dermed unngå over- og undervekt. Det antas at langsiktig regulering av disse hovedsakelig styres hormonelt, og sentrale hormoner er leptin, ghrelin og insulin.
+
+Man har i tidligere studier sett at redusert søvnmengde påvirker flere av disse hormonene, og på den måten kan det også påvirke kroppens regulering av inntak og forbruk. Forfatterne av denne studien ønsket derfor å se på hvordan søvnmengde påvirket hjernens respons på matinntak hos normalvektige.
+
+## Hvordan studien ble gjennomført
+
+De 26 deltakerne i studien var normalvektige (BMI 22-26), og gjennomsnittsalderen var 35 år. Før studien måtte de sove 7-9 timer hver natt over en periode på to uker, og de som ikke gjennomførte dette ble ekskludert. Andre eksklusjonskriterier var blant annet røyking, diabetes, tidligere narkotika- eller alkoholmisbruk, skiftarbeid, reising på tvers av tidssoner i en viss periode før oppstart, graviditet, høyt koffeininntak eller spiseforstyrrelser.
+
+Etter at forsøkspersonene hadde gjennomført introduksjonsperioden på to uker, ble de randomisert til en seksdagersperiode med enten 4 eller 9 timers søvn per natt. Etter en treukers pauseperiode kom forsøkspersonene tilbake og gjennomførte neste fase, der de testet det andre søvnmønsteret. På denne måten var alle personene sine egne kontroller. I testperiodene var forsøkspersonene innlagt og overvåket.
+
+De første fire dagene av hver testperiode ble deltakerne gitt all mat, mens de fikk spise så mye de ville de siste dagene. De fikk gjennom hele perioden trene og være i aktivitet etter eget ønske.
+
+## Resultater
+
+Etter hver periode ble forsøkspersonene undersøkt. Forskerne gjennomførte en hjernescanning (les mer om [fMRI](http://www.friskogfunksjonell.no/fmri-og-ernaeringsforskning/ "Hjernescanning som verktøy i ernæringsforskning")), og registrerte respons på visuell stimuli. Forsøkspersonene fikk se bilder av ulike matvarer og av ikke-matrelaterte ting.
+
+Hjernens respons på matbildene var høyere enn responsen på bilder som ikke hadde noe med mat å gjøre for begge søvnmønstrene, men når man sammenlignet de to søvnmønstrene så man en signifikant større respons i søvnmangel-perioden.
+
+I selve studien skilte man ikke mellom mat med ulik sammensetning av næringsstoffer, men i diskusjonsdelen nevner forfatterne at forsøkspersonene, når de fikk spise så mye de ville, i gjennomsnitt spiste nesten 300kcal mer når de sov lite.
+
+## Hva har dette å si i praksis?
+
+Det ser ut som om hjernens respons på matstimuli er sterkere når man har sovet lite enn når man har sovet tilstrekkelig. Dette kan være med å bidra til at man spiser mer, som igjen er med å bidra til å utvikle overvekt. Nervesignalene i ulike deler av hjernen etter perioden med lite søvn lignet på signalene man har sett hos folk som har gått ned mye i vekt, og kan være en del av kroppens måte å stimulere til økt energiinntak.
+
+Som jeg har skrevet om før så er vektøkning et resultat av en positiv energibalanse over tid, som fører til at kroppens energilagre øker i størrelse. Den vanlige oppfatningen er at dette løses ved å redusere inntaket og øke forbruket gjennom økt aktivitetsnivå, og dette er på mange måter riktig. Likevel har ikke denne tilnærmingen vist seg å fungere så veldig bra på større grupper, så det kan være mer effektivt å prøve andre strategier.
+
+Å se på årsakene til at man ender opp med en positiv energibalanse er i så måte en veldig interessant strategi. Hva er det som får en person til å spise mer enn han/hun trenger, og hvordan kan vi hjelpe denne personen til å snu denne prosessen uten at det blir en unødvendig belastning?
+
+Resultatene fra denne studien indikerer at det å få nok søvn kan være en av mange faktorer som er med å påvirke energiinntaket og dermed være med å forebygge overvekt.
+
+Referanse:
+
+1\. St-Onge MP, McReynolds A, Trivedi ZB, Roberts AL, Sy M, Hirsch J: **Sleep restriction leads to increased activation of brain regions sensitive to food stimuli**. *Am J Clin Nutr* 2012, **95**(4):818-824.

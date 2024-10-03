@@ -1,0 +1,76 @@
+---
+title: "Nybegynnerkurs i utholdenhetstrening"
+date: "2012.02.01"
+categories: 
+  - trening
+---
+
+Når folk hører snakk om utholdenhetstrening, tenker de automatisk på lange joggeturer langs landeveien, eller endeløse timer på tredemølle/elipsemaskin. Dette trenger ikke å være tilfelle, og i denne artikkelen skal jeg gi noen eksempler på ulike måter å trene utholdenhet. Først skal vi se litt på ulike typer utholdenhet og hvilke effekter denne treningen har i forhold til helsen din.
+
+## Hva er utholdenhet?
+
+Den enkle definisjonen på utholdenhet er evnen til å utføre et arbeid over tid. **Det finnes hovedsakelig to typer utholdenhet, aerob (med luft) og anaerob (uten luft).** Den aerobe utholdenheten er evnen til å opprettholde arbeid med lav intensitet over lengre tid, f.eks. hurtig gange, rolig jogging eller sykling. Dette er den typen utholdenhet vi har mest bruk for i hverdagen, da vi vanligvis befinner oss i denne intensitetssonen. Den anaerobe utholdenheten er evnen til å opprettholde arbeid med høy intensitet, der cellenes tilgang på oksygen er begrenset. Eksempler på dette er sprinting, motbakkeløping/sykling eller annen aktivitet der du produserer melkesyre.
+
+## Energisubstrat
+
+**Hvilken energikilde kroppen velger å benytte seg av, avhenger hovedsakelig av intensiteten.** For generere bevegelse kan musklene velge å benytte seg av enten fett eller glukose. Forbreningen av fett krever mye oksygen, og kroppens tilgang på energi fra fett vil derfor være begrenset i den anaerobe sonen. Energifrigjøringen fra glukose krever også i utgangspunktet oksygen (elektrontransportkjeden), men energiproduksjonen fra glukose går raskere enn den fra fett. Ved redusert tilgang på oksygen har kroppen en reserveløsning. Da kan kroppen bryte ned glukose til melkesyre, i en prosess som ikke krever oksygen.
+
+**Les mer om forbrenning av hhv [fett](http://www.friskogfunksjonell.no/fettmetabolismen/ "Fettmetabolismen") og [karbohydrater](http://www.friskogfunksjonell.no/karbohydratmetabolismen/ "Karbohydratmetabolismen").**
+
+Ved lave intensiteter vil fett være den viktigste energikilden, men etterhvert som intensiteten øker vil en stadig større andel av energien komme fra glukose, og ved de høyeste intensitetene vil energifrigjøringen være anaerob og vi danner melkesyre. Melkesyre gjør blodet surt, noe som fører til at musklene kjennes såre, og man klarer ikke å opprettholde den samme intensiteten lenger.
+
+## Oksygenopptak og melkesyreterskel
+
+**Oksygenopptaket er den fremste markøren for utholdenheten vår.** Jo mer oksygen du klarer å overføre fra lungene til blodet, og fra blodet til musklene, jo mer oksygen får cellene tilgang på. Dette vil føre til at forbrenningen av både fett og glukose kan foregå mer effektivt.
+
+**Melkesyreterskelen er den intensiteten der kroppen slår over på den anaerobe forbrenningen.** Hvor denne terskelen ligger vil være individuelt, og den kan påvirkes ved trening, men typisk ligger den  et sted mellom 50 og 85% av maksimalt oksygenopptak, alt etter hvor godt trent du er. Dersom du ved trening øker oksygenopptaket ditt, vil en gitt intensitet utgjøre en lavere %, noe som gjør at du kan takle enda høyere intensiteter før du begynner å produsere melkesyre!
+
+## Hvilke tilpasninger skjer i kroppen ved utholdenhetstrening
+
+Utholdenhetstrening bidrar til:
+
+-   Mengden mitokondrier, som er det stedet i cellene [fettforbrenningen](http://www.friskogfunksjonell.no/fettmetabolismen/ "Fettmetabolismen") skjer, øker. Med andre ord blir fettforbrenningen mer effektiv av utholdenhetstrening. Nettverket av de minste blodårene, kapillærene, som forsyner musklene med blod utvikles, slik at blodtilførselen blir bedre
+
+-   Blodets oksygenbindende kapasitet øker, og musklenes kapasitet til å ta imot oksygen vil også øke
+
+-   Hjertets pumpekapasitet øker, noe som gjør at mer blod kan pumpes gjennom kroppen på samme tid
+
+-   Det maksimale oksygenopptaket øker, noe som gir en bedre arbeidskapasitet
+
+-   Musklenes glykogenlagre økes, noe som gjør at de vil ha mer glukose tilgjengelig til aktivitet på høye intensiteter
+
+-   Mengden enzymer som er nødvendig for både aerob og anaerob energifrigjøring øker
+
+## Ulike treningsmetoder
+
+Som nevnt i innledningen assosieres utholdenhetstrening ofte med lange joggeturer eller lignende. Dette trenger ikke å være tilfelle, men slike aktiviteter har også sin plass i en sunn livsstil. Det er hovedsakelig to kategorier av utholdenhetstrening, og det er langkjøring og intervalltrening. Innefor disse kategoriene finnes det igjen flere alternativer, så det skulle være mulig å finne noe du kan trives med. Her kommer en liten oversikt over ulike metoder innen de to hovedkategoriene.
+
+#### Langkjøring
+
+Denne treningen vil hovedsakelig fokusere på den aerobe utholdenheten. Her gjelder det å finne en intensitet du klarer å holde over en lengre periode, f.eks. fra 30 min og oppover til flere timer. Denne typen trening kan gjennomføres ved alle tenkelige aktiviteter som gange, jogging, sykling, svømming, skiturer eller alle typer for kondisjonsapparater på treningssenter eller i stuen hjemme.
+
+#### Intervalltrening
+
+Intervalltrening er trening der man veksler mellom arbeidsperioder og hvileperioder. På denne måten kan man holde en høyere intensitet enn ved langkjøring, siden man har pauser for å hente seg inn igjen. **Lengden på arbeids- og pauseintervallene kan tilpasses den aktuelle aktiviteten, og trenger heller ikke å baseres på tid.** Du kan f.eks. utføre en viss mengde arbeid, og la det styre varigheten, f.eks. løpe 1km, gå 200m og så gjenta et ønsket antall ganger. Det skilles ofte mellom kortintervall og langintervall:
+
+**Kortintervall** har som navnet tilsier korte arbeidsperioder, noe som gjør at intensiteten kan være høy. Her vil du hovedsakelig trene opp den anaerobe kapasiteten din, siden du vil jobbe på intensiteter over melkesyreterskelen. Denne typen trening er svært hardt å gjennomføre, men gir også utrolig gode resultater, forutsatt at du klarer å gi jernet. Arbeidsperiodene er her typisk under 30 sekunder, og innsatsen er 100%. Et populært eksempel er tabata-protokollen, der man arbeider for fullt i 20 sekunder og hviler i 10. Man gjenomfører 8 slike runder, noe som gir en totaltid på bare 4 minutter.
+
+**Langintervall** har lengre arbeidsperioder, noe som betyr at intensiteten er noe lavere enn over. Her vil du trene en kombinasjon av den aerobe og anaerobe kapasiteten din, og dette er en treningsform som absolutt bør gjennomføres av og til. Et kjent eksempel er Helgerud og Hoff sin 4×4. Her jobber du i 4 minutter, avbrutt av 3 minutters aktiv pause der du beveger deg lett (går). Intensiteten skal være sånn at du klarer å holde omtrent samme tempo på alle arbeidsperiodene, og etter det siste intervallet skal du kjenne at du såvidt kunne klart et til. Dette oppsettet har vist seg veldig effektivt for å øke utholdenheten.
+
+Du har ganske stor frihet når det gjelder varigheten på intervallene, og også når det gjelder valg av aktivitet. **Alle aktivitetene jeg nevnte under langkjøring kan også brukes her, men du kan også bruke styrkeøvelser og kombinere dette med styrketrening**. Sirkeltrening er et fint eksempel på dette, der du kan plukke ut 4-5 øvelser som du utfører etter hverandre uten pause, for å etterligne langintervalltrening. Kortintervalltrening kan du utføre med bare en øvelse, der du arbeider så intensivt du klarer med en lett belastning. Velg gjerne en øvelse som trener store muskelgrupper.
+
+**Intervalltrening er helt klart mest effektivt når det gjelder å øke oksygenopptaket, og denne typen trening vil gi deg mye bedre resultater enn å utelukkende trene langkjøring.** Lagidretter som fotball, håndball og basketball vil være en kombinasjon av alle de nevnte treningsmetodene, samtidig som det gjerne er mer lystbetont.
+
+## Hva med fettforbrenningen?
+
+Glem alt du har hørt om fettforbrenningssonen, da dette bare er tull. Hvilken energikilde du bruker under trening har ingenting å si for den totale forbrenningen av fett gjennom dagen. Trening med høyere intensitet vil forbrenne mer energi enn trening på lav intensitet, noe som gjør at den totale forbrenningen blir høyere. Samtidig vil denne treningen være mer effektiv for å øke oksygenopptaket og de andre tilpasningene som skjer i kroppen, noe som vil gjøre at fettforbrenningen blir mer effektiv ved slik trening.
+
+**Hvorvidt du mister eller lagrer fett over tid avhenger av energibalansen, og ikke hvilket energisubstrat du bruker når du trener!**
+
+## Hvordan inkludere utholdenhetstrening i totalopplegget?
+
+Det første du må gjøre er å velge hvor mange ganger i uken du ønsker å gjennomføre utholdenhetstrening. Dette må også sees i forhold til hvor mye styrketrening du legger opp til. Dersom du velger å trene utholdenhet en gang i uken, ville jeg valgt en form for langintervall, f.eks. 4×4. Med to økter kan du legge til en langkjøringsøkt, gjerne med en annen aktivitet enn på intervalløkten. Trener du utholdenhet tre ganger i uken, kan den tredje økten være en form for kortintervall.
+
+Totalopplegget for trening og fysisk aktivitet vil da inneholde så mye [hverdagsaktivitet](http://www.friskogfunksjonell.no/aktivitetsniva-helse/ "Aktivitetsnivå og helse") som mulig, styrketrening 1-3 ganger i uken  og utholdenhetstrening 1-3 ganger i uken. **Du styrer selv hvor mye tid du velger å bruke på trening, men de fleste kan rydde litt tid til trening i uken.** Alt handler om prioriteringer, og hvis du bruker 4 timer på trening i uken, så utgjør ikke dette mer enn ca 3,5% av tiden du er våken. Jeg vil anbefale å trene både styrke og utholdenhet minst en gang i uken hver som et minimum.
+
+Artikkelen er tidligere publisert hos [Sunt Hjem](http://www.sunthjem.no).

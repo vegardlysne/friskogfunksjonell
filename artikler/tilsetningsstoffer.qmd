@@ -1,0 +1,91 @@
+---
+title: "Tilsetningsstoffer i mat"
+date: "2012.07.06"
+---
+
+Tilsetningsstoffer er noe som finnes i all mat vi spiser, og mange bekymrer seg for disse skumle stoffene som vi tross alt får i oss hver eneste dag. I denne artikkelserien vil jeg ta for meg ulike tilsetningsstoffer og drøfte hvor trygge de ulike stoffene er. I denne innledningsdelen får du en innføring i hva tilsetningsstoffer er, hvordan de reguleres og hvor trygge vi kan være på tilsetningsstoffer generelt.
+
+## Hva er tilsetningsstoffer
+
+Tilsetningsstoffer er en fellesbetegnelse på stoffer som tilsettes i mat, og defineres slik:
+
+> Tilsetningsstoff: Ethvert stoff som vanligvis ikke inntas som et næringsmiddel i seg selv, og som vanligvis ikke brukes som en typisk ingrediens i næringsmidler, uansett om det har næringsverdi eller ikke, men som tilføres næringsmidler på grunn av et teknologisk behov ved fremstilling, bearbeiding, pakking, transport eller oppbevaring, og som fortsatt er til stede i det ferdige produkt i forandret eller uforandret form.
+>
+> -Forskriften om tilsetningsstoffer i næringsmidler
+
+Tilsetningsstoffer tilsettes altså i maten for å tilfredsstille ulike behov.
+
+Alle tilsetningsstoffer som brukes i Norge har et E-nummer, som betyr at de er godkjent i Europa. Et E-stoff er altså det samme som et tilsetningsstoff, og en oversikt over alle E-stoffene finner du [her](http://www.matportalen.no/artikler/article1408.ece/BINARY/Hva+betyr+e-numrene%3F). Grunnen til at man har valgt å gi tilsetningsstoffene et E-nummer er at det skal være lett å kjenne igjen de ulike tilsetningsstoffene og hva de brukes til. De er nemlig mer eller mindre sortert utifra bruksområde, og her er en liten oversikt (det finnes noen unntak, men dette er hovedregelen):
+
+|           |                                                           |
+|-----------|-----------------------------------------------------------|
+| 100-199   | Fargestoffer                                              |
+| 200-299   | Konserveringsmidler                                       |
+| 300-399   | Antioksidanter                                            |
+| 400-499   | Konsistensmidler                                          |
+| 500-599   | Surhetsregulerende midler, antiklumpemidler og hevemidler |
+| 600-699   | Smaksforsterkere                                          |
+| 900-999   | Søtstoffer, gasser og overflatebehandlere                 |
+| 1000-1520 | Enzymer og modifisert stivelse                            |
+
+## ADI - akseptabelt daglig inntak
+
+For hvert enkelt tilsetningsstoff beregnes det en ADI-verdi, som står for akseptabelt daglig inntak. Dette er den mengden man kan innta hver dag hele livet (70 år) uten at det er forbundet med en helserisiko, og presenteres som mengde per kg kroppsvekt. For å komme frem til ADI-verdier tar man hensyn til alle studier, både på dyr og mennesker.
+
+Vanligvis bruker man en verdi som heter NOAEL (No Observed Adverse Effect Level), som er den høyeste verdien der man aldri har påvist negative helseeffekter, og justerer for en sikkerhetsfaktor for å beregne ADI. I enkelte tilfeller benytter man LOAEL (Lowest Observed Adverse Effekt Level), som er den laveste dosen som har påvist negative helseeffekter, men da justeres vanligvis sikkerhetsfaktoren opp for å ta hensyn til dette.
+
+Hvis studiene er gjort på mennesker bruker man vanligvis en sikkerhetsfaktor på 10, som skal representere individuelle forskjeller fra menneske til menneske. Dette betyr at ADI-verdien blir satt til en tiendedel av NOAEL-verdien. Hvis studiene er gjort på dyr, økes sikkerhetsfaktoren til 100, for også å justere for forskjeller mellom artene. Det tas også hensyn til kvaliteten på studiene som er gjort og mengden dokumentasjon, slik at sikkerhetsfaktoren kan variere mellom de ulike stoffene.
+
+## Hvordan reguleres tilsetningsstoffene
+
+Regler for bruk at tilsetningsstoffer er et resultat av en grundig risikovurdering og deretter en risikohåndtering/grensesetting, som utføres av ulike organer. Internasjonalt er det hovedsakelig ulike ekspertgrupper i WHO/FN som utfører disse oppgavene, og organer i EU er ansvarlige for europeiske reguleringer. I Norge er Mattilsynet det viktigste organet for risikohåndtering.
+
+Internasjonalt fastsettes grenseverdier for tilsetningsstoffer av [Codex Alimentarius](http://www.codexalimentarius.org/), som er en avdeling i FAO/WHO. Codex Alimentarius har hovedansvaret for utarbeiding av internasjonale standarder for matvarer, og har mange underavdelinger og komitéer. [JECFA](http://www.who.int/foodsafety/chem/jecfa/en/index.html) (Joint FAO/WHO Expert Committee on Food Additives) er en ekspertkomité som utfører toksikologiske vurderinger av tilsetningsstoffene. JECFA gir vitenskapelige råd til Codex Alimentarius der de foreslår grenseverdier for de ulike stoffene.
+
+I Europa fastsettes grenseverdiene for tilsetningsstoffer av en ekspertgruppe i Europakommisjonen, som er det øverste organet i EU. [EFSA](http://www.efsa.europa.eu/) (European Food Safety Authority) står for risikovurderingen og foreslår grenseverdier på bakgrunn av sine toksikologiske vurderinger.
+
+Her i Norge er det [Mattilsynet](http://mattilsynet.no/) som fastsetter grenseverdier for de ulike tilsetningsstoffene. Hovedsakelig baserer de seg på rapportene fra JECFA og EFSA, men [Vitenskapskomiteen for Mattrygghet](http://vkm.no/) gjør også egne risikovurderinger og kommer med innspill.
+
+## Prinsipper for bruk av tilsetningsstoffer
+
+Det er en del prinsipper for å bruke tilsetningsstoffer, og disse tar utgangspunkt i prinsipper fastsatt av Codex Alimentarius. Her er de viktigste prinsippene:
+
+-   Alle tilsetningsstoffene skal være vurdert og utprøvd toksikologisk. Det skal også tas hensyn til eventuelle forsterkende effekter av andre stoffer.
+
+-   Tilsetningsstoffer skal bare godkjennes dersom de utifra dagens vitenskap ikke representerer en helserisiko i de mengdene som er foreslått brukt.
+
+-   Alle tilsetningsstoffer overvåkes kontinuerlig, og reevalueres når ny kunnskap foreligger
+
+-   Tilsetningsstoffer skal bare brukes derom de oppfyller minst en av følgende:
+
+    -   Bevaring av matvarens ernæringsverdi
+
+    -   Tilfører nødvendige ingredienser til mat for spesielle dietetiske forhold
+
+    -   Øker matvarens stabilitet og holdbarhet uten å endre kvaliteten
+
+    -   Forenkler fremstilling, tilberedelse, behandling, pakking, transport eller lagring, uten at de dekker over eventuelle feil ved matvaren eller uønskede forhold i de ulike fasene.
+
+-   Det skal tilstrebes å bruke lavest mulig mengde for å oppnå ønsket effekt
+
+-   Det skal tas hensyn til den totale eksponeringen, altså den totale mengden vi får i oss fra alle kilder.
+
+## Er tilsetningsstoffer farlig for oss?
+
+Mange går rundt med en frykt for tilsetningsstoffer, men er denne velbegrunnet? Det er vanlig at tilsetningsstoffer får negativ omtale, men denne er stort sett aldri basert på nøytral, faglig informasjon. Det finnes mange nettsider som viser til lange lister med bivirkninger og negative effekter av ulike tilsetningsstoffer. Disse er gjerne basert på selvrapporterte bivirkninger, og selv om vi selvfølgelig ikke skal ignorere selvrapporterte effekter, så beviser ikke dette at tilsetningsstoffene hadde noe med saken å gjøre, da det er mange faktorer som spiller inn.
+
+I utgangspunktet er tilsetningsstoffene så nøye regulert at det ikke medfører en særlig stor risiko. EFSA og JECFA sitter til enhver tid på den mest oppdaterte informasjonen, og om et stoff hadde vist seg å ha negative effekter i de dosene vi eksponeres for kan du være trygg på at det ville skjedd en endring i reguleringene. Denne informasjonen er basert på studier på både mennesker og dyr, og er av langt høyere kvalitet enn selvrapporterte effekter. I tillegg tas det hensyn til den samlede evidensen, og ikke bare enkeltstudier, noe som styrker den totale vurderingen.
+
+Husk også at sikkerhetsfaktoren er ganske stor, så om du får i deg mer enn ADI-verdien så er det ikke dermed sagt at inntaket er forbundet med noen særlig risiko. Du kan tenke deg at du beveger deg inn i sikkerhetsmarginen, som for de fleste stoffer er veldig stor. Med andre ord er det liten grunn til bekymring.
+
+## Ulike typer tilsetningsstoffer
+
+Tilsetningsstoffene er som nevnt inndelt i grupper etter bruksområde. I de neste artiklene i denne serien vil jeg ta for meg noen sentrale grupper av tilsetningsstoffer. De mest brukte/omtalte tilsetningsstoffene omtales i egne artikler.
+
+-   Konserveringsmidler
+
+-   [Fargestoffer](http://www.friskogfunksjonell.no/fargestoffer/ "Fargestoffer")
+
+-   [Søtstoffer](http://www.friskogfunksjonell.no/sotstoffer/ "Søtstoffer")
+
+Informasjonen i denne artikkelserien er hentet fra boken Næringsmiddeltoksikologi av Tore Aune. Videre vil det også hentes informasjon fra nyere forskning og rapporter fra de norske og internasjonale organene nevnt over.

@@ -1,0 +1,106 @@
+---
+title: "Energibalansen - hva sier den egentlig?"
+date: "2012.04.18"
+---
+
+Energibalansen er en helt sentral faktor når det kommer til endringer i kroppsvekt, men det er mange misoppfatninger av hvordan denne skal tolkes, og mange har også gått til det steget at de ikke tror denne gjelder for oss mennesker. I denne artikkelen skal jeg prøve å belyse hva denne likningen egentlig sier, hvordan den bør tolkes og hva du egentlig bør fokusere på når du prøver å endre kroppssammensetningen din.
+
+## Energibalanselikningen og dens komponenter
+
+![](images/clipboard-471830079.png)
+
+> Energi inn – energi ut = endringer i kroppens energilagre.
+
+Dersom det er en ubalanse i denne likningen, vil resultatet bli en endring i de totale energilagrene, siden energi verken kan oppstå eller forsvinne, bare overføres fra en form til en annen (termodynamikkens lover). Dette fører vanligvis til endringer i kroppsvekten. La oss se på de ulike komponentene i likningen.
+
+**Energi inn** tilsvarer den energien som tilføres gjennom maten vi spiser.  Absolutt alt vil ikke absorberes i tarmen, og energi inn vil tilsvare den kjemiske energien som er tilgjengelig i maten vi spiser minus det som ikke tas opp. Normalt absorberes likevel så godt som alle næringsstoffene, slik at det du putter i munnen er et godt estimat for denne delen av likningen.
+
+**Energi ut** tilsvarer all energi som forbrukes, og denne kan deles inn i flere faktorer. Basalforbrenningen, BMR (Basal Metabolic Rate), er kort fortalt den energien som kreves for å holde deg i live, altså for å opprettholde alle kroppslige funksjoner. Dersom du ligger helt i ro vil BMR stå for nesten hele energiforbruket ditt. I tillegg til BMR kommer energi forbrukt ved aktivitet, AEE (Activity Energy Expenditure), som innbefatter både trening og daglig aktivitet. Den siste faktoren er den energien som brukes for å metabolisere maten vi spiser, nemlig TEF (Termic Effect of Food).
+
+**Kroppens energilagre** er all energien som er lagret i kroppen, altså i fettvev, glykogenlagre og muskelvev, med andre ord kroppens lagre av fett, karbohydrater og protein. Karbohydrater og protein binder vann i kroppen, mens fett i mindre grad gjør dette, så ved å endre på sammensetningen kan vekten forandres uten at det skjer noe med den totale energimengden.
+
+Vi kan altså skrive likningen om til dette:
+
+> Energi inn – uabsorbert energi - BMR - TEF - AEE = endring i energilagrene
+
+Som du ser er likningen litt mer kompleks enn den ofte blir fremstilt som, og når det kommer til endringer i kroppsvekt er det også enda flere komponenter som spiller inn som kompliserer det store bildet ytterligere.
+
+## Endringer i kroppsvekt
+
+Endring av kroppsvekten kan skyldes en ubalanse mellom energi inn og energi ut, men det er også flere ting som spiller inn. Den mest sentrale faktoren her er vann, som ikke inneholder energi, men likevel veier omtrent en kg per liter. Endringer i kroppens vanninnhold kan føre til at vekten varierer en hel del, og dette skjer hos alle, hver eneste dag. Hvor mye vann kroppen holder på avhenger av mange faktorer, som størrelsen på glykogenlagrene (karbohydrater binder vann), kostholdets innhold av salt (salt binder vann), temperaturen (vi mister vann når vi svetter) og rett og slett hvor mye vann vi drikker. **Disse faktorene er nøye regulert av kroppens homeostatiske mekanismer, noe som er nødvendig for at vi skal overleve.**
+
+En annen faktor som spiller inn på kroppsvekten er innholdet av mat i tarmer og magesekk. Siden tarmsystemet per definisjon ligger utenfor kroppen, vil ikke disse inngå i kroppens energilagre, men innholdet vil likevel slå ut på badevekten.
+
+Som du ser trenger ikke en endring av kroppsvekten å bety at det har vært en ubalanse mellom inntak og forbruk. **Likevel vil overvekt alltid være et resultat av en positiv energibalanse over tid, siden det er grenser for hvor mye de andre faktorene kan påvirke vekten.** Mange slankekurer fokuserer derfor på å redusere energiinntaket, for å dermed skape en negativ energibalanse, som vil føre til en reduksjon av kroppens energilagre og dermed vektnedgang.
+
+## Kroppsvev og lagret energi
+
+Et kg kroppsfett inneholder omtrent 7000 kcal, og ved å oppnå et daglig underskudd på ca 500 kcal vil du i teorien gå ned ca. 0,5 kg i uken. Ved å bruke forskjellige kalkulatorer kan du beregne ditt energibehov, og mange er av den oppfatningen at det bare er å trekke 500 kcal fra denne og så er man i mål. Likevel vet vi fra studier på vektreduksjon at den reelle vektreduksjonen aldri blir like stor som man har estimert på forhånd, og dette kan i stor grad forklares med at inntak og forbruk ikke er uavhengige av hverandre.
+
+Et annet viktig poeng å ha i bakhodet når det gjelder det teoretiske vekttapet, er at dette baseres på at vektendringen utelukkende utgjøres av fettvev, noe som ikke skjer i praksis. En kg muskelvev inneholder bare omtrent 1200 kcal lagret energi, noe som gjør regnestykket litt annerledes. Om du utelukkende mister muskelmasse, vil et underskudd på 500 kcal/dag føre til et vekttap på nesten 3 kg i uken. Dette er selvfølgelig ikke realistisk, og bare ment som en illustrasjon på hvor disse tallene kommer fra. I en reell situasjon vil et vekttap bestå av både fettvev og muskelvev, og hvor mye som forsvinner av hver vil avhenge av mange faktorer som f.eks. om du trener styrke og om du har et tilstrekkelig proteininntak.
+
+Legg merke til at dette er snakk om energimengden som frigjøres ved å bryte ned kroppsvev. Å bygge opp den samme mengden kroppsvev vil kreve mer energi, siden det går med en del energi i oppbyggingsprosessen. Det kreves med andre ord mer enn 1200 kcal for å bygge opp en kg muskelvev, siden proteinsyntesen er energikrevende. Oppbygging og nedbryting kan derfor ikke sammenlignes direkte.
+
+Om du er i energibalanse kan det likevel skje endringer i kroppssammensetningen og vekten, f.eks. ved at man mister fettvev og bygger muskelvev, mens den totale mengden lagret energi forblir den samme. På denne måten kan man oppnå gunstige effekter på kroppssammensetningen (mindre fett, mer muskler) uten at vekten går ned, og siden muskelvev har høyere massetetthet enn fettvev vil du oppleve at du blir tynnere på samme vekt. En slik endring i kroppssammensetningen vil ha mange positive effekter, som høyere basalforbrenning, bedre insulinsensitivitet/glukosetoleranse og selvfølgelig et mer atletisk utseende.
+
+## Hva er overvekt?
+
+Overvekt er per definisjon en opphopning av fettvev, og defineres ut ifra BMI-grenser. Fettvevet er vårt soleklart største energilager, så en positiv energibalanse over tid vil resultere i at vi legger på oss fettvev.
+
+[BMI er ikke et godt selvstendig mål for enkeltindividet](http://www.friskogfunksjonell.no/bmi-og-verdien-av-dette/ "BMI og verdien av dette"), siden det ikke tar hensyn til kroppssammensetningen, så i stedet for å se på vekten isolert, bør man derfor også ta hensyn til endringer i kroppssammensetningen. En økning av muskelmassen vil som nevnt være positivt for insulinsensitiviteten, mens en økning av fettmassen vil ha negative effekter. **Hvis vekten står stille mens kroppsstørrelsen går ned, er dette et tegn på at du reduserer fettmassen din, siden en kg fett tar mer plass enn en kg muskler.** Derfor er det nyttig å ta i bruk målebånd i tillegg til vekten når du skal bedømme resultatene dine!
+
+## Retrospektiv og prospektiv bruk av energibalanselikningen
+
+En årlig vektøkning på 1 kg fett tilsvarer et gjennomsnittlig energioverskudd på 20 kcal/dag. Ut ifra dette kan vi derfor si at dersom du har gått opp en kg på et år, har du i gjennomsnitt spist 20 kcal mer enn du har forbrent hver dag det siste året. Dette er en retrospektiv (tilbakeskuende) måte å bruke energibalansen på, der vi tar utgangspunkt i endringen i vekt, og dermed kan si noe om hvordan energibalansen har vært.
+
+Ren logikk vil da si at dersom du hver dag spiser 20 kcal mindre enn du forbrenner, så vil resultatet være at vekten i løpet av et år går ned 1 kg fettmasse. Dette er riktig, men denne måten å tolke likningen på har gitt grunnlag for en litt kreativ mistolkning av dette med å gå ned i vekt, som ignorerer det at inntak og forbruk påvirker hverandre. Det hevdes gjerne at dersom inntaket reduseres eller forbruket økes med x antall kalorier hver dag vil effekten bli at vekten endrer seg y antall kg. **En prospektiv (fremskuende) tolkning av energibalansen forutsetter at inntak og forbruk er uavhengige variabler, noe de ikke er, så å fokusere på inntak og forbruk hver for seg blir derfor nytteløst.** Fokuset må heller ligge på den totale energibalansen.
+
+Mange slankemetoder bruker en overforenklet versjon av energibalanselikningen, der det fokuseres på inntak og forbruk som uavhengige faktorer. Nå skjønner du hvorfor dette ikke er optimalt, og neste gang du ser et sensasjonsoppslag i en avis om hvor mye du vil gå ned i vekt på et år ved å f.eks. bytte fra fet til mager ost, kan du med god samvittighet le og vite at dette langt ifra er realistiske estimater.
+
+## Hvordan inntak og forbruk påvirker hverandre
+
+Den sterkeste sammenhengen mellom inntak og forbruk er gjennom TEF. I gjennomsnitt vil 10 % av energien i et sammensatt måltid gå med til å fordøye og metabolisere maten. Dette vil si at ved å redusere inntaket med 500 kcal, så vil du samtidig redusere forbruket med ca. 50 kcal, slik at totaleffekten blir et energiunderskudd på 450 kcal.
+
+Et redusert matinntak vil likevel føre til en negativ energibalanse så lenge det ikke skjer motvirkende endringer på forbrukssiden. En lavere kroppsvekt vil derimot i sin rekke redusere forbruket, både på grunn av en lavere muskelmasse og fordi det kreves mindre energi å bevege en lettere kropp. I gjennomsnitt er det estimert at det totale energiforbruket reduseres med 13 kcal for hver kg du mister, som skyldes en kombinasjon av redusert BMR og AEE.
+
+Et økt forbruk av energi ved trening vil også kompenseres for, og det er to alternativer. Enten kan det forekomme er et økt energiinntak som følge av at man blir mer sulten, eller så kan det føre til en reduksjon i energiforbruket senere på dagen fordi man er sliten og gjerne finner veien til sofaen. Studier på totalt energiforbruk viser at den totale økningen i forbruket er mindre enn den energimengden som brukes på trening, noe som beviser at det skjer en kompensasjon i form av redusert forbruk ellers i døgnet. I tillegg viser det seg at vekttapet ikke samsvarer med den totale økningen i energiforbruk, noe som tyder på at det også skjer en kompensasjon på inntakssiden.
+
+**Både å spise mindre og å trene mer vil altså gi en effekt på energibalansen, men det er greit å være klar over at det forekommer kompensasjonsmekanismer for å utligne endringen.** Hvis du velger å trene mer for å gå ned i vekt er det derfor viktig å være bevisst på at du ikke ender opp med å sitte mer i sofaen i etterkant av treningen eller kompenserer med å spise mer. Og om du velger å satse på å spise litt mindre, så må du være bevisst på at dette ikke går utover aktivitetsnivået. En kombinasjon av de to strategiene vil som oftest være det beste valget.
+
+## Hvordan benytte energibalanselikningen
+
+Nå som du er klar over at de ulike komponentene i energibalanselikningen påvirker hverandre skjønner du at det ikke er særlig hensiktsmessig å se på enkeltfaktorer isolert, som inntak eller forbruk. Siden det er tre komponenter, må du rett og slett ta utgangspunkt i begge sider av saken for at det skal gi noen mening.
+
+> Energi inn – uabsorbert energi - BMR - TEF - AEE = endring i energilagrene
+
+Ved å endre på en faktor så kommer du ikke bort ifra at det vil skje kompensasjoner i en eller flere av de andre faktorene, noe som illustrerer hvorfor de faktiske endringene i kroppsvekt sjelden vil samsvare med hva man har beregnet på forhånd!
+
+Det er også viktig å tenke at energibalansen bare gir mening om du benytter den over tid. Energibalansen er nemlig aldri null, men veksler mellom å være positiv og negativ i løpet av dagen og fra dag til dag. **Endringer i kroppsvekt krever en ubalanse mellom inntak og forbrukssiden over tid.** De fleste overvektige har i likhet med normalvektige en stabil vekt over tid, noe som betyr at de er i energibalanse, bare denne har inntruffet på en høyere kroppsvekt. En overvektig person trenger derfor ikke å spise noe mer enn en normalvektig, men på et eller annet tidspunkt har inntaket over tid overskredet forbruket, slik at overvekten har oppstått.
+
+Tiltak som bare fokuserer på den ene siden av likningen vil sjelden føre til langvarige resultater, og det er derfor viktig å heller fokusere på totaleffekten på energibalansen. Å fokusere på å velge matvarer med en lavere energitetthet, som lavfettprodukter, virker som en fornuftig idé dersom du ser på energiinntaket isolert. Likevel vet vi fra studier at en reduksjon i karbohydratinntaket og en økning i fettinntaket vanligvis fører til et lavere energiinntak totalt sett, slik at **effekten på energibalansen ikke nødvendigvis reflekterer energiinnholdet i en enkelt matvare.**
+
+Et godt eksempel på dette er nøtter, som er energirike men likevel er assosiert med et lavere totalt energiinntak når det spises i moderate mengder. Mindre energitett mat kan igjen være assosiert med et høyere totalt energiinntak, noe som understreker viktigheten av å fokusere på matens totale effekt på energiinntaket fremfor energiinnholdet i hver enkelt matvare.
+
+## Oppsummering
+
+-   Energibalanselikningen er mer kompleks enn den ofte fremstilles som.
+
+-   Inntak og forbruk av energi er ikke uavhengige variabler, og endringer i det ene fører til kompensasjoner i det andre.
+
+-   Det er flere faktorer enn energibalansen som påvirker kroppsvekten på kort sikt, blant annet væskebalansen og mengden ufordøyd mat i magesekk og tarm.
+
+-   Vanlige estimater på vektnedgang forutsetter at vektnedgangen utelukkende kommer fra fettvev, noe som sjelden er tilfelle.
+
+-   Du bør fokusere på effekten på kroppssammensetningen, ikke bare tallet på vekten. Bruk derfor målebånd i tillegg for å avgjøre om du har mistet fettvev eller ikke.
+
+-   Du bør fokusere på det store bildet, ikke på inntak eller forbruk isolert sett.
+
+-   Sett sammen kostholdet av matvarer som gir deg god metthet, som tillater deg å redusere det totale energiinntaket, ikke fokuser på energiinnholdet i den enkelte matvaren! En individuell tilpasning er nødvendig for å oppnå gode resultater.
+
+Referanser:
+
+1.  Hall, K.D., et al., ***Energy balance and its components: implications for body weight regulation**.* Am J Clin Nutr, 2012. **95**(4): p. 989-94.
+
+2.  Schoeller, D.A., ***The energy balance equation: looking back and looking forward are two very different views.*** Nutr Rev, 2009. **67**(5): p. 249-54.
+
+3.  <http://www.bodyrecomposition.com/fat-loss/the-energy-balance-equation.html>

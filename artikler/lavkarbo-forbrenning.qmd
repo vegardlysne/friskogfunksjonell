@@ -1,0 +1,88 @@
+---
+title: "Høyere forbrenning med lavkarbo?"
+date: "2012.08.11"
+---
+
+Mange som går ned i vekt ender opp med å legge på seg igjen. Bare et fåtall av de som slanker seg klarer å opprettholde vekttapet over tid. En viktig suksessfaktor er å finne kostholds- og treningsvaner som man kan opprettholde over tid, altså å gå for en [livsstilsendring og ikke en midlertidig diett](http://www.friskogfunksjonell.no/midlertidige-losninger/). Det er mange forskjellige kosthold å velge mellom, men er alle alternativene like gode?
+
+De færreste klarer å holde seg til strenge dietter over lengre tid, uavhengig av hvilken retning de går. Dette skyldes ikke nødvendigvis dårlig viljestyrke, men heller at det er en stor belastning å holde seg til ting som avviker mye fra normalen. Påvirkning fra omgivelsene rundt oss, da spesielt familie- og jobb/skolesituasjon er nok de viktigste faktorene.
+
+Som jeg tidligere har skrevet om i artikkelen om [energibalanse](http://www.friskogfunksjonell.no/energibalansen/ "Energibalansen – hva sier den egentlig?") så vil et vekttap føre til en reduksjon i hvileforbrenningen. Det koster rett og slett kroppen mindre energi å leve når du veier mindre. Også energikostnadene ved bevegelse reduseres, da det krever mindre energi å bevege en lettere kropp.
+
+## Hvordan påvirker kostholdet energiforbruket?
+
+Nylig ble det publisert en studie \[1\] der forfatterne så på om ulik sammensetning av næringsstoffer gav ulik effekt på energiforbruket etter vekttap. 21 overvektige personer i alderen 18-40 år deltok i studien, som var delt inn i ulike faser.
+
+[Les forskning.no sin artikkel om studien her.](http://www.forskning.no/artikler/2012/august/329199)
+
+Først ble deltakerne observert over en 4-ukers periode. Deretter fikk de oppsatt en energiredusert diett som på 12 uker sørget for et vekttap på 12,5 %. Etter vektreduksjonsfasen ble deltakerne fulgt over en ny 4-ukers periode, der nytt vedlikeholdsnivå ble beregnet.
+
+![](http://www.friskogfunksjonell.no/wp-content/uploads/2012/08/Figur-1-Ebbeling.png "Figur 1 Ebbeling"){alt=""}
+
+Etter disse 20 ukene startet selve forsøket. Nå ble deltakerne i tilfeldig rekkefølge bedt om å følge tre ulike dietter. Diettene var henholdsvis lavfett (20E% protein, 20E% fett, 60E% karbohydrat), lav GI (20E% protein, 40E% fett, 40 E% karbohydrat) og lavkarbo (30E% protein, 60E% fett, 10E% karbohydrat). Diettene var isokaloriske, altså inneholdt de like mye energi, og målet var å opprettholde vekttapet.
+
+Underveis i alle fasene ble det målt og registrert både hvileforbrenning og totalt energiforbruk. Hypotesen var at ulike fordelinger av makronæringsstoffene ville påvirke metabolismen forskjellig, noe som ville gi ulikt resultat på hvileforbrenningen.  Studier indikerer at en karbohydratreduksjon gir en [spontan reduksjon i energiinntaket](http://www.friskogfunksjonell.no/hvilken-diett-skal-jeg-velge/ "Hvilken diett skal jeg velge?"), men her ville forfatterne undersøke om man kan forvente en forskjell også ved likt energiinntak. De målte også nivåene av noen hormoner samt etablerte risikofaktorer for metabolsk syndrom.
+
+## Hva spiste deltakerne?
+
+Det er begrenset informasjon om hva deltakerne i studien spiste, men noe informasjon får vi. Utifra det som står beskrevet, så var vektreduksjonskostholdet et kaloriredusert kosthold satt opp etter retningslinjene fra IOM, som ligner de norske kostholdsanbefalingene. De lå i det høyeste sjiktet for proteininntak for å maksimere metthetsfølelsen, noe som skulle gjøre vekttapet lettere.
+
+Lavfettdietten var satt opp etter de generelle anbefalingene om å redusere fettinntaket, og fokuserte på inntak av fullkornsprodukter, frukt og grønnsaker. Lav-GI-dietten lignet på lavfettdietten, men fokuset var å redusere den glykemiske belastningen, så en del kornprodukter og stivelsesrike grønnsaker ble erstattet av lavglykemiske grønnsaker og belgfrukter, samt kilder til sunt fett. Lavkarbodietten var satt opp etter retningslinjene for Atkins-dietten. Her ble det også tilsatt 3g fiber til hvert måltid for å utjevne fiberinntaket mellom de tre kostholdene.
+
+![](images/clipboard-4115686252.png)
+
+## Høyere forbrenning på lavkarbo?
+
+Til tross for at kroppsvekten ble holdt så godt som stabil i testfasene, ble det observert betydelige forskjeller både i hvileforbrenning og i totalt energiforbruk. Sammenlignet med energiforbruket i den første fasen av studien, så man størst reduksjon for lavfettdietten, og reduksjonen var minst når man fulgte lavkarbodietten.
+
+Hvileforbrenningen ble i gjennomsnitt redusert med 205 kcal for lavfettdietten, 166 kcal for lav-GI-dietten, og 138 kcal for lavkarbodietten. Når det gjaldt den totale forbrenningen var forskjellene enda større. For lavfettdietten var det totale forbruket redusert med hhv. 423 kcal (lavfett), 297 kcal (lav-GI) og 97 kcal (lavkarbo). Lavkarbodietten gav altså 67 kcal høyere hvileforbrenning enn lavfettdietten, mens den totale forbrenningen var 326 kcal høyere. Det var ingen forskjeller i registrert fysisk aktivitet i de ulike diettperiodene.
+
+## Hormoner og risikofaktorer for metabolsk syndrom
+
+Leptin er et hormon som skilles ut fra fettvevet, og har blant annet som oppgave å signalisere til hjernen hvor stor fettmasse vi har, og dermed være med å regulere appetitten på lang sikt. Lavfettdietten viste de høyeste nivåene av leptin, mens lavkarbodietten gav de laveste nivåene.
+
+Nivåene av stresshormonet kortisol var høyest ved lavkarbodietten, mens nivåene av tyroideastimulerende hormon (TSH) var lavest. Blodnivåene av stoffskiftehormonet T3 var også lavest når man fulgte lavkarbo.
+
+For risikofaktorene for metabolsk syndrom så man at insulinsensitiviteten (både i lever og perifert vev) var lavest ved lavfettdietten. Lavkarbodietten gav de høyeste verdiene for HDL-kolesterol og de laveste verdiene for triglyserider. Dette regnes som en gunstig endring av [blodlipidene](http://www.friskogfunksjonell.no/minikurs-i-lipoproteiner/ "Minikurs i lipoproteiner"), og resultatene var bedre ved synkende glykemisk belastning, og dermed dårligst ved lavfettdietten. CRP, en markør for inflammasjon, var høyest ved lavkarbodietten og lavest ved lav-GI, mens blodtrykket var likt ved de forskjellige diettene.
+
+Det må nevnes at de fleste av de målte verdiene bedret seg ved alle diettene sammenlignet med utgangspunktet, og for de fleste verdiene var ikke resultatene signifikante selv om trendene var tydelige. **Vekttapet må derfor antas å være den viktigste faktoren når alt kommer til alt.**
+
+## Kommentarer og diskusjon
+
+Det er ingen tvil om at disse resultatene er ekstremt interessante og innbyr til videre forskning på temaet. Det hevdes at en kalori er en kalori, men oppfører kalorier fra fett, karbohydrat og protein seg likt i kroppen, og kan ulik sammensetning av makronæringsstoffene gi vidt forskjellig respons i kroppen når energimengden er lik?
+
+Det første jeg bet meg merke i når jeg leste gjennom studien var at proteininntaket var ulikt for lavkarbodietten sammenlignet med de to andre. Vi vet at [protein](http://www.friskogfunksjonell.no/protein/ "Protein") er det næringsstoffet som krever mest energi å metabolisere, og den termiske effekten av protein er beregnet til 25-35%. Lavkarbodietten inneholdt 45g mer protein per dag enn lavfett- og lav-GI-dietten, noe som tilsvarer 180 kcal. Bare basert på den termiske effekten kan dette tilsvare en økt forbrenning på ca. 50 kcal, noe som nesten tilsvarer forskjellen som ble observert i hvileforbrenningen.
+
+Forfatterne nevner dette i diskusjonen, men skriver at de ikke tror dette har påvirket resultat av hvileforbrenningen, da denne er målt fastende. Den økte forbrenningen som følge av økt proteininntak ville bare latt seg måle i den postabsorbtive fasen, altså i perioden etter et måltid, og ikke i fastende tilstand. Da står vi igjen med at økt forbrenning som følge av økt proteininntak bare har bidratt til det totale energiforbruket, og her er forskjellene så markante at det ikke lar seg forklare med økt proteininntak alene.
+
+Hva kan da forklare de store forskjellene som er observert? 300 kcal tilsvarer ca. en time moderat fysisk aktivitet, noe som understreker hvor betydelige disse resultatene er. Det ble ikke observert noen forskjeller i fysisk aktivitet mellom de ulike periodene, og det at forsøkspersonene var sine egne kontroller eliminerer muligheten for at individuelle forskjeller har spilt inn. At alle prøvde de ulike diettene i tilfeldig rekkefølge, og at resultatene fremdeles var konsistente, eliminerer muligheten for at en diett gav langvarige effekter som påvirket resultatene i neste fase.
+
+De hormonelle endringene som ble observert er interessante. Forfatterne nevner at ratioen mellom totalt energiforbruk og leptinkonsentrasjon er en markør for leptinsensitivitet. Ved å beregne denne viste det seg at leptinsensitiviteten var høyest når deltakerne fulgte lavkarbodietten, og lavest når de fulgte lavfettdietten. Lavkarbodietten gav også best insulinsensitivitet, og med tanke på at insulin og leptin bruker noen av de samme signalveiene intracellulært så er det også plausibelt at økt insulinsensitivitet og økt leptinsensitivitet henger sammen.
+
+Økt konsentrasjon av kortisol og kombinasjonen av lavere TSH og T3 er også interessant. Disse faktorene kan være med å forklare hvorfor man så de forskjellene man gjorde i hvileforbrenning. Kortisol stimulerer til frigjøring av energi fra energilagrene, mens et lavere nivå av TSH tyder på at produksjonen av stoffskiftehormoner er tilstrekkelig, siden TSH stimulerer til produksjon av disse. Et lavere nivå av T3 i blodet kombinert med en redusert TSH kan være en indikator på at mer T3 befinner seg inne i cellene, noe som stimulerer til økt energiforbruk.
+
+## Veien videre
+
+Dette er en spennende studie, men også en liten studie over relativt kort tid. Forsøkspersonene var overvektige, og ble valgt ut på grunn av sin vilje og evne til å følge et 7 måneder langt diettopplegg. Dette representerer ikke nødvendigvis overvektige i populasjonen som helhet. Av denne grunn er det behov for å gjennomføre lignende studier på andre typer forsøkspersoner, gjerne også uten vektreduksjon, for å se om resultatene lar seg reprodusere.
+
+Risikofaktorene for metabolsk syndrom forbedret seg betraktelig sammenlignet med situasjonen før vekttapet. Dette demonstrerer hvor stor effekt en vektreduksjon har på risikoen for sykdom. Lavkarbodietten gav de beste effektene på energiforbruk og på de fleste metabolske markørene, men gav også den største utskillelsen av stresshormon og økt inflammasjon, som på sin side er assosiert med økt sykdomsrisiko.
+
+Lav-GI-dietten viste lignende forbedringer som lavkarbo, og i tillegg så man fordelaktige effekter på stresshormon og inflammasjonsmarkøren CRP. Forfatterne konkluderer derfor med at man bør velge en strategi som tar sikte på å redusere den glykemiske belastningen fremfor fettinntaket. Dette vil ha en positiv effekt både i opprettholdelsen av et vekttap og på risikofaktorene for sykdommer assosiert med metabolsk syndrom.
+
+## Hvordan skal du så spise?
+
+Dette er et spørsmål vi sannsynligvis aldri får en fasit på, men denne studien gir oss sterke indikasjoner på at det vil være positivt å begrense den glykemiske belastningen. De viktigste grepene i så måte er å redusere inntaket av høyglykemiske karbohydrater, i hovedsak sukker og fint mel, til fordel for mer lavglykemiske varianter som frukt, grønnsaker og belgfrukter. Å erstatte karbohydrater med fett ser heller ikke ut til å være en dårlig ide, men du trenger ikke å gjøre ekstreme endringer og bytte ut alt.
+
+Et godt utgangspunkt for kostholdsendringer finner du i disse artiklene:
+
+[Enkle tiltak som kan forbedre kostholdet ditt del 1](kosthold-tiltak-1.qmd "Enkle tiltak som kan forbedre kostholdet ditt – del 1")
+
+[Enkle tiltak som kan forbedre kostholdet ditt del 2](kosthold-tiltak-2.qmd "Enkle tiltak som kan forbedre kostholdet ditt – del 2")
+
+[Enkle tiltak som kan forbedre kostholdet ditt del 3](kosthold-tiltak-3.qmd "Enkle tiltak som kan forbedre kostholdet ditt – del 3")
+
+##### Har du lest gjennom studien? Kom med dine tanker og synspunkter i kommentarfeltet!
+
+#### Referanse:
+
+1.  Ebbeling CB, Swain JF, Feldman HA, Wong WW, Hachey DL, Garcia-Lago E, Ludwig DS: **Effects of dietary composition on energy expenditure during weight-loss maintenance**. *JAMA* 2012, **307**(24):2627-2634.

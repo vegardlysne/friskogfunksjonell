@@ -1,0 +1,80 @@
+---
+title: "Insulinindeks - hva og hvorfor?"
+date: "2012.08.07"
+---
+
+[Insulin](hormoner/insulin-glukagon.qmd "Insulin og glukagon") er et hormon som primært har som oppgave å regulere blodsukkeret og lagre inn energi. Kostholdets innhold av karbohydrater, den glykemiske belastningen, er den faktoren som i størst grad stimulerer produksjonen og utskillelsen av insulin.
+
+I disse lavkarbotider har dette ført til den oppfatningen at mer karbohydrater betyr mer insulin som igjen betyr mer fettlagring. Løsningen på problemet virker både logisk og enkel, spis mindre karbohydrater, produser mindre insulin, og du vil gå ned i vekt. Men er det bare karbohydrater som stimulerer dette hormonet, eller er det flere faktorer som spiller inn?
+
+I 1997 var det en studie \[1\] som tok for seg akkurat dette, og undersøkte insulinresponsen etter flere ulike matvarer. I 2009 ble det gjennomført en tilsvarende studie \[2\], men denne gangen på sammensatte måltider.
+
+## Hva er insulinindeks?
+
+Matvarer som inneholder karbohydrater har en [glykemisk indeks (GI)](http://www.friskogfunksjonell.no/mat-og-blodsukker-gi-eller-gb/ "Mat og blodsukker – GI eller GB?"). Denne beskriver hvor mye blodsukkeret stiger etter inntaket av 50g karbohydrater fra denne matvaren sammenlignet med en referansematvare. Insulinutskillelsen påvirkes hovedsakelig av blodsukkerstigningen, men også flere andre ting er med å påvirker. Forfatterne av den første studien skriver i innledningen:
+
+> However, carbohydrate is not the only stimulus for insulin secretion. Protein-rich foods or the addition of protein to a carbohydrate-rich meal can stimulate a modest rise in insulin secretion without increasing blood glucose concentrations, particularly in subjects with diabetes (20-22).Similarly, adding a large amount of fat to a carbohydrate-rich meal increases insulin secretion even though plasma glucose responses are reduced (23, 24).
+>
+> Thus, postprandial insulin responses are not always proportional to blood glucose concentrations or to a meal's total carbohydrate content. Several insulinotropic factors are known to potentiate the stimulatory effect of glucose and mediate postprandial insulin secretion. These include fructose, certain amino acids and fatty acids, and gastrointestinal hormones such as gastric inhibitory peptide, glucagon, and cholecystokinin (25, 26). Thus, protein- and fat-rich foods may induce substantial insulin secretion despite producing relatively small blood glucose responses. We therefore decided that comparing the insulinemic effects of foods on an isoenergetic basis was a logical and practical approach.
+
+Forfatterne undersøkte derfor hvor stor insulinutskillelsen var etter å ha spist ulike matvarer, og regnet deretter ut en insulinindeks (II). Denne er et mål på hvor mye insulinkonsentrasjonen i blodet stiger etter å ha spist en matvare. Her tas det ikke hensyn til mengde karbohydrater, men energimengden i matvaren. I denne studien er det brukt porsjoner som gir 240 kcal/1000 kJ av de ulike matvarene.
+
+## Hvordan ble studien gjennomført?
+
+I studien ble det totalt undersøkt 38 ulike matvarer, som ble delt inn i 6 ulike matvaregrupper. Alle matvarene ble servert til testpersonene alen, sammen med 2,2 dL vann som drikke.
+
+For hver matvaregruppe ble det valgt ut en gruppe på 11-13 friske personer, og totalt var det 41 testpersoner som deltok i forsøket. Alle testpersonene ble først servert en porsjon hvitt brød, som fungerte som referansematvare. Dette fungerte også som en test for å bekrefte normal glukosetoleranse. Deretter ble de i tilfeldig rekkefølge servert matvarene om morgenen etter 10 timers faste. Etter at matvaren var spist ble det tatt blodprøver hvert kvarter over en periode på to timer der det ble målt blodsukker og insulinkonsentrasjon.
+
+Insulinresponsen ble deretter sammenlignet med insulinresponsen etter hvitt brød for å regne ut II.
+
+## Resultater
+
+Insulinresponsen etter en porsjon (240 kcal) av de ulike matvarene vises i figur 2. Resultatene er i forhold til hvitt brød, som er satt til 100%.
+
+![Figur 2 (Holt 1997)](images/clipboard-824860564.png)
+
+Forfatterne viste at det ikke nødvendigvis var en konsistent sammenheng mellom en matvares effekt på blodsukkeret og den samme matvarens effekt på insulinproduksjonen. Selv om karbohydrater er en viktig faktor for insulinresponsen, så man at enkelte matvaregrupper var mer insulinogene enn blodsukkerresponsen skulle tilsi, mens andre var mindre insulinogene.
+
+Figur 4 viser forholdet mellom insulinresponsen og blodsukkerstigningen for de ulike matvarene.
+
+![Figur 4 (Holt 1997)](images/clipboard-2764663908.png)
+
+## Praktisk betydning for diabetikere
+
+I 2009 ble det gjennomført en ny studie \[2\] som tok for seg dette med insulinindeks. Bakgrunnen for denne studien var å finne en mer nøyaktig måte å regne ut insulinbehovet til de med diabetes. Frem til nå har det vært vanlig å bruke glykemisk belastning (GB = total mengde karbohydrater og GI) for å beregne insulinbehovet, men forfatterne skriver at:
+
+> Together, carbohydrate counting and knowledge of the GI of foods provide the most accurate prediction of likely insulin response (6, 7). However, because GI methodology does not permit the testing of foods with little or no carbohydrate, it cannot provide a guide to the relative insulin response of a large majority of foods in food databases, including high-protein foods such as meat, fish, poultry, eggs, and cheese and high-fat foods such butter and olive oil.
+
+Med andre ord er forfatterne ute etter en mer presis måte å forutse insulinbehovet etter et sammensatt måltid, slik at man på en enda bedre måte kan kontrollere diabetesen sin. Det blir antatt at insulinbehovet etter et sammensatt måltid best lar seg beregne ved å se på insulinindeksen til de forskjellige matvarene i måltidet, og ikke måltidets totale innhold av karbohydrater og GI.
+
+## Hva ble gjort?
+
+21 friske, ikke-røykende forsøkspersoner ble etter 10-12 timers faste servert 13 ulikt sammensatte måltider, med likt energiinnhold (480 kcal/2000 kJ). Måltidenes GB ble beregnet utifra karbohydratinnhold og GI, mens II ble beregnet utifra data fra studien omtalt lenger oppe. Hvitt brød ble brukt som referansemåltid.
+
+Etter måltidet ble det tatt blodprøver der man målte insulinkonsentrasjonen i blodet. Denne ble sammenlignet med beregnet insulinbehov beregnet utifra karbohydratinnhold, GB, II, fett-, fiber- og proteininnhold.
+
+## Resultater
+
+Både GB (r=0.68) og II (r=0.78) var gode prediktorer for insulinbehovet etter måltid, men II korrelerte aller best. Karbohydratinnholdet var ikke en spesielt god prediktor for insulinbehov etter et måltid. Fett viste seg å ha en omvendt korrelasjon, mens protein og fiber ikke viste seg å ha noen konsistent sammenheng i det hele tatt.
+
+Sammenhengen mellom de ulike prediktorene og faktisk insulinutskillelse vises i figurene under:
+
+![Figur 2 A-F (Bao 2009)](http://www.friskogfunksjonell.no/wp-content/uploads/2012/08/Insulinindeks-2-A-F.png "Insulinindeks 2 A-F"){alt=""} Figur 2 A-F (Bao 2009)
+
+## Konklusjoner
+
+Både GB og II ser ut til å være gode alternativer for å beregne insulinbehovet etter et måltid, men ut ifra dataene ser det ut som om II er den mest nøyaktige prediktoren, siden den også gjør det mulig å ta hensyn til måltidets innhold av andre næringsstoffer enn karbohydrater.
+
+I diskusjonen skriver forfatterne at konseptet med II også kan være nyttig for den friske befolkningen, siden økt insulinutskillelse er assosiert med økt risiko for diabetes, overvekt og generelt metabolsk syndrom. Likevel må det også tas med i betraktningen at det var få forsøkspersoner, og at disse var friske og slanke. Det er derfor sannsynlig at resultatene ikke kan overføres direkte til mennesker som ikke går inn under denne definisjonen.
+
+Det er likevel ingen tvil om at det å kalkulere insulinbehovet utifra total mengde karbohydrater er en svært upresis metode, da måltider med likt innhold av karbohydrater kan gi vidt forskjellig insulinrespons. Det er derfor nærliggende å tro at II i fremtiden vil overta som prediktor i behandlingen av type 1 diabetes. Forfatterne skriver:
+
+> In summary, the relative insulin demand evoked by mixed meals consumed by lean young healthy subjects is best predicted by a physiologic index based on integrating insulin responses to isoenergetic portions of single foods. In the context of composite meals of similar energy value but varying macronutrient content, carbohydrate counting had limited value.
+
+Foreløpig trengs det mer forskning på dette feltet, og den må også nødvendigvis gjøres på relevante populasjoner og ikke bare på friske. Kanskje vil vi få en endring i rådene om hvordan man bør spise om man har diabetes, [noe forskningen allerede tyder på](http://www.friskogfunksjonell.no/hvordan-bor-en-diabetiker-spise/ "Hvordan bør en diabetiker spise?").
+
+#### Referanser
+
+1\. Holt SH, Miller JC, Petocz P: **An insulin index of foods: the insulin demand generated by 1000-kJ portions of common foods**. *Am J Clin Nutr* 1997, **66**(5):1264-1276.
+
+2\. Bao J, de Jong V, Atkinson F, Petocz P, Brand-Miller JC: **Food insulin index: physiologic basis for predicting insulin demand evoked by composite meals**. *Am J Clin Nutr* 2009, **90**(4):986-992.

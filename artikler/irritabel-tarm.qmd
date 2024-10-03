@@ -1,0 +1,164 @@
+---
+title: "Irritabel tarm og hva du kan gjøre med det!"
+date: "2012.04.0"
+---
+
+Mange sliter med symptomer på irritabel tarm, og legene klør seg i hodet og har ingen løsning på problemet. Per i dag finnes det ingen kur mot disse plagene, og det beste man kan tilby er å behandle symptomene ved å gjøre endringer i kostholdet.
+
+Under årets faglige møte i regi av [KEFF](http://www.keff.no)  (Kliniske Ernæringsfysiologers Forening) holdt Dr. Sue Shepherd et foredrag om nettopp irritabel tarm. Shepherd er en australsk forsker som har skrevet flere bøker om problematiske sukkerarter (FODMAP), og har også gjennomført en del studier på disse. Hun Her presenterte hun resultater fra forskningen sin, og fortalte om teorien bak low-FODMAP-diet. Denne artikkelen er basert på hennes foredrag.
+
+## Hva er irritabel tarm?
+
+Irritabel tarm (IBS) er en fellesbetegnelse på plager som oppstår i mage/tarm-kanalen uten at det er annen sykdom som er skyld i dem.  Dette er den vanligste formen for problemer med mage/tarm, og det er estimert at så mange som 15% av befolkningen er plaget med dette. IBS gir symptomer som:
+
+-   Oppblåsthet
+
+-   Luft i magen
+
+-   Diaré
+
+-   Forstoppelse
+
+-   Magesmerter
+
+IBS er noe som i ulik grad rammer svært mange, og som nevnt i innledningen finnes det ingen medisinsk kur mot dette. Hvis du ofte opplever ett eller flere av de nevnte symptomene, og ikke har fått påvist annen sykdom, vil dette si at du har en eller annen grad av IBS.
+
+Disse plagene oppstår når ufordøyde karbohydrater kommer ned i tykktarmen. Dette tåler vi helt fint i små mengder, men når det av ulike grunner blir for mye kan det oppstå problemer, som igjen vil oppfattes ulikt fra person til person. Det kan også være andre årsaker til IBS, som for eksempel stress, men det er ganske god dokumentasjon på at ufordøyde karbohydrater er hovedårsaken.
+
+## Hva er FODMAP?
+
+FODMAP står for Fermentable Oligosacharides Disacharides Monosacharides And Polyols, og er en fellesbetegnelse for ulike karbohydrater som kan skape problemer i tarmen. Disse gir problemer dersom de ikke blir absorbert i tynntarmen, og dermed havner i tykktarmen, der bakteriene kan fermentere dem. De ulike FODMAPene har ulike virkningsmekanismer, og det er vanlig å reagere på noen av dem, men ikke alle. Her følger en kort beskrivelse av de ulike karbohydratene. Lenger nede står det mer om hvilke matvarer som inneholder de ulike FODMAPene.
+
+#### Oligosakkarider
+
+Oligosakkarider er karbohydratkjeder som består av 3-10 monosakkarider. Oligosakkarider som kan gi symptomer på IBS er fruktaner (kjeder av fruktose med et glukosemolekyl) og galaktooligosakkarider (GOS, fruktosekjeder med et galaktosemolekyl). Disse er bundet sammen med bindinger som vi ikke er i stand til å bryte, noe som fører til at over 90% av disse fraktes videre til tykktarmen.
+
+Fruktaner og GOS absorberes dårlig hos alle, siden vi ikke har enzymene som skal til for å bryte dem ned. Disse vil derfor alltid fermenteres i tykktarmen, og når det blir nok av dem vil de gi symptomer hos alle. Tålegrensen før symptomene kommer vil variere fra person til person.
+
+#### Disakkarider
+
+Av disakkaridene er det bare laktose, eller melkesukker, som er forbundet med IBS. Laktose er et disakkarid som er satt sammen av et glukosemolekyl og et galaktosemolekyl. For å spalte galaktosen fra glukosen trenger vi et enzym som heter laktase, og for de som ikke har dette enzymet vil laktose komme ufordøyd ned i tykktarmen. Mangel på laktaseenzymet kalles laktoseintoleranse, og ved denne tilstanden bør man unngå mat som inneholder laktose.
+
+Laktose er ikke et problem for de som har laktaseenzymet, og her i Norge er vi generelt godt utstyrt med nettopp dette enzymet. Det går også an å kjøpe laktaseenzym som et tilskudd man kan spise sammen med matvarer som inneholder laktose, og på den måten fordøye det bedre. De som er laktoseintolerante vil også som regel tåle laktose i veldig små mengder.
+
+#### Monosakkarider
+
+Av monosakkaridene er det bare fruktose som er forbundet med IBS. Dette er imidlertid litt spesielt, for **fruktose skaper bare problemer dersom maten inneholder mer fruktose enn glukose (fruktose \> glukose).** Dette skyldes at fruktose kan tas opp på to måter, med eller uten glukose. Mesteparten av fruktosen blir absorbert i tynntarmen sammen med glukose, og da vil et glukosemolekyl ta med seg et fruktosemolekyl gjennom tarmveggen. Denne opptaksmekanismen har stor kapasitet. Ytterligere fruktose må da tas opp uten hjelp fra glukose, og denne transportmåten har varierende kapasitet. Den fruktosen som ikke absorberes i tynntarmen fraktes ufordøyd til tykktarmen, hvor den kan fermenteres av bakteriene og skape symptomer på IBS.
+
+Så lenge maten inneholder like mye glukose som fruktose, vil det absorberes godt hos alle, på grunn av den glukoseavhengige absorbsjonen. Alle har ulik kapasitet til å absorbere fruktose uten hjelp av glukose, slik at folk vil tåle ulike mengder før det blir et problem. Fruktose gir bare IBS-symptomer så lenge det ikke blir tatt opp! Fruktosemalabsorbsjon er en svikt i den absorbsjonsveien som ikke er avhengig av glukose, så de som lider av dette vil få problemer med en gang maten inneholder mer fruktose enn glukose.
+
+#### Polyoler
+
+Polyoler er sukkeralkoholer som ikke tas godt opp i tynntarmen og derfor havner i tykktarmen, og eksempler er sorbitol, xylitol, mannitol, maltitol og isomalt. Disse tas opp i tynntarmen ved passiv diffusjon, og tålegrensene varierer fra person til person. Veldig mange har problemer med å ta opp disse.
+
+## Hvordan forårsaker FODMAPene symptomer?
+
+FODMAPene skaper bare problemer så lenge de ikke absorberes i tynntarmen, og derfor fraktes ufordøyd videre til tykktarmen. Disse molekylene er osmotisk aktive, og vil derfor trekke vann ut i tykktarmen. Dette gjør at avføringen blir flytende, noe vi opplever som diaré. De vil også raskt fermenteres av bakteriefloraen i tykktarmen, noe som fører til gassproduksjon.
+
+Kombinasjonen av økt væskeinnhold og gassproduksjon fører til at tykktarmen utvider seg, noe som fører til at du føler deg oppblåst. Det gjør også at avføringen kan renne raskere gjennom. Økt strekk i tarmveggen vil aktivere nerver som sitter her, som sender smertesignaler til hjernen, og vi opplever smerte. **Disse symptomene oppleves ikke av alle, men om du opplever disse jevnlig er sjansen stor for at legen vil fortelle deg at du har IBS.**
+
+## Hvilken mat inneholder de ulike FODMAPene?
+
+De ulike FODMAPene finnes i ulik mat, og mange matvarer inneholder flere forskjellige typer. Her er en liten oversikt over vanlige matvarer som inneholder de ulike FODMAPene. Husk at det at en matvare inneholder en FODMAP ikke nødvendigvis betyr at den vil gi deg problemer, men om du reagerer på en eller flere av disse kan det være du ikke bør spise så mye av enkelte matvarer på listen. Listen er ikke komplett, men inneholder en del vanlige matvarer som inngår i manges kosthold.
+
+#### Fruktaner og GOS
+
+-   **Frukter:** Fersken, vannmelon
+
+-   **Grønnsaker:** Rosenkål, kål, hvitløk, løk, erter, vårløk, purre
+
+-   **Korn:** Hvete, rug, bygg
+
+-   **Annet:** Inulin, belgfrukter, linser, pistasjnøtter
+
+#### Laktose
+
+-   **Meieriprodukter:** Melk, yoghurt, fløtebasert is, myke oster
+
+#### Fruktose \> glukose
+
+-   **Frukt:** Eple, pære, mango, kirsebær, vannmelon
+
+-   **Grønnsaker:** Asparges, sukkererter
+
+-   **Annet:** Honning
+
+#### Polyoler
+
+-   **Frukt:** Eple, pære, plumme, bjørnebær, aprikos, nektarin, avocado
+
+-   **Grønnsaker:** Blomkål, sopp, sukkererter
+
+-   **Annet:** Tyggis og pastiller med kunstig søtning
+
+## Low-FODMAP-diett
+
+Det er et klart dose-respons-forhold når det gjelder inntaket av problematiske matvarer og symptomer. Dette betyr at du fint kan tåle en viss mengde av noe, men med en gang du kommer over din egen tålegrense kommer symptomene, og jo mer du får i deg, jo sterkere blir reaksjonen. Med dette i bakhodet skjønner du at du ikke nødvendigvis trenger å kutte de problematiske matvarene helt ut av kostholdet ditt, men at du muligens må belage deg på å redusere inntaket av noe dersom du opplever symptomer på IBS.
+
+For å finne ut hva du reagerer på, kan du prøve en såkalt low-FODMAP-diett. Dette innebærer en periode på 6-8 uker hvor du unngår alle FODMAPene. **Dette vil med stor sannsynlighet gjøre deg helt symptomfri!** Når du har vært helt symptomfri en stund, er det på tide å reintrodusere en og en FODMAP, og deretter følge med på når symptomene kommer tilbake. Sue Shepherd har en foretrukket rekkefølge på hvilken mat man tester ut. Begrunnelsen for denne er at flere matvarer inneholder mer enn en FODMAP, og ved å teste i denne rekkefølgen kan man unngå feiltolkninger.
+
+Noen punkter som er greit å ha i bakhodet når du tester:
+
+-   Begynn med å introdusere mat som bare inneholder en type FODMAP om gangen, ellers kan det være vanskelig å finne ut hvilken du reagerer på.
+
+-   Test den samme matvaren to ganger på en uke, med noen dager mellom, og skriv ned eventuelle symptomer.
+
+-   Øk gradvis mengden ved å introdusere flere matvarer som inneholder den FODMAPen du tester.
+
+-   Når du har funnet et nivå du tåler av den første FODMAPen, kan du beholde denne mengden i kostholdet og deretter introdusere neste FODMAP.
+
+-   Dersom du opplever symptomer på en matvare, kan du enten vente til symptomene går bort og deretter prøve samme matvare i en mindre mengde, eller anta at matvaren er et problem og rett og slett kutte den ut av kostholdet ditt. **Å kutte matvarer ut av kostholdet er siste løsning, og bør bare brukes om du opplever symptomer på små mengder.**
+
+-   Selv om du reagerer på en matvare, kan det være du fint tåler en annen matvare som inneholder samme FODMAP. Derfor kan det være lurt å prøve ut andre matvarer. I tillegg kan toleransen variere over tid, så om du reagerer i dag, kan det likevel være verdt å prøve samme matvare igjen i fremtiden.
+
+Her er Shepherd sin foretrukne rekkefølge, og forslag til matvarer:
+
+#### 1. Polyoler, mannitol og sorbitol
+
+-   *Sopp eller blomkål*
+
+-   *Aprikoser eller sukkerfri tyggis*
+
+#### **2. Laktose (bare om du mistenker laktoseintoleranse)**
+
+-   *Lettmelk eller youghurt*
+
+#### **3. Fruktose**
+
+-   *Mango eller honning*
+
+**4. Fruktaner**
+
+-   *Fullkornsbrød, hvitløk, purre, løk*
+
+#### **5. GOS**
+
+-   *Belgfrukter (bønner, linser, erter)*
+
+## Hva kan du spise?
+
+Mange frukter og grønnsaker inneholder en eller flere FODMAPs, men likevel finnes det en del som vanligvis ikke gir problemer, så du skal slippe å spise helt frukt- og grønnsaksfritt!
+
+**Frukt:** Banan, druer, honningmelon, cantaloupemelon, kiwi,  appelsin, mandarin/klementin, ananas, jordbær, blåbær, bringebær, sitron/lime.
+
+**Grønnsaker:** Gulrot, agurk, squash, salat, oliven, potet/søtpotet, spinat, bønnespirer, selleri. Brokkoli og mais går også, men ikke i store mengder.
+
+I tillegg kan du selvfølgelig spise mat som ikke inneholder karbohydrater, som kjøtt, fisk og egg.
+
+## Er det et problem å kutte ut for mye fra kostholdet?
+
+Man ønsker vanligvis å ha så få restriksjoner som mulig i kostholdet, slik at man skal kunne ha et så fleksibelt og variert kosthold som mulig. Ved å kutte ut mange matvarer setter man samtidig krav til at den maten man spiser er spesielt næringsrik, siden det kan være vanskelig å få i seg tilstrekkelig av [vitaminer og mineraler](http://www.friskogfunksjonell.no/naeringsstoffene/ "Artikkelserie om Næringsstoffene") når matutvalget blir mindre.
+
+Matvarer som av ulike årsaker er viktige for en person ønsker man å beholde så langt det lar seg gjøre, og her blir det ofte et spørsmål om hvor mye symptomer man takler å leve med for å beholde enkelte matvarer man reagerer på. **Dette blir opp til hver enkelt, siden det er du selv som velger hvilken mat du vil eller ikke vil spise!**
+
+## Hva sitter vi igjen med?
+
+Det jeg har presentert i denne artikkelen er på ingen måte en kur på irritabel tarm, men en effektiv måte å behandle symptomene på. Som nevnt i innledningen finnes det ingen kur for IBS, så dersom du reagerer på enkelte matvarer må du nok belage deg på å redusere eller kutte inntaket av disse dersom du ønsker å holde deg symptomfri.
+
+Sue Shepherd har i tillegg til forskningen sin også skrevet noen kokebøker med blant annet low-FODMAP-mat, noe som kan være nyttig dersom du trenger inspirasjon til matretter som unngår FODMAPene.
+
+Dersom du er interessert i å lese mer om irritabel tarm, kan jeg anbefale [denne artikkelen](http://www.forskning.no/artikler/2011/august/295541) fra forskning.no. Jeg vil også anbefale et besøk på Sue Shepherd sin [hjemmeside](http://shepherdworks.com.au/), hvor du kan finne mer informasjon om irritabel tarm, low-FODMAP-diett og mange andre ting i forbindelse med mage/tarm-helse!
+
+#### Sliter du eller noen du kjenner med symptomer på irritabel tarm? Del gjerne erfaringene dine i kommentarfeltet!
+
+## 

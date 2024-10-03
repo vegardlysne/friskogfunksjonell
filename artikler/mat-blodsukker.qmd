@@ -1,0 +1,46 @@
+---
+title: "Mat og blodsukker - GI eller GB?"
+date: "2012.03.30"
+---
+
+Glykemisk indeks (GI) ble introdusert for over 20 år siden, og har de siste årene blitt svært populært i den vestlige verden. GI er et mål på karbohydratrike matvarers evne til å øke blodsukkeret sammenliknet med glukose.
+
+Begrepet sier altså noe om hvor raskt en karbohydratholdig matvare fordøyes, tas opp og fører til blodsukkerstigning. GI-tabellen har fått endel negativ kritikk fra ulike forskermiljøer, blant annet fordi det ikke er noe godt mål på sammensatte måltider. Å kjenne til glykemisk belastning (GB) kan derfor være vel så viktig for deg som ønsker å vite hvordan maten vil påvirke blodsukkeret.
+
+## To forhold som gjør bruk av GI-tabellen utfordrende:
+
+-   En matvares GI-verdi er målt fra inntak av denne matvaren alene. I dagliglivet spiser vi ofte flere matvarer sammen. **Måltidets totale sammensetning av fett, proteiner og karbohydrater vil ha betydning for hvor fort og hvor kraftig blodsukkeret vil stige**. Mat med mye karbohydrater vil være sterkt blodsukkerøkende, mens både fett og proteiner vil kunne bremse denne effekten (blant annet fordi maten blir lenger i magesekken, og derfor går saktere over i blodet). Vanlig brød, som har høy GI, vil dermed kunne gi en tregere blodsukkerstigning dersom det spises sammen med laks og eggerøre (fett og proteiner).
+
+-   GI-målingene er gjort på inntak av 50 gram karbohydrater, som for endel matvarer er en urealistisk mengde. Det er sjelden vi spiser over et halvt kilo gulrøtter, så selv om kokte gulrøtter har høy GI, vil ikke blodsukkeret bli påvirket i den grad den høye verdien kan gi inntrykk av – fordi man spiser så lite. Motsatt vil noen matvarer som har middels GI inneholde mye karbohydrater. En god porsjon havregrøt vil fort kunne inneholde mye mer enn 50 gram karbohydrater og dermed også påvirke blodsukkeret betydelig mer enn GI-verdien gir inntrykk av.
+
+## Glykemisk belastning – et supert verktøy for deg med diabetes
+
+GB tar ikke bare hensyn til matvarens GI, men også matvarens innhold av karbohydrater og mengden som spises. Noen matvarer kan ha en lav GI, men mye karbohydrater per vektenhet. Dermed får matvaren en høy GB. Ved å bruke GB i stedet for GI er det altså mat med lite karbohydrater per vektenhet som er å foretrekke:
+
+Gulrot har GI på 49 og spiser du 100 gram får du i deg 6 gram karbohydrater.
+
+-   GB = (49×6)/100 = 2,9.
+
+Melkesjokolade har GI på 49 og inneholder 60 gram karbohydrater per 100 gram vare.
+
+-   GB= (49×60)/100 = 29,4.
+
+Man ser ut fra disse tallene at 100 gram gulrot på langt nær vil ha den samme effekten som 100 gram sjokolade på blodsukkeret, selv om de har lik GI. Det er altså først og fremst mengden karbohydrater i måltidet som vil bestemme hvor kraftig blodsukkeret vil stige etter et måltid. Ut fra dette eksempelet er det også lett å se at GI ikke kan forutsi hvor sunt eller usunt noe er, det er kun nyttig for å forutsi matens effekt på blodsukkeret.
+
+**Om du har diabetes type 2 og lurer på hvordan du bør spise, sjekk ut [denne](http://www.friskogfunksjonell.no/hvordan-bor-en-diabetiker-spise/ "Hvordan bør en diabetiker spise?")!**
+
+## Lavglykemisk kost – gunstig for diabetikere
+
+En jevn blodsukkerstigning etter måltidet vil være gunstig for deg med diabetes. Det kan blant annet forbedre langtidsblodsukkeret (Hba1c) og ha god effekt på triglyseridnivået i blodet. Dette kan igjen redusere risikoen for senkomplikasjoner som hjerte- og karsykdommer, nyresvikt og øyeskader. Mye forskning tyder på at lavglykemisk mat også kan gi bedre apetittregulering, noe som kan være heldig for deg som ønsker å gå ned i vekt.
+
+[www.glycemicindex.com](http://www.glycemicindex.com) er en veldig bra nettside der du kan finne både GB, GI og mengde karbohydrat per porsjon i samme tabell.
+
+### Referanser­:
+
+1\. Glycemicindex.com
+
+2\. Matvaretabellen.no
+
+3\. Buyken, A. E., P. Mitchell, et al. (2010). “**Optimal dietary approaches for prevention of type 2 diabetes: a life-course perspective**.” Diabetologia53(3): 406-418.
+
+4. Kolset, S. O. (2003). “\[Glycaemic index\].” Tidsskrift for den Norske laegeforening : tidsskrift for praktisk medicin, ny raekke123(22): 3218-3221.

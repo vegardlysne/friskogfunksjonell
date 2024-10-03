@@ -1,0 +1,72 @@
+---
+title: "Metthetsfølelsen - viktig når du skal velge kosthold"
+date: "2012.07.11"
+---
+
+Det er gjort mange studier som har sammenlignet vekttapet ved ulike dietter, og en ting som har blitt gjentatt til det kjedsommelige er dette med at det ikke er noen forskjell mellom de ulike variantene. Spesielt har fokuset blitt rettet mot dietter basert på karbohydratrestriksjon og energirestriksjon, siden disse representerer det nye, populære og det gamle, tradisjonelle. Matens effekt på energiinntaket gjennom effekten på sult og metthet har derimot gått i glemmeboken, selv om det i virkeligheten må sies å være en veldig sentral faktor når det kommer til vektregulering.
+
+**Viktige begreper**
+
+For å få fullt utbytte av denne artikkelen er det viktig at vi er enige om betydningen av enkelte nøkkelbegreper.
+
+-   **Karbohydratrestriksjon** – brukes om dietter der en reduksjon i karbohydratinntaket er målet
+
+-   **Energirestriksjon** – brukes om dietter der en reduksjon av energiinntaket er målet
+
+-   **Ad libitum** – beskriver en diett der det ikke er benyttet energirestriksjon, og forsøkspersonene spiser så mye de vil.
+
+## Fremgangsmåte i ulike studier
+
+Det er mange studier som har sammenlignet effekten av ulike vektreduksjonsdietter, og fremgangsmåten varierer. I noen studier opereres det med energirestriksjon i begge intervensjonsgruppene, mens det i andre studier opereres med energirestriksjon i en gruppe og ad libitum i den andre. Dette er viktig å ha i bakhodet når vi skal tolke resultatene fra de ulike studiene.
+
+De fleste studiene som sammenligner ulike dietter er såkalte intention-to-treat (ITT)-analyser. Dette innebærer at alle deltakerne inkluderes i sluttanalysen, uavhengig av om de har fulgt instruksjonene eller ikke. Dette ødelegger den reelle sammenligningen av de diettene man ser på, siden frafallet har en stor innvirkning på resultatene.
+
+Det man i realiteten viser med en ITT-analyse er som navnet direkte oversatt sier, effekten av å be en større gruppe mennesker gjennomføre en intervensjon, ikke effekten av å faktisk følge intervensjonen. Overført til diettstudier betyr dette at man undersøker den gjennomsnittlige effekten av å be en gruppe mennesker følge en diett, noe som ikke gjenspeiler den effekten du kan forvente ved å faktisk følge dietten.
+
+Resultatet etter en ITT-analyse vil være at effekten av intervensjonen fremstår dårligere enn den egentlig er. De som ikke fulgte instruksjonene vil selvfølgelig ikke oppnå disse resultatene, og når de tas med i totalen så vil gjennomsnittseffekten bli dårligere.
+
+Richard David Feinman har skrevet mer om ITT [her](http://rdfeinman.wordpress.com/2011/08/21/intention-to-treat-what-it-is-and-why-you-should-care/).
+
+## Er det ingen forskjell?
+
+![Figur fra Foster 2010 (2)](images/clipboard-664475060.png)
+
+Når vi ser på studier som sammenligner ulike kosthold så hevdes det ofte at det ikke er en forskjell i vektnedgang og at diettene derfor er like effektive. Det er et stort problem ved å se på studiene på denne måten, og det er at det bare blir tatt hensyn til tallet på vekten, og ikke subjektive følelser eller andre effekter av kostholdet.
+
+Det er ingen tvil om at det er [energibalansen](http://www.friskogfunksjonell.no/energibalansen/ "Energibalansen – hva sier den egentlig?") som over tid avgjør om vi går opp eller ned i vekt, men kroppsmassen vår er ikke en homogen masse, og det er minst like vesentlig hva denne massen består av. Muskelvev og fettvev har vidt ulike effekter på ulike helsemarkører, så å se på kroppsvekten isolert er ikke veldig hensiktsmessig.
+
+I studier der både lavkarbo- og lavfettgruppen pålegges en lik energirestriksjon blir resultatene, ikke uventet, at begge gruppene går like mye ned i vekt, f.eks. Sacks 2009 \[[1](http://www.ncbi.nlm.nih.gov/pubmed/19246357 "Sacks, 2009 #90")\]. I de studiene der lavfettgruppen pålegges energirestriksjon og lavkarbogruppen får spise ad libitum er også vektnedgangen lik, og i noen studier gir lavkarbo ad libitum til og med en større effekt på vekten, f.eks. Foster 2010 \[[2](http://www.ncbi.nlm.nih.gov/pubmed/20679559 "Foster, 2010 #232")\] eller Shai 2008 \[[3](http://www.ncbi.nlm.nih.gov/pubmed/18635428 "Shai, 2008 #116")\].
+
+Studier der begge gruppene spiser ad libitum er så vidt meg bekjent ikke gjennomført, men utifra hva de andre studiene viser er det liten tvil om at karbohydratrestriksjon ville vært mest effektivt, hvertfall som gjennomsnitt i større grupper. At det ikke er noen forskjell mellom diettene er derfor kanskje en sannhet med modifikasjoner.
+
+## Hvorfor er det slik?
+
+Jeg skal selvfølgelig ikke påberope meg å vite hvorfor resultatene er som de er, men hvis jeg skal gjøre et forsøk vil det være mest naturlig å bruke sult- og metthetsregulering som den avgjørende faktoren. Et kosthold som i større grad stimulerer metthetsfølelsen vil naturlig bidra til å redusere matinntaket. Når karbohydratrestriksjon + ad libitum fører til at forsøkspersonene totalt sett spiser mindre energi enn de som blir pålagt energirestriksjon ser jeg ingen annen plausibel forklaring enn at dette skyldes en sterkere metthetsfølelse.
+
+Det kan selvfølgelig også argumenteres for at forsøkspersonene finner maten ensidig og kjedelig, og at de derfor ikke spiser like mye som de ville gjort om maten var mer velsmakende, men over lengre perioder ser jeg ikke på det som sannsynlig at dette er viktigere enn metthetsfølelsen.
+
+Hvorfor studiene indikerer at et kosthold med karbohydratrestriksjon gir en høyere metthet og deretter et lavere matinntak er umulig å si sikkert, men noen av de mulige forklaringene kan være:
+
+-   Protein er det makronæringsstoffet som gir høyest metthet, så ved å øke proteininntaket kan vi oppnå denne effekten. De som legger om til lavkarbokosthold vil i de fleste tilfeller også øke inntaket av protein. I studier på lavkarbokosthold er det hvertfall vanlig at proteininntaket er høyest i lavkarbogruppen, noe som kan regnes som en feilkilde.
+
+-   En annen teori er at matens innhold av mikronæringsstoffer avgjør hvor mye vi trenger å spise, og at man ved å spise næringsfattig mat (raffinerte produkter som vi spiser stadig mer av) stimulerer sultfølelsen fordi kroppen ønsker mer næring. En typisk lavkarbodiett er rik på næringsrike matvarer som kjøtt, fisk og egg, og raffinerte karbohydrater er gjerne det første som ryker ut av kostholdet.
+
+-   En tredje teori er at et karbohydratredusert kosthold gir et lavere insulinnivå, noe som gjør energien i fettvevet mer tilgjengelige for kroppens celler, noe som reduserer behovet for å tilføre energi gjennom kostholdet. Dette vil imidlertid være mest relevant for de som skal ned i vekt, og ikke nødvendigvis for de som skal være vektstabile.
+
+Med stor sannsynlighet er det ikke bare en bestemt faktor som påvirker energiinntaket, men heller en kombinasjon av flere ting, og det er helt sikkert individuelle forskjeller på hva som gir den beste effekten. Dette understreker viktigheten av å tilpasse kostholdet til enkeltindividet.
+
+## Hva har dette å si for deg?
+
+Det jeg til syvende og sist ønsker å understreke, som vanlig, er at en individuell tilnærming til kosthold er viktig. Ønsker du å gå ned i vekt, vil det være nødvendig å finne mat som gir deg nok metthet til at du ikke sprekker.
+
+For noen kan det å redusere karbohydratinntaket være tilstrekkelig til at energiinntaket reduseres, mens et økt fokus på protein kan være løsningen for andre. Hos noen vil fettrik mat gi en god og langvarig metthetsfølelse, mens andre kan reagere motsatt og lett overspise på fett.
+
+Det er likevel enkelte ting som vil gi økt metthet for de fleste, nemlig et økt inntak av proteinrik mat og grønnsaker, og et redusert inntak av raffinerte karbohydrater som sukker og fint mel. I blogginnleggene om enkle tiltak for å forbedre kostholdet (Del [1](http://www.friskogfunksjonell.no/3-enkle-tiltak/ "Enkle tiltak som kan forbedre kostholdet ditt – del 1"), [2](http://www.friskogfunksjonell.no/3-tiltak-del-2/ "Enkle tiltak som kan forbedre kostholdet ditt – del 2") og [3](http://www.friskogfunksjonell.no/3-tiltak-del-3/ "Enkle tiltak som kan forbedre kostholdet ditt – del 3")) gir jeg deg flere tips til ting du kan gjøre.
+
+**Les også: [Hvilken diett skal jeg velge?](http://www.friskogfunksjonell.no/hvilken-diett-skal-jeg-velge/ "Hvilken diett skal jeg velge?")**
+
+#### Referanser:
+
+1.  Sacks FM, Bray GA, Carey VJ, Smith SR, Ryan DH, Anton SD, McManus K, Champagne CM, Bishop LM, Laranjo N *et al*: **Comparison of weight-loss diets with different compositions of fat, protein, and carbohydrates**. *N Engl J Med* 2009, **360**(9):859-873.
+2.  Foster GD, Wyatt HR, Hill JO, Makris AP, Rosenbaum DL, Brill C, Stein RI, Mohammed BS, Miller B, Rader DJ *et al*: **Weight and metabolic outcomes after 2 years on a low-carbohydrate versus low-fat diet: a randomized trial**. *Ann Intern Med* 2010, **153**(3):147-157.
+3.  Shai I, Schwarzfuchs D, Henkin Y, Shahar DR, Witkow S, Greenberg I, Golan R, Fraser D, Bolotin A, Vardi H *et al*: **Weight loss with a low-carbohydrate, Mediterranean, or low-fat diet**. *N Engl J Med* 2008, **359**(3):229-241.

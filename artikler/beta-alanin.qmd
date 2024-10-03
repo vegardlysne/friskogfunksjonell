@@ -1,0 +1,46 @@
+---
+title: "Beta-alanin - et nyttig kosttilskudd?"
+date: "2012.07.18"
+---
+
+Beta-alanin (BA) er et ganske populært tilskudd, og det er gjort mye forskning på dette tilskuddet og hvilke effekter det har. I januar 2012 ble det publisert en metaanalyse (1) i tidsskriftet Amino Acids, hvor man har sett på denne forskningen. Her er konklusjonene de kom fram til.
+
+## Hvordan fungerer beta-alanin?
+
+Når vi trener med høy intensitet vil energien i stor grad komme fra anaerob nedbrytning av glukose, og melkesyre er et biprodukt av denne reaksjonen. Når mengden melkesyre i muskelen øker, synker pH og dette fører etterhvert til utmattelse. Intracellulære buffere er vårt forsvar mot denne reduksjonen i pH, og jo større bufferkapasitet vi har, jo lengre vil vi teoretisk kunne unngå å stivne. Den viktigste intracellulære bufferen heter karnosin.
+
+BA fungerer som substrat for syntesen av karnosin. Mengden BA har vist seg å være den hastighetsregulerende faktoren i karnosinsyntesen, og tilskudd av BA har vist seg å markant øke nivåene av karnosin i muskelcellene. På grunn av dette har BA blitt et populært prestasjonsfremmende tilskudd for idrettsutøvere.
+
+## Hva så de på i analysen?
+
+Forfatterne så på om tilskudd av BA hadde en prestasjonsøkende effekt. De inkluderte studiene målte fysisk aktivitet av ulik varighet, og derfor så de på aktivitet av varighet \<60s, 60-240s og \>240s hver for seg. I tillegg så de på om dosen BA hadde noen betydning, ved å analysere de dosene som ble gitt i de ulike studiene.
+
+### Resultater
+
+Metaanalysen inkluderte totalt 360 deltakere, fordelt på 15 studier. 77% av deltakerne var unge, aktive menn. Av alle deltakerne var det 174 som fikk tilskudd av BA mens de resterende 186 fikk placebo. Det gjennomsnittlige inntaket i studieperioden var 179g, og den gjennomsnittlige dagsdosen var 5g.
+
+-   Totalt sett så man en signifikant ergogen effekt ved tilskudd av BA sammenlignet med placebo.
+
+-   Når det gjaldt mål på maksimal prestasjon, fant de en ikke-signifikant bedre effekt i BA-gruppen enn i placebogruppen, men når de så på arbeidskapasitet så kom BA-gruppen signifikant bedre ut.
+
+-   For fysisk aktivitet av varighet \<60 sekunder var det ingen forskjell mellom gruppene. Når aktiviteten varte fra 60-240s derimot, kom BA-gruppen signifikant bedre ut, og det samme gjorde de når aktiviteten varte \>240s, men da var forskjellen mindre.
+
+-   Forfatterne fant ikke noe signifikant dose-respons-forhold. Det var ingen forskjell mellom dem som tok henholdsvis mindre eller mer enn gjennomsnittsinntaket på 179g.
+
+## Konklusjoner
+
+Tilskudd av BA gir ikke en økt maksimal prestasjon, så du kan ikke forvente å verken løpe fortere eller løfte tyngre ved å bruke dette. Det du derimot kan forvente, er at du vil klare å holde en høy intensitet over lengre tid, siden bufringen av melkesyre blir bedre med økende nivåer av karnosin i muskelcellene.
+
+Driver du med en idrett der konkurransevarigheten er mellom 1-4 minutter, kan du får ganske gode forbedringer ved tilskudd av BA, siden du vil klare å opprettholde intensiteten over en lengre periode. Et eksempel på denne typen konkurranse er 800-1500m løping.
+
+For aktiviteter som varer under 1 minutt fant forfatterne av studien ingen signifikant effekt, men det skal nevnes at BA-gruppen også her gjorde det litt bedre enn placebogruppen, selv om forskjellen ikke var signifikant. Dette forklares med at melkesyre normalt ikke er det som stopper deg på aktiviteter av denne varigheten. Likevel, om du konkurrerer i en idrett der varigheten ligger oppunder 1 min, f.eks. 400m sprint, har du muligens noe å hente på å ta tilskudd av BA.
+
+For aktiviteter av kort varighet er det ikke syren som er den begrensende faktoren. Her er det i stedet resyntesen av ATP som gjør at du ikke klarer mer, så her vil ikke BA ha noen effekt. Her vil et tilskudd som kreatin komme mer til sin rett, siden kreatin øker kapasiteten til å resyntetisere ATP.
+
+Du som driver aktivt med idrett der arbeidsperioden ligger mellom 1-4 minutter kan absolutt ha noe å hente på å prøve ut tilskudd av BA. Om konkurransetiden avviker mye fra dette vil du ha mindre å hente. For de som hovedsakelig trener styrke vil normalt ikke melkesyren være den avgjørende faktoren for når du ikke klarer mer, og du vil derfor ha mer igjen for andre tilskudd, som f.eks. kreatin.
+
+**Les også: [Kreatin - noe for deg?](http://www.friskogfunksjonell.no/kreatin/ "Kreatin – noe for deg?")**
+
+#### Referanse
+
+1.   Hobson RM, Saunders B, Ball G, Harris RC, Sale C: **Effects of beta-alanine supplementation on exercise performance: a meta-analysis**. *Amino acids* 2012.
