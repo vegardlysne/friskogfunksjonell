@@ -3,7 +3,7 @@ title: "Ovariene, Testiklene og Morkaken"
 date: "2012.01.02"
 ---
 
-Tilbake til [innføringen i hormonsystemet](../../hormoner.qmd "En innføring i hormonsystemet").
+Tilbake til [innføringen i hormonsystemet](../../hormonsystemet.qmd "En innføring i hormonsystemet").
 
 Ovariene, testiklene og morkaken produserer en del hormoner, og deriblant kjønnshormonene som styrer de reproduktive evnene våre og sørger for at det er en forskjell på gutter og jenter. Under graviditeten produserer morkaken en del hormoner som påvirker både mor og foster.
 

@@ -3,7 +3,7 @@ title: "Insulin og glukagon"
 date: "2012.06.21"
 ---
 
-Tilbake til [innføringen i hormonsystemet](../../hormoner.qmd "En innføring i hormonsystemet").
+Tilbake til [innføringen i hormonsystemet](../../hormonsystemet.qmd "En innføring i hormonsystemet").
 
 Den endokrine delen av [bukspyttkjertelen](http://www.friskogfunksjonell.no/skjoldbruskkjertelen-bukspyttkjertelen-og-fettvevet/ "Skjoldbruskkjertelen, bukspyttkjertelen og fettvevet") (se bildet) produserer hormonene insulin og glukagon. Disse hormonene er viktige i [karbohydratmetabolismen](http://www.friskogfunksjonell.no/karbohydratmetabolismen/ "Karbohydratmetabolismen"), og har også effekter på [fettmetabolismen](http://www.friskogfunksjonell.no/fettmetabolismen/ "Fettmetabolismen") og [proteinmetabolismen](http://www.friskogfunksjonell.no/proteinmetabolismen/ "Proteinmetabolismen"). Her vil jeg gi en kort innføring i hvilke funksjoner disse to hormonene har i kroppen, og hvordan utskillelsen reguleres. Bukspyttkjertelen produserer også flere hormoner som somatostatin.
 
@@ -13,17 +13,17 @@ Insulin er et peptidhormon som består av to peptidkjeder. I bukspyttkjertelens 
 
 Utskillelsen av insulin stimuleres hovedsakelig når blodsukkeret øker, og den primære effekten til hormonet er å senke blodsukkeret for å hindre at det blir for høyt. Også konsentrasjonen av enkelte aminosyrer i blodet påvirker insulinutskillelsen. Dette betyr at insulin hovedsakelig skilles ut etter at vi har spist mat som inneholder karbohydrater og/eller protein, og konsentrasjonen er høyest i perioden etter et måltid. Insulin stimulerer til et økt opptak av næringsstoffer til cellene, og er derfor et anabolt (oppbyggende) hormon.
 
-#### **Insulinets effekter på karbohydratmetabolismen** 
+#### **Insulinets effekter på karbohydratmetabolismen**
 
 Glukose kan ikke passere cellemembraner uten hjelp fra transportproteiner. Insulin binder til insulinreseptoren på cellemembranene til målcellene, som i dette tilfellet er fett- og muskelceller, og stimulerer insulinavhengige glukosetransportere (GLUT4) til å fraktes til cellemembranen. Dette gjør at glukosen kan tas opp av cellene og dermed fjernes fra blodbanen.
 
 Insulin vil stimulere til lagring av glykogen. Samtidig vil insulin favorisere forbrenningen av karbohydrater fremfor fett.
 
-#### **Insulinets effekter på proteinmetabolismen** 
+#### **Insulinets effekter på proteinmetabolismen**
 
 Insulin øker opptaket av aminosyrer til alle vev, noe som gjør at mer aminosyrer blir tilgjengelig for proteinsyntese eller til energiproduksjon ut ifra behovet.
 
-#### **Insulinets effekter på fettmetabolismen** 
+#### **Insulinets effekter på fettmetabolismen**
 
 Insulin øker opptaket av fettsyrer og glukose til fettvevet, og samtidig hemmer hormonet frigjøring av fettsyrer til energiformål. Insulin stimulerer enzymet lipoprotein lipase (LPL), som stimulerer opptak av fettsyrer, og hemmer enzymet hormonsensitiv lipase (HSL), som nedbrytning av triglyserider og dermed frigjøring av energi fra fettvev. Så lenge insulinnivået er høyt kan vi si at fettvevet er utilgjengelig.
 

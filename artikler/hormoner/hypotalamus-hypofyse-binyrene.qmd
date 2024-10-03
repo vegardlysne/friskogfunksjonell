@@ -3,13 +3,11 @@ title: "Hypotalamus, hypofysen og binyrene"
 date: "2011.12.14"
 ---
 
-Tilbake til [innføringen i hormonsystemet](../../hormoner.qmd "En innføring i hormonsystemet").
+Tilbake til [innføringen i hormonsystemet](../../hormonsystemet.qmd "En innføring i hormonsystemet").
 
 Hypotalamus, hypofysen og binyrene er veldig sentrale kjertler i hormonsystemet. Hypotalamus er det overordnede senteret både for det autonome nervesystemet og for hormonsystemet, mens hypofysen med sine hormoner styrer resten av det endokrine systemet. Binyrene produserer mange viktige hormoner, blant annet adrenalin og kortisol.
 
 ## Hypotalamus
-
-![](images/clipboard-2940217486.png)
 
 Hypotalamus er som nevnt det overordnede senteret for hormonsystemet, og er hovedstedet for regulering av kroppens indre miljø. Hypotalamus inneholder mange reseptorer som registrerer endringer i det indre miljøet, noe som stimulerer til hormonproduksjon. Hormonene fra hypotalamus kan enten gå til hypofysens forlapp eller baklapp. De hormonene som går til forlappen, kalles med et fellesnavn hypotalamushormonene, og kan enten hemme eller stimulere de ulike hormonene som produseres i hypofysen.
 
@@ -33,13 +31,11 @@ Hypofysen *(pituitary gland)* kan deles i to deler, forlappen og baklappen. Bakl
 
 -   **PL – prolaktin**. Stimulerer vekst og melkeproduksjon i brystkjertlene.
 
-Disse hormonene er presentert i en egen artikkel [her](http://www.friskogfunksjonell.no/hypofysehormonene/ "Hypofysehormonene").
+Disse hormonene er presentert i en egen artikkel [her](hypofysehormonene.qmd "Hypofysehormonene").
 
 Produksjonen av disse hormonene stimuleres av signaler fra hypotalamus. I tillegg til å virke på sine respektive målorganer, har disse hormonene en hemmende effekt på hypotalamus. Dette kalles negativ tilbakekobling, og hindrer overproduksjon av hormoner. Hormonene som produseres i de øvrige endokrine kjertlene har negativ tilbakekobling både på hypofysen og hypotalamus, slik at hele systemet er veldig nøye regulert.
 
 ## Binyrene
-
-![](images/clipboard-1451539347.png)
 
 Binyrene *(adrenal gland)* er noen små kjertler som sitter på toppen av nyrene. Disse kjertlene er bygget opp med en marg (medulla) og en bark som ligger rundt (cortex). Barken er delt inn i tre soner: reticularis, fasciculata og glomerulosa (fra margen og utover). Hormoner produseres i alle de ulike delene av binyrene, og de viktigste av disse vil presenteres i en egen artikkel.
 

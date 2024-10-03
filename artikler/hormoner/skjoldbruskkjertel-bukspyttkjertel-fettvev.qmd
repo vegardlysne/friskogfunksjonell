@@ -2,7 +2,7 @@
 title: "Skjoldbruskkjertelen, bukspyttkjertelen og fettvevet"
 ---
 
-Tilbake til [innføringen i hormonsystemet](../../hormoner.qmd "En innføring i hormonsystemet").
+Tilbake til [innføringen i hormonsystemet](../../hormonsystemet.qmd "En innføring i hormonsystemet").
 
 At bukspyttkjertelen og skjoldbruskkjertelen er endokrine kjertler er ingen hemmelighet, men visste du at også fettvevet produserer en del hormoner? Her skal vi se litt på disse organene.
 
