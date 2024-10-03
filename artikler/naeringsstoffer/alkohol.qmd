@@ -1,6 +1,7 @@
 ---
 title: "Alkohol"
 date: "2011.12.03"
+author: "Vegard Lysne"
 categories: 
   - næringsstoffene
   - makronæringsstoffer
@@ -29,7 +30,7 @@ Nedbrytningen av alkohol bruker ulike enzymsystemer som finnes i leveren, blant 
 
 Fettforbrenningen reduseres og fettsyresyntesen i leveren økes. Dette gir økte mengder fettstoffer både i leveren og i blodet, og kan forårsake hypertriglyseridemi. Redusert fettforbrenning kan også bidra til utvikling av overvekt.
 
-Alkohol hemmer opptaket av [thiamin](http://www.friskogfunksjonell.no/thiamin/ "Thiamin, vitamin B1"), og langvarige alkoholikere har ofte mangelsykdommer knyttet til dette vitaminet. Siden thiamin er viktig for glukosemetabolismen, kan dette påvirke hjernefunksjonen siden glukose er hjernens foretrukne energikilde.
+Alkohol hemmer opptaket av [thiamin](http://www.friskogfunksjonell.no/thiamin/ "Thiamin, vitamin B1"), og langvarige alkoholikere har ofte mangelsykdommer knyttet til dette vitaminet. Siden thiamin er viktig for glukosemetabolismen, kan dette påvirke hjernefunksjonen siden glukose er hjernens foretrukne energikilde.
 
 ## Problemer med å registrere inntak
 

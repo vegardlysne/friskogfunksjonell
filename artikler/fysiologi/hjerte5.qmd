@@ -8,3 +8,23 @@ categories:
 ---
 
 [Tilbake til artikkelserien om menneskets fysiologi](../../fysiologi.html)
+
+Dette er et gjesteinnlegg fra hjerte- og lungekirurg [Thomas Geisner](http://www.tgeisner.com).
+
+Ordet infarkt stammer fra latin infarctus, der “in-” betyr “inn” og “farctus” betyr “tetting”. Infarkt betyr altså “inntetting”, og du vil snart forstå hvorfor.
+
+For en gangs skyld har jeg tenkt til å skrive om en del av medisinen jeg jobber med til vanlig. Hele kostholdsdebatten rundt mettet fett, kolesterol, høyt blodtrykk, ugunstige fettverdier i blodet, høyt blodsukker og overvekt er tett knyttet til risikoen for å utvikle hjerte- og karsykdom.
+
+Hjerte- og karsykdom er en stor samlebetegnelse på alle lidelser som kan ramme nettopp hjertet og blodkarene. I de aller fleste studier som ser på kosthold og utvikling av hjertesykdom, teller man opp antall pasienter med hjerteinfarkt og antall infarkter pr pasient.
+
+Det er lett for fagfolk å glemme at noe som er så grunnleggende for oss (Hva er et hjerteinfarkt?), egentlig er litt uklart for de fleste andre. Jeg skal derfor forklare begrepet slik jeg pleier å forklare det for mine pasienter i samtalen før operasjonen.
+
+Blodårene i kroppen sprer seg utover i kroppen omtrent som greinene på et tre. Hovedpulsåren går ut fra hjertet og sender straks ut to greiner som forsyner hjertet. Hovedpulsåren går så videre oppover og sender greiner til hodet og armene, før den svinger nedover mot magen, hvor alle organene i magen får sine greiner, og til slutt deler den seg i en grein til hvert bein.
+
+Akkurat som i et bjørketre, blir pulsårenes greiner mindre og mindre og tynnere og tynnere. I bjørketreet når sevjen ut til bladene, der den gjør nytten sin. Greinene som fører sevjen fram til løvet, er bare rørsystemer. I kroppen fungerer det nesten på samme måte. Blodårene er bare rørsystemer; det er i selve hjertemuskelen eller andre mottaker-organer at blodet virkelig gjør nytten sin.
+
+Hva skjer med et bjørketre, hvis du knekker en grein? Alle vet at bladene på bjørketreet som skulle fått sevje fra den knekte greinen kommer til å visne. Det samme skjer i hjertet når et blodkar går tett (= tiltetting = infarkt!). **Er det et stort blodkar som går tett, visner en stor del av hjertet, er det en liten grein som tettes, blir også en mindre del av hjertemuskelen rammet**. I et slikt vissent område av hjertet vil muskelvevet dø, og det dannes arrvev i stedet. Arrvev kan ikke trekke seg sammen som en muskel, og hjertet mister derfor pumpekraft. Er det et lite infarkt, merker pasienten kanskje ingen forskjell, mens et stort infarkt kan ramme pumpekraften så totalt at det er dødelig.
+
+Andre organer kan også rammes av infarkt. Et hjerneinfarkt kan f. eks. gi tap av funksjoner som tale eller motorikk, eller være så stort at hjernen ikke overlever skaden.
+
+Hvis et tett eller trangt område er tilgjengelig for kirurgi, kan man operere inn nye blodårer for å gjøre en forbikjøring (= “bypass” på engelsk) forbi den syke delen av karet. Det er her jeg som hjertekirurg gjør nytten min – jeg høster blodårer fra andre steder på pasientens kropp og syr disse inn på hjertet. Jeg lager en såkalt parallellkobling, og benytter meg av blodkarenes egenskap som rørsystemer til å lede blodet i en omvei rundt det syke området.

@@ -19,6 +19,8 @@ title-block-banner: false
 
 Metabolismen er en fellesbenevnelse for de prosessene som foregår i kroppen som omhandler næringsstoffene. I denne artikkelserien får du et overblikk over hvilke prosesser som inngår i metabolismen, hvordan disse fungerer og hva som stimulerer de. Dette inkluderer metabolismen av de energigivende næringsstoffene og relaterte prosesser, artikler om sykdommer tilknyttet disse prosessene og metabolske endringer i ulike situasjoner som ved sykdom eller fysisk aktivitet.
 
+![Bilde: www.conceptdraw.com](images/clipboard-1571827164.png)
+
 ## ATP og energilagre
 
 Kroppens primære energimolekyl heter adenosintrifosfat, forkortet ATP. Trifosfat (TP) betyr at det er bundet tre fosfatgrupper til adenosinmolekylet. Ved å spalte av en fosfatgruppe frigjøres det energi, og ATP blir da redusert til adenosindifosfat, ADP. For å redanne ATP henter vi energi fra de energigivende næringsstoffene, som avgir energi når de brytes ned. Adenosinmonofosfat, AMP, produseres når det spaltes av en fosfatgruppe fra ADP.

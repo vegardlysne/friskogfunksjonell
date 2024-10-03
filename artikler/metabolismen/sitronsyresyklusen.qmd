@@ -6,3 +6,37 @@ categories:
 ---
 
 [Tilbake til artikkelserien om metabolismen](../../metabolismen.html)
+
+De energigivende næringsstoffene, [karbohydrater](http://www.friskogfunksjonell.no/karbohydratmetabolismen/ "Karbohydratmetabolismen"), [protein](http://www.friskogfunksjonell.no/proteinmetabolismen/ "Proteinmetabolismen") og [fett](http://www.friskogfunksjonell.no/fettmetabolismen/ "Fettmetabolismen"), metaboliseres via ulike prosesser som vi allerede har gått gjennom. Den primære energiproduksjonen inni cellene skjer imidlertid ikke i disse prosessene, men i sitronsyresyklusen og elektrontransportkjeden. I denne artikkelen tar vi en nærmere titt på den første av disse prosessene, nemlig sitronsyresyklusen!
+
+Sitronsyresyklusen har flere navn, blant annet Krebs syklus (etter han som oppdaget den) og TCA-syklus (tricarboxylic acid cycle), men i denne gjennomgangen vil jeg holde meg til begrepet sitronsyresyklus.
+
+**Utgangspunktet for sitronsyresyklusen er molekylet acetyl-CoA**. Dette molekylet kommer fra nedbrytningen av de energigivende næringsstoffene, og er en tokarbonenhet som er koblet til et CoA-molekyl.
+
+## Trinnene i sitronsyresyklusen
+
+**Selve sitronsyresyklusen foregår i mitokondriene i alle kroppens celler, og består av 8 trinn, som utgjør en sirkel eller en syklus.** Underveis i denne syklusen frigis det elektroner i form av molekylene NADH og FADH~2~, som i elektrontransportkjeden bidrar til produksjon av ATP.
+
+Acetyl-CoA er som sagt utgangspunktet for sitronsyresyklusen, og under følger er en gjennomgang av de ulike trinnene. Det kan være en fordel å følge med på bildet for å ha oversikt over hvor du er, i tillegg til å huske hvor mange karbonatomer hvert molekyl har (skriver dette i parentes som XC bak hvert molekyl). Da er det lettere å holde oversikt over hvor i syklusen ting forsvinner!
+
+1.  Acetyl-CoA (2C) kobles sammen med oksaloacetat (4C) i en kondenseringsreaksjon. Som et resultat av dette får vi molekylet citrat (6C). Denne reaksjonen benytter et enzym som heter *citrat syntase*, som hemmes når det er god tilgang på blant annet NADH.
+
+2.  Citrat (6C) omdannes til isocitrat (6C). Her endres bare plassen på et oksygenmolekyl, så dette trinnet er ikke viktig å huske.
+
+3.  Isocitrat (6C) omdannes til a-ketoglutarat (5C). Dette er en oksidativ dekarboksylering, der det skjer både en dekarboksylering (det spaltes av et karbonmolekyl i form av CO~2~) og en oksidering (det fjernes et elektron som kobles til et NAD-molekyl som reduseres til NADH. Disse reaksjonene er styrt av enzymet *isocitrat dehydrogenase*, som hemmes når det er god tilgang på NADH eller ATP, og stimuleres når det er høye nivåer av ADP (et tegn på lav energi) og kalsium.
+
+4.  a-ketoglutarat (5C) gjennomgår nok en oksidativ dekarboksylering for å bli omdannet til succinyl-CoA (4C). Her frigis det nok et karbonmolekyl i form av CO~2~ og et elektron i form av NADH. Det kobles altså også på et CoA-molekyl. Alle disse reaksjonene styres av enzymet *a-ketoglutarat dehydrogenasekompleks*, som stimuleres av kalsium og hemmes når det er god tilgang på ATP, NADH eller succinyl-CoA (4C).
+
+5.  CoA-molekylet spaltes av fra succinyl-CoA (4C), og vi får succinat (4C). I denne reaksjonen får vi ut et GTP-molekyl, som gjennom noen omforminger blir omdannet til et ATP-molekyl.
+
+6.  Succinat (4C) oksideres til fumarat (4C) vd hjelp av enzymet *succinat dehydrogenase*, som også har en funksjon i elektrontransportkjeden. I denne prosessen frigis det et elektron i form av FADH~2~. Fumarat dannes også i ureasyklusen, der kroppen skiller ut nitrogen fra proteinnedbrytningen.
+
+7.  Fumarat (4C) hydreres (det kobles til et vannmolekyl), og vi får malat (4C).
+
+8.  Malat (4C) oksideres deretter til oksaloacetat (4C). I denne prosessen spaltes det siste elektronet av i form av NADH. Oksaloacetat er som dere husker utgangspunktet for glukoneogenesen, så dersom det ikke er behov for videre energiproduksjon ved å gjenta syklusen, kan oksaloacetat fjernes denne veien. Som sagt under punkt 1 hemmes citrat syntase når det er god tilgang på NADH.
+
+Med unntak av reaksjon nr 1, 3 og 4, kan alle reaksjonene gå begge veier. Mange av molekylene i sitronsyresyklusen er også involvert i nedbrytningen av aminosyrer.
+
+Det totale utbyttet fra en runde med sitronsyresyklus er ett ATP-molekyl (reaksjon nr 5), 3 NADH-molekyler (reaksjon 3, 4 og 8 ) og ett FADH~2~-molekyl (reaksjon 6). **ATP-molekylet kan brukes direkte som energi, mens de elektronbærende molekylene går inn i elektrontransportkjeden der de bidrar til videre ATP-produksjon.**
+
+Den direkte reguleringen av sitronsyresyklusen har jeg tatt litt underveis, men generelt vil den stimuleres når det er liten tilgang på ATP og hemmes når det er høy tilgang på ATP.

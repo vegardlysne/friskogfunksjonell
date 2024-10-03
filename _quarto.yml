@@ -17,6 +17,8 @@ website:
         href: metabolismen.qmd
       - text: Fysiologi
         href: fysiologi.qmd
+      - text: Hormoner
+        href: hormonsystemet.qmd
       - text: Om bloggen
         href: om.qmd
 format:

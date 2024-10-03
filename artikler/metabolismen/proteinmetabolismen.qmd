@@ -7,3 +7,61 @@ categories:
 ---
 
 [Tilbake til artikkelserien om metabolismen](../../metabolismen.html)
+
+Protein er kroppens primære byggesten, og stort sett alt vev er bygget opp av dette livsviktige næringsstoffet. Protein er satt sammen av aminosyrer, og i tarmen brytes alt proteinet vi spiser ned til disse. I hver enkelt celle settes de ulike aminosyrene sammen til nye proteiner etter oppskrifter som finnes i den genetiske koden vår, DNA. I denne artikkelen skal jeg ta for meg hvordan kroppen behandler aminosyrene og setter de sammen til nye proteiner.
+
+**Les mer om protein i [denne artikkelen](http://www.friskogfunksjonell.no/protein/ "Protein").**
+
+## Aminosyresyntese
+
+For at proteinsyntesen skal opprettholdes, må kroppen ha tilgang på alle de 20 aminosyrene som finnes i proteinene i menneskekroppen. **Hvis det er for lite av en aminosyre, vil hele proteinsyntesen stoppe opp, noe som kan føre til mangelsykdommer.**
+
+De essensielle aminosyrene kan kroppen ikke lage selv, og vi er avhengig av å få de via kostholdet. De resterende aminosyrene er betegnet som ikke-essensielle, noe som betyr at kroppen kan lage dem selv. Syntesen av noen aminosyrer krever overføring av enkarbonenheter. Her spiller B-vitaminet [folat](http://www.friskogfunksjonell.no/folat/ "Folat, vitamin B9") en rolle, siden dette vitaminets primære funksjon er å overføre slike enheter.
+
+Det er tre hovedprosesser når det kommer til syntesen av aminosyrer:
+
+-   Transaminering
+
+De aminosyrene som dannes ved transaminering blir til ved at en a-ketosyre mottar en aminogruppe fra en annen aminosyre. I denne reaksjonen blir aminosyren omdannet til en a-ketosyre, mens a-ketosyren blir omdannet til en aminosyre.
+
+Et eksempel på transaminering er når oksaloacetat (α-ketosyre) reagerer med aminosyren glutamat. Resultatet av denne reaksjonen er at vi får aminosyren aspartat og a-ketoglutarat (α-ketosyre).
+
+-    Amidering
+
+Noen aminosyrer inneholder to aminogrupper, og kan dannes ved at en annen aminosyre mottar en fri aminogruppe. Dette gjelder for omdanningen av glutamat til glutamin og fra aspartat til aspargin.
+
+-   Syntese fra andre aminosyrer
+
+Noen aminosyrer kan lages direkte fra en annen aminosyre. F.eks. kan serin omdannes til glycin eller cystein. Den essensielle aminosyren fenylalanin kan omdannes til tyrosin, noe som illustrerer hvorfor den ene er essensiell og den andre ikke.
+
+## Proteinsyntese
+
+Aminosyrene fraktes fra blodet og inn i cellene. Her inngår de i proteinsyntesen, der nye proteiner bygges opp. Funksjonen til et protein er bestemt av flere ting, blant annet rekkefølgen på aminosyrene. Dette kalles primærstrukturen, og bestemmes av oppskriften som finnes i den genetiske koden i vårt DNA.
+
+Inne i cellekjernen skjer det som kalles transkripsjon, nemlig at informasjonen fra DNA kopieres over på RNA. RNA fraktes ut av cellekjernen og over til ribosomene, der selve proteinsyntesen (translasjon) foregår. Det finnes ulike RNA-typer, som har sine funksjoner i proteinsyntesen:
+
+-    mRNA binder til ribosomene og fungerer som oppskrift på proteinet
+
+-    RNA binder til en spesifikk aminosyre, og det finnes et tRNA til hver aminosyre.
+
+**Under selve prosessen vil tRNA frakte den riktige aminosyren til ribosomet, som fester aminosyren på det proteinet som holder på å bygges, utifra oppskriften som står på mRNA.** På denne måten hektes en og en aminosyre på hverandre, helt til proteinet er ferdig bygget opp. Hvis det ikke er tilgang på alle aminosyrene, vil hele proteinsyntesen stoppe opp.
+
+Dette var kortversjonen av hvordan proteinsyntesen foregår.
+
+## Aminosyrenedbrytning
+
+Når aminosyrer brukes til energi, brytes de først ned til to deler: et karbonskjelett og aminogruppen. Det skilles mellom glukogene og ketogene aminosyrer. Karbonskjelettet fra de glukogene aminosyrene kan brukes til å lage glukose, som kan benyttes som energi, mens de ketogene aminosyrene gir opphav til ketonlegemer.
+
+Alle glukogene aminosyrer brytes ned til pyruvat eller en metabolitt i sitronsyresyklusen. De ketogene aminosyrene brytes ned til acetyl-CoA eller acetoacetyl-CoA (et ketonlegeme).
+
+-   Deaminering
+
+Glutamat er en spesiell aminosyre, siden den kan gjennomgå en reaksjon som heter deaminering. Denne reaksjonen fjerner aminogruppen fra glutamat, slik at det igjen dannes a-ketoglutarat. Reaksjonen styres av enzymet glutamat dehydrogenase, og foregår hovedsakelig i leveren og i nyrene. Siden det redannes α-ketoglutarat i denne reaksjonen, vil det hele tiden være kapasitet for å ta imot nye aminogrupper.
+
+I det som kalles glukose-alanin-syklusen, ser vi hva som skjer når vi bryter ned aminosyrer til energi i muskelvevet.
+
+-   Ureasyklus
+
+Etter at aminogruppen har blitt spaltet av fra glutamat i leveren, sørger ureasyklusen for å koble disse aminogruppene sammen med et karbonatom, slik at det dannes urea. **Urea kan fraktes i blodet til nyrene, og skilles ut gjennom urinen.** Hvordan ureasyklusen fungerer i detalj går jeg ikke nærmere inn på, men bildet gir en pekepinn. Dette foregår i leveren, der deaminering av glutamat frigjør aminogruppen.
+
+Når folk snakker om at man tisser ut overskuddsprotein, så er det denne reaksjonen det er snakk om. Jo mer protein som brukes som energi, jo mer nitrogen (aminogrupper) må kroppen skille ut. Dette betyr ikke at det proteinet vi har spist har vært unødvendig, bare at det har blitt brukt som energi.

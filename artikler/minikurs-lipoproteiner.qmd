@@ -1,0 +1,61 @@
+---
+title: "Minikurs i lipoproteiner"
+author: "Espen Rostrup"
+date: "2012.01.09"
+---
+
+Dette er et gjesteinnlegg fra lege og forsker [Espen Rostrup](http://espenrostrup.com).
+
+Det snakkes mye om kolesterol, ofte i sammenheng med risikoen for hjertesykdom. Er det så enkelt som at et høyt totalkolesterol betyr en økt risiko, eller er det mer komplisert enn som så? Espen gir oss en grundig innføring i de ulike lipoproteinenes funksjoner og hva de har å si for risikoen for sykdom!
+
+Lipider, så som kolesterol og triglycerider, er ikke vannløselige og må derfor transporteres rundt i blodet ved hjelp av såkalte lipoproteiner. Disse frakter lipidene til forskjellig vev hvor de brukes som energi, til fettlagring, i hormonproduksjon eller til produksjon av galle. Kolesterol er også en viktig bestanddel av celleveggen i alle kroppens celler. Lipoproteinene inneholder en kjerne av forskjellige fettyper (avhengig av hvilken type lipoprotein) som er omgitt av såkalte fosfolipider og apolipoproteiner.
+
+## Lipoproteiner
+
+![Oppbyggingen av et lipoprotein, her LDL](images/clipboard-931366752.png)Det finnes fem hovedtyper av lipoproteiner, som hver har forskjellige funksjoner:
+
+**Kylomikroner**: Store molekyler som har som funksjon å transportere ernæringsfett fra tarm til vev og lever
+
+**VLDL ( Very low density lipoprotein)**: Frakter triglycerider og litt kolesterol rundt i kroppen
+
+**IDL (Intermediate density lipoprotein)**  Frakter kolesterol og triglycerider
+
+**LDL (Low density lipoprotein)**: Frakter i hovedsak kolesterol. LDL er viktige for reguleringen av kolesterolmetabolismen i kroppen, noe som har vært demonstrert i mange studier. Defekter i såkalt LDL-reseptor, den reseptoren som binder LDL til de cellene hvor kolesterol skal fraktes til, gir høye nivåer av LDL-kolesterol i blodet.
+
+**HDL (High density lipoprotein)**: Frakter kolesterol som er i overskudd vekk fra vevet, og virker i samspill med de andre lipoproteinene. HDL driver med såkalt revers kolesteroltransport.
+
+## Apolipoproteiner
+
+Lipoproteinene har igjen såkalte apolipoproteiner på overflaten som bl.a. fungerer som signal til andre celler. De mest relevante apolipoproteinene er Apo-A1 og Apo-B. 
+Apo-A1 er den viktigste proteinkomponenten i HDL-partiklene og er vesentlig for dannelsen av disse. Lave verdier er forbundet med økt risiko for hjertesykdom.
+ Apo-B er proteinkomponenten i LDL og utrykk for det totale antall VLDL- og LDL-partikler. **Fastende gir nivået av apo-B inntrykk av antall LDL-partikler og er ikke påvirket av om partiklene er fulle av kolesterol eller små og tette**.
+
+## Måling av blodlipidene og sykdomsrisiko
+
+Når vi måler lipider i blod er det vanligste å måle totalkolesterol, HDL-kolesterol, LDL-kolesterol og triglycerider - og prøvene bør helst tas fastende. Hvis mulig bør man også måle apolipoprotein B og A1 da dette gir et ennå mer komplett bilde og sier noe om antall partikler. Mange LDL-partikler, uttrykt gjennom høye nivåer av apo-B, er assosiert med høye triglycerider og lav HDL-kolesterol, men uten at total kolesterol eller LDL-kolesterol er noe særlig endret. Med andre ord; **to like totalkolesterol-verdier eller verdier av LDL-kolesterol kan være forbundet med forskjellig risiko**. I en stor undersøkelse som undersøkte betydningen av forskjellige risikofaktorer for hjerte- karsykdom, ble brøken Apo-B/Apo-A1 funnet å være den sterkeste risikoparameteren av alle de som ble undersøkt (1).
+
+Uten at dette ennå har blitt viet veldig stor oppmerksomhet i dagligdags medisin, har man imidlertid også sett at ikke bare nivåene av kolesterol i de forskjellige lipoproteinene spiller en rolle. Også størrelsen og tettheten er viktig i forhold til utviklingen av hjerte- karsykdom. **Små tette LDL-partikler øker risiko for sykdom, mens store løse LDL-partikler gir liten risiko**. Ved hjelp av spesielle metoder (NMR) kan man bestemme den gjennomsnittlige diameteren. Gjennomsnittlig diameter på LDL-partiklene ≤ 25,64 nm gir eksempelvis en 3,6 ganger økt risiko for koronar hjertesykdom sammenlignet med den tredjedelen som har størst LDL-partikler (≥ 26,05 nm)(2).
+
+Små, tette LDL-partikler er også assosiert med høye triglycerider og lav HDL, ofte kalt aterogen dyslipidemi. **Det er imidlertid ingen sammenheng mellom nivået av kolesterol eller LDL-kolesterol og størrelsen på LDL-partiklene**. En annen interessant observasjon er også at dersom man har større LDL-partikler, dvs. \> 25,64 nm, er ikke lenger Apo-B eller kolesterol en like vesentlig risikofaktor for hjertesykdom.
+
+![Risiko for hjertesykdom ved ulike størrelser av LDL](images/clipboard-2435128836.png)
+
+Hos personer innlagt med mistenkt hjertesykdom gir funn av små tette LDL-partikler større risiko for å finner innsnevringer på kransårene ved hjertekateterisering (3) . Videre fant man i en større kohort-studie med over 25.000 personer at **koronar hjertesykdom var mer assosiert med antall LDL-partikler enn med LDL-kolesterol,- og  jo mindre LDL-partikler man hadde,  jo større var risiko for sykdom** (4). Det gjenstår ennå å se om disse målingene har noen relevans i vanlige undersøkelser for å vurdere risiko. Ikke alle studier viser at de gir noen tilleggsinformasjon utover kolesterol, lipoproteiner og apolipoproteiner, når disse vurderes samlet. De er imidlertid svært interessante når man skal studere årsaken til hvorfor dyslipidemi gir økt risiko for hjertesykdom og hvordan kosthold kan påvirke denne risikoen.
+
+Det finnes to hovedmønstre når det gjelder fordeling av blodlipidene:
+
+**LDL Pattern A**: en betegnelse for et mønster med større LDL-partikler og lav risiko for hjerte- karsykdom. Dette er også assosiert med høy HDL og lave triglyserider.
+
+**LDL-pattern B**: en betegnelse for et mønster med små tette LDL-partikler og økt risiko for hjerte-karsykdom. Ofte assosiert med lav HDL og høye triglyserider.
+
+![](images/clipboard-826664034.png)
+
+**Referanser:**
+
+1.  Yusuf S, Hawken S, Ounpuu S, Dans T, Avezum A, Lanas F, et al. **Effect of potentially modifiable risk factors associated with myocardial infarction in 52 countries (the INTERHEART study): case-control study**. Lancet. 2004;364(9438):937-952.
+
+2.  Lamarche B, Tchernof A, Moorjani S, Cantin B, Dagenais GR, Lupien PJ, et al. **Small, dense low-density lipoprotein particles as a predictor of the risk of ischemic heart disease in men. Prospective results from the Québec Cardiovascular Study**. Circulation. 1997 Jan. 7;95(1):69-75.
+
+3.  Toft-Petersen AP, Tilsted HH, Aarøe J, Rasmussen K, Christensen T, Griffin BA, et al. **Small dense LDL particles–a predictor of coronary artery disease evaluated by invasive and CT-based techniques: a case-control study**. Lipids in Health and Disease 2010 9:118. 2011;10:21.
+
+4.  Harchaoui El K, van der Steeg WA, Stroes ESG, Kuivenhoven JA, Otvos JD, Wareham NJ, et al. **Value of low-density lipoprotein particle number and size as predictors of coronary artery disease in apparently healthy men and women: the EPIC-Norfolk Prospective Population Study**. J Am Coll Cardiol. 2007 Feb. 6;49(5):547-553.

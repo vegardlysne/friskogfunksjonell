@@ -1,0 +1,52 @@
+---
+title: "Hypofysehormonene"
+date: "2012.01.05"
+---
+
+Tilbake til [innføringen i hormonsystemet](../../hormoner.qmd "En innføring i hormonsystemet").
+
+[Hypofysen](http://www.friskogfunksjonell.no/hypotalamus-hypofysen-og-binyrene/ "Hypotalamus, hypofysen og binyrene") ligger rett under hypotalamus, det øverste senteret for det endokrine systemet, og er med å regulere hele kroppens hormonbalanse. Som nevnt i artikkelen om hypotalamus, hypofysen og binyrene, deles hypofysen inn i forlappen og baklappen. Baklappen består av nervevev, og fungerer som en lagringsplass for hormoner fra hypotalamus, mens forlappen består av endokrine celler som produserer og slipper ut seks forskjellige peptidhormoner. Disse skal vi se nærmere på i denne artikkelen!
+
+Jeg vil her bare nevne effektene av de ulike hormonene fra hypofysens forlapp (også kalt adenohypofysen), og si litt om hvordan de reguleres. Dette er på ingen måte en fullstendig innføring i de ulike hormonene, men en pekepinn om hva de ulike hormonene gjør.
+
+##### Adrenokortikotropt hormon, ACTH
+
+Dette peptidhormonet stimulerer produksjonen av steroidhormonene i binyrebarken. Utskillelsen styres av ACTH-stimulerende hormon (ACTH-RH) fra hypotalamus, og reguleres ved negativ tilbakekoblingskontroll. ACTH har selv en hemmende effekt på utskillelsen av ACTH-RH, og kortisol fra binyrebarken har en hemmende effekt på både ACTH og ACTH-RH.
+
+Effektene av ACTH er hovedsakelig en økt produksjon av kortisol, aldosteron og androgener (mannlige kjønnshormoner) fra binyrebarken. I tillegg styrer ACTH veksten av binyrene.
+
+##### Tyroideastimulerende hormon, TSH
+
+TSH er et karbohydratholdig peptidhormon som fungerer på skjoldbruskkjertelen, og stimulerer den til å produsere sine hormoner. Utskillelsen av TSH styres av TSH-stimulerende hormon (TRH) fra hypotalamus, og reguleres ved negativ tilbakekoblingskontroll. T3 og T4 fra skjoldbruskkjertelen har en hemmende effekt på både TSH og TRH.
+
+Effektene av TSH er regulering av vekst og hormonproduksjon i skjoldbruskkjertelen. Normal funksjon i dette systemet, krever tilstrekkelig inntak av [jod](http://www.friskogfunksjonell.no/jod/ "Jod"), og mangel på dette næringsstoffet kan føre til ubalanser her. Dette kan gi problemer med stoffskiftet og kan også føre til utvikling av struma.
+
+##### Folikkelstimulerende hormon, FSH
+
+FSH regulerer [gonadenes](http://www.friskogfunksjonell.no/ovariene-testiklene-og-morkaken/ "Ovariene, Testiklene og Morkaken") (kjønnsorganenes) hormonproduksjon, og kalles derfor et gonadotropin. Utskillelsen av gonadotropinene styres av gonadotropinstimulerende hormon (Gn-RH) fra hypotalamus, og reguleres ved negativ tilbakekoblingskontroll. I tillegg til å stimulere hormonproduksjonen, vil gonadotropinene være med å regulere veksten til kjønnsorgane.
+
+Hos menn vil FSH stimulere sertolicellene i testiklene, som regulerer sædcelleproduksjonen.
+
+Hos kvinner vil FSH stimulere utviklingen av folikkelen, som inneholder eggcellen, og hindrer at produksjon av ny folikkel settes i gang for tidlig. FSH er derfor sentralt i reguleringen av menstruasjonssyklusen.
+
+##### Luteniserende hormon, LH
+
+I likhet med FSH, er LH et gonadotropin, og utskillelsen styres på samme måte. Se derfor over for mer informasjon.
+
+Hos menn stimulerer LH noen celler som heter leydigceller i testiklene. Disse cellene produserer de mannlige kjønnshormonene, blant annet testosteron.
+
+Hos kvinner vil LH stimulere produksjonen av østrogen og styre eggløsningen.
+
+##### Veksthormon, GH
+
+GH virker på de fleste vev i kroppen, og stimulerer til vekst. Utskillelsen av GH varierer gjennom døgnet, og er størst under søvn. Utskillelsen av GH reguleres av et stimulerende (GH-RH) og et hemmende (GH-IH) fra hypotalamus, noe som gir en veldig nøyaktig kontroll over utskillelsen. Konsentrasjonen av veksthormon i blodet øker ved fysisk arbeid, stress, faste, proteinrike måltider eller lavt blodsukker.
+
+Veksthormon stimulerer produksjonen av IGF-1, som er et insulinlignende hormon som stimulerer til vekst. I tillegg har GH en direkte, stimulerende effekt på proteinsyntesen, og har derfor en anabol (oppbyggende) effekt.
+
+Veksthormonet øker frigjøringen av fettsyrer fra fettvevet, og øker nydannelse av glukose i leveren. I tillegg stimulerer det fettforbrenningen i cellene, slik at vi bruker mindre glukose. På denne måten kan vi si at GH har en motsatt virkning av insulin, ved at det øker blodsukkeret og beskytter oss mot hypoglykemi, noe som forklarer hvorfor utskillelsen av GH øker vedlavt blodsukker og faste.
+
+##### Prolaktin, PL
+
+PL stimulerer melkeproduksjonen hos kvinner. Utskillelsen av PL styres av både stimulerende (PRL-RH) og hemmende (PRL-IH) fra hypotalamus. I tillegg vil TRH også stimulere utskillelsen av prolaktin. Når barnet suger på brystvorten skilles det ut PL, som sørger for at melkeproduksjonen holdes i gang.
+
+I tillegg til effektene på melkeproduksjonen, virker PL også på gonadefunksjonen hos både kvinner og menn.
