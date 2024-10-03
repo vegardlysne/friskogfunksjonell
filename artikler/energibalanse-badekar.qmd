@@ -1,6 +1,6 @@
 ---
 title: "Energibalansen - historien om et badekar"
-dato: "2012.09.01"
+date: "2012.09.01"
 ---
 
 Et tema som går igjen og igjen når man diskuterer kosthold er hvordan endringer i kroppsvekten fungerer. Den tradisjonelle tilnærmingen til saken er at det bare handler om energibalansen, og at energi inn - energi ut alltid vil forutsi hvordan kroppsvekten vil utvikle seg over tid. Etter at lavkarbobølgen skylte over landet har en ny oppfatning kommet til live, nemlig ideen om at en kalori ikke er en kalori, og at det er hva vi spiser, og ikke hvor mye, som avgjør hva som skjer med vekten.

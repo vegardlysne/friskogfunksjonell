@@ -1,5 +1,6 @@
 ---
 title: "Skjoldbruskkjertelen, bukspyttkjertelen og fettvevet"
+date: "2011.12.16"
 ---
 
 Tilbake til [innføringen i hormonsystemet](../../hormonsystemet.qmd "En innføring i hormonsystemet").
