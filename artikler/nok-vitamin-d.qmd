@@ -1,0 +1,38 @@
+---
+title: "Får vi nok D-vitamin?"
+author: "Eivind Eliasson"
+date: 2012.10.28
+---
+
+[Vitamin D](http://www.friskogfunksjonell.no/d-vitamin/ "D-vitamin") ser ut til å ha sammenheng med svært mange kroppslige funksjoner og trolig en rekke sykdommer. Etter å ha lest meg opp litt om emnet ble jeg overrasket over lite samsvar om hva som er definert som tilfredstillende D-vitaminstatus hos befolkninga som helhet.
+
+## D-vitaminstatus
+
+Ved fri tilgang på sol så ser man at man ender opp med nivåer rundt 110-120 nmol\\l (1) (laveste registrerte var 58 nmol\\l.)  Norsk elektronisk legehåndbok (NEL) sier at ønsket konsentrasjon 75-150 nmol\\l, noe som samsvarer godt med dette. Helsedirektorartet (2) og NEL er ikke enige da førstnevnte mener at over 50 nmol\\l er bra nok, selv om studien på urbefolkninger (1) tyder på at man i gjennomsnitt bør ligge vesentlig høyere for å ha ønsket konsentrasjon.
+
+I helsedirektoratets rapport konkluderes det med at over 50% av norske menn og kvinner har under 75 nmol\\l, mens 100% av pakistanske menn og kvinner har under 75 nmol\\l. Når mye tyder på at man bør ha minst 75 nmol\\l, muligens mer om kroppen får bestemme selv, så tyder det på at D-vitaminstatusen blant den norske befolkning som helhet er dårlig. Når man finner mulige sammenhenger med D-vitaminmangel og Multippel Sklerose (3), leddgikt (4) , enkelte kreftformer (5), beinskjørhet og flere andre sykdommer, så burde man kanskje anbefalt enda høyere doser enn 400 UI i vinterhalvåret (tar høyde for de nye nordiske anbefalingene). Spesielt til store deler av innvandrerbefolkningen burde kaskje dette vært tilfelle, siden mange av disse sliter med uttalt mangel. Med tanke på graviditet ser man at man kan gi store doser til gravide uten negative konsekvenser, og med noen positive effekter i tillegg som redusert risiko for å få infeksjoner etter fødsel (7).
+
+## Er anbefalingene for lave?
+
+Alle mangeltilstander gir konsekvenser, f.eks. vil [C-vitaminmangel](http://www.friskogfunksjonell.no/c-vitamin/ "C-vitamin") gi skjørbuk, [kalsiummangel](http://www.friskogfunksjonell.no/kalsium/ "Kalsium") kan over tid gi benskjørhet. For lavt inntak av D-vitamin vil også gi konsekvenser, men kanskje er de større og flere enn man trodde for noen tiår tilbake? Når man ser at man med full soleksponering hele året oppnår konsentrasjoner som over dobbelt så høye som det norske helsemyndigheter anbefaler, så er jeg tilbøyelig til å si at norske anbefalingene er satt for lavt. Det ikke er umulig at folkehelsa som helhet hadde blitt bedre om man gjorde som NEL og satte 75 nmol\\l som minstekrav.
+
+Et forslag for å bedre dette kunne vært å øke anbefalt daglig inntak, da sjansen for overdosering bare er mulig ved ekstreme doser fra kosttilskudd over lengre tid eller ved enkelte sykdommer som sarkoidose. Et annet forslag er å gjøre det til standard at konsentrasjonen måles ved blodprøver hos helsesøster, ved generelle helsesjekker hos fastlegen osv, og dermed muliggjøre individuell rådgivning om kosthold og tilskudd.
+
+**Man bør uansett ta en blodprøve før man går til innkjøp av større doser.**
+
+1\. <http://www.ncbi.nlm.nih.gov/pubmed/22264449>
+
+2\. [http://www.helsedirektoratet.no/folkehelse/ernering/strategier-og-satsninger/Documents/](http://www.helsedirektoratet.no/folkehelse/ernering/strategier-og-satsninger/Documents/ vitamin-d-rapport-ernaringsradet-2006.pdf)\
+[vitamin-d-rapport-ernaringsradet-2006.pdf](http://www.helsedirektoratet.no/folkehelse/ernering/strategier-og-satsninger/Documents/ vitamin-d-rapport-ernaringsradet-2006.pdf)
+
+3\. [http://www.webmd.com/multiple-sclerosis/news/20090428/high-doses-vitamin-d-cut-ms-](http://www.webmd.com/multiple-sclerosis/news/20090428/high-doses-vitamin-d-cut-ms- relapses)\
+[relapses](http://www.webmd.com/multiple-sclerosis/news/20090428/high-doses-vitamin-d-cut-ms- relapses)
+
+4\. <http://www.sciencedaily.com/releases/2010/04/100407121227.htm>
+
+5\. [http://www.cancer.org/treatment/treatmentsandsideeffects/](http://www.cancer.org/treatment/treatmentsandsideeffects/ complementaryandalternativemedicine/herbsvitaminsandminerals/vitamin-d)\
+[complementaryandalternativemedicine/herbsvitaminsandminerals/vitamin-d](http://www.cancer.org/treatment/treatmentsandsideeffects/ complementaryandalternativemedicine/herbsvitaminsandminerals/vitamin-d)
+
+6\. <http://www.sciencedaily.com/releases/2010/05/100501013417.htm>
+
+7\. <http://www.sciencedaily.com/releases/2010/05/100501013417.htm>

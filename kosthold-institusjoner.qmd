@@ -1,0 +1,56 @@
+---
+title: "Kosthold i helseinstitusjoner"
+listing:
+  contents: artikler/kosthold-institusjoner/*.qmd
+  sort: "date desc"
+  type: table
+  fields: [date, title, author, reading-time]
+  field-display-names: 
+    date: Publiseringsdato
+    title: Tittel
+    author: Forfatter
+    reading-time: Lesetid
+  categories: false
+  sort-ui: false
+  filter-ui: [title, description, author]
+page-layout: full
+title-block-banner: false
+---
+
+Innen ernæringsbehandling i helsevesenet brukes det mange ulike former for kosthold. De aller fleste blir tilbudt det som kalles standardkost, som er bygget på de offentlige anbefalingene. De med spesielle behov bør legge opp kostholdet sitt etter andre retningslinjer, og tilbys derfor ulike varianter av det som kalles spesialkost.
+
+I denne serien vil vi ta for oss sentrale aspekter ved ulike kosthold som brukes i helseinstitusjoner. Du vil finne informasjon om hvordan kostholdet er lagt opp, hvem kostholdet er tiltenkt, eventuelle problemer som kan oppstå og eksempler på måltider.
+
+Målet med disse kostholdene er at de skal være tilpasset den enkelte persons behov, samtidig som de skal være ernæringsmessig tilstrekkelige. På denne måten kan de inngå i behandlingen av ulike sykdommer og tilstander uten at det er forbundet med risiko for feilernæring. Denne artikkelserien er ikke ment som en fasit, bare ren informasjon.
+
+## Standard- og spesialkost
+
+**Standardkost:**
+
+-   [Nøkkelrådskost](http://www.friskogfunksjonell.no/nokkelradskost/ "Nøkkelrådskost")
+-   [Energi- og næringstett kost](http://www.friskogfunksjonell.no/energi-og-naeringstett-kost/ "Energi- og næringstett kost")
+
+**Spesialkost:**
+
+-   [Konsistenstilpasset kost](http://www.friskogfunksjonell.no/konsistenstilpasset-kost/ "Konsistenstilpasset kost")
+-   [Ekstra energi- og næringstett kost](http://www.friskogfunksjonell.no/ekstra-energitett-kost/ "Ekstra energitett kost")
+-   [Lettfordøyelig kost](http://www.friskogfunksjonell.no/lettfordoyelig-kost/ "Lettfordøyelig kost")
+-   Fettredusert kost
+-   [Glutenfri kost](http://www.friskogfunksjonell.no/glutenfri-kost/ "Glutenfri kost")
+-   [Laktosefri kost](http://www.friskogfunksjonell.no/laktoseredusert-kost/ "Laktoseredusert kost")
+-   [Melkeproteinfri kost](http://www.friskogfunksjonell.no/melkeproteinfri-kost/ "Melkeproteinfri kost")
+-   [Natriumredusert kost](http://www.friskogfunksjonell.no/natriumredusert-kost/ "Natriumredusert kost")
+-   [Fosfatredusert kost](http://www.friskogfunksjonell.no/fosfatredusert-kost/ "Fosfatredusert kost")
+-   [Kaliumredusert kost](http://www.friskogfunksjonell.no/kaliumredusert-kost/ "Kaliumredusert kost")
+-   [Væskekontrollert kost](http://www.friskogfunksjonell.no/vaeskekontrollert-kost/ "Væskekontrollert kost")
+-   [Proteinkontrollert kost](http://www.friskogfunksjonell.no/proteinkontrollert-kost/ "Proteinkontrollert kost")
+-   [Proteinrik kost](http://www.friskogfunksjonell.no/proteinrik-kost/ "Proteinrik kost")
+-   Vegetarkost
+
+Spørsmål og diskusjon om de ulike kostholdene tas i kommentarfeltet under hvert enkelt punkt!
+
+## Kosthåndboken
+
+[Kosthåndboken](http://www.helsedirektoratet.no/folkehelse/ernering/kosthandboken/Sider/default.aspx) er utgitt av helsedirektoratet og ment som en innføring i ernæringsarbeidet i helseinstitusjoner, og er tiltenkt ulike helsepersonell og andre som er involvert i behandling av pasienter.
+
+Informasjonen om de ulike kostholdene er hovedsakelig hentet fra kosthåndboken, og ønsker du en bedre forståelse for bakgrunnen for rådene som gis, kan det anbefales å bruke boken som oppslagsverk. Ved å følge linken kan du laste boken ned i PDF-format.

@@ -1,0 +1,18 @@
+---
+title: "Kildekritikk vitenskap og tankefeil"
+listing:
+  contents: artikler/kildekritikk/*.qmd
+  sort: "date desc"
+  type: table
+  fields: [date, title, author, reading-time]
+  field-display-names: 
+    date: Publiseringsdato
+    title: Tittel
+    author: Forfatter
+    reading-time: Lesetid
+  categories: false
+  sort-ui: false
+  filter-ui: [title, description, author]
+page-layout: full
+title-block-banner: false
+---

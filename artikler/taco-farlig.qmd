@@ -1,0 +1,92 @@
+---
+title: "Er taco farlig?"
+date: 2012.10.19
+---
+
+Jeg har stort sett sluttet å bruke energi på det som skrives om kosthold i avisene, men det er lenge siden jeg har blitt direkte provosert av en forside. Det skrives mye rart i avisene, og den røde tråden er at overskriftene først og fremst velges ut ifra hva som vil selge flest aviser. At noe enten er kjempefarlig eller kjempesunt er helt klart bedre for avissalget enn ett budskap om moderasjon og variasjon, som på sin side hadde vært mer verdt for de som leser avisen.
+
+## Taco
+
+Forsiden på dagens Dagbladet er fylt med en side om taco, og den store overskriften sier "**Tacoen som er farlig for deg**"! Hele tre sider er satt av til å fortelle om denne farlige tacoen. På bildet ser vi et par tacoskjell fylt med kjøttdeig, salat, tomat og litt salsa. Er det kanskje denne tacoen som er farlig for deg?
+
+[Artikkelen ligger nå også på nett](http://www.dagbladet.no/2012/10/19/tema/mat/helse/forbruker/matvarer/23955936/)!
+
+## Mettet på farlig fett
+
+Dette er overskriften som lyser mot deg når du slår opp på selve saken. Det er selvfølgelig snakk om den skumle palmeoljen.
+
+I en faktaboks øverst i artikkelen kan vi lese at:
+
+> -   Produksjon av palmeolje er en trussel mot regnskogen
+>
+> <!-- -->
+>
+> -   Palmeoljen er langt mer helseskadelig enn annen vegetabilsk olje
+>
+> -   Palmeoljen inneholder mer mettet fett enn andre vegetabilske oljer, bortsett fra kokosolje
+>
+> -   Palmeoljen inneholder palmitinsyre, som er en av de mest kolesteroløkende fettsyrene vi har
+
+At produksjonen av palmeolje er en trussel mot regnskogen er riktig, og det i seg selv er et argument for å begrense bruken. Men artikkelen fokuserer ikke på dette, her er det snakk om de helsemessige konsekvensene. At palmeolje er mer helseskadelig enn annen vegetabilsk olje er en påstand med manglende støtte i litteraturen. Dette baseres på ideen om at innholdet av mettet fett dikterer hvor sunn en fettkilde er, og oljer med mye mettet fett er følgelig ansett som usunne. Det er i dag en økende mengde evidens for at denne sammenhengen ikke er slik vi i lengre tid har trodd.
+
+Det er et stort fokus på totalkolesterol, men i dag vet vi at dette er en ganske dårlig markør for helserisiko. Hjertelege og forsker Espen Rostrup har tidligere lært oss om viktigheten av å se på [sammensetningen av fettstoffene](http://www.friskogfunksjonell.no/minikurs-i-lipoproteiner/ "Minikurs i lipoproteiner") i blodet, og ikke bare totalen. Til og med størrelsen på de ulike partiklene har vi nå kunnskaper om. Det er flere studier som indikerer at mettet fett har en positiv effekt på denne sammensetningen (1-5).
+
+Palmitinsyre er en av de fettsyrene som i størst grad øker totalkolesterolet, men forholdet mellom total:HDL-kolesterol påvirkes lite. Palmeolje inneholder også kortere mettede fettsyrer, som øker totalkolesterolet mer enn palmitinsyre, men i større grad forbedrer forholdet mellom totalkolesterol og HDL (HDL øker mer enn LDL), noe som er regnet som positivt (5). En studie fra 2011 undersøkte effektene av henholdsvis palmeolje og olivenolje på fettstoffene i blodet (6). Olivenoljen gav lavere totalkolesterol og LDL, men palmeoljen gav lavere triglyserider, noe som er assosiert med en mindre aterogen lipidprofil.
+
+## Gammel kunnskap
+
+I teksten finner vi uttalelser fra flere autoriteter innen ernæring, og mange av disse bygger på lipidhypotesen. Denne sier at økt inntak av mettet fett gir økt kolesterol, som igjen øker risikoen for hjertesykdom. Det at mettet fett har en effekt på kolesterolet er det liten tvil om, men som dere kan se over så snakker vi ikke nødvendigvis om en negativ effekt. At et økt kolesterol gir økt risiko for hjertesykdom er det delte meninger om, og i en redaksjonell artikkel i Scandinavian Cardiovascular Journal argumenterer forfatteren for hvorfor denne sammenhengen ikke er riktig (7).
+
+## Mettet fett og kolesterol?
+
+> Noen av de rimelige tacovariantene inneholder så mye som 20-30 prosent av den omstridte palmeolja.
+
+Klinisk ernæringsfysiolog Tine Sundfør kommenterer at palmeolje i moderate mengder ikke er påvist å ha negative effekter på helsen, men at vi ikke bør få i oss større mengder. Det kan likevel diskuteres hvor store mengder det her er snakk om når vi tenker oss at et tacoskjell inneholder ca 3 gram fett og 20-30% av dette er palmeolje.
+
+|                                 |          |
+|---------------------------------|----------|
+| Tacoskjell (mais) - 1 stk (11g) |          |
+| Energi                          | 53 kcal  |
+| Protein                         | 0,7g     |
+| Fett                            | 2,8g     |
+| **Mettet fett**                 | **1,3g** |
+| Karbohydrat                     | 6,2g     |
+| Kostfiber                       | 0,6      |
+
+Sundfør fortsetter med at tacoen totalt sett kan inneholde ganske mye mettet fett, spesielt dersom man bruker kjøttdeig, vanlig ost og rømme. Klinisk ernæringsfysiolog Cathrine Borchsenius skulle ønske at produsentene kunne byttet ut palmeoljen med en sunnere olje, og nevner at i motsetning til palmeolje er de fleste vegetabilske oljer sunne. Dette gjenspeiler hele ideen om at mettet fett er usunt og umettet fett bedre. Flere vegetabilske oljer har en svært skeiv [fordeling av omega-3 og omega-6](http://www.friskogfunksjonell.no/omega-3-og-omega-6-i-kostholdet/ "Omega-3 og Omega-6 i kostholdet"), og bidrar til et allerede ubalansert forhold. Kokosolje er den oljen som inneholder mest mettet fett, men denne er regnet som svært sunn og assosiert med god helse, noe som understreker at man ikke kan rangere oljer sunnhetsmessig etter innholdet av mettet fett.
+
+> Hvis du totalt sett får i deg for mye mettet fett, øker dette kolesterolet, som igjen gir helseproblemer, sier Sundfør.
+
+Her går Sundfør ut ifra at lipidhypotesen stemmer, selv om virkningsmekanismene her ikke er kartlagt. Med tanke på den forskningen som er gjort på mettet fetts påvirkning på kolesterolet er det ikke plausibelt at denne årsakssammenhengen er reell. Tall fra WHO sier oss at det ikke er en konsistent sammenheng mellom inntak av mettet fett og hjertesykdom, og de landene der inntaket av mettet fett er høyest (eksempelvis Frankrike og Sveits) ligger lavt på statistikken over hjertesykdom (8). Dette er selvfølgelig bare observasjonsdata, men når ikke engang observasjonene er konsekvente så finner jeg det lite trolig at det er en sammenheng.
+
+> Hos barn gir ikke inntaket av mettet fett noen konsekvenser der og da, men det er langsomme prosesser som blir akselerert i feil retning, og når de kommer i 40-50-årsalderen  vil flere dø av hjerte- og karsykdommer enn det burde vært, sier Kjetil Retterstøl \[overlege ved Lipidklinikken på Rikshospitalet\].
+
+Såvidt meg bekjent finnes det ingen dokumentasjon som underbygger det Retterstøl påstår her. Hanne Storhaug har gått gjennom kunnskapsgrunnlaget for fettanbefalingene i en [tidligere artikkel](http://www.friskogfunksjonell.no/de-offentlige-anbefalingene-for-fett-godt-begrunnet/ "De offentlige anbefalingene for fett, godt begrunnet?") på siden her, og dette grunnlaget er rimelig tynt. Jeg ser ingen gode argumenter for å skremme folk med slike påstander når grunnlaget bak dem er så skralt.
+
+## Hva skal du tro?
+
+Leser du alt som skrives i avisene fra dag til dag så er det ikke godt å vite hva du skal tro på. Husk at overskriftene lages for å selge aviser, og ting er sjeldent så svart/hvitt som det gjerne presenteres for å få det interessant nok. Du kommer veldig langt med moderasjon og sunn fornuft.
+
+Det at produksjonen av palmeolje er belastende for miljøet er et godt argument for å redusere bruken. Når det kommer til effektene på helse er saken ikke fullt så klar. Palmeolje brukes i svært mye av det som anses som usunn mat, nemlig kjeks, sjokolade og generell hurtigmat. Det kan godt være at det finnes en korrelasjon mellom høyt inntak av palmeolje og økt risiko for sykdom, men da skyldes det mest sannsynlig heller at det gjennomsnittlige valget av matvarer ikke er spesielt gunstig. At palmeoljen i seg selv fører til dårligere helse er det ikke mange holdepunkter for å hevde.
+
+Med andre ord kan du med god samvittighet kose deg med tacoen i kveld, uten å bruke noe særlig energi på å tenke på hvilke fettsyrer den inneholder. Det er totalen over tid som betyr noe, ikke hva du spiser på enkeltdager, og taco kan uten tvil inngå i et sunt kosthold.
+
+#### Hva mener du om palmeolje?
+
+Referanser:
+
+1.  Siri PW, Krauss RM: **Influence of dietary carbohydrate and fat on LDL and HDL particle distributions**. *Curr Atheroscler Rep* 2005, **7**(6):455-459.
+
+2.  Mensink RP, Zock PL, Kester AD, Katan MB: **Effects of dietary fatty acids and carbohydrates on the ratio of serum total to HDL cholesterol and on serum lipids and apolipoproteins: a meta-analysis of 60 controlled trials**. *Am J Clin Nutr* 2003, **77**(5):1146-1155.
+
+3.  Krauss RM, Blanche PJ, Rawlings RS, Fernstrom HS, Williams PT: **Separate effects of reduced carbohydrate intake and weight loss on atherogenic dyslipidemia**. *Am J Clin Nutr* 2006, **83**(5):1025-1031; quiz 1205.
+
+4.  Hoenselaar R: **Saturated fat and cardiovascular disease: the discrepancy between the scientific literature and dietary advice**. *Nutrition* 2012, **28**(2):118-123.
+
+5.  Siri-Tarino PW, Sun Q, Hu FB, Krauss RM: **Saturated fat, carbohydrate, and cardiovascular disease**. *Am J Clin Nutr* 2010, **91**(3):502-509.
+
+6.  Tholstrup T, Hjerpsted J, Raff M: **Palm olein increases plasma cholesterol moderately compared with olive oil in healthy individuals**. *Am J Clin Nutr* 2011, **94**(6):1426-1432.
+
+7.  Schersten T, Rosch PJ, Arfors KE, Sundberg R: **The cholesterol hypothesis: time for the obituary?** *Scand Cardiovasc J* 2011, **45**(6):322-323.
+
+8.  Kendrick M: **Det store kolesterolbedraget**; 2007.

@@ -1,0 +1,72 @@
+---
+title: "Enkle tiltak for å få i seg nok mat"
+date: 2012.09.28
+---
+
+Dette innlegget er først og fremst tiltenkt folk med et høyt aktivitetsnivå, som for eksempel idrettsutøvere. Når man er i mye aktivitet krever kroppen også en høyere tilførsel av energi og næringsstoffer, og innimellom kan det være en utfordring å klare å spise nok. Konsekvensene av å ikke få i seg nok mat blir dårlig restitusjon, man er mer utsatt for sykdom og ikke minst vil resultatene av treningen ikke bli like gode som de kunne vært.
+
+Tipsene i dette innlegget kan også med fordel benyttes av folk som av ulike årsaker får i seg for lite mat, for eksempel eldre eller folk som sliter med sykdom.
+
+## Hvordan beregne energi- og proteinbehov?
+
+Først og fremst er det greit å vite omtrent hvor mye mat du trenger i løpet av en dag. For å få et greit estimat er det utarbeidet en del forskjellige ligninger som beregner behovet ut fra høyde og vekt. På internett finner du kalkulatorer du kan bruke, f.eks. [denne](http://www.nafwa.org/schofield.php). Dersom du er mye overvektig eller veldig mager så vil disse kalkulatorene gi et estimat som avviker en del fra det reelle forbruket.
+
+Disse kalkulatorene gir deg et estimat av basalforbrenningen din, altså det du forbrenner i løpet av dagen dersom du ligger i ro. Totalforbrenningen er naturligvis høyere enn dette, og for å beregne behovet ganger vi basalforbrenningen med en aktivitetsfaktor. Aktivitetsfaktorene det opereres med i [Kosthåndboken](http://helsedirektoratet.no/publikasjoner/kosthandboken-veileder-i-erneringsarbeid-i-helse-og-omsorgstjenesten/Sider/default.aspx) som er utgitt av [Helsedirektoratet](http://helsedirektoratet.no/Sider/default.aspx) er følgende:
+
+|                                                     |         |
+|-----------------------------------------------------|---------|
+| Stillesittende arbeid og begrenset fysisk aktivitet | 1.4     |
+| Stående og gående arbeid det meste av dagen         | 1.8     |
+| Regelmessig fysisk aktivitet 4-5 ganger i uken      | 2.0-2.2 |
+
+Etter min erfaring er disse tallene litt for høye, men du kan godt ta utgangspunkt i dette.
+
+Proteinbehovet regner du ut i forhold til din egen kroppsvekt. Olympiatoppen opererer med generelle anbefalinger på 1,2-1,8 g/kg for de som trener, og 1.8-1.2 g/kg for unge utøvere i vekst. Det er ikke noe problem om du ønsker å ligge litt over dette, men husk at protein er det næringsstoffet som metter best, og et økt proteininntak kan gjøre det vanskeligere å få i seg nok energi. I tillegg er det ikke nødvendig med mer protein enn dette.
+
+## Hvordan skal du så klare å få i deg all denne maten?
+
+Som nevnt i innledningen kan et høyt aktivitetsnivå medføre at du må spise ganske mye mat, noe som kan være vanskelig å gjennomføre i praksis. Da er det godt å vite at det er en del tiltak som kan gjøre dette betydelig lettere for deg. Thomas skrev nylig en artikkel om hvordan du bør [spise for å bli sterkere](http://www.friskogfunksjonell.no/enkle-prinsipper-for-kosthold-og-styrkeokning/ "Enkle prinsipper for kosthold og styrkeøkning").  Her følger noen litt mer konkrete tips:
+
+### Velg energitette matvarer\*
+
+Et av hovedproblemene med å få i seg mye energi er at volumet på maten du spiser kan bli ganske stort, noe som gjør det både ubehagelig og ikke minst upraktisk å få til i lengden. Ved å velge matvarer med høyere energitetthet, altså mer energi per mengde, kan du klare å få i deg en del ekstra mat.
+
+[Fett](http://www.friskogfunksjonell.no/fett/ "Fett") inneholder mer enn dobbelt så mye energi per mengde sammenlignet med [karbohydrater](http://www.friskogfunksjonell.no/karbohydrater/ "Karbohydrater") og [protein](http://www.friskogfunksjonell.no/protein/ "Protein"). Ved å velge matvarer som inneholder mer fett vil du presse inn mer energi på mindre mengde mat.
+
+Eksempler på energitette matvarer er fete meieriprodukter som helmelk, fløte, ost, rømme og smør, fet fisk, fete kjøttstykker, avocado, nøtter og frø. Makrell i tomat egner seg godt som et energirikt pålegg på brødmat, og med majones på toppen kan det bli et riktig så næringstett måltid!
+
+For å sikre et tilstrekkelig inntak av vitaminer, mineraler og sporstoffer er det også greit å spise matvarer som er rike på disse. Grønnsaker er eksempel på slike matvarer, men disse er også veldig energifattige, så om du har problemer med å spise nok så trenger du ikke å fylle hele tallerkenen med grønnsaker! Med et høyt energiinntak så får du med stor sannsynlighet i deg nok av de ulike stoffene uansett.
+
+### Drikk noe av maten din
+
+Jeg har tidligere skrevet en artikkel om hvorfor du kanskje bør begrense inntaket av [flytende karbohydrater](http://www.friskogfunksjonell.no/bor-du-begrense-inntaket-av-flytende-karbohydrater/ "Bør du begrense inntaket av flytende karbohydrater?"). Noe av begrunnelsen for dette er at flytende føde metter dårligere enn fast føde, og at et høyt inntak av dette vil gjøre det vanskelig å begrense energiinntaket. Du som føler deg truffet av dette innlegget er derimot opptatt av å øke energiinntaket, og for deg er det ikke nødvendigvis så dumt å drikke noe av maten din, nettopp fordi det metter dårligere.
+
+Det er mange ulike alternativer her, men generelt vil jeg anbefale melk for de som tåler det, og da fortrinnsvis de fete variantene. Jus, saft og brus bidrar også med energi, men denne kommer hovedsakelig fra sukker, så her er det greit å [tilpasse inntaket i forhold til aktivitetsnivået](http://www.friskogfunksjonell.no/en-enkel-innforing-i-lavkarbokosthold/ "En kort innføring i lavkarbokosthold og tilpasning til din livsstil").
+
+### Berik maten din
+
+Med enkle grep kan du gjøre mat som i utgangspunktet er energifattig mye mer energirike. Beriking forbindes kanskje med vektøkningspulver, kosttilskudd og lignende, men du kan like gjerne bruke helt vanlige ting som du finner i kjøleskapet.
+
+Ved å tilsette en spiseskje olje (10g) til maten, øker du energiinnholdet med ca 80 kcal. En eggeplomme inneholder ca 70 kcal. En spiseskje fløte inneholder 35 kcal, mens en dL gir 180 kcal. En spiseskje smør inneholder ca 100 kcal. Dette er ting du kan tilsette i maten uten at det øker volumet noe særlig, men energiinholdet vil øke ganske drastisk.
+
+Et eksempel på mat du kan berike på denne måten er supper, havregrøt, yoghurt, potetmos og egentlig alt annet du kan røre disse produktene inn i. Drikker du kaffe eller te, kan disse berikes med melk eller fløte. Noen bruker også kokosfett i kaffen, noe som gir en mild kokossmak.
+
+### Bruk olje, smør, rømme og lignende i matlagingen
+
+Dette er matvarer som går igjen i de andre punktene, men et annet bruksområde for de er å bruke de i matlagingen. Sauser basert på rømme eller fløte kan være veldig smakrikt. Smeltet smør over stekt fisk, kjøtt eller grønnsaker gir også god smak, og en god kaldpresset olje som dressing på salaten er også ganske godt. Dette er gode måter å øke matens energiinnhold på!
+
+### Drikk utenfor måltid
+
+Fylling av magesekken er en begrensende faktor når det gjelder inntak av mat. Husk at det du drikker også legger seg i magesekken, så om du ønsker å få i deg mer mat kan det være en fordel å ikke drikke så mye rett før eller mens du spiser, og heller drikke litt ekstra innimellom måltidene, og da gjerne energiholdig drikke.
+
+### Spis flere måltider
+
+Klarer du ikke å presse i deg mer mat per måltid kan det være mer behagelig å legge inn et ekstra mellommåltid eller to. Disse trenger verken være store eller tidkrevende. Et glass helmelk, en neve nøtter og en frukt eller en liten porsjon bær med fløte kan være eksempler på små måltider som kan være raskt å få i seg, som også kan bidra med en del energi.
+
+## Det handler om energibalansen
+
+For å øke kroppens energilagre er det viktig å være i positiv [energibalanse](http://www.friskogfunksjonell.no/energibalansen/ "Energibalansen – hva sier den egentlig?"). Inntaket av mat må altså være større enn det totale forbruket av energi. Klarer du dette vil du gå opp i vekt, og kombinerer du det med et fornuftig treningsprogram kan du påvirker vektoppgangen til i større grad å bestå av muskelvev og ikke fett.
+
+Jeg håper disse tipsene kan hjelpe noen av dere som ønsker å gå opp i vekt til å øke energiinntaket. Har dere andre tips enn de som er nevnt i artikkelen, setter jeg stor pris på om dere deler disse i kommentarfeltet!
+
+Neste gang ser vi på tiltak som bidrar til å [redusere energiinntaket](http://www.friskogfunksjonell.no/enkle-tiltak-for-a-fa-i-seg-lite-nok-mat/)!

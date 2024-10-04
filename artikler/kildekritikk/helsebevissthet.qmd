@@ -1,0 +1,36 @@
+---
+title: "Helsebevisste individer - en forstyrrende faktor i forskningen?"
+date: 2012.19.17
+---
+
+Innen forskning på kosthold skiller vi mellom observasjonsstudier og eksperimenter. Observasjonsstudier kan finne assosiasjoner mellom ulike fenomener (A og B), men kan ikke si noe om at det ene fører til det andre. Målet med eksperimentelle studier er å avdekke disse årsakssammenhengene, altså om A fører til B eller motsatt. Dette trenger ikke å være tilfelle, og ofte trenger vi enda en bokstav for å forklare sammenhengen, nemlig C, konfunderende faktorer. Det å være helsebevisst er et eksempel på en slik faktor som ofte påvirker resultatene av slike studier, og her skal jeg prøve å forklare hvorfor.
+
+## Hva vil det si å være helsebevisst?
+
+En helsebevisst person er opptatt av å ta vare på helsen sin. Det er en del karakteristikker som følger med en slik innstilling. For det første er en helsebevisst person interessert i å spise sunt, og er dermed mer tilbøyelig enn gjennomsnittet til å følge de gjeldene kostholdsanbefalingene. Det samme er tilfelle for fysisk aktivitet, og en helsebevisst person mosjonerer dermed mer enn en som ikke tenker like mye på helsen sin.
+
+Andre faktorer som kjennetegner helsebevisste personer er at de i gjennomsnittet [røyker mindre](http://www.friskogfunksjonell.no/stump-royken/ "Stump røyken"), drikker mindre [alkohol](http://www.friskogfunksjonell.no/alkohol/ "Alkohol") og har en bedre [døgnrytme](http://www.friskogfunksjonell.no/sovn-og-overvekt/ "Kan søvnmangel bidra til overvekt?") enn de som bryr seg mindre. De er også i større grad normalvektige, men også mer tilbøyelige til å bruke kosttilskudd, spesielt om de er overbeviste om at de vil gi dem bedre helse. De er også mer villige til å oppsøke lege når de mistenker at noe kan være galt.
+
+Kort oppsummert så vil helsebevisste personer i gjennomsnitt være mindre syke og leve lengre enn de som bryr seg mindre om helsen sin.
+
+## Hvorfor påvirker dette forskningen?![](http://www.friskogfunksjonell.no/wp-content/uploads/2012/09/kokt-egg-150x150.jpg "kokt egg"){alt=""}
+
+Når media presenterer sensasjonsoppslag på bakgrunn av studier, så er dette nesten uten unntak snakk om observasjonsstudier. Disse er som sagt ikke egnet til å si noe om årsakssammenhenger, så når du ser overskrifter som "[Ett egg daglig er nesten like ille som å røyke en 20-pakning om dagen](http://www.dagbladet.no/2012/08/17/nyheter/helse/forskning/23001062/)", så må dette tas med en god klype salt.
+
+I en observasjonsstudie så har man ikke gjort noen intervensjon, bare observert en gruppe mennesker og sett hvordan det gikk med dem. Ofte begynner man også med utfallet (sykdom/ikke sykdom), og ser tilbake i tid hva de ulike gruppene har gjort (eller sier de har gjort) for å oppnå det aktuelle utfallet, f.eks. hvor mye egg og sigaretter de husker å ha konsumert.
+
+I en slik sammenheng er det viktig å ha disse helsebevisste menneskene i bakhodet, siden disse ofte kan være en nøkkel til å forstå hvorfor resultatene er som de er. For å fortsette på eksempelet fra saken over, så kan vi spørre oss spørsmålet om helsebevisste personer spiser mer eller mindre egg, og om de røyker mer eller mindre enn gjennomsnittet.
+
+De gjeldende kostrådene i perioden som er undersøkt har fokusert på å begrense inntaket av egg, noe som gjør det sannsynlig at en helsebevisst adferd er forbundet med å nettopp spise mindre egg. Det er derfor veldig sannsynlig at de som spiste mest egg også gjorde andre valg som ikke var spesielt gunstige for helsen, og at den sammenhengen forskerne fant mellom eggspising og åreforkalkning heller skyldtes totaleffekten av disse valgene, og ikke eggspisingen i seg selv.
+
+## Hvorfor forteller jeg deg dette?
+
+Målet med dette innlegget er å informere om hva helsebevisste mennesker er, og hvordan de kan påvirke utfallet av en studie. Denne eggstudien er bare ett eksempel på hvordan helsebevissthet kan være en stor konfunderende faktor i observasjonsstudier, og hvorfor det er utrolig viktig å tenke på dette når du skal manøvrere gjennom sensasjonsoppslagene som med jevne mellomrom dukker opp i media. Still deg alltid følgende spørsmål:
+
+> Er de som er utsatt for den aktuelle eksponeringen mest tilbøyelig til å gjøre gode eller dårlige valg ellers, og kan det påvirke utfallet?
+
+Ved å stille deg dette enkle spørsmålet kan du gjennomskue de aller fleste sensasjonsoverskriftene og forstå hvorfor disse i liten grad kan overføres til din egen hverdag.
+
+Dette er også nyttig å tenke på når du hører fantastiske historier om supermat, ulike kosttilskudd eller det å kutte ut bestemte ting fra kostholdet. Disse kommer stort sett fra folk som generelt lever sunt og er helsebevisste, og de som opplever store effekter av slike tiltak har ofte hatt et ganske dårlig kosthold fra før. Jeg sier ikke at disse tiltakene ikke har en effekt, for det kan de absolutt ha, men sensasjonshistoriene er ofte et resultat av større omveltninger i livsstilen som helhet, ikke enkelttiltak. Husk at det også hovedsakelig er helsebevisste personer som gjennomfører slike tiltak, noe som øker sannsynligheten for at de også gjør mange andre gode valg!
+
+[Tilbake til kildekritikk, vitenskap og tankefeil](http://www.friskogfunksjonell.no/kildekritikk-vitenskap-og-tankefeil/ "Kildekritikk, vitenskap og tankefeil")

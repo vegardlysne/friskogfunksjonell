@@ -1,0 +1,36 @@
+---
+title: "Syre og base i mat og i kroppen"
+date: 2012.09.25
+---
+
+Surhet måles i pH, på en logaritmisk skala fra 1-14, og representerer forholdet mellom syre og base. Hvis noe har en pH på 7 er det verken surt eller basisk. Jo lavere pH blir, jo surere er det, mens pH stiger jo mer basisk noe er. Hvorfor er pH sentralt for god helse, og hvordan påvirker kostholdet balansen mellom syre og base i kroppen?
+
+I blodet vårt er vi avhengig av å ha en pH i området 7,35-7,45, som kalles fysiologisk pH. Denne er heldigvis nøye regulert, siden store avvik fra denne kan medføre alvorlige konsekvenser. Vi har ulike buffersystemer, og uten å gå i detalj på hvordan de fungerer, så sørger de for at blodets surhetsgrad holdes mer eller mindre konstant over tid, noe som gjør at alle prosesser går som de skal.
+
+Et avvik fra denne fysiologiske pHen nedover på skalaen kalles en acidose, mens et avvik oppover på skalaen kalles en alkalose. Dette er medisinske tilstander, og årsaken bør identifiseres og behandles av lege.
+
+## Buffere
+
+Lungene våre er kanskje den aller viktigste regulatoren av syre/base-balansen i blodet, siden de sørger for gassutvekslingen, der vi tilfører oksygen og puster ut CO2. Ved å regulere hvor mye vi puster sørger vi samtidig for å holde pH i blodet innenfor de fysiologiske rammene. Hyperventilerer vi (puster for mye), øker blodets pH. Dette er en viktig funksjon for raskt å kunne motvirke et fall i pH av andre årsaker. Når vi holder pusten vil det motsatte skje, og pH synker. Holder vi pusten lenge nok så vil pH synke så mye at vi til slutt besvimer, og dermed begynner å puste igjen.
+
+De andre buffersystemene inkluderer bikarbonat, som er den viktigste, samt fosforsyre og hemoglobin som spiller en mindre rolle. Disse reagerer med syre og base som dannes i blodet, slik at pH holdes innenfor de fysiologiske grensene.
+
+## Hvordan påvirker maten syre/base-balansen?
+
+Alle [næringsstoffene](http://www.friskogfunksjonell.no/naeringsstoffene/ "Artikkelserie om Næringsstoffene") havner i blodet, der de påvirker syre/base-balansen en den ene eller andre retningen. Hvorvidt en matvare vil ha en syre- eller basedannende effekt avhenger dermed av hvilke næringsstoffer den inneholder, og det er totaleffekten som er interessant.
+
+[Protein](http://www.friskogfunksjonell.no/protein/ "Protein") og [fett](http://www.friskogfunksjonell.no/fett/ "Fett") er bygget opp av aminosyrer og fettsyrer, og virker dermed syredannende i blodet. [Glukose](http://www.friskogfunksjonell.no/karbohydrater/ "Karbohydrater") er også syrlig. Mange vitaminer er syrer, f.eks. [folat](http://www.friskogfunksjonell.no/folat/ "Folat, vitamin B9") og [C-vitamin](http://www.friskogfunksjonell.no/c-vitamin/ "C-vitamin"). Mineraler vil generelt sett virke basedannende, f.eks. [magnesium](http://www.friskogfunksjonell.no/magnesium/ "Magnesium") og [fosfor](http://www.friskogfunksjonell.no/fosfor/ "Fosfor"). Det finnes unntak fra disse reglene, men i hovedsak er det slik.
+
+## Er sur mat syredannende?
+
+Når vi spiser mat så vil den passere gjennom [fordøyelsessystemet](http://www.friskogfunksjonell.no/fordoyelsessystemet/ "Fordøyelsessystemet"). Når den kommer til magesekken så vil maten blandes med magesyren, som er ekstremt sur.  Innholdet i magesekken tømmes deretter ut i tynntarmen, der det blandes med bukspytt som nøytraliserer den sure blandingen. Dette er viktig for at nedbrytningen og opptaket av næringsstoffer skal gå som normalt.
+
+Uavhengig av hvor sur maten i utgangspunktet er så vil den altså nøytraliseres når den kommer ned i tynntarmen, så det er utelukkende matvarens innhold av næringsstoffer som avgjør hvordan effekten på syre/base-balansen vil bli. Syrlig mat vil derimot være negativt for tennene, så det å drikke brus og saft hele tiden er ikke det lureste du gjør, selv om surheten i seg selv ikke påvirker syre/base-balansen.
+
+## Hvilke matvarer har hvilken effekt?
+
+Generelt sett vil mesteparten av maten vi spiser virke syredannende i kroppen vår, på grunn av innholdet av protein og fett. Meieriprodukter vil jevnt over være de mest syredannende matvarene. Vi har også noen matvarer som virker basedannende i kroppen, og det er frukt, grønnsaker, bær og nøtter.
+
+Med tanke på dette er det klart at for de fleste av oss så vil kostholdet totalt sett være syredannende, noe som stiller krav til buffersystemene våre. I ytterste konsekvens kan det bli trukket mineraler ut av beinvevet for å fungere som buffer dersom syreoverskuddet blir for stort. Dette er en av flere mulige årsaker til at mange utvikler beinskjørhet.
+
+Dette er først og fremst et kjempeargument for å øke inntaket av frukt og grønt. Myndighetenes "5 om dagen"-kampanje er et fint sted å begynne, men aller helst bør dette være et minimumsmål hver dag. Det er heller ikke dumt å la nøtter være en del av kostholdet ditt, f.eks. som snacks eller mellommåltider. Det å spise mer grønnsaker og frukt er etter mitt syn det viktigste kostholdstipset til befolkningen som helhet!

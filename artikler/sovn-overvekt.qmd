@@ -1,0 +1,74 @@
+---
+title: "Søvn og overvekt - Større sammenheng enn vi tror?"
+author: "Thomas Olsen"
+date: 2012.10.01
+---
+
+Søvn er et fenomen som vitenskapen ikke helt har klart å forstå enda. Allikevel ser man mer og mer forskning på at søvn bl.a har en sentral effekt på apetitt og matinntak som [Vegard har antydet tidligere](http://www.friskogfunksjonell.no/sovn-og-overvekt/ "Kan søvnmangel bidra til overvekt?"). I denne artikkelen skal jeg gå nærmere inn på hva vi vet om søvn, hva det er viktig for, og hvordan det kan inngå i reguleringen av to av de viktigste apetitthormonene våre, ghrelin og leptin.
+
+Hjernestammen, bestående av pons (hjernebroen) og mesencephalon (midthjernen) inneholder noe som kalles retikulært aktiveringssystem (Hall and Guyton, 2011). Uten å gå nærmere inn på hva dette omfatter, er dette området er bl.a ansvarlig for formidling av uttalige nervesignaler til ryggmargen, men virker også gjennom formidling av eksitatoriske signaler som aktiverer og "vekker" hjernen. Tidligere trodde man at søvn kom av at dette området rett og slett ble koblet ut og inaktivt grunnet utmattelse. Med andre ord, søvnprosessen ble regnet som en passiv prosess fordi disse delene av hjernen ble utslitt i løpet av dagen. Senere har man derimot oppdaget at søvn er en aktiv prosess, som blant annet innebærer hemming av nervefibre som leder smerte og aktivering av nervefibre som utskiller den søvnproduserende nevrotransmitteren serotonin.
+
+## Søvn og dens funksjoner
+
+Søvnens funksjoner er ikke fullstendig kartlagt. Alle som har opplevd perioder med søvnmangel vet derimot at det svekker kognitiv funksjon, produktivitet, konsentrasjon og fysisk prestasjon. Søvn spiller sannsynligvis også en rolle i opprettholdelsen av vitale kroppsfunksjoner, utvikling av nervesystemet og evnen til læring.
+
+#### Utvikling av søvnmønsteret
+
+Mennesket og andre dyr har utviklet en naturlig døgnrytme på bakgrunn av syklusen av lys/mørke som har vært en del av livet vårt i alle år. Forstyrrelser i denne syklusen, som oppstår ganske ofte i dag ved bruk av kunstig lys og økende aktivitetsnivå på kveldstid, forstyrrer vår biologiske døgnrytme og senker dermed søvnkvaliteten vår. I USA har antall selvrapporterte timer på puten sunket fra drøye 9 timer hver natt på 60-tallet til skarve 6 timer og gjerne under dette i 2005 (Reiter et al., 2012). I tillegg til økt tilgang på energitett mat siden den gang, er dermed også dårligere søvnkvalitet assosiert med en eksplosiv økning i kroppsvekt.
+
+Med utgangspunkt i overnevnte hovedfunksjoner er søvn assosiert med overvekt og metabolsk syndrom gjennom følgende mekanismer:
+
+1.  Oppregulering av apetitt
+2.  Energibalansen.
+
+#### Oppregulering av apetitt
+
+Apetitten vår reguleres i varierende grad av hormonene leptin og ghrelin. Leptin er et metthetshormon, og høye nivåer sigaliserer hjernen om at kroppen er mett mens lave nivåer signaliserer sult. Ghrelin virker motsatt, og høye nivåer signaliserer at vi er sultne mens lave nivåer signaliserer metthet.
+
+![En oversikt over noen hormoner som er med å regulere apetitten.](images/clipboard-2447240205.png)
+
+I en gjennomgangsartikkel Van Cauter og Knutson (Van Cauter and Knutson, 2008). ser vi resultater av studier som blant annet undersøker leptinresponsen etter et varierende antall timer med søvn. I den første laboratorieundersøkelsen som er gjort på dette feltet fant man at sammenliknet med 12 timers søvn var leptinnivåene 19% lavere hos dem som bare hadde sovet i 4 timer. Et annet merkbart funn i denne studien var at glukosetoleransen var redusert med hele 40% og en lavere insulinsensitivitet ved søvnmangel. Med andre ord tyder spesielt de lave leptinnivåene og redusert insulinsensitivitet på at apetitten økte ved mindre søvn.
+
+Resultatene av tre andre populasjonsstudier som involverte et stort antall deltakere er i tråd med laboratorieundersøkelsene, nemlig lave nivåer av leptin og høye nivåer av ghrelin som du kan lese av figuren under.
+
+![](images/clipboard-3102609412.png)Figur 5 - Van Cauter 2008
+
+Samme gjennomgangsartikkel har også tatt for seg 25 studier, inkludert tverrsnittstudier og prospektive studier, hvorav kun 4 ikke har vist noen sammenheng mellom søvn og overvekt. Tverrsnittstudier er ikke egnet til å påvise noen årsakssammenheng mellom variablene, men resultatene av disse samt resultatene av populasjonsstudier bør man prøve å overføre til studier basert på rèelle omstendigheter med en nøyaktig overvåkning av søvn, vektutvikling og energibalanse.
+
+Husk også at [helsebevisste individer](http://www.friskogfunksjonell.no/helsebevisste-individer/ "Helsebevisste individer – en forstyrrende faktor i forskningen?") kan være en faktor som påvirker resultatet av disse studiene.
+
+#### Energibalansen
+
+For at søvn skal påvirke vekten vår må den enten oppregulere eller nedregulere energiforbruket vårt. Innledningsvis nevnte jeg blant annet at søvnmangel svekker prestasjon ved fysisk aktivitet, kognitiv funksjon og generell produktivitet. Med andre ord kan søvnmangel knyttes opp mot et lavere energiforbruk gjennom at vi blir fortere slitne, senker treningsmengden og bruker mer tid foran TV’n som gjerne også er assosiert med småspising og snacks. Dessuten gir mindre søvn mer tid å bruke på måltider og spising. Fletter vi inn økt apetitt er det fort gjort å havne i energioverskudd som vil gi vektoppgang over tid.
+
+En annen gjennomgangsartikkel gir en grei skjematisk oversikt over hvordan søvnmangel kan føre til vektoppgang. Den summerer både mekanismer som er relatert til stillesitting og fysisk inaktivitet samt homeostatiske mekanismer som innebærer apetittstimulerende hormoner (Chaput et al., 2010).
+
+![](http://www.friskogfunksjonell.no/wp-content/uploads/2012/09/Figur-1-chaput-1024x586.jpg "Figur 1 chaput"){alt=""}Figur 1, Chaput 2010
+
+En grundigere gjennomgang av energibalansen finner du [her](http://www.friskogfunksjonell.no/energibalansen/ "Energibalansen – hva sier den egentlig?").
+
+## Veien videre
+
+Fler og fler studier peker mot at søvn ikke bare spiller en rolle, men kanskje også er den viktigste rollen ved overvekt hos barn (Chaput et al., 2006). Epidemiologiske data peker også mot at søvnmangel også er assosiert med type 2-diabetes (Yaggi et al., 2006), koronar hjertesykdom (King et al., 2008), høyt blodtrykk (Gangwisch et al., 2006) og død (Tamakoshi and Ohno, 2004).
+
+I kampen mot overvekt og livsstilssykdommer ser det ut til at vi nå har enda et våpen som vi selv har full kontroll over og som sannysnligvis vil styre oss i riktig retning hva en sunn og bærekraftig livsstil angår. Sov godt!
+
+Kilder:
+
+1.  CHAPUT, J. P., BRUNET, M. & TREMBLAY, A. 2006. **Relationship between short sleeping hours and childhood overweight/obesity: results from the 'Quebec en Forme' Project.** *Int J Obes (Lond),* 30**,** 1080-5.
+
+2.  CHAPUT, J. P., KLINGENBERG, L. & SJODIN, A. 2010. **Do all sedentary activities lead to weight gain: sleep does not.** *Curr Opin Clin Nutr Metab Care,* 13**,** 601-7.
+
+3.  GANGWISCH, J. E., HEYMSFIELD, S. B., BODEN-ALBALA, B., BUIJS, R. M., KREIER, F., PICKERING, T. G., RUNDLE, A. G., ZAMMIT, G. K. & MALASPINA, D. 2006. **Short sleep duration as a risk factor for hypertension: analyses of the first National Health and Nutrition Examination Survey.** *Hypertension,* 47**,** 833-9.
+
+4.  HALL, J. E. & GUYTON, A. C. 2011. ***Guyton and Hall textbook of medical physiology**,* Philadelphia, Pa., Saunders/Elsevier.
+
+5.  KING, C. R., KNUTSON, K. L., RATHOUZ, P. J., SIDNEY, S., LIU, K. & LAUDERDALE, D. S. 2008. **Short sleep duration and incident coronary artery calcification**. *JAMA,* 300**,** 2859-66.
+
+6.  REITER, R. J., TAN, D. X., KORKMAZ, A. & MA, S. 2012. **Obesity and metabolic syndrome: Association with chronodisruption, sleep deprivation, and melatonin suppression**. *Ann Med,* 44**,** 564-77.
+
+7.  TAMAKOSHI, A. & OHNO, Y. 2004. **Self-reported sleep duration as a predictor of all-cause mortality: results from the JACC study, Japan**. *Sleep,* 27**,** 51-4.
+
+8.  VAN CAUTER, E. & KNUTSON, K. L. 2008. **Sleep and the epidemic of obesity in children and adults.** *Eur J Endocrinol,* 159 Suppl 1**,** S59-66.
+
+9.  YAGGI, H. K., ARAUJO, A. B. & MCKINLAY, J. B. 2006. **Sleep duration as a risk factor for the development of type 2 diabetes.** *Diabetes Care,* 29**,** 657-61.

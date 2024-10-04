@@ -1,0 +1,47 @@
+---
+title: "Vitamin C-tilskudd og immunsystemet ditt - Noe å bruke penger på?"
+author: "Thomas Olsen"
+date: 2012.10.24
+---
+
+Det er omsider blitt oktober, en regntung men forholdsvis varm sommer er forbi og en kald, grå og kjip høst er i anmarsj med en påfølgende lang og enda kjipere vinter . Med regnet følger våte klær, kulde og deretter sykdom. Forkjølelse, influensa, feber og det som verre er. I den anledning eksploderer forbruket av velsmakende C-vitamin, gjennom både tilskudd og mat, i og med at dette sies å forbedre immunsystemet. Men hjelper egentlig C-vitamin på immunsystemet vårt? Og hvordan skjer det i så fall?
+
+## En innføring i immunsystemet
+
+Før vi prøver å forstå C-vitaminets potensielle effekter på immunsystemet må vi ha en viss forståelse for hvordan dette systemet fungerer.  Den overordnede funksjonen til immunforsvaret vårt er å beskytte kroppen mot sykdomsfremkallende kroppsfremmede stoffer og organismer, fjerne døde celler og dødt vev, samt angripe og fjerne kreftceller.
+
+Immunsystemet vårt består av leukocytter, populært kalt hvite blodceller. Disse kan igjen deles opp i granulocytter, monocytter/makrofager og lymfocytter. Granulocytter og monocytter dannes hovedsakelig i rød beinmarg, mens lymfocyttene dannes i lymfevev og plasmaceller. Immunforsvaret vårt kan igjen deles inn i det **uspesifikke** og det **spesifikke forsvaret.** Effekten til vitamin C har for det meste vært diskutert opp mot førstnevnte, og det er det jeg vil gå inn på her.
+
+#### Uspesifikt forsvar
+
+Det uspesifikke forsvaret, bortsett fra hud og slimhinner, består i hovedsak av granulocytter og monocytter men også andre mekanismer som jeg ikke kommer til å komme inn på. Dette forsvaret er uspesifikt i og med det prøver å nøytralisere alle kroppsfremmede og potensielt skadelige organismer det kommer i kontakt med. Dette skjer hovedsakelig gjennom fagocytose, som er en mekanisme granulocyttene og makrofagene tar i bruk hvor de ”spiser” den sykdomsfremkallende organismen.
+
+La oss ta utgangspunkt i at et vev, la oss si lungene, blir infisert av en bakterie eller annen organisme som ikke er uvanlig på denne tiden av året. Minutter etter at vevet blir betent vil makrofager som er til stede i vevet sette i gang med fagocytose. Etter en time vil signalstoffer fra det betente området i lungen ha tiltrukket seg nøytrofile granulocytter, eller noe mer badass: natural killer-cells (ja de kalles faktisk det). Antallet nøytrofiler vil deretter mangedobles og sette i gang en massiv drapsbølge mot bakterier og fremmede substanser. Mekanismen for hvordan signalstoffene leder nøytrofiler til det betente området er komplisert og kalles kjemotakse. En enkel definisjon på kjemotakse er bevegelsen av celler langs en kjemisk konsentrasjonsgradient mot eller bort fra et område som utsettes for kjemisk stimuli. I dette tilfellet er det altså **mot** et kjemisk stimuli som initieres av bakterier i lungene.
+
+![](images/clipboard-1994253493.png) Fagocytosens fire steg: Fanging av partikkelen (1), dannelse av en vakuole (2), kontakt mellom lysosymer og vakuolen (3) og fordøyelse av partikkelen (4).
+
+## Vitamin C’s påståtte effekt på immunforsvaret vårt
+
+Vitamin C, også kalt askorbinsyre, har en rekke gunstige, livsnødvendige effekter, deriblant som en meget potent antioksidant. Ved å la seg oksidere til dehydroaskorbinsyre av potensielt skadelige stoffer, som ulike oksygenradikaler, forhindrer den oksidativ skade på kroppens celler og miljø og forstyrrelser i homeostasen. Dehydroaskorbinsyre kan deretter reduseres til sin opprinnelige form og gjenoppta effekten som antioksidant.
+
+Debatten om vitamin C’s effekt på immunforsvaret har pågått siden 60-tallet. Effektene av tilskudd av høye doser har vært diskutert i lang tid, spesielt i behandlingen av vanlig forkjølelse. Den mulige mekanismen av en slik intervensjon inkluderer å påvirke kjemotaksen og de fagocyterende egenskapene til nøytrofile granulocytter og makrofager (heretter fagocytter). Fagocytter besitter nemlig en egenskap som innebærer å importere den oksiderte varianten av vitamin C inn i cellen hvor den reoksideres til sin fullverdige form, gjenopptar normal funksjon og dermed beskytter vertscellen fra oksidativ skade. Denne mekanismen er på den andre siden ikke helt ulik fra hvordan vitamin C arbeider i andre celler og vev.
+
+## Hva sier vitenskapen?
+
+Vitenskapelige artikler har egentlig for lengst konkludert med at dette for det meste er svada, med mindre du er omringet av eksepsjonelt stressende omgivelser (inkludert trening) eller bor i kalde strøk. En gjennomgangsartikkel av Heimlä og medarbeidere (1) tok for seg det meste som har vært gjort på studier på vitamin C’s påståtte effekter på immunforsvaret vårt. Den tok blant annet for seg effekten av C-vitamin-tilskudd i den generelle befolkningen hvor 1 g/dag ikke hadde noen spesiell effekt. Når det i tillegg ble kontrollert for individene som drev med ekstreme former for fysisk aktivitet, krigføring eller oppholdt seg i svært kalde områder i løpet av året, styrket dette tvilen ytterligere. Litt ekstra vitamin C har nemlig vist seg å være brukbart hos mennesker som lever under disse forutsetningene. Vi snakker forresten maratonløpere, ikke oss som drasser oss på gymmet 2-3 dager i uken.
+
+Når det gjelder den forebyggende effekten av vitamin C, har tilskudd i form av mega-doser hatt en viss påvirkning på varigheten av vanlig forkjølelse. Det virker for øvrig lite hensiktsmessig å innta høye doser med tanke på både økonomi og andre praktiske hensyn. Med andre ord tror jeg de fleste vil være enig om at nytteverdien er liten. Dessuten ble varigheten på forkjølelsen redusert med kun én dag. Det skal derimot nevnes at den forebyggende effekten hos barn har vært høyere enn hos voksne, noe som åpner for mer forskning på dette feltet. Det sammen gjelder for personer som utsettes for ekstreme former for stress hvor potensielle positive effekter enda ikke har blitt klarlagt.
+
+## Hvem kan ha godt av vitamin C-tilskudd?
+
+Vitamin C er spesielt lett å finne i frukt, spesielt sitrusfrukter, grønnsaker som paprika samt poteter. Har man et **mangelfullt kosthold**, fattig på frukt og grønnsaker kan man ha godt av ekstra vitamin C-tilskudd i form av pulver eller tabletter. **Røykere** utsettes også for en mye høyere grad av oksidativt stress enn andre, og det er derfor anbefalt et inntak som er dobbelt så høyt som de offentlige retningslinjene. Det vil i hovedsak si 150 mg/dag, som kan dekkes inn av en paprika og en appelsin. **Overvektige** kan utsettes for en økt grad av oksidativt stress og vil kunne nyte godt av et tilskudd, spesielt med tanke på at kostholdet ellers gjerne ikke er optimalt. Ellers i følge studiene som er gjort på området kan **maratonløpere og soldater** som opererer i subarktiske områder ha en viss effekt av C-vitamintilskudd.
+
+Vi vanlige dødelige kan heller bruke pengene på mer frukt og grønt!
+
+## Veien videre
+
+Som jeg nevnte tidligere mener forskere at vitamin C har liten eller ingen effekt på vanlige forkjølelsessymptomer hos mannen i gata, og det har lite for seg å gjøre videre forskning på dette. Derimot er ikke den forebyggende effekten hos barn, som har flere forkjølelsesdager i året, tilstrekkelig klarlagt og det samme gjelder ekstremt fysisk aktive. Vitamin C som antioksidant blir også sett på som potensielt forebyggende i utviklingen av Alzheimers, og har en rekke andre gunstige funksjoner som gjør at et generelt økt inntak ikke vil være negativt, men inntak av flere gram pr. dag vil ha begrenset nytteverdi, spesielt dersom man får i seg nok vitamin C gjennom kosten (som ikke er spesielt krevende).
+
+**Kilder**
+
+1. Hemilä H, Chalker E, Douglas B. Vitamin C for preventing and treating the common cold. Cochrane Database of Systematic Reviews 2007, Issue 3. Art. No.: CD000980.

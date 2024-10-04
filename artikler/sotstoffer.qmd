@@ -1,0 +1,119 @@
+---
+title: "Søtstoffer"
+date: 2012.09.21
+---
+
+Aspartam, acesulfam k, syklamat, sukralose. Kunstige søtstoffer er blant de mest omtalte tilsetningsstoffene, og mange er redd for hvilke effekter disse har på kroppen. Vi har flere forskjellige søtstoffer, både kunstige og naturlige, og her kommer en gjennomgang av de vanligste.
+
+[**Tilbake til artikkelserien om tilsetningsstoffer**](http://www.friskogfunksjonell.no/tilsetningsstoffer/ "Tilsetningsstoffer i mat")
+
+## Hva er søtstoffer og hvorfor brukes de?
+
+Søtstoffer er tilsetningsstoffer som brukes som erstatning for sukker, og dermed bidrar til å redusere kostholdets innhold av sukker. Ifølge rapporten [Utviklingen i Norsk Kosthold 2011](http://helsedirektoratet.no/publikasjoner/utviklingen-i-norsk-kosthold-2011-langversjon/Publikasjoner/utviklingen-i-norsk-kosthold-2011-langversjon.pdf) får nordmenn i gjennomsnitt i seg 13% av energien fra tilsatt sukker. Det absolutte sukkerforbruket har imidlertid sunket fra 120 g/dag år 2000 til  95 g/dag i 2011. En av faktorene som har bidratt til dette er at brus og saft med kunstig søtning har blitt mer populære.
+
+Vi skiller mellom intense søtstoffer, som har kraftig søtsmak og derfor kan brukes i små mengder, og sukkeralkoholer som søter omtrent like mye som sukker og derfor brukes i større mengder. Hvilke søtstoffer som brukes avhenger av hvilke av sukkerets egenskaper vi ønsker å erstatte. I drikkevarer vil det for eksempel være greit å bruke intense søtstoffer, siden det lar seg gjøre å bruke små mengder søtstoff som fordeler seg jevnt. I matvarer der sukkerets masse er en del av produktet er det mer naturlig å bruke sukkeralkoholer, siden man da bruker omtrent samme mengde som sukker. Det vil også være vanskelig å fordele veldig små mengder søtstoff i en fast masse.
+
+**Intense søtstoffer:**
+
+|          |                  |                                       |
+|----------|------------------|---------------------------------------|
+| **E-nr** | **Navn**         | **Søtningsevne i forhold til sukker** |
+| E 950    | Acesulfam K      | 130-200 x                             |
+| E 951    | Aspartam         | 200 x                                 |
+| E 952    | Cyklamat         | 25-30 x                               |
+| E 954    | Sakkarin         | 300 x                                 |
+| E 955    | Sukralose        | 600 x                                 |
+| E 957    | Taumatin         | 2000-3000 x                           |
+| E 959    | Neohesperidin DC | 1000-1800 x                           |
+| E 960    | Steviolglykosid  | 250-300 x                             |
+
+**Sukkeralkoholer:**
+
+|          |            |                                       |
+|----------|------------|---------------------------------------|
+| **E-nr** | **Navn**   | **Søtningsevne i forhold til sukker** |
+| E 429    | Sorbitol   | 0,5-0,7 x                             |
+| E 421    | Mannitol   | 0,7 x                                 |
+| E 953    | Isomalt    | 0,5 x                                 |
+| E 965    | Maltitol   | 0,9 x                                 |
+| E 966    | Laktitol   | 0,5 x                                 |
+| E 967    | Xylitol    | 1 x                                   |
+| E 968    | Erythritol | 0,7 x                                 |
+
+## De ulike søtstoffene
+
+Her kommer litt informasjon om de vanligste søtstoffene, hvor vi finner dem, risikovurderinger og hvor bekymret du bør være. Av hensyn til lengden på artikkelen vil det bare være utfyllende informasjon om aspartam, acesulfam k, sukralose, sukkeralkoholer og stevia.
+
+### Aspartam
+
+Aspartam er et kunstig søtningsstoff som ble oppdaget ved en tilfeldighet i 1965. Søtstoffet er 200 ganger søtere enn sukker, og har etterhvert blitt et veldig populært søtstoff, spesielt i drikkevarer. Kjemisk består aspartam av aminosyrene aspartat (40%) og fenylalanin (50%) samt metanol (10%). Når aspartamen kommer ned i tarmen blir det brutt ned til disse tre bestanddelene og absorbert.
+
+Ved lagring av matvarer som inneholder aspartam over lengre tid kan aspartamen omdannes til et stoff som heter diketopiperazin (DKP). Ved inntak brytes DKP ned til de samme bestanddelene som aspartam, og metaboliseres på samme måte.
+
+ADI (Akseptabelt Daglig Inntak) for aspartam er satt til 40 mg/kg kroppsvekt. Siden aspartam er 200 ganger søtere enn sukker, brukes det også 200 ganger så lite av det. En halvliter lettbrus vil derfor inneholde ca 0,25 gram aspartam, og ADI-verdien tilsvarer dermed et inntak på 0,8 dL/kg kroppsvekt. Tar vi med at det er brukt en sikkerhetsfaktor på 100 opp til NOAEL, så kan vi tenke oss at vi kan gange ADI med 100, og fremdeles er det ikke påvist negative helseeffekter.
+
+[EFSA har gjort løpende revurderinger av sikkerheten ved bruk av aspartam](http://www.efsa.europa.eu/en/topics/topic/aspartame.htm), og har foreløpig ikke funnet grunn til å endre på den gjeldende ADI-verdien. Tilsetningsstoffet ble senest vurdert i 2006, 2009 og 2010. I utgangspunktet skulle aspartam revurderes nå i 2012, som et ledd i et større revurderingsprogram av alle godkjente tilsetningsstoffer, som skal være ferdig i 2020. EFSA sin ekspertgruppe kom imidlertid frem til at det per i dag er for lite forskning på eventuelle effekter av omdanningsproduktet DKP, og utsatte revurderingen i påvente av mer forskning på dette. Forskningen på aspartam gav ikke grunn til å endre på ADI.
+
+[Mattilsynet støtter seg til EFSA sine vurderinger](http://www.matportalen.no/merking/tema/tilsetningsstoffer/aspartam), og ADI i Norge er derfor den samme som i Europa.
+
+Mange er redde fordi aspartam inneholder metanol, men ved ADI vil man oppnå en konsentrasjon på 4 mg/kg, og metanol er ikke toksisk for mennesker før dosene kommer opp i 200-500 mg/kg, og har vist seg dødelig i doser over 3 g/kg. Det bør også nevnes at denne konsentrasjonen forutsetter at all aspartamen kommer samtidig, noe som er veldig lite realistisk.
+
+8\. januar 2013 kom EFSA med en [pressemelding](http://www.efsa.europa.eu/en/press/news/130108.htm) om at de har fullført reevalueringen av Aspartam, og har kommet med et [førsteutkast](http://www.efsa.europa.eu/en/consultations/call/130108.pdf)  som sendes ut på høring. Inntil 15.februar kunne alle komme med innspill, og 9.april 2013 publiserte de [alle presentasjonene som ble holdt](http://www.efsa.europa.eu/en/events/event/130409.htm) når de arrangerte et offentlig møte. Etter dette møtet, ble den endelige uttalelsen utsatt til [November 2013](http://www.efsa.europa.eu/en/press/news/130508a.htm), for å kunne ta hensyn til alle innspillene.
+
+10.desember ble [den endelige rapporten](http://www.efsa.europa.eu/en/efsajournal/doc/3496.pdf) publisert ([pressemelding her](http://www.efsa.europa.eu/en/press/news/131210.htm)), og etter å ha tatt hensyn til all eksisterende data samt de over 200 innspillene som kom, ble det ikke funnet noen grunn til å gjøre endringer i eksisterende ADI. Forbruksdata viser at til og med høykonsumenter ikke overskrider ADI, og at det ikke er noen grunn til bekymring ved denne eksponeringen i befolkningen som helhet.
+
+Mange som har motforestillinger mot bruken av aspartam fokuserer på en liste over [selvrapporterte bivirkninger](http://www.fda.gov/ohrms/dockets/dailys/03/jan03/012203/02p-0317_emc-000199.txt) som er publisert hos Food and Drug Administration (FDA). Det er viktig å ha i bakhodet at dette er snakk om selvrapportering, altså bivirkninger som folk selv har opplevd og hevder skyldes aspartam. I denne sammenhengen er det gjennomført [en studie](http://food.gov.uk/science/research/foodcomponentsresearch/riskassessment/t01programme/t01projlist/t01054/#.UzF61Plcj-s) ved universitetet i Hull hvor man har testet ut disse bivirkningene i blindede og kontrollerte omgivelser. Denne studien er for tiden på vei til å bli publisert, men [resultatene skal ikke ha gitt noen grunn til å iverksette noen tiltak](http://food.gov.uk/news-updates/news/2013/dec/aspartame#.UzF8svlcj-s).
+
+Oppdatering: [Studien som undersøkte de rapporterte bivirkningene er nå publisert.](http://www.friskogfunksjonell.no/aspartamsensitivitet-fiksjon-eller-fakta/)
+
+### Acesulfam K
+
+Acesulfam Kalium er et annet kunstig søtningsstoff som også ble oppdaget ved en tilfeldighet. Søtstoffet er opp til 200 ganger søtere enn sukker, og brukes ofte i kombinasjon med aspartam, noe som betyr at mengden vi får i oss av det enkelte søtstoffet blir mindre.
+
+Når acesulfam K kommer ned i tarmen blir så godt som alt sammen absorbert og skilt ut igjen i uforandret form gjennom urinen. Det som ikke absorberes skilles ut via avføringen.
+
+Det er gjennomført mange langtidsstudier for å undersøke en eventuell kreftfremkallende effekt av acesulfam K, men ingen slike effekter er påvist. JECFA har uttalt at dette søtstoffet ikke har noen toksiske effekter, og opererer med en ADI på 15 mg/kg. EFSA opererer med en ADI på 0-9 mg/kg kroppsvekt, men heller ikke de har funnet grunn til å hevde at stoffet representerer en helserisiko.
+
+[Mattilsynet ser ikke på inntaket av acesulfam k som en bekymring](http://www.matportalen.no/matvaregrupper/tema/drikke/2007_risikovurdering_av_drikke_med_sukker_og_sotstoffer).
+
+### Sukralose
+
+Sukralose er et kunstig søtstoff som lages ved å bytte ut tre hydroksylgrupper i et vanlig sukkermolekyl med klor. Søtsmaken er ca 600 ganger søtere enn sukker. En av egenskapene til dette søtstoffet er at det i svært liten grad brytes ned i surt miljø, og under 1% brytes ned på et halvt år ved pH 3,0. På grunn av dette er sukralose velegnet som søtstoff i drikkevarer, desserter, tyggegummi osv.
+
+Ca 10-20% av den sukralosen vi får i oss absorberes i tarmen. Halvveringstiden er ca ett døgn, og søtstoffet skilles stort sett ut uforandret i urinen. Dyreforsøk har ikke gitt grunnlag for å frykte at sukralose skal ha noen negative helseeffekter, og søtstoffet er ikke kreftfremkallende.
+
+Studier på mennesker har vist en mulig effekt på blodsukkeret ved langvarig eksponering, og hos noen forsøksdyr har man sett effekter på immunsystem, mage-tarm-kanalen og kroppsvekt. EU sine ekspertgrupper vurderte at disse mulige effektene ved høy eksponering over lang tid ikke var stor nok til å regnes som klinisk signifikant. Effekten som ble sett på kroppsvekt ble regnet som den viktigste, og det var denne det ble tatt utgangspunkt i ved etablering av ADI-verdien, som ble satt til 0-15mg/kg kroppsvekt.
+
+### Sukkeralkoholene
+
+Sukkeralkoholer er den vanligste betegnelsen på polyoler, som er sukkerlignende molekyler som inneholder en hydroksylgruppe. Sukkeralkoholene finnes naturlig, men i veldig lave mengder, og det er derfor mer lønnsomt å produsere disse industrielt ved å ta utgangspunkt i vanlige sukkerarter. Generelt sett representerer sukkeralkoholene få helsemessige problemer, og de har ikke en spesifisert ADI.
+
+Det vanligste problemet med sukkeralkoholer er at de ikke tas spesielt godt opp i tarmen, og derfor i stor grad føres videre ut i tykktarmen. Her vil de fermenteres av tarmbakteriene, samt trekke vann ut i tarmen, og på den måten kunne gi symptomer på irritabel tarm. Den lakserende/avførende effekten vil variere mellom de ulike sukkeralkoholene etter hvor godt de tas opp i tarmen. Den vil selvfølgelig også avhenge av hvor stor den tilførte dosen er, og i tillegg har vi individuelle forskjeller i hvor følsomme vi er.
+
+Sukkeralkoholer er ikke fullt så søte som sukker, men på grunn av mengden som må til egner de seg godt som erstatning i produkter der sukkerets konsistens er viktig for resultatet, f.eks. i bakverk. I tillegg er de mye brukt i sukkerfritt godteri som pastiller og tyggis.
+
+### Erythritol
+
+Erytritol, eller sukrin som det er bedre kjent som, er et litt spesielt sukkeralkohol. I motsetning til de andre sukkeralkoholene dannes erythritol ved en naturlig gjæringsprosess av glukose. En annen egenskap av sukrin er at det absorberes nesten fullstendig i tynntarmen, slik at det ikke gir de samme laksative effektene som de andre sukkeralkoholene.
+
+[Denne studien](http://www.ncbi.nlm.nih.gov/pubmed/16988647) konkluderte med at sukrin gav langt mindre gastrointestinale plager enn xylitol, som er et annet sukkeralkohol. Likevel kan søtstoffet gi slike plager i større doser, og derfor er det ikke brukt som søtning i drikkevarer, der man foretrekker intense søtstoffer. EFSA sin vurdering av erythritol finner dere [her](http://www.efsa.europa.eu/en/efsajournal/pub/1650.htm). ADI er satt til uspesifisert, noe som betyr at søtstoffet ikke representerer noen helserisiko.
+
+### Stevia
+
+Stevia (steviolglykosid) er et naturlig søtstoff utvunnet fra planten Stevia rebaudiana bertoni, som stammer fra Paraguay. I Japan har stevia lenge vært et av de mest brukte søtstoffene, og nylig ble det også akseptert som søtstoff av EFSA og dermed også her i Norge. Steviaplanten inneholder mange ulike steviolglykosider, men for at det skal klassifiseres som stevia må minst 95% av innholdet bestå av Stevioside og Rebaudioside A. Stevia er 250-300 ganger søtere enn sukker, er kalorifritt, påvirker ikke blodsukkeret og er snill med tennene.
+
+Metabolske studier på steviolglykosider, utført både på dyr og mennesker, har vist at opptaket i tarmen er dårlig. Bakteriene i tykktarmen hydrolyserer steviolglykosidene, og det dannes steviol, og mye av dette absorberes her. Steviol gjennomgår en konjugeringsreaksjon i leveren, og det dannes steviolglukuronid, som skilles ut via urinen. Det er ikke observert en akkumulering av steviolmetabolitter i kroppen.
+
+Stevia har ikke en lakserende effekt slik som sukkeralkoholene, og kan derfor brukes som sukkererstatning i drikkevarer. I Sverige finnes det allerede saft som er søtet med stevia, og det tar nok ikke lang tid før dette også er å finne i butikkhyllene her.
+
+EFSA konkluderte i 2010 med at Stevia ikke er kreftfremkallende eller viser tegn til å gi andre negative helseeffekter. De har likevel gitt søtstoffet en lav ADI på 4mg/kg kroppsvekt, sannsynligvis på grunn av et begrenset datagrunnlag. [Les EFSA sin rapport her](http://www.efsa.europa.eu/en/efsajournal/pub/1537.htm).
+
+[Mattilsynet er foreløpig forsiktig med å anbefale utbredt bruk av stevia](http://www.matportalen.no/matvaregrupper/tema/sukker_og_sote_produkter/er_stevia_virkelig_det_sunne_sukkeret_alle_snakker_om).
+
+## Har vi en konklusjon?
+
+Personlig vil jeg si at bruken av søtstoffer som erstatning for sukker er en positiv ting. De toksikologiske vurderingene utført av ekspertgruppene baseres på den tilgjengelige forskningen, og eksempelet med Stevia viser at det også er en stor forsiktighet inne i bildet når grenseverdiene settes.
+
+Likevel er det greit å se an individuelle behov før man tar et klart standpunkt. Jeg mener at de fleste vil ha positive effekter av å velge brus og saft med kunstig søtning fremfor de variantene som er søtet med sukker. Sukkerbrus inneholder rundt 100g sukker per liter, så for de som har et høyt forbruk av brus eller drikker brus daglig kan det være mye å hente på å heller velge en lettvariant. Samtidig bør vi også ta hensyn til aktivitetsnivået til den enkelte. For noen kan ekstra sukker i form av brus være det som skal til for å dekke et høyt energibehov, så det går ikke an å se helt svart/hvitt på dette. Dette er imidlertid ikke snakk om Ola Nordmann som trener på treningsstudio 4 ganger i uken, heller skiløperen som trenger ekstra påfyll av energi på slutten av 5-milen. 
+
+Det er anbefalt å kombinere flere søtstoffer. Dette kan gi en forsterking av smaken, slik at det totalt sett kreves mindre søtstoff. Vi vil også komme lenger unna de aksepterte mengdene av hvert enkelt søtstoff, noe som kan fungere som et sikkerhetsnett for de som er storbrukere av produkter med kunstig søtning. For eksempel er det veldig vanlig å kombinere aspartam og acesulfam k i drikkevarer som søtes på kunstig vis. Et nytt produkt på markedet nå er Sukrin+, som er en kombinasjon av erythritol og stevia.
