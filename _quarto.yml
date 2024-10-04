@@ -19,6 +19,10 @@ website:
         href: fysiologi.qmd
       - text: Hormoner
         href: hormonsystemet.qmd
+      - text: Kildekritikk
+        href: kildekritikk.qmd
+      - text: Kosthold i helseinstitusjoner
+        href: kosthold-institusjoner.qmd
       - text: Om bloggen
         href: om.qmd
 format:

@@ -7,3 +7,111 @@ categories:
 ---
 
 [Tilbake til artikkelserien om metabolismen](../../metabolismen.html)
+
+Det er mange årsaker til sykdom, og flere av disse finnes i arvematerialet vårt. Jeg er på ingen måte en ekspert når det gjelder gener og arv, men for å forstå hvordan gener og sykdom henger sammen er det nyttig å ha en liten oversikt over hvordan dette fungerer. I denne første delen vil jeg derfor gi deg en overfladisk innføring i genetikken, slik at du har denne kunnskapen i bunn før neste del!
+
+Sammenhengen mellom genuttrykk og sykdom er et område der kunnskapen vokser i et stort tempo. Hele tiden kartlegges nye gener, og det forskes mye på hvordan de ulike genene kan bidra til å skape sykdom, eventuelt gjøre folk predisponert for å utvikle sykdom. Et relativt nytt felt innenfor genetikken er det som kalles epigenetikk, som kort fortalt handler om ting som påvirker hvilke deler av genene våre som uttrykkes og dermed påvirker oss. Genene våre kan nemlig slås av og på, og epigenetiske mekanismer er med å styre dette.
+
+Artikkelen er ganske lang, så du kan med fordel dele lesingen opp i flere bolker. Hovedformålet er at den skal kunne brukes som et oppslagsverk!
+
+## DNA
+
+La oss begynne med det helt grunnleggende. Hele **arvematerialet/genomet** vårt er lagret i DNA-molekylet. DNA er en **nukleinsyre**, og navnet er en forkortelse for deoksyribonukleinsyre. Molekylet består av en lang rekke **nukleotider**, som består av et sukkermolekyl (deoksyribose), en fosfatgruppe og en base. De ulike basene er purinene adenosin (A)og guanin (G), og pyrimidinene tymin (T) og cytosin (C). DNA er dobbelttrådet, noe som betyr at det er to nukleotidbånd. Disse holdes sammen ved at basene binder til hverandre, der A binder til T og C til G.
+
+Hver celle inneholder rundt to meter med DNA, som er pakket sammen på en svært effektiv måte. Først er den lange DNA-tråden tvinnet rundt noen proteiner som kalles **histoner**. Dette gir en struktur som kan minne om perler på en snor, og disse perlene kalles **nukleosomer**. Deretter er nukleosomene pakket sammen for å danne **kromatinfibre**, som igjen er pakket sammen og utgjør **kromosomene** våre, som vi totalt har 46 av.
+
+## Molekylærbiologiens sentrale dogma
+
+Genene våre er med å bestemme hvilke proteiner som produseres i cellene våre. Det er disse proteinene som utfører de ulike oppgavene i kroppen, som byggesteiner, enzymer, transportproteiner, hormoner osv. Alt arvematerialet vårt ligger som nevnt lagret i DNA inne i kjernen i hver eneste celle. Her ligger oppskriften på hvert eneste protein som produseres i kroppen.
+
+**Det sentrale dogmaet** innen molekylærbiologi sier at informasjon overføres fra DNA til RNA (ribonukleinsyre) via en mekanisme som kalles **trankripsjon**. Her overføres en liten bit av den enorme mengden informasjon som ligger lagret i DNA over til et RNA-molekyl, som deretter fraktes ut av cellekjernen. Det neste steget heter **translasjon**, der informasjonen i RNA brukes til å produsere et eller flere spesifikke proteiner i ribosomene som finnes i alle celler.
+
+![](images/clipboard-1596468529.png)
+
+Under transkripsjonen får vi dannet RNA, som skiller seg fra DNA ved at det er enkelttrådet og basen T er byttet ut med uracil (U). Det finnes flere ulike RNA-molekyler, men i denne omgangen holder vi oss til messenger RNA (mRNA), siden det er denne som koder for et protein. **mRNA** fraktes ut av cellekjernen og til **ribosomene**, der proteinsyntesen finner sted.
+
+Men det sentrale dogmaet er mer komplisert enn det ser ut til! Før proteinsyntesen kan starte må mRNA modifiseres, noe som omtales som **posttranskripsjonell modifikasjon**. Det viktigste steget er fjerning av ikke-kodende områder (**introner**) og sammensetting av de kodende områdene (**exoner**). Et mRNA-molekyl inneholder vanligvis flere exoner, noe som gir muligheten til at de kan settes sammen på ulike måter. Dette kalles **alternativ splicing**, og gjør at et mRNA-molekyl kan kode for flere ulike proteiner.
+
+Etter at proteinet er produsert kan det også endres, ved såkalt **posttranslasjonell modifikasjon**. Dette kan innebære kutting av peptidkjeden, binding av molekyler som aktiverer/inaktiverer proteinet (fosforgrupper, små sukkermolekyler, hydroksylgrupper eller andre) og at flere peptider kan bindes sammen for å danne et større protein. Selve foldingen av peptidkjeden er også viktig for proteinets funksjon. Degradering av defekte proteiner kan også regnes med blant disse modifikasjonene.
+
+![](images/clipboard-424728079.png)
+
+## Genotype/Fenotype og arv
+
+Begrepet **genotype** beskriver rett og slett det totale arvematerialet vårt, altså all informasjonen som ligger i DNA. **Fenotype** er et begrep som beskriver egenskaper, altså hvilke gener som uttrykkes. Lik genotype kan uttrykkes svært ulikt og gi opphav til mange ulike fenotyper, og samme fenotype kan også komme fra ulike genotyper. Genotype + miljø = fenotype!
+
+Vi mennesker har totalt 46 kromosomer, der vi har arvet 23 fra mor og 23 fra far. De første 22 kromosomene koder for de samme egenskapene, mens det siste er kjønnskromosomet som avgjør om vi blir gutt eller jente. Både mor og far har to av hvert kromosom, og overfører ett av hvert til barnet, slik at ditt arvemateriale er en kombinasjon av dine foreldres arvemateriale, som igjen er en kombinasjon fra deres foreldre osv. **Rekombinasjon** er en prosess der en del av kromosomet fra mor bytter plass med tilsvarende del av kromosomet fra far. Dette gjør at dine kromosomer ikke lenger er nøyaktige kopier.
+
+En spesifikk plassering i genomet kalles et **locus**. Siden vi har arvet hvert kromosom i to kopier, et fra far og ett fra mor, har vi også arvet to utgaver av hvert locus. Dersom et locus finnes i ulike varianter, kalles de ulike variantene for **alleler**. Vi har med andre ord to alleler som koder for de samme tingene. Dersom de to allelene våre er like kalles det **homozygot**, mens **heterozygot** beskriver en situasjon der vi har to ulike alleler. Hver person kan maksimalt ha to ulike alleler, men i samfunnet kan det være mange ulike alleler, noe som øker den genetiske variasjonen. **Allele-frekvensen** sier noe om hvor vanlige de ulike allelene er i en populasjon.
+
+Noen alleler er **dominante**, noe som betyr at dersom du er heterozygot så vil denne allelen trumfe gjennom med sine egenskaper. Andre alleler er **recissive**, noe som vil si at man trenger to like alleler for at egenskapen skal uttrykkes. Dette er veldig aktuelt når det kommer til genetiske sykdommer. Sykdommer som arves dominant forutsetter at en av foreldrene har sykdommen selv. Andre sykdommer kan arves recissivt, noe som betyr at både far og mor må bringe videre den ødelagte allelen som gir sykdommen. Siden allelen er recissiv, kan sykdommen være uoppdaget hos både far og mor, og de kan være heterozygote bærere av sykdommen.
+
+Et **gen** defineres som en del av DNA som bidrar til fenotype/funksjon. Det er mange gener som enda ikke har en kjent funksjon, samtidig som mutasjoner i disse kan være assosiert med sykdom. Tidligere tenkte man at ett gen kodet for en bestemt egenskap, men nå vet vi at de fleste genene er involvert i flere ulike egenskaper, noe som har ført til uttrykket **QTL** (quantitative trait loci), og en QTL inkluderer alle genene som er involvert i en spesifikk egenskap.
+
+## Evolusjon
+
+Evolusjon er definert som endringer i allele-frekvensen over tid. Dette skyldes hovedsakelig det som kalles **naturlig seleksjon** og **genetisk drift**. Naturlig seleksjon betyr at bare de som overlever og dermed får videreført sine gener påvirker neste generasjon. I dag påvirker dette oss i svært liten grad, siden de fleste får videreført arvematerialet sitt uavhengig av faktorer som tidligere ville medført tidlig død og mangel på reproduksjon. **Kunstig seleksjon** beskriver det som skjer med en del dyreraser, der vi mennesker styrer hvilke dyr som parrer seg med hverandre. Dette gjelder også til en viss grad for mennesker, siden vi har en tendens til å tiltrekkes de som ligner oss selv. Dette er ikke naturlig seleksjon siden det ikke er overlevelse og evne til reproduksjon som bestemmer, men vårt valg om hvem vi velger å få barn sammen med.
+
+Den genetiske driften handler om at hvert menneske har to alleler, der bare ett av disse gis videre til barnet. Hvilken allele som videreføres er tilfeldig, men den genetiske driften i en populasjon vil over tid føre til dominans fra en allele, noe som f.eks. er grunnen til at en stadig større andel av menneskene i vår del av verden nå kan fordøye laktose.
+
+## Genetisk kode og mutasjoner
+
+Rekkefølgen av nukleotidene utgjør **nukleotidsekvensen**. Denne leses alltid i en bestemt rekkefølge (5’ -\> 3’). Tre og tre baser koder for en bestemt aminosyre, og dette kalles et **kodon**. På denne måten avgjøres rekkefølgen på aminosyrene, som igjen avgjør hvilke egenskaper det nye proteinet får. Et bestemt kodon signaliserer starten på translasjonen, mens vi har tre såkalte stoppkodon som signaliserer at translasjonen skal stoppe. Den genetiske koden leses derfor tre og tre baser om gangen, noe som kalles **leserammen**. Den **genetiske koden** viser oss hvilke aminosyrer de ulike kodonene koder for.
+
+![](images/clipboard-2144672253.png)
+
+En **mutasjon** er en endring i nukleotidsekvensen, som gjør at proteinet som dannes ikke blir som det skal. Det finnes mange former for mutasjoner, og i dagligtalen brukes begrepet bare om de mutasjonene som gir opphav til sykdommer, der det mest kjente eksempelet er kreft. Her kommer en kort innføring i de ulike formene for mutasjoner.
+
+### Single Nukleotide Polymorfisms (SNP)
+
+**SNP** betegner en mutasjon der en enkelt base er endret. Dette kan få ulike konsekvenser utifra hvordan denne endringen ser ut. Den endelige konsekvensen kommer som følge av at proteinet som dannes ikke blir som det skal. Siden det er flere kodon som koder for den samme aminosyren, er det ikke sikkert at en endring vil få noen konsekvens i det hele tatt. I tillegg er mesteparten av arvematerialet vårt såkalt ikke-kodende, så en mutasjon i en del som ikke koder for et protein vil heller ikke påvirke oss.
+
+-   En **substitusjonsmutasjon** betyr at en base er byttet ut med en annen.  Hvis det nye kodonet koder for den samme aminosyren, sier vi at mutasjonen er stille. Her får vi ingen endring i det nye proteinet. Dersom endringen fører til at kodonet koder for en annen aminosyre, kalles det for en **missense-mutasjon**, som fører til en endring i det nye proteinet. Dersom endringen gjør et kodon om til et stoppkodon kalles det for en **nonsense-mutasjon**. Her vil ikke proteinsyntesen kunne fullføres, og proteinet blir ufullstendig.
+
+![](images/clipboard-2693237485.png)
+
+-   Innsettelse eller fjerning av en base kan også forekomme. Dette vil endre hele leserammen, slik at en hel rekke med aminosyrer vil bli annerledes enn det som var meningen.
+
+![](images/clipboard-590024455.png)
+
+### Større mutasjoner
+
+I tillegg til endringer i en nukleotid kan vi også få endringer i flere nukleotider på en gang.
+
+-   **Trinukleotidrepetisjon** er en mutasjon der et kodon blir repetert for mange ganger. Dette gjør at det blir satt inn for mange av en aminosyre, noe som endrer strukturen på det nye proteinet.
+-   Innsettelse eller fjerning av flere nukleotider, f.eks. et helt kodon. I motsettelse til innsettelse eller fjerning av en enkelt nukleotid så vil ikke dette endre leserammen, men vi vil sette inn en ekstra eller fjerne en aminosyre. Dette vil påvirke strukturen på det nye proteinet, som ikke vil virke som det skal.
+-   Mutasjon i splicingregioner, som fører til at mRNA ikke settes sammen riktig. Dette vil gjøre at proteinet ikke blir satt sammen som planlagt.
+
+Mutasjoner kan skyldes mange ting. Feil i transkripsjon og translasjon er åpenbare årsaker, og disse skjer hele tiden. Uten ytre påvirkning vil det forekomme omkring 600 mutasjoner per celledeling, men grunnet mange forsvarsmekanismer så får disse svært sjelden konsekvenser for oss. **Rekombinasjonsfeil**, der kromosomene settes feil sammen kan også gi opphav til mutasjoner. Ytre påvirkning som radioaktiv stråling, kjemikalier, oksidativt stress og mutagener kan øke forekomsten av mutasjoner, og dermed øker også muligheten for at vi får en mutasjon som ender opp med å gjøre skade.
+
+Mutasjoner i en stamcelle kan føre til kreft, mens mutasjoner i en reproduksjonscelle kan føre til at barnet får en medfødt genetisk sykdom eller i større grad er predisponert for sykdom, siden alle cellene til barnet vil inneholde denne mutasjonen i sitt DNA. Samtidig kan mutasjoner også gi oss fordeler, som evnen til å fordøye laktose (melkesukker) eller økt opptak av D-vitamin er gode eksempler på.
+
+## Epigenetikk
+
+**Epigenetikk** defineres som arvelige former for genuttrykk som ikke skyldes endringer i nukleotidsekvensen. Vi snakker altså om forhold som påvirker hvilke gener som uttrykkes og hvilke som ikke gjør det (fenotype). Med andre ord påvirker disse hvilke deler av DNA som blir transkribert til RNA slik at vi kan lage proteiner.
+
+Epigenetiske endringer av DNA kan påvirkes av miljømessige faktorer, som dermed kan bidra til å endre genuttrykket. På grunn av dette er epigenetikk et område det forskes mye på, da det kan være en viktig mekanisme i utviklingen av mange sykdommer.
+
+Vi kjenner til flere epigenetiske mekanismer, og her er de viktigste:
+
+### DNA-metylering
+
+Binding av en metylgruppe til DNA vil blokkere binding av transkripsjonsfaktorer, slik at nukleotidsekvensen ikke kan transkriberes til RNA. Vi kan si at DNA-metylering bidrar til å slå av et gen. Metylering av DNA kan arves ned, slik at et avslått gen også kan være avslått i neste generasjon.
+
+### Histonmodifisering
+
+DNA er som nevnt organisert rundt histoner. Når denne bindingen er solid kommer ikke transkripsjonsfaktorene til, mens løsere binding øker mulighetene for transkripsjon av DNA. Den mest studerte histonmodifiseringen er det som kalles histonacetylering, som øker muligheten for transkripsjon. Histonene kan også metyleres, men denne mekanismen vet vi foreløpig lite om.
+
+### Kromatinremodelering
+
+Strukturen av kromatinet påvirker også hvorvidt DNA transkriberes eller ikke. Løse former for kromatin, der transkripsjonsfaktorene kommer lett til, kalles eukromatin. Kromatin som er pakket tettere sammen kalles heterokromatin, og arvematerialet i disse delene er utilgjengelig for transkripsjon. Endringer mellom eukromatin og heterokromatin kalles kromatinremodelering.
+
+Det finnes også andre epigenetiske mekanismer, som blant annet involverer små, ikke-kodende RNA-molekyler, men dette kommer vi ikke inn på i denne omgang. Dersom du synes epigenetikk er spennende, kan jeg absolutt anbefale deg å sjekke ut en reviewartikkel fra 2010(1) som tar for seg hvordan epigenetiske mekanismer kan forklare sammenhenger mellom kosthold og helse.
+
+Epigenetikk er veldig spennende når det gjelder kosthold, da både næringsstoffer og andre bioaktive komponenter i maten vi spiser kan påvirke epigenetiske mekanismer, deriblant DNA-metylering og histonacetylering. Det vi spiser kan derfor være med å styre hvilke gener som uttrykkes. Videre forskning på dette kan avdekke til nå ukjente sammenhenger mellom kosthold og sykdom på gennivå. Foreløpig er det foreslått at enkelte komponenter i mat kan bidra til å hemme kreftutvikling nettopp gjennom disse prosessene! Kanskje vil det etter hvert også være mulig å gi personlige kostråd ut ifra genuttrykket vårt? [Neste gang kommer jeg inn på prinsippene bak metabolske sykdommer, altså sykdommer som påvirker metabolismen av næringsstoffene.](metabolskesykdommer.qmd)
+
+Referanser:
+
+1.   Choi SW, Friso S: **Epigenetics: A New Bridge between Nutrition and Health**. *Adv Nutr* 2010, **1**(1):8-16.
+
+2.  Champe PC, Harvey RA, Ferrier DR (eds.): **Biochemistry**, 4 edn: Lippincott Williams&Wilkins; 2008.

@@ -1,0 +1,122 @@
+---
+title: "Fargestoffer"
+author: "Monica Linnea Ones"
+date: 2013.01.17
+---
+
+Se for deg en lørdagskveld med god gul suppe og saftig brunt kjøtt til middag, og dessert i sofakroken, der godteri i alle regnbuens farger pynter opp stuebordet. Hva er det som gjør at matvarer kan ha så mange ulike farger? Jo, det er blant annet fargestoffer som har blitt tilsatt. Her kommer en gjennomgang av de mest brukte fargestoffene, og en vurdering av eventuelle helsefarer ved inntak av fargestoffer.
+
+Sjekk ut [artikkelserien om tilsetningsstoffer](tilsetningsstoffer.qmd "Tilsetningsstoffer i mat").
+
+## Hva er fargestoffer og hvorfor brukes de?
+
+Fargestoffer er tilsetningsstoffer som har blitt brukt i over 2000 år, for å gi farge til mat- og drikkevarer. Dette gjør at matvarene får et mer appetittlig og friskt utseende. Fargeforandringer kan skje under bearbeiding og distribusjon av matvarer, og fargestoffer tilsettes da for å gjenopprette den naturlige fargen. Næringsmidler uten farge kan også tilsettes fargestoffer, og fargestoffer kan brukes for å forsterke den opprinnelige fargen. Matvarer som ofte blir tilsatt farge er brus, godteri, supper, kaker, brød og kjøtt.
+
+I Norge er 49 fargestoffer tillatt å bruke i næringsmidler. 11 av disse fargestoffene er syntestiske azo-fargestoffer, som var forbudt i Norge på grunn av mulig risko for å utvikle overfølsomhetsreaksjoner. Forbudet mot azo-fargestoffene ble opphevet i 2001 som følge av at EU vedtok fargestoffdirektivet i 1994, og dette gjaldt også Norge via vår tilknytning til EU gjennom EØS-avtalen.
+
+## De ulike fargestoffene
+
+Vi kan skille mellom naturlige fargestoffer som finnes i naturen, naturidentiske farger som forekommer i naturen, men blir kjemisk fremstilt, syntetiske farger som lages kjemisk, og semisyntetiske farger som er kjemisk modifisering av naturlige farger.
+
+Fargestoffer har E-nummer fra 100-199. Her er noen av de mest brukte:
+
+|  |  |  |  |
+|------------------|------------------|------------------|------------------|
+| **E-nr** | **Navn** | **Fagre** | **Skadelig?** |
+| **E-100** | Kurkumin | Gult | Lite skadelig. Fordelaktig effekt |
+| **E-102** | Tartrazin | Gult | Overfølsomhetsreaksjoner |
+| **E-104** | Kinolingult | Grønn/gult | Mulig overfølsomhetsreaksjoner |
+| **E-110** | Paraoransje | Gult | Mulig overfølsomhetsreaksjoner |
+| **E-120** | Karmin | Rødt | Overfølsomhetsreaksjoner |
+| **E-122** | Azorubin | Rødt | Mulig overfølsomhetsreaksjoner |
+| **E-123** | Amarant | Rød/lilla | Mulig overfølsomhetsreaksjoner |
+| **E-124** | Nykockin | Rødt | Mulig overfølsomhetsreaksjoner |
+| **E-127** | Erytrosin | Rødt | Mulig overfølsomhetsreaksjoner og hyperaktivitet |
+| **E-140** | Klorofyll | Grønt | Ingen kjent toksisk effekt |
+| **E-160a** | Betakaroten | Oransje | Lungekreft hos røykere? |
+| **E-160b** | Annattoekstrakter | Gul/oransje | Overfølsomhetsreaksjoner hos disponerte personer |
+| **E-163** | Antocyaner | Rød/blå | Ingen kjent toksisk effekt |
+
+### Syntetiske fargestoffer
+
+### Tartrazin (E-102)
+
+Tartrazin er et syntetisk fremstilt fargestoff som gir gul farge til matvarer som supper, sauser, iskrem, søtsaker, syltetøy og yoghurt. Fargestoffet er et av de mest brukte azo-fargestoffene, og kan føre til overfølsomhetsreaksjoner hos disponerte personer. Dette gir utslag som pusteproblemer, rød og oppsvulmet hud rundt øyene og munnen, hodepine og forstyrrelser i mage-tarm kanal. [Atferdsproblemer](http://www.friskogfunksjonell.no/livsstil-atferd-og-behandling/ "Atferdsproblematikk og behandling") (hyperaktivitet og læringsvansker) kan muligens også forekomme. Prevalensen av overfølsomhetsreaksjoner er usikker, men den kan ligge på 0.01-0.1% hos friske mennesker, og 10-20% hos allergikere. Ca. 10% av astmatikere kan få astma-anfall etter inntak av tartrazin.
+
+Overfølsomhetsreaksjoner ved inntak av tartrazin er mest sannsynlig en form for intoleranse, der immunapparatet ikke er involvert, ved at reaktive substanser som histamin frisettes fra mastceller.
+
+ADI-verdien til tartrazin ligger på 7,5 mg/kg kroppsvekt.
+
+**Kinolingult, Paraoransje, Azorubin, Amarant og Nycockin er også syntetiske azo-fargestoffer som muligens kan føre til overfølsomhetsreaksjoner.**
+
+### Erytrosin (E-127)
+
+Erytrosin er et syntetisk fargestoff som gir rosa farge til matvarer. Det er tilsatt i få matvarer i dag, men man kan finne erytrosin i cocktailbær, kandiserte kirsebær og noen søtsaker.
+
+Det er usikkert om erytrosin kan føre til overfølsomhetsreaksjoner og hyperaktivitet hos mennesker.
+
+ADI-verdi på 0-0.1 mg/kg kroppsvekt.
+
+## Fargestoffer med naturlig opprinnelse
+
+### Kurkumin (E-100)
+
+Kurkumin eller gurkemeie er et gult fargestoff som blir fremstilt fra roten Curcuma Longa. Kaker og iskrem blir ofte farget ved bruk av kurkumin. Fargestoffet er uløselig i vann, men løselig i etanol.
+
+Kurkumin har ingen dokumenterte skadelige effekter. Fargestoffet kan i stedet ha noen fordelaktige egenskaper som anti-tumoregenskaper, anti-inflammatorisk effekt, og nedsettelse av sår og leverskader.
+
+### Karmin (E-120)
+
+Karmin er et rødt fargestoff, som fremstilles ved å trekke ut næringsinnholdet fra tørkede hunninsekter av arten Dactylopius coccus. Ekstraktet som brukes kalles cochenille. Karmin ble tidligere brukt til å farge tekstiler, men det blir lite brukt nå til dags.
+
+Det er påvist overfølsomhetsreaksjoner ved inntak av karmin. Reaksjonene er mest sannsynlig en IgE-mediert allergi på proteiner i fargestoffet. Det kan forekomme astmaanfall og andre reaksjoner hos spesielt disponerte mennesker.
+
+ADI-verdi ligger på 0-5 mg/kg kroppsvekt.
+
+### Karotenoider (E-160 til E-161)
+
+Karotenoider omfatter ca. 600-700 gule, oransje og røde fargestoffer, som finnes naturlig i plante- og dyreriket. De er fettløselige, og har fått navnet sitt fra gulrot (Daccus carota). I matvarer benyttes som oftest ikke den naturlige varianten av karotenoider, men syntetisk fremstilt naturidentisk karoten. Karotenoider omfatter blant annet: Beta-karoten (E-160a), Kantaxantin (E-161g) og Annattoekstrakter (E-160b)
+
+### Beta-karoten (E-160a)
+
+Beta-karoten er et fargestoff som blant annet finnes i grønnsaker og frukter som gulrot, mango, salater, aprikoser og søtpoteter. Fargestoffet er ikke vannløselig, og kan spaltes til to molekyler av [vitamin A](http://www.friskogfunksjonell.no/a-vitamin/ "A-vitamin") (retinol).
+
+Fargestoffet har blitt assosiert med lungekreft hos røykere ( Russell (2004), Journal of Nutrition, 134 (1): 262S-268S)
+
+Beta-karoten kan i kombinasjon føre til toksiske effekter i leveren (Leo og Lieber (1999) American Journal of Clinical Nutrition, 69 (6): 1071-1085)
+
+ADI- verdi er bestemt til 0-5 mg/kg kroppsvekt.
+
+### Kantaxantin (E-161g)
+
+Kantaxantin har en rød/oransje farge, og finnes naturlig i små mengder i kantareller. Fargestoffet gir blant annet farge til lakseskinn, kyllingskinn og eggeplommer. Det har blitt brukt peroralt for å bli brun i huden uten å måtte sole seg.
+
+Inntak av store doser kantaxantin kan muligens føre til skader på netthinnen med krystalldannelse og permanent nedsatt mørkeadaptasjon. I 1990 ble ADI-verdien til kantaxantin senket fra 0-25 mg/kg kroppsvekt til 0-0.05 mg/kg kroppsvekt.
+
+Kantaxantin kan som flere andre fargestoffer gi overfølsomhetsreaksjoner hos spesielt følsomme. Dette er som oftest i form av intoleransereaksjoner som ikke involverer immunsystemet.
+
+Kantaxantin blir lite brukt som tilsetning i matvarer, så det er liten grunn til bekymring for eventuelle bivirkninger. ADI-verdien er i dag 0-0.03 mg/kg kroppsvekt
+
+### Annattoekstrakter (E-160b)
+
+Annattoekstrakter er ekstrakter fra fruktene på annatto-treet som vokser i tropisk klima. Det ytterste frølaget på treet blandet med vann eller olje brukes som fargestoff. Annattoekstrakter har blitt brukt til å farge smør gult. Overfølsomhetsreaksjoner kan forekomme hos disponerte personer, med symptomer som elveblest, ødem og eksem. ADI-verdi er 0-0.065 mg/kg kroppsvekt
+
+### Antocyaner (E 163)
+
+Antocyaner en stor gruppe naturlige fargestoffer som blant annet finnes i jordbær, bringebær, vin og en rekke blomster med rosa, rød, lilla og blå farge. Antocyaner fungere som pH-indikator, ved at de skifter farge ved endring av pH. Sur pH gir en rødlig farge, mens basisk pH gir en blålig farge.
+
+Inntak av frukt og bær gjør at mennesker er jevnlig eksponert for antocyaner. Det er  begrenset dokumentasjon som viser at fargestoffene kan være toksiske for mennesker. ADI-verdi ligger på 0-2.5 mg/kg kroppsvekt.
+
+## Er fargestoffer helseskadelige?
+
+[JECFA og EFSA](http://www.friskogfunksjonell.no/tilsetningsstoffer/ "Tilsetningsstoffer i mat") gjennomfører toksikologisk vurdering av fargestoffer, for å se om de kan være helseskadelige for befolkningen. Overfølsomhetsreaksjoner kan være en bivirkning ved inntak av fargestoffer som tartrazin, karmin, paraoransje, annattoekstrakter og kantaxantin, hvor man kan utvikle astmabesvær, elveblest, oppsvulmede slimhinner og betennelse i nese og øyner.  Man er ikke helt sikker på hvilke komponenter i fargestoffene som kan føre til overfølsomhetsreaksjoner, men det kan gi utslag som både allergi og intoleranse.
+
+Bekymringen blant mange folk om at fargestoffer er farlige, og bør unngås, er dårlig dokumentert. Det langt flere mennesker som har overfølsomhetsreaksjoner mot proteiner i melk, egg og fisk, enn fargestoffer. 0.01-0,1% av befolkningen reagerer på det mest potente azo-fargestoffet tartrazin, mens 10-20% av dem som er disponert for allergi reagerer på det samme. Det er altså liten grunn til å være bekymret for å spise matvarer som er tilsatt fargestoffer.
+
+Noen fargestoffer kan være organtoksiske ved inntak av ekstremt høye doser, men dette gjelder doser langt over det som finnes i matvarer. Skader kan skje på synet som følge av ekstreme høye mengder av kantaxantin, lever-og nyreskader pga. høye doser kurkumin og man kan bli disponert for kreft ved høyt inntak av det syntetiske fargestoffet erytrosin.
+
+[VKM](http://www.vkm.no) (Vitenskapskomiteen for Mattrygghet) har vurdert en britisk studie (Southampton-studien) som kom fram til en mulig sammenheng mellom utvikling av hyperaktivitet og inntak av fargestoffer sammen med konserveringsmiddelet natriumbenzonat. [Her kan du lese vurderingen](http://www.vkm.no/eway/default.aspx?pid=277&trg=Container_6269&Main_6177=6556:0:&Container_6269=6187:1662352::0:6243:1:::0:0). VKM konkluderer med at det er liten risiko for utvikling av ADHD som følge av inntak av fargestoffer og natriumbenzonat.
+
+## Konklusjon
+
+Normalt friske mennesker har ingen grunn til å være bekymret for å innta kunstig farget matvarer. Fargestoffene som finnes i matvarer er vurdert av eksperter i JECFA og EFSA for mulige toksisk fare, og fargestoffene har en ADI-verdi med god margin til det som er realistisk å få i seg. Disponerte personer med allergi kan utvikle overfølsomhetsreaksjoner i noen større grad enn friske mennesker. Det skal likevel store mengder til for å fremkalle en reaksjon, så det ingen grunn til å være redd for å spise fargede matvarer.
