@@ -1,0 +1,96 @@
+---
+title: "Signifikans og alt det der"
+date: 2013.05.06
+---
+[Tilbake til kildekritikk, vitenskap og tankefeil](../../kildekritikk.qmd)
+
+Aldri har forskning vært så tilgjengelig som den er i dag. Sammendrag av så godt som all forskning som publiseres kan oppsøkes på i ulike databaser som ligger fritt frem på internett. Ofte kan man også få tak i fulltekst. Men det å lese en forskningsartikkel er ikke for hvem som helst, det er som så mye annet en treningssak. Vet du ikke hva du ser etter, så er det fort gjort å ende opp med å tolke artikkelen helt feil. I dette innlegget vil jeg prøve å belyse noen punkter som jeg syns er viktige å være klar over når man leser forskning, på en veldig grunnleggende måte. Innlegget er delt i to deler, der jeg først går litt inn på ulike studiedesign, og deretter tar for meg noen sentrale statistiske begreper.
+
+## Ulike typer studier
+
+Studier kan designes på flere måter, og dermed har de også ulike bruksområder. Her vil jeg først og fremst fokusere på de to primære formene for studiedesign, nemlig observasjonsstudier og eksperimentelle studier. Til slutt vil jeg også skrive noen ord om metaanalyser/oversiktsartikler.
+
+### Observasjonsstudier
+
+I en observasjonsstudie ser man på naturlige forskjeller som oppstår mellom grupper. Her gjør man ingenting med forsøkspersonene, annet enn å hente inn informasjon. Et eksempel på hvordan en slik studie kan gjennomføres er å ta en gruppe med mennesker, samle inn informasjon om kosthold, fysisk aktivitet, røyking og andre ting ved livsstilen som måtte være interessante, og så ser man hvordan det går med disse. Da kan man for eksempel dele disse inn i grupper etter hvor fysisk aktive de var, og se om det er en sammenheng mellom fysisk aktivitet og hvem som endte opp med å bli overvektige.
+
+I studiesammenheng betyr dette at man på utsiden og iakttar en effekt som kan settes i sammenheng med tidligere hendelser. Det blir litt som å kjøre forbi et åsted for en tilfeldig trafikkulykke, se i bakspeilet, og danne seg en teori om hva som har skjedd. Hvis vi fortsetter det tenkte eksempelet om fysisk aktivitet og overvekt, og vi fant ut at de som var minst fysisk aktive var mer overvektige enn de som beveget seg mer, så kan vi ikke vite at det var mangelen på fysisk aktivitet som førte til overvekten. Det kan like gjerne være andre ting som forårsaket overvekten, og at en tyngre kropp var tyngre å bevege, noe som førte til at aktivitetsnivået ble lavere.
+
+For å påvise kausalitet/årsakssammenheng må metoden være av et slikt design at den kan bevise at årsak fører til en gitt effekt, og at effekten utløses i nær tilknytning til årsak. Idèelle studier vil kunne vise til nettopp dette, men også at effekten blir borte når den uavhengige variabelen fjernes. Dette vil ikke korrelasjonsstudier, tverrsnittstudier eller observasjonsstudier kunne påvise, og kausalitet kan dermed i utgangspunktet ikke påvises med denne type metodikk (det finnes unntak, men de kommer jeg ikke inn på her). Det disse studiene først og fremst er egnet til er å danne hypoteser. Fra det tenkte eksempelet kan vi for eksempel velge å tro at det å være mer aktiv vil bidra til å forebygge overvekt. Dette er en hypotese som kan testes, og da må vi gjennomføre en eksperimentell studie.
+
+### Eksperimentelle studier
+
+I en eksperimentell studie, ofte kalt intervensjonsstudie, gjennomfører man et eksperiment, altså så gir man en gruppe mennesker (eller forsøksdyr) en eller annen form for intervensjon, og så sammenligner man resultatene opp mot en tilsvarende gruppe som ikke har fått denne intervensjonen. Hvis vi ser tilbake til bilkrasjet noen avsnitt lenger oppe, så kan vi undersøke en hypotese om at mangel på bremsefunksjon var det som forårsaket krasjet. Vi tester da ut å fjerne bremsefunksjonen på noen biler, mens vi lar andre biler beholde denne viktige funksjonen. Her kan vi finne ut at det å ta bort bremsefunksjonen er en medvirkende årsak til ulykker. Da har man funnet en årsak (fjerner bremsefunksjon) som fører til effekt (kræsj). Fjerner man derimot årsaken (putter tilbake bremsefunksjon), forsvinner sannsynligvis også effekten
+
+La oss fortsette på hypotesen vi lagde om fysisk aktivitet og overvekt. For å teste denne kan vi sette opp en studie der vi tar en gruppe med mennesker og deler dem inn i to grupper. Den ene gruppen ber vi bevege seg lite, mens den andre gruppen får beskjed om å bevege seg mye. Etter å ha gjennomført dette i en gitt periode, kan vi se om vi finner en forskjell mellom gruppene. Dersom det viser seg at den gruppen som har hatt et lavt aktivitetsnivå har blitt tyngre enn de som beveget seg mer, så vil dette styrke hypotesen vår om at fysisk aktivitet forebygger overvekt.
+
+Det er selvfølgelig mange detaljer som skal passes på når man gjennomfører en slik studie. Blant annet er det viktig at gruppene vi sammenligner i utgangspunktet er relativt like. Dersom det er en mye høyere andel røykere i den ene gruppen, så vil dette kunne påvirke resultatet. Man ønsker alltid at gruppene så langt det lar seg gjøre er så like som mulig. Randomisering, altså å dele gruppene inn tilfeldig, er gullstandarden i store studier. Da vil ulikhetene med stor sannsynlighet spre seg mellom gruppene, og deretter er det mulig å justere for de ulikhetene som fremdeles måtte være der. I små studier kan dette være vanskelig.Jo mindre ulikheter mellom gruppene, jo mer sikre er vi på at det var intervensjonen som førte til en forandring. Slike faktorer er svært viktig for å kunne bedømme hvor god en studie er, og dermed hvor troverdige resultatene er.
+
+Hovedpoenget er hvertfall at i en intervensjonsstudie så starter vi med to (eller flere) grupper, behandler dem ulikt og ser om de får ulikt resultat. Hvis resultatet er forskjellig, så er det stor sannsynlighet for at det var intervensjonen som var grunnen til dette. En slik studie vil ikke være nok til å konkludere, og derfor er det vanlig at studiene gjentas av andre forskere, for å se om de får det samme resultatet. Etterhvert vil det være nok studier til at det kan gjennomføres metaanalyser og skrives oversiktsartikler.
+
+### Metaanalyser
+
+En metaanalyse er kort fortalt en studie av studier. Her ser man på de studiene som er gjort på et gitt tema, og sammenligner resultatene som er kommet fram i de enkelte studiene. Det man sammenligner er effektstørrelsene man har funnet i de ulike studiene, og på denne måten kan man se om det totale datagrunnlaget gir grunnlag for å konkludere i en retning.
+
+### Oversiktsartikler
+
+En oversiktsartikkel, bedre kjent som et review, er en artikkel som tar for seg forskningen som er gjort på et felt og kan med andre ord kalles en kunnskapsoppsummering. Vi skiller mellom narrative og systematiske oversiktsartikler. En narrativ oversiktsartikkel kan vi se på som en ekspertmening. Disse er ofte skrevet av en eller annen autoritet på et gitt felt, og kan gi en svært god oversikt over hvordan ting henger sammen. En systematisk oversiktsartikkel gir kanskje den aller beste informasjonen, ettersom disse er gjennomført etter visse regler. [Cochrane Collaboration](http://www.cochrane.org/) er en gruppe som jobber med å lage slike systematiske oversiktsartikler, og disse regnes som svært god dokumentasjon. En systematisk oversiktsartikkel er mindre farget av personlige meninger enn en narrativ oversiktsartikkel vil være.
+
+## Statistikk
+
+Innen forskningen så handler det meste om statistikk. Vitenskapen tillater oss nemlig ikke å bekrefte en hypotese, så det gjennomføres statistiske analyser for å si noe om hvor sannsynlig resultatet er.
+
+Ofte når noen forteller eller skriver om forskning, så er det mye fokus på dette med statistisk signifikans. Men hva betyr dette egentlig, og hvor mye har det å si? I denne delen vil jeg gi deg en liten oversikt over de statistiske målene som ofte oppgis, og hva de kan fortelle deg.
+
+### Nullhypotesetesting
+
+Siden vitenskapen sier at vi aldri kan bekrefte en hypotese, bare motbevise den, opererer vi med noe som kalles nullhypotesen. Denne er kort fortalt en hypotese som sier det motsatte av den hypotesen du egentlig har. Deretter gjennomføres eksperimentet, for å se om man kan klare å motbevise nullhypotesen. Et eksempel her kan være at dersom hypotesen din er at fysisk aktivitet vil forebygge overvekt, og at det derfor vil være en forskjell mellom de to forsøksgruppene, så vil nullhypotesen være at det ikke er en forskjell mellom gruppene. Dersom du gjennomfører studien og finner ut at det er en forskjell, så kan du konkludere med at nullhypotesen ikke stemte, ettersom den er motbevist (på fagspråket: falsifisert). Dermed vil du få større tro på at hypotesen din om at det kom til å være en forskjell mellom gruppene. Det er viktig å være klar over at dette ikke er det samme som at hypotesen din er bekreftet, den er bare mer sannsynlig. Finner du derimot ikke grunnlag for å forkaste nullhypotesen, vil dette være en indikasjon på at den opprinnelige hypotesen ikke var korrekt, og da må finne seg i å måtte justere denne og prøve på nytt.
+
+### p-verdi
+
+Når man observerer en forskjell mellom gruppene, så er det interessant å finne ut om dette virkelig er en forskjell eller om den kan skyldes tilfeldigheter. I store befolkninger så vil det alltid være en viss spredning av nivåene, slik at dersom man tar to tilfeldige utvalg, så kan vi beregne to ulike verdier selv om disse utvalgene kommer fra samme gruppe mennesker. Optimalt sett ønsker vi å vise at de to gruppene er forskjellige, altså at de kommer fra ulike populasjoner. Derfor gjør vi statistiske analyser for å undersøke sannsynligheten for at dette kan være tilfeldig. Igjen vil jeg understreke at dette er snakk om sannsynlighet, og minne om at vi aldri kan være 100 % sikker.
+
+Når vi gjør en statistisk analyse, så får vi ut en analysestatistikk. Denne følges av en p-verdi, som forteller oss om sannsynligheten (p = probability = sannsynlighet) for å få det resultatet vi fikk dersom nullhypotesen skulle være korrekt. Med andre ord, hva er sannsynligheten for at vi måler det vi måler dersom det ikke er noen forskjell mellom gruppene.
+
+### Falske positive og negative
+
+Jeg kan ikke få understreket nok ganger at forskning handler om sannsynlighet. Som vi allerede har vært inne på så vil det være en naturlig spredning av et gitt parameter i en befolkning, og om vi trekker ut to utvalg fra denne befolkningen så kan tilfeldighetene føre til at disse utvalgene måles til å ha ulik verdi for parameteret vi måler. Derfor er det også mulig at vi finner en forskjell mellom disse gruppene, og konkluderer med at de kommer fra ulike populasjoner (de er forskjellige), men at de likevel kommer fra samme populasjon (de er like). Dette kalles et falskt positivt resultat (også kjent som en type 1 feil). På samme måte kan vi også gjøre den motsatte feilen, nemlig at vi konkluderer med at disse gruppene kommer fra samme populasjon, mens det i realiteten er en ekte forskjell mellom dem. Dette kalles en falsk negativ (type 2 feil).
+
+### Statistisk signifikans
+
+Statistisk signifikans er et begrep som brukes svært mye når man formidler forskning. Dette er et rent statistisk begrep, som utelukkende sier noe om p-verdien.  Husk at p-verdien forteller oss om sannsynligheten for å få det aktuelle resultatet dersom gruppene er like, så med andre ord sier p-verdien oss i teorien hvor stor sannsynligheten er for at vi finner en falsk positiv gitt forutsetningene for studien (nullhypotesen). Denne p-verdien er imidlertid ikke direkte overførbar til virkeligheten.
+
+Vanligvis brukes en grenseverdi på p=0.05, som betyr at det er 5 % sjanse for at den effekten vi fant var tilfeldig. Dersom p-verdien er lavere enn 0.05, sier vi at resultatet er statistisk signifikant, og dersom p-verdien er over 0.05, så er resultatet ikke-signifikant. Dette må for all del ikke tolkes som at det er en effekt eller ikke, for husk at dette fremdeles bare sier noe om sannsynligheten for at vi skulle få det resultatet vi fikk. At p=0.05 har blitt en allmenn grenseverdi er egentlig litt tilfeldig, men nå vil p-verdien stort sett alltid rapporteres nøyaktig, slik at du kan tolke denne for seg selv.
+
+En annen ting som er viktig å vite om signifikans og p-verdi, er at de i stor grad påvirkes av hvor mange forsøkspersoner som er med i studien. At en effekt er signifikant trenger ikke å bety at den er viktig. Har vi store grupper, så kan til og med veldig små forskjeller få en så lav p-verdi at de betegnes som statistisk signifikante. På samme måte, dersom vi har små grupper, kan relativt store forskjeller fremdeles få så høy p-verdi at de anses som ikke-signifikant. Det å bruke p-verdien til å si noe om verden rundt oss er heller ikke helt uproblematisk, da denne p-verdien utelukkende gjelder i kontekst av nullhypotesen man tester, så å bruke denne verdien til å si noe om den virkelige verden blir heller ikke riktig.
+
+Den største risikoen med å stole blindt på signifikansen er altså at det er fort gjort å tenke veldig svart/hvitt når vi leser studier, og tenke at dersom resultatet er signifikant så er det en viktig effekt, og motsatt. Det er viktig å være klar over at signifikans ikke sier oss noe som helst om hvor viktig en eventuell effekt er, noe som bringer oss over på det siste punktet, som omhandler effektstørrelser.
+
+### Effektstørrelser
+
+Effektstørrelse er strengt tatt et veldig selvforklarende begrep, ettersom det enkelt og greit sier noe om hvor sterk en effekt er. Tidligere rapporterte man ofte bare om signifikansnivået, men nå er det mer og mer vanlig å også rapportere effektstørrelser. Eksempler på ulike effektstørrelser kan være:
+
+-   Korrelasjonskoeffisienten r (Pearson's), der en verdi på 0.1 tilsvarer en liten, 0.3 en middels og 0.5 en stor effekt. r kan være både positiv og negativ, og dermed kan du også lese hvilken vei korrelasjonen går.
+    -   Av og til vil du se at noen rapporterer en verdi som heter ω. Denne sier i praksis det samme som r. Den rapporteres ofte som ω2, der 0.01, 0.06 og 0.14 vil representere en liten, middels og stor effekt.
+-   Cohen's d, som sier hvor stor forskjellen mellom to grupper er målt i standardavvikenheter, der en verdi på 0.2 tilsvarer en liten, 0.5 en middels og 0.8 en stor effekt.
+-   Odds ratio (OR), som sier noe om sannsynligheten for et utfall i en gruppe sammenlignet med en annen. Nært beslektet med OR finner vi relativ risiko (RR) og hasardrate (HR). Disse brukes i litt ulike sammenhenger, men tolkes omtrentlig på samme måte.
+
+Dersom det er oppgitt effektstørrelser, er disse veldig kjekke å legge merke til. De sier altså noe om hvor stor effekten er og hvilken vei den går. I motsetning til p-verdien så vil ikke effektstørrelsen påvirkes av hvor mange forsøkspersoner som er med i studien, så selv om det ikke er nok personer til at resultatene er signifikante, vil en stor effektstørrelse kunne avdekkes uansett.
+
+### Konfidensintervaller
+
+Forskerne ønsker alltid å kunne bruke resultatene fra studien sin til å si noe om den generelle befolkningen. Da beregner man konfidensintervaller, som er et intervall rundt gjennomsnittet som men en viss sannsynlighet inneholder populasjonsgjennomsnittet. Vanligvis oppgis 95% konfidensintervall, og definisjonen av dette er at dersom vi tar tilfeldige utvalg fra en populasjon, så vil gjennomsnittet i utvalget i 95% av tilfellene havne innenfor dette intervallet.
+
+Jo smalere et slikt konfidensintervall er, jo bedre vil studien representere den virkelige verden. Store konfidensintervaller betyr at gjennomsnittsverdien vi fant i studien kan avvike ganske mye fra gjennomsnittet i populasjonen, og derfor kan vi ikke være trygge på at det vil være en god representasjon. Størrelsen på konfidensintervallet vil være avhengig av antallet forsøkspersoner, og store studier vil representere populasjonen bedre enn små studier.
+
+## Oppsummering
+
+Å lese en forskningsartikkel er vanskelig, og krever mye trening. Det jeg ønsker at du skal sitte igjen med etter å ha lest dette innlegget, er kunnskaper som gjør at du på en bedre måte kan gjøre forstå hva som står i artiklene du leser. Under vil jeg prøve å oppsummere de viktigste punktene som spørsmål du bør stille deg når du leser en slik artikkel.
+
+-   Hviken type studie er dette?
+    -   Som vi har sett så vil designet på studien i stor grad avgjøre hva den kan brukes til og hvordan du bør tolke resultatene.
+    -   Du bør også legge merke til hvilke variable som måles, hvilke intervensjoner som gjøres og hvilke andre faktorer forskerne har tatt med i beregningen.
+-   Hva sier studien?
+    -   Er det oppgitt effektstørrelser, fokuser på disse og se dem i sammenheng med p-verdien. Konfidensintervallene kan hjelpe deg med å vurdere hvor presist studien representerer befolkningen den er ment å representere.
+
+Begrepene du har lest om i denne artikkelen er begreper du ofte vil komme over dersom du leser forskningsartikler, og uten å vite hva de sier noe om vil det være vanskelig å tolke en studie på en god måte. Jeg håper dette har vært til hjelp, og om noe skulle være uklart er det bare å stille spørsmål i kommentarfeltet. Jeg har prøvd å holde det ganske overfladisk for å nå ut til flest mulig, så om noen føler at noe burde vært mer utdypet vil jeg også være takknemlig for bidrag på denne fronten.

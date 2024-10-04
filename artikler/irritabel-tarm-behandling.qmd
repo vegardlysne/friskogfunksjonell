@@ -1,0 +1,92 @@
+---
+title: "Irritabel tarm - hvordan behandles det?"
+date: 2013.02.28
+---
+
+Irritabel tarm er en funksjonell tarmlidelse. Dette betyr at man ikke finner en organisk årsak til symptomene, som inkluderer diaré, forstoppelse, gass og oppblåsthet. I denne artikkelen vil jeg fortelle litt om hva vi vet om irritabel tarm, og litt om ulike måter å behandle det på. Som en ekstra bonus har vi også fått inn en pasienthistorie
+
+Jeg har tidligere skrevet en artikkel om [irritabel tarmsyndrom](irritabe-tarm.qmd) (IBS), som er den desidert mest leste artikkelen her på siden. Fremdeles dukker det opp spørsmål i kommentarfeltet, nesten et år etter at artikkelen ble publisert. Søkeord relatert til IBS er også en av de hyppigste måtene folk finner denne nettsiden på, og alt dette forteller meg at dette er noe som rammer mange i ulik grad.
+
+Definisjonen av en funksjonell lidelse er at man ikke finner en organisk årsak til symptomene. Dette betyr i klartekst at alle prøver man tar ikke viser noe unormalt, og tilsynelatende skal alt derfor fungere helt normalt. Dette er imidlertid helt klart ikke tilfelle, og derfor har vi slike funksjonelle diagnoser som stilles når man ikke finner noen årsak.
+
+## Hva er irritabel tarm?
+
+Irritabel tarm er en tilstand der man har ulike plager i mage og tarm, men det ikke er tegn til organisk sykdom eller andre årsaker. Kjernesymptomene er magesmerter, oppblåsthet, diaré, forstoppelse, gass og rumling i magen og betegner en gastrointestinal dysfunksjon. Det er ikke nødvendigvis et bestemt mønster i hvordan dette oppfører seg, og symptomene kan variere og også forekomme periodevis.
+
+Diagnosen IBS er en eksklusjonsdiagnose. Dette betyr at man stiller diagnosen på bakgrunn av symptombildet, ved å undersøke og ekskludere alle andre potensielle årsaker. ROMAIII-kriteriene for IBS-diagnosen er som følger:
+
+> Pasienten skal være plaget med tilbakevendende magesmerter eller ubehag i over 6 mnd. Plagene må ha vært tilstede minst tre dager i mnd de siste tre mnd. Samtidig også to av disse tre punktene være tilstede:
+>
+> -   Plagene lindres ved tarmtømming\
+> -   Forandring i avføringsfrekvens ved symptomer
+> -   Forandringer i avføringens konsistens ved symptomer
+>
+> [Roma III-kriteriene finner du her](http://www.romecriteria.org/assets/pdf/19_RomeIII_apA_885-898.pdf)
+
+IBS er en av de vanligste årsakene til konsultasjoner hos legen, og det er estimert at mellom 9-23% av befolkningen er rammet. Det ser ut som om kvinner er mer utsatt enn menn, men vi vet også at en større andel kvinner går til legen med slike symptomer, så hvorvidt de egentlig er mest utsatt kan vi ikke si sikkert.
+
+IBS er også assosiert med en del andre plager som fibromyalgi og ME (også en eksklusjonsdiagnose). Man ser også høyere forekomst av IBS hos de med cøliaki. Ofte kan IBS komme plutselig, f.eks. etter en antibiotikakur eller en betennelse i tarmen. Hvorfor det oppstår i hvert enkelt tilfelle er det ingen fasit på.
+
+## Hvorfor oppstår symptomene?
+
+Det er mange hypoteser om hvorfor man opplever symptomer som det tilsynelatende ikke er noen årsak til. En overfølsomhet på signaler mellom tarmsystemet og hjernen kan være opphav til smertene, og en reguleringsfeil her kan være en viktig årsak.
+
+Man ser ofte ubalanser i bakteriefloraen hos IBS-pasienter, og dette kan være en mulig årsak. Fermenterbare karbohydrater som ikke absorberes fullstendig i tynntarmen kan fermenteres av bakterier og danne gass. Dersom dette skjer i tynntarmen vil det gi mer smerter enn dersom det skjer i tykktarmen, siden tynntarmen er trangere og presset blir større. Bakteriell overvekst i tynntarmen (SIBO) kan derfor være en viktig årsak til smertene.
+
+Andre ting som lavgradig inflammasjon, permeabel tarm og psykologiske faktorer som stress kan også spille inn, men som du sikkert har oppdaget så er dette veldig diffust.
+
+## Behandling
+
+Siden det ikke er noen kjent årsak til smertene handler behandlingen hovedsakelig om smertelindring. Selv om IBS ikke er farlig, så kan det ha en stor negativ innvirkning på dagliglivet, og mange unngår sosiale tilstelninger på grunn av symptomer. Undersøkelser har avdekket at IBS-pasienter har signifikant lavere livskvalitet enn folk med f.eks. diabetes.
+
+Vi har medikamenter som kan virke mot de enkelte symptomene, som f.eks. lakserende midler (avføringsmiddel) ved forstoppelse, men her vil jeg heller fokusere på ernæringsbehandlingen. Dette er fordi det er dette du kan gjøre selv, mens medikamentell behandling alltid bør foregå i samråd med lege.
+
+Målet med ernæringsbehandling ved IBS er å lindre symptomene, samtidig som man skal oppnå et fullverdig kosthold. Det kan være fristende å kutte ut alt som mistenkes å lage problemer, men dette kan fort ende opp med utilstrekkelig tilførsel av energi og næringsstoffer, og det er ikke ønskelig. Det langsiktige målet er å kutte ut så lite som mulig.
+
+Les mer om symptomlindring i disse sakene:
+
+-   [Refluks og funksjonell dyspepsi](refluks-funksjonell-dyspepsi.qmd)
+-   [Diaré, forstoppelse og gass](diare-forstoppelse-gass.qmd)
+
+Ved IBS har vi en del generelle kostråd, og mange har god effekt av disse. Alle trenger ikke å hjelpe, men de kan være verdt å prøve! Her kommer en liste over disse:
+
+-   Spis regelmessige måltider
+-   Ha ro rundt måltidene
+-   Flere små måltider tolereres ofte bedre enn få og store. Unngå overspising.
+-   Prøv å leve et regelmessig liv. Fordøyelsen kan ha problemer med å tilpasse seg store variasjoner.
+-   Geldannende fibertilskudd (ViSiblin, Fiberhusk, Psyllium eller Benefiber) kan være positivt. Husk tilstrekkelig væskeinntak.
+-   Probiotika, enten i form av syrnede melkeprodukter (yoghurt eller surmelk, eks. Biola eller Cultura). Dette kan være nyttig, men nøyaktig hvilke bakterier som kan hjelpe og til hvem er fremdeles uavklart.
+-   Tilskudd av peppermynteolje kan lindre symptomene ved å relaksere den glatte muskulaturen i tarmkanalen. Ren olje kan forsterke eventuelle refluksplager, og i såfall er det mulig å få tak i kapsler som ikke løses opp før de kommer ned i tarmen.
+
+En del matvarer kan også være problematisk, men dette er individuelt og avhengig av symptombildet. Her kommer en oversikt over ulike typer matvarer og eventuelt hvordan de kan være med å forårsake symptomer:
+
+-   Fet mat.
+    -   Dersom du sliter med gass, så kan fettrik mat forverre problemet ved at gassen i større grad holdes igjen på grunn av senere tarmpassasje. Dersom du klarer å finne ut hvilken mat som stimulerer gassproduksjonen så trenger ikke fett å være et problem.
+-   Stekt mat
+-   Røkt og sterkt saltet mat
+-   Sterkt krydret mat
+-   Kaffe og annen drikke med koffein
+    -   Koffeinet stimulerer motiliteten i nedre deler av tykktarmen, og kan trigge avføringsrefleksen.
+-   Hvete og gluten
+    -   Mange oppgir at de reagerer på gluten, og studier støtter også at gluten kan være et problem også hos ikke-cøliakere. Det trenger samtidig ikke å være glutenet som er problemet, men fruktaner (se neste punkt) som det finnes mye av i hvete. Speltmel inneholder mye mindre fruktaner, og kan fungere bedre hos mange.
+-   Mat med høyt innhold av fermenterbare karbohydrater (FODMAP)
+    -   Disse kan, dersom de ikke absorberes i tynntarmen, fraktes ufordøyd ned i tykktarmen og fermenteres av bakteriene. Da dannes det gass. I tillegg er disse karbohydratene osmotisk aktive, og kan trekke væske ut i tykktarmen og forårsake osmotisk diaré.
+    -   [FODMAP-redusert diett har jeg skrevet mer utfyllende om her](irritabel-tarm.qmd). Denne dietten har vist seg å være svært effektiv, og det er anslått at 2/3 vil kunne bli symptomfri. Forskningsgrunnlaget er foreløpig veldig lite, men det foregår nå flere studier på effekten av dette.
+
+Det å selvdiagnostisere ulike intoleranser og allergier kan være fristende, men anbefales ikke. Alternative behandlere og terapeuter tilbyr gjerne tester som gir utslag på en hel rekke matvarer, og noen ender opp med å kutte ut store deler av kostholdet sitt. Dette står i sterk kontrast til målet om å kutte ut minst mulig, og gjør det vanskelig å oppnå et tilstrekkelig kosthold. Man bør derfor strebe etter å reintrodusere så mye som mulig dersom man skulle bli symptomfri på en slik diett, slik at man i lengden har kuttet ut bare det nødvendige.
+
+## Hvordan møtes IBS-pasienter i helsevesenet?
+
+Mange pasienter med IBS er svært frustrerte i møtet med helsepersonell. Dette kan skyldes at det ikke finnes behandling for tilstanden, og mange har heller ikke tilstrekkelige kunnskaper til å gi gode råd.
+
+Siden behandlingen dreier seg om symptomlindring, og hver pasient krever sin egen tilpassede behandling for å lykkes, kan IBS-pasienter være frustrerende å jobbe med. Man føler seg fort maktesløs når man har begrenset med verktøy og ingenting ser ut til å fungere. Det beste man kan gjøre er å prøve å støtte pasienten i forsøket på å finne det som fungerer, hvis det i det hele tatt er mulig å finne en løsning.
+
+Senere i dag vil vi publisere [en pasienthistorie](irritabel-tarm-historie) fra en som i mange år har slitt med IBS. Han har vært mye i kontakt med helsevesenet, og forteller om sine erfaringer. Han forteller også om hva han har gjort for å best mulig kunne leve med symptomene!
+
+Referanser:
+
+Mahan L, Escott-Stump S, Raymond J: **Krause's Food and the Nutrition Care Process**: Elsevier Sanders; 2012
+
+Thomas B, Bishop J: **Manual of Dietetic Practice**: Blackwell Publishing; 2007
+
+Forelesninger

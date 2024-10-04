@@ -1,0 +1,73 @@
+---
+title: "Gjør trening deg smartere?"
+author: "Andrea Rørvik Marti"
+date: 2013.04.18
+---
+
+Innimellom hører man påstander om at "trening gjør deg smartere". Men hvor godt dokumentert er egentlig denne påstanden, og hvordan kan det ha seg at fysisk aktivitet kan påvirke intelligens eller hukommelse? I denne artikkelen vil jeg gi en oversikt over hva vi vet om måten fysisk aktivitet kan påvirke hjernen, og hvilke positive konsekvenser dette kan ha gjennom hele livet.
+
+## Hjernen er plastisk
+
+Lenge har vi trodd at den viktigste delen av hjernens utvikling forekommer tidlig i livet, og at hjernen kan anses som ferdig utviklet ved 20 års alder. Før det trodde man det var snakk om 5 års alder. Nyere forskning forkaster disse påstandene; hjernen er plastisk, og i konstant endring gjennom hele livet.
+
+Forskning viser blant annet at den delen av hjernen som har med navigasjon å gjøre er signifikant større hos taxisjåfører enn hos den generelle befolkningen (1). Hippocampus, en del av hjernen som er viktig for hukommelse, er større hos medisinstudenter under eksamenstiden enn ellers i året (2). Her er det en sammenheng mellom spesifikke oppgaver og kontroll av disse oppgavene i hjernen. Men fysisk aktivitet kan også påvirke mer generelle hjernefunksjoner!
+
+## Vi er "skapt" for bevegelse
+
+Som Kristian Fagerland skriver i [denne artikkelen](hjernens-evolusjon.qmd), så er bevegelse og motorikk helt grunnleggende hos de aller fleste levende organismer. Bevegelse er egentlig ekstremt komplisert, og vi mennesker er ekstremt gode på det. Bevegelse handler ikke bare om trening; de motoriske områdene i hjernen er sterkt knyttet til nesten alle andre funksjoner.
+
+Studier har blant annet funnet ut at det å gestikulere gjør at man husker bedre, og at man tenker mer kreativt (3). Evnen til verbal kommunikasjon gjennom språk er fullstendig grunnleggende for mennesket som art, og hadde ikke vært mulig uten svært presise motoriske evner (4). Det finnes ikke en robot i verden som kan utføre alle de bevegelser som kan utføres med den største enkelhet av en fireåring (5).
+
+Idéen om at bevegelse kan påvirke hjernen er altså ikke helt usannsynlig. Nå har man også kommet frem til noen av de biologiske mekanismene som bidrar til den effekten bevegelse har på hjernen. En av de viktigste mekanismene for utvikling og opprettholdelse av intelligens og hukommelse er nydanning av hjerneceller, nevrogenese.
+
+## Nevrogenese
+
+Du har kanskje hørt at man ikke kan gro nye hjerneceller. Dette er ikke helt riktig. I et område av menneskehjernen som heter Dentate Gyrus finnes det stamceller som har muligheten til å dele og differensiere seg, og dermed skape nye hjerneceller i dette området. Dette kalles nevrogenese (6). Dentate Gyrus er en del av hippocampus, og spiller trolig en nøkkelrolle i dannelsen av nye minner (7). Denne delen av hjernen er også viktig for utvikling av romlig hukommelse, som brukes når man orienterer seg i sine omgivelser.
+
+For at nevrogenese skal skje må stamcellene stimuleres av vekstfaktorer. Vekstfaktorer er proteiner som direkte påvirker og stimulerer cellevekst og differensiering. Foreløpig har tre vekstfaktorer blitt identifisert som viktige for nevrogenesen: BDNF (brain-derived neurotropic factor), IGF (insulinliknende vekstfaktor) og VEGF (vascular endothelial growth factor) (6). BDNF produseres direkte i hjernen, men IGF og VEGF produseres i celler ellers i kroppen. Disse vekstfaktorene fraktes til Dentate Gyrus via blodet, og setter i gang nevrogenesen.
+
+Forskning viser at fysisk aktivitet øker produksjon av vekstfaktorer (6). På denne måten kan altså fysisk aktivitet direkte stimulere nevrogenese. Spørsmålet som gjenstår er hvor stor påvirkning fysisk aktivitet i realiteten kan ha, og om effekten i det hele tatt er merkbar. Foreløpig har det vært vanskelig å teste dette direkte hos mennesker, men studier på mus kan gi oss en pekepinn.
+
+## Fysisk aktivitet og nevrogenese
+
+Bortsett fra størrelsen, er musehjernen oppsiktsvekkende lik menneskehjernen. Hjerneforskning på mus og rotter har lenge vært anerkjent som en solid metode for å finne ut av farmakologiske, biologiske, og fysiologiske prosesser i hjernen. Selv om man ikke kan trekke konklusjoner om menneskehjernens funksjon fra disse studiene alene, kan de gi gode opplysninger om hvilke mekanismer som spiller inn i for eksempel nevrogenesen. Det er ingen grunn til å tro at det skal være betydelige forskjeller i Dentate Gyrus hos mus og mennesker (8).
+
+En studie fra 2005 (9) ønsket å studere den direkte innvirkningen av fysisk aktivitet på nevrogenese i Dentate Gyrus hos mus. Musene ble delt inn i to grupper. Musene i den såkalt "aktive gruppen" hadde tilgang på løpehjul hele døgnet. Musene i den «inaktive gruppen» hadde ikke tilgang på løpehjul. Etter en måned ble antallet nydannede celler talt opp.
+
+Resultatene fra studien viste en betydelig høyere grad av nydannede celler hos den aktive kontra den inaktive gruppen. Hos de yngste musene så man fem ganger så mange nydannede celler i den aktive gruppen sammenliknet med den inaktive gruppen. Hos de eldre musene var nydanningen dobbelt så stor hos de aktive musene.
+
+I tillegg til den betydelige effekten av fysisk aktivitet på nevrogenese hos den aktive gruppen, fant man også at disse musene hadde signifikant bedre kognitiv funksjon; de var raskere til å lære nye oppgaver, og hadde generelt bedre hukommelse enn de inaktive musene.
+
+Disse resultatene er svært lovende, og gir et tydelig bilde av den store positive effekten fysisk aktivitet kan ha på nydanning av hjerneceller og på hukommelse. Likevel er det fortsatt mye man ikke vet om hvordan trening påvirker hjernen. Blant annet ble det nylig publisert en studie som indikerer at styrketrening kan ha en større effekt på nevrogenesen enn kondisjonstrening (10). Etter hvert som nye metoder for å studere menneskehjernen kommer på banen vil vi også få muligheten til å finne ut om effekten av fysisk aktivitet på nevrogenesen er like stor i mennesker som hos mus. Foreløpige resultater er uansett svært positive.
+
+## Fysisk aktivitet og forebygging av demens
+
+Demens er betegnelsen på en gruppe sykdommer som fører til nedsatt hjernefunksjon. Den vanligste formen for demens er Alzheimer sykdom, som stod for 16,000 tapte leveår i Norge i 2010 (11). Demens forekommer vanligvis hos mennesker over 65, og resulterer i nedbrytning av hjerneceller (12). Siden fysisk aktivitet kan stimulere nydanning av hjerneceller i hukommelsessenteret i hjernen er det kanskje ikke så overraskende at trening har vist seg å ha en forebyggende effekt på utviklingen av demens.
+
+Tusenvis av studier er gjennomført på sammenhengen mellom fysisk aktivitet og utviklingen av demens. Her har jeg valgt ut en studie fra Sverige som fulgte over 3,000 mennesker i over 30 år (13). Studien så på sammenhengen mellom mange ulike faktorer og utviklingen av demens senere i livet. Resultatene viste at deltakerne som var aktive i hverdagen hadde signifikant lavere risiko for å utvikle demens når de ble eldre. Denne trenden forble signifikant også etter at forskerne hadde kontrollert for en lang rekke andre faktorer, som blant annet alder, kjønn, utdannelse, kosthold, røyking, og BMI.
+
+Blant de 3,000 deltakerne i studien var det 90 tvillingpar hvorav den ene tvillingen hadde utviklet demens og den andre ikke hadde det. Da forskerne så på forskjellene mellom livsstilene innad i tvillingparene fant de en klar trend mot at de mer fysisk aktive hadde lavere forekomst av demens. Men etter å ha kontrollert for utdannelse var ikke trenden lenger signifikant. Det er derfor klart at det er flere faktorer som bidrar til demens.
+
+Majoriteten av studier som ser på sammenhengen mellom utvikling av demens og fysisk aktivitet ser en klar sammenheng (6). Det ser nå ut til at vi klart kan konkludere med at fysisk aktivitet er en av mange faktorer som kan forebygge demens. Selv om det biologiske og kjemiske forholdet ikke er helt etablert enda, er foreløpige resultater svært lovende.
+
+## Oppsummering
+
+Tusenvis av studier er gjennomført på sammenhengen mellom fysisk aktivitet og kognitiv funksjon, både hos unge og eldre. Det er fortsatt mange ubesvarte spørsmål, men noen ting kan vilikevel si med sikkerhet: Fysisk aktivitet har en stor positiv effekt på generell helse, og også på hjernehelse. God hjernehelse er nødvendig for å kunne fungere normalt i hverdagen, spesielt når man eldes. Det å komme seg ut og være mer aktiv er et av de enkleste tiltakene du kan gjøre for å forbedre livskvalitet og forebygge sykdom senere i livet.
+
+##### Så kom deg opp av sofaen og øk aktivitetsnivået. Om noen år vil du være glad for at du gjorde det!
+
+**Referanser**
+
+1.  Maguire, E. A., Woollett, K., & Spiers, H. J. (2006). **London Taxi Drivers and bus drivers: A structural MRI and neuropsyhological analysis**. *Hippocampus*, 16, 1091-1101.
+2.  Draganski, B., Gaser, C., Kempermann, G., Kuhn, H. G., Winkler, J., Buchel, C., & May, A. (2006). **Temporal and spatial dynamics of brain structure changes during extensive learning.** *The Journal of Neuroscience*, 26, 6312-6317.
+3.  Albali, M. W. (2005). **Gesture in spatial cognition: Expressing, communicating, and thinking about spatial information.** *Spatial Cognition & Computation: An Interdisciplinary Journal*, 5, 307-331.
+4.  Pulvermüller, F., Hauk, O., Nikulin, V. V., & Illmoniemi, J. (2005). **Functional links between motor and language systems.** *European Journal of Neuroscience*, 21, 793-797.
+5.  Mohan, V., Morasso, P., Zenzeri, J., Metta, G., Chakravarty, V. S., & Sandini, G. (2011). **Teaching a humanoid robot to draw ‘shapes’**. *Autonomous Robots*, 31, 21-53.
+6.  Cotman, C. W., Berchtold, N. C., Christie, L. (2007). **Exercise builds brain health: Key roles of growth factor cascades and inflammation.** *Trends in Neurosciences*, 30, 463-472.
+7.  Amaral, D. G., Scharfman, H. E., Lavenex, P. (2007). **The dentate gyrus: Fundamental neuroanatomical organization (dentate gyrus for dummies).** *Progress in Brain Research*, 163, 3-22.
+8.  Li, G. N., & Pleasure, S. J. (2005). **Morphogenesis of the dentate gyrus: What we are learning from mouse mutants.** Developmental Neuroscience, 27, 93-99.
+9.  Van Praag, H., Shubert, T., Zhao, C. & Gage, F. (2005). **Exercice enhances learning and hippocampal neurogenesis in aged mice.** *Journal of Neuroscience*, 25, 8680-8685.
+10. Cassilhas, R. C., Lee, K. S., Fernandes, J., Oliviera, M. G., Tufik, S., Meeusen, R., & de Mello, M. T. (2012). **Spatial memory is improved by aerobic and resistance exercise through divergent molecular mechanisms.** *Neuroscience*, 202, 309-317.
+11. Institute for Health Metrics and Evaluation (2010). ***GBD Profile: Norway*****. URL: http://www.healthmetricsandevaluation.org/sites/default/files/country-profiles/GBD%20Country%20Report%20-%20Norway.pdf**
+12. Brookmeyer, R., Gray, S., & Kawas, C. (1998). **Projections of Alzheimer’s Disease in the United States and the public health impact of delaying disease onset.** *American Journal of Public Health,* 88, 1337-1342.
+13. Andel, R., Crowe, M., Pedersen, N. L., Fratiglioni, L., Johansson, B., & Gatz, M. (2008). **Physical exercise at midlife and risk of dementia three decades later: a population-based study of Swedish twins.** *Journal of Gerontology: Medical Sciences*, 63A, 62-66.

@@ -1,0 +1,106 @@
+---
+title: "Cøliaki"
+author: "Ingvild Thun"
+date: 2013.03.07
+---
+
+De fleste av oss har hørt om glutenallergi eller cøliaki, eller kanskje kjenner noen med denne tilstanden som gjør at man må kutte ut vanlig brød og kornvarer. Men hva er glutenallergi og hvordan opptrer denne sykdommen hos de som rammes? I denne artikkelen skal jeg forklare hva cøliaki er, hvilke reaksjoner som skjer i kroppen og generelle kostråd knyttet til denne relativt vanlige sykdommen.
+
+## Hva er cøliaki?
+
+Cøliaki er en immunmediert og multisystemisk sykdom som innebærer permanent intoleranse mot glutenprotein. Tilstanden har trolig eksistert lenge, da man har funnet 2000 år gamle kilder der man har beskrevet de samme symptomene. Likevel ble ikke årsaken til cøliaki avdekket før på 1950-tallet. Sykdommen er autoimmun, noe som betyr at det er immunforsvaret som angriper eget vev. Personene som rammes får betennelse i tynntarmen, men bare dersom de inntar gluten, siden det er dette som trigger immunresponsen. Det er individuelt hvor sensitiv man er for gluten, og produkter som kaninneholde *spor* av gluten må derfor også oppgis. Sykdommen kan oppstå hos begge kjønn og i alle aldre, men den diagnostiseres oftest hos personer mellom 40 og 60 år – 20 % får dog diagnosen også etter fylte 60.
+
+For å utvikle cøliaki må man være genetisk predisponert. To ulike HLA-genotyper, HLA-DQ2 og HLA-DQ8 ser ut til å være ansvarlig for denne predisposisjonen, men det er også identifisert noen andre gener som kan være innblandet. De fleste som har disse HLA-genene utvikler imidlertid ikke cøliaki, men de ser ut til å være en forutsetning for å kunne utvikle sykdommen.
+
+[**Les mer om genetikk her**](metabolismen/genetikk.qmd)
+
+Hva som utløser sykdommen hos de som er disponerte vet man ikke sikkert, men det spekuleres i om f.eks. infeksjoner, betennelser eller ulike miljømessige faktorer kan ha noe med saken å gjøre. Når man introduserer gluten kan også ha noe å si, og i Norge er det anbefalt å vente til barnet er 6 mnd. Det å fortsatt amme mens man introduserer gluten ser ut til å virke beskyttende!
+
+![](images/clipboard-1482911119.png)
+
+Etter at cøliakien er "aktivert" vil man begynne å danne antistoffer mot glutenet, og disse antistoffene angriper cellene i tarmen.
+
+## Hvordan opptrer cøliaki i kroppen?
+
+Gluten er en fellesbetegnelse på tre forskjellige, men likevel ganske like, proteiner som finnes  hvete, rug og bygg. Vanlig havre kan også inneholde gluten som følge av forurensning fra andre kornsorter. De ulike glutenproteinene er involvert i betennelsesreaksjonen som oppstår, og på ulike måter. De kan trigge ulike immunologiske prosesser, både lokalt i tynntarmen, men også ellers i kroppen. Cøliaki er dermed en *multisystemisk* sykdom, som rammer **hele kroppen**, og ikke bare tarmen slik man trodde tidligere.
+
+Det er ikke selve glutenproteinet i seg selv som er problemet, men ulike antigenfraksjoner i glutenproteinet; **prolaminfraksjoner**. Både hvete, rug, bygg og havre inneholder prolaminfraksjoner, men det er kun fraksjonene i hvete, rug og bygg som er skadelige for personer med cøliaki (såfremt det ikke foreligger krysskontaminasjon av havren). Hvete inneholder prolaminfraksjonen **gliadin**; rug **secalin**; bygg **hordein** (og havre **avenin**).
+
+Disse fraksjonene trigger en immunrespons i tynntarmen, og denne ødelegger tarmtottene som vi er avhengige av for blant annet effektiv absorpsjon av næringsstoffer. Inntak av glutenprotein hos disse personene vil dermed kunne føre til redusert opptak av næring og gi diare og magesmerter.
+
+Det gjenstår fortsatt en god del forskning på nøyaktig hvordan og hvorfor gluten forårsaker denne responsen hos personer med cøliaki, og mye er enda uklart. Ett av antistoffene som dannes er anti-transglutaminase 2 (anti-TG2), og disse antistoffene kan måles ved en blodprøve. Hos små barn kan svært høye verdier av disse antistoffene være nok til å stille cøliakidiagnosen, dersom man også tester positivt på HLA-DQ2/DQ8. Da trenger man ikke nødvendigvis å gjennomføre en tarmbiopsi.
+
+![Figur 2 Di Sabatino](http://www.friskogfunksjonell.no/wp-content/uploads/2013/03/Figur-2-Di-Sabatino.png)
+
+Man må skille mellom gluten**intoleranse/allergi** og høy glutensensitivitet. Det finnes mange eksempler på personer som tåler gluten dårlig, men som ikke har cøliaki. Dette gjelder ofte personer [irritabel tarm](http://www.friskogfunksjonell.no/irritabel-tarm-hvordan-behandles-det/ "Irritabel tarm – hvordan behandles det?") (IBS), som kan oppleve oppblåsthet, gass og magesmerter etter inntak av gluten.
+
+Også blant cøliakerne vil det være en svært ulik grad av alvorlighet, som kan gå helt fra en latent sykdom der man ikke har noen som helst problemer og til en alvorlig sykdom med stor grad av diaré og malabsorbsjon. De fleste befinner seg sannsynligvis et sted midt i mellom.
+
+## Symptomer
+
+Hos et barn oppdages ofte cøliaki på bakgrunn av at vekstkurven flater ut; barnet slutter å vokse. Hos voksne er de klassiske symptomene på ubehandlet cøliaki jernmangel, diaré og avmagring, mens noen opplever trøtthet og dårlig matlyst. Det er heller ikke uvanlig ikke å ha symptomer i det hele tatt.
+
+Når en som får stilt diagnosen cøliaki konsekvent holder en glutenfri kost vil tarmen leges, og næringsstoffer vil igjen tas opp fullt og helt. Ved eksponering for gluten dannes det antistoffer i immuncellene, og disse har en levetid på 3mnd. Den autoimmune responsen vil altså vedvare i ca tre mnd fra man starter opp med glutenfri kost, og etterpå vil det ta ytterligere tid før tarmen leges og symptomene forsvinner helt. Tålmodighet er med andre ord viktig!
+
+Det er viktig at det glutenfrie kostholdet holdes strengt og varer livet ut; selv små mengder kan gi tilbakefall, med eller uten symptomer. Det er viktig at ingen starter med et glutenfritt kosthold før en sikker diagnose er stilt ved tynntarmsbiopsi, da dette vil kunne gi falsk negativt resultat.
+
+## Generelle kostråd
+
+Cøliaki er den eneste organiske sykdommen i fordøyelseskanalen hvor omlegging av kostholdet er primærbehandling, altså den eneste behandlingen som gir bedring. Regel nummer EN vil alltid være å unngå alle former for gluten.
+
+-   **Unngå alle former for glutenholdige matvarer**
+
+Dette gjelder først og fremst brød, knekkebrød og andre kornvarer, men også pasta, kjeks, kaker og diverse salt/søtsnacks. Dette gjelder blant annet produkter som inneholder alle typer hvetemel, grynmel, spelt, dinkel, rug, bygg, durumhvete, kli, hvetekim, kruskakli, semulegryn, kavring, couscous, nudler, samt alle typer pasta og frokostblandinger som ikke er merket glutenfri.
+
+Derimot finnes det mange «feller» man kan gå i da det finnes matvarer med gluten der man ikke skulle tro. Spesielt bør du være obs på disse matvarene/ingrediensene:
+
+Øl, blandingskrydder (for eksempel grillkrydder og karri), soyasaus, hvetesirup, halspastiller (kan inneholde malt, maltekstrakt, maltsirup, rugmalt) iskrem, nudler, potetmos, ferdigdesserter, konfekt, supper, sauser, hermetikk, lakris, kjøtt- og fiskeprodukter som farse, leverpostei, pate, pålegg, fiskepudding/boller/kaker og lapskaus.
+
+De fleste dagligvarebutikker har nå «fri for» merker eller andre måter å fortelle om glutenfrie produkter på, ofte i egne seksjoner. Ferdigpakkede produkter med gluten skal være merket med dette, enten på norsk, svensk, dansk eller engelsk. Les alltid innholdsdeklarasjonen hvis du er usikker, og ikke bruk matvarer med ukjent sammensetning! Spør butikkbetjeningen eller produsenten hvis du er usikker på matvarer som ikke har innholdsdeklarasjon, for eksempel ferskvarer og produkter i løsvekt.
+
+-   **Alkohol**
+
+Som nevnt over bør man være obs på visse typer øl, da de kan inneholde bygg som ingrediens. Noen øltyper er brygget på ris eller mais, og en liste over trygt øl finnes på ncf.no. Vin, brennevin (brandy, cognac), tequila og rom inneholder ikke gluten, men man bør unngå likør, bitter, rusbrus, aromatisert brennevin, samt at enkelte sorter whisky inneholder tilsetningsstoffer som *kan* gi reaksjon.
+
+-   **Rene råvarer som egg, kjøtt, fisk, kylling, grønnsaker, melk, poteter, ris, frukt og bær er fritt fram!**
+
+Det er oftest prosesserte matvarer som kan inneholde gluten/spor av gluten, men disse matvarene er «rene» og samtidig fullpakket med næringsstoffer av alle slag, slå deg løs. Her vil jeg også nevne nøtter og frø, men her må du lese innholdsdeklarasjonen i forhold til kontaminasjon med kornprodukter (se nedenfor).
+
+-   **Benytt deg av glutenfrie produkter for å sikre inntaket av karbohydrater, kostfiber, vitaminer og mineraler**
+
+Det finnes en rekke forskjellige typer brød, knekkebrød, kake- og bakemikser som er glutenfrie. Prøv deg fram, finn noe du liker eller bak selv! Melet kan for eksempel bestå av glutenfritt havre, mandel, hirse, kikerter, amarantmel, quinoa, potetmel, ris, mais og soya. Tilsett gjerne nøtter og frø (som du vet er glutenfrie) for smak og ekstra næring.
+
+-   **Innkjøp av glutenfrie kokebøker kan være lurt, eventuelt melde seg på glutenfrie bakekurs i regi av Norsk Cøliakiforening (NCF)**
+
+-   **Vær obs på krysskontaminasjon**
+
+Havre vokser, høstes og prosesseres ofte sammen med andre kornsorter, og det anbefales å holde seg unna havrekilder man ikke vet er «rene» eller glutenfrie. Videre anbefales det at havre introduseres gradvis etter at glutenfri diett er veletablert og vedkommende er symptomfri. Smågodt er et annet eksempel på en mulig kilde til kontaminasjon, da man bruker samme spade til ulike typer godterier med/uten gluten. Mange matvarer er merket med «spor av» hvete, gluten eller glutenholdige ingredienser. Denne merkingen innebærer ikke at dette inngår som en del av produktet, men at det er laget i omgivelser der det også produseres glutenholdige varer. Erfaring tilsier at disse produktene kan brukes av de aller fleste cøliakere fordi spormengdene er svært små og under grenseverdiene som gjelder.
+
+-   **Hygiene er særdeles viktig**
+
+Vask hender og utstyr godt, både før, under og etter du har lagd mat. Ha egne skjærefjøler/kniver/oppbevaringsbokser for glutenfrie produkter.
+
+-   **Sosiale sammenkomster**
+
+Gi gjerne beskjed til vertskapet og forklar situasjonen på forhånd, du kan tilby deg å lage en glutenfri kake og ta med. De aller fleste restauranter og kjeder tilbyr glutenfrie alternativer, men det kan være lurt å ringe på forhånd hvis du er usikker.
+
+-   **Laktose/melkeprodukter**
+
+Fordøyelsen av melkesukker (laktose) er ofte nedsatt når tarmen er skadet. Magesmerter og luft kan være resultatet av vanlig melk, brunost og iskrem. Laktosefrie produkter samt hvitost inneholder ikke laktose, og kan brukes. Syrnede melkeprodukter kan i små mengder tåles bra, for eksempel kulturmelk og yoghurt. Etter rundt 6 uker på glutenfri diett vil de fleste tåle noe laktose igjen, og melkeprodukter kan introduseres gradvis. Dette gjelder kun for de som har hatt mageproblemer som symptom før stilt diagnose!
+
+## Til slutt
+
+Mange forbinder glutenfrie produkter med tørre og smakløse matvarer, men det har skjedd mye på dette området de siste årene, og både smak og konsistens på disse produktene er forbedret. Matvareprodusenter har også blitt mer bevisst på dette etter hvert som flere får diagnosen cøliaki, og de fleste kjedene tilbyr nå glutenfrie alternativer og er blitt pålagt streng merking av glutenholdige varer.
+
+[Norsk Cøliakiforening (NCF)](http://www.ncf.no) er en interesseorganisasjon/pasientforening som arbeider for å ivareta medlemmenes interesser gjennom informasjon, opplysning og bidrag til forskning, bedre tilgang til glutenfrie produkter og bevisstgjøring av produsenter. [Allergimat](https://www.allergimat.no/butikk/s/home.html) er en nettbutikk med mange matvarer tilpasset folk med ulike allergier.
+
+Diagnosen cøliaki gir automatisk rett til grunnstønad for å dekke ekstra utgifter til matvarer, dette beløpet er for tiden 1830kr/mnd. Utbetaling krever legeattest/bevis på at du har diagnosen cøliaki. Denne støtten må du søke om selv!
+
+**Har du cøliaki eller lurer på noe om sykdommen/glutenfri kost? Spør i kommentarfeltet!**
+
+Referanser:
+
+1.  Di Sabatino A, Corazza GR: **Coeliac disease**. *Lancet* 2009, **373**(9673):1480-1493.
+2.  Thomas B, Bishop J: **Manual of Dietetic Practice**: Blackwell Publishing; 2007.
+3.  www.ncf.no
+4.  Forelesninger

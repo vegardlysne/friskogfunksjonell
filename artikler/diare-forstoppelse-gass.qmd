@@ -1,0 +1,70 @@
+---
+title: "Diaré, forstoppelse og gass – hva kan du gjøre?"
+date: 2013.02.14
+---
+
+Mange sliter med problemer relatert til mage/tarm. Dette er primært symptomer på underliggende årsaker, men de er like fullt plagsomme for den som rammes. Vi kan alle oppleve disse symptomene fra tid til annen, noen mer enn andre, men hva kan du gjøre med kostholdet for å lindre plagene?
+
+Ingvild skrev sist en artikkel om plager relatert til øvre del av fordøyelsessystemet, [refluks og funksjonell dyspepsi](refluks-funksjonell-dyspepsi.qmd "Refluks og funksjonell dyspepsi"). Diaré, forstoppelse og gass er symptomer som hører til de nedre delene av fordøyelsessystemet.
+
+## Diaré
+
+I motsetning til forstoppelse er diarékarakterisert av hyppigere og mer flytende avføring. Diaré oppstår når maten fraktes for raskt gjennom tarmen og derfor ikke absorberes skikkelig. Dette fører til at mer vann trekkes ut i tarmen, noe som gjør avføringen flytende. Redusert absorbsjon av væske medfører også økt væskeinnhold i avføringen. Konsekvenser av vedvarende diaré er tap av væske og elektrolytter.
+
+Det finnes ulike typer diaré, og de klassifiseres ut ifra hva som forårsaker symptomene. Årsakene kan være betennelse i tarmen, infeksjoner, for høyt inntak av osmotisk aktive partikler som f.eks. enkle sukkermolekyler eller redusert absorbsjonskapasitet. Medikamenter kan også ha diaré som bivirkning.
+
+-   **Eksudat diaré** kommer som følge av betennelse eller infeksjon. Dette gir skader i tarmveggen som fører til økt utskillelse av slim, væske og blod til tarmen, og vann og elektrolytter hoper seg opp i tarmen. Inflammatoriske tarmsykdommer som crohns og ulcerøs kolitt medfører ofte diaré av denne typen.
+-   **Osmotisk diaré** kommer som følge av at osmotisk aktive partikler ikke absorberes i tynntarmen og dermed fraktes videre ned i tykktarmen. Her vil disse trekke vann ut i tykktarmen, noe som øker væskeinnholdet i avføringen. Diaré av denne typen er typisk for irritabel tarm-syndrom, dumping syndrom (der magesekken tømmes for raskt) eller ved inntak av laktose hos de som er laktoseintolerante.
+-   **Sekretorisk diaré** kommer som følge av at væske og elektrolytter lekker ut fra tarmcellene. Denne diaréen vil ikke stoppe selv om man kutter matinntaket, siden den ikke oppstår pga maten vi spiser.
+-   **Malabsorbtiv diaré** oppstår dersom vi ikke absorberer tilstrekkelige mengder av næringsstoffene i tynntarmen. Da vil vi finne igjen næringsstoffene i avføringen, og et kjent eksempel er fettdiaré, eller steatoré. Disse næringsstoffene er osmotisk aktive, og patologien er lik osmotisk diaré. Dette kan være en konsekvens av at det absorbtive arealet ikke er stort nok, eller ved mangel på fordøyelsesenzymer eller galle.
+-   **Medikamentindusert diaré** kan komme som en konsekvens av f.eks. antibiotikakurer. Normalt sett vil bakteriefloraen i tykktarmen fermentere næringsstoffer som ikke absorberes i tarmen, og danne kortkjedede fettsyrer. Disse kan absorberes, og de tar da med seg vann og elektrolytter fra tykktarmen. Antibiotika kan redusere mengden bakterier, noe som reduserer kapasiteten for denne reabsorbsjonen av vann og elektrolytter.
+
+#### Hva kan vi gjøre med dette?
+
+Det første man må gjøre ved vedvarende diaré er å utelukke underliggende sykdom. Dersom det er medisinske tilstander som fører til symptomene, må disse behandles. Først og fremst er det viktig å erstatte væske- og elektrolyttapet. Ekstra væske og litt mer salt enn vanlig er ikke en dårlig plan. Dersom man har utelukket sykdom, eller diaréen ikke er vedvarende, kan følgende generelle råd forbedre tilstanden.
+
+-   Tilskudd av probiotika, altså melkesyrebakterier, kan hjelpe. Kombinert med prebiotika/fiber kan effekten være bedre, men dette er det liten dokumentasjon på.
+-   Reduser inntaket av fermenterbare karbohydrater. Disse kan du lese mer om i artikkelen om [irritabel tarm og FODMAP](irritabel-tarm.qmd)
+-   Øk inntaket av fiber. Dette vil redusere tømmingshastigheten fra magesekken. Dessuten vil fermenteringen av fiberet danne korte fettsyrer som kan bidra til økt reabsorbsjon av væske og elektrolytter i tarmen.
+-   Dersom diaréen er osmotisk kan det være positivt å øke inntaket av fett, siden dette reduserer tømmingshastigheten fra magesekken. Er diaréen derimot malabsorbtiv vil et økt fettinntak ikke nødvendigvis være så bra. MCT-fett absorberes lettere enn annet fett, og kan være en fin energikilde i denne situasjonen.
+
+## Forstoppelse
+
+Forstoppelse er et av de vanligste symptomene i den vestlige verden. Definisjonen av forstoppelse går på lav frekvens og vanskeligheter i forbindelse med avføring, men subjektiv opplevelse av å være forstoppet er nok til at man bør gjøre noe med det, siden ubehaget med hard avføring og følelsen av ufullstendig tømming ofte er langt mer plagsom enn det at man må sjelden på do.
+
+Årsakene til forstoppelse er mange, og inkluderer faktorer knyttet til både livsstil, kosthold og sykdom. De vanligste årsakene til forstoppelse hos friske er fysisk inaktivitet, det å bevisst ignorere trangen til å gå på do, for lite fiber, for lite væske og medikamentbruk.  Av medikamenter er overdreven bruk av avføringsmidler eller opiater de vanligste årsakene. En del sykdomstilstander har også forstoppelse som symptom, men disse går jeg ikke inn på i denne omgang.
+
+### Hva kan vi gjøre med dette?
+
+Etter å ha ekskludert sykdom som underliggende årsak er det et par ting man kan gjøre. For det første kan det å få i seg mer fiber og væske være effektivt, i tillegg til å være fysisk aktiv og ikke ignorere trangen til å gå på do når den melder seg.
+
+-   Spis mer fiber. Fiber binder til seg væske og øker massen på avføringen. Fullkornsprodukter, frukt, grønnsaker, belgfrukter og nøtter er gode kilder til fiber.
+-   Drikk mer væske. Sammen med fiberet kan væsken gjøre avføringen mykere, noe som letter prosessen.
+-   Fysisk aktivitet stimulerer muskelbevegelser i tarmsystemet, noe som kan bedre situasjonen.
+
+## Gass
+
+Gassproblematikk kan være plagsomt, mest for den som rammes, men også for andre som befinner seg i nærheten. I tillegg til at dette kan være smertefullt, kan det altså også oppleves som et sosialt problem.
+
+Årsakene til økt gassmengde i tarmsystemet kan være mange, men enkelt forklart dreier det seg enten om **økt tilførsel** eller **redusert utskillelse** av gass. Tilførsel av gass skjer på flere måter, enten ved at vi svelger luft (aerofagi), eller at gassen dannes av bakteriene som finnes i tarmsystemet når de fermenterer partikler fra maten vi spiser. Vi kan gjøre ganske lite med luften vi svelger, annet enn å tygge med munnen lukket og ikke kaste i oss maten. Produksjonen av gass i tarmen kan vi i større grad påvirke med maten vi spiser. Utskillelsen av gass skjer via velkjente veier som raping og flatulens, men en god del av gassen forlater kroppen via luften vi puster ut. En del av gassen absorberes nemlig i tarmen og forlater kroppen via lungene.
+
+I en frisk tarm vil vi finne omtrent 200 mL gass, som vil bestå av nitrogen, oksygen, karbondioksid, hydrogen og metan. Problemer tilknyttet gass vil komme som en konsekvens av at mengden gass øker. Dette kan medføre at man raper og fiser mer, som er en fysiologisk prosess for å bli kvitt denne gassen. Smertene kommer som følge av at gassen fyller opp tarmen, og nervefibre i tarmveggen sender smertesignaler til hjernen når tarmen utvider seg. Vi tåler utvidelse av tykktarmen i langt større grad enn utvidelse av tynntarmen.
+
+### Hva kan vi gjøre med dette?
+
+Gassen som dannes av bakteriene i tarmen skjer ved fermentering av ufordøyde karbohydrater. Dette kan være snakk om fiber eller f.eks. laktose eller fruktose dersom vi fordøyer disse dårlig. Sukkeralkoholer som finnes i en del sukkerfrie pastiller/tyggis og fritt i noe frukt og grønnsaker kan også gi økt gassproduksjon.
+
+Generelle kostråd som kan gi effekt kan være:
+
+-   Spis sakte og tygg maten skikkelig med munnen lukket. Dette vil redusere mengden luft du svelger, og vil også lette fordøyelsen siden maten blir bedre oppdelt mekanisk.
+-   Reduser inntaket av fermenterbare karbohydrater. Disse kan du lese mer om i artikkelen om [irritabel tarm og FODMAP](irritabel-tarm.qmd)
+-   Unngå høyt inntak av fiber, da dette kan øke gassproduksjonen.
+-   Øk inntaket av fett. Dette vil senke hastigheten på tømmingen fra magesekken, og dermed får vi bedre tid til å fordøye karbohydratene i tarmen siden de vil komme i mindre doser. Dette kan også gi økt retensjon av gass som ligger i tarmen, så hovedprioriteten blir å redusere på det som skaper gassen i utgangspunktet.
+
+Disse rådene kan være veldig nyttige dersom du har mye gassrelaterte plager. Først og fremst kan de redusere ubehaget, men de kan også gjøre sosiale sammenkomster litt mer behagelige.
+
+
+Referanser:
+
+-   Mahan L, Escott-Stump S, Raymond J: **Krause's Food and the Nutrition Care Process**: Elsevier Sanders; 2012.\
+-   Forelesninger

@@ -1,0 +1,38 @@
+---
+title: "Ikke tro alt du leser!"
+date: 2013.05.16
+---
+
+[Tilbake til kildekritikk, vitenskap og tankefeil](../../kildekritikk.qmd)
+
+Det bugner over av artikler om helse, trening og kosthold i avisene og på internett. Det som er sunt og bra den ene dagen er usunt og dødelig den andre dagen. Det inntrykket man kan bli sittende igjen med er preget av forvirring og maktesløshet – det blir umulig å navigere i jungelen av råd og tips og informasjon om hva «ny forskning viser».
+
+Som regel er denne typen helseartikler i beste fall grovt overforenklet, og i verste fall direkte misvisende. Her vil jeg gå igjennom noen forholdsregler du kan ta, og også trekke frem noen av de vanligste typene misvisende påstander som fremmes i mediene.
+
+## Vær kritisk
+
+Aviser skrives for å selge, og sensasjoner selger bra. En artikkeloverskrift er først og fremst produsert for å fange leseren, og ikke for å gi et balansert og realistisk inntrykk av hva en sak handler om. Ser du en overskrift som for eksempel «[Ett egg daglig er like ille som å røyke en 20-pakning om dagen](http://www.dagbladet.no/2012/08/17/nyheter/helse/forskning/23001062/)» bør det ringe noen bjeller. Da gjelder det å forholde seg kritisk. Høres det for godt ut til å være sant? Da er det sannsynligvis det. Vær skeptisk til enhver påstand inntil det motsatte er bevist, så unngår du å bli lurt av tabloidavisenes sensasjonelle overskrifter.
+
+## **En ny studie viser at…**
+
+En stor andel av artikler som omtaler helse refererer til vitenskapelige studier. Dette er i utgangspunktet vel og bra, men altfor ofte blir resultater mistolket og feilrapportert. Ofte er studiene det vises til såkalte observasjonsstudier. Slike studier er basert på observasjon av ulike grupper, og man ser ofte på om to eller flere faktorer korrelerer. Problemet med slike studier er at de ikke sier noe om hvordan disse  faktorene henger sammen, og her er det lett å trekke forhastede slutninger.
+
+Et mye brukt eksempel er at iskremsalg og antall drukninger korrelerer i løpet av året. Om sommeren ser man høyere forekomst både av drukning og av iskremsalg. Men dette betyr selvfølgelig ikke at det å kjøpe iskrem øker sjansene for å drukne – på sommerstid er det varmt i været, hvilket fører til økt iskremsalg og flere drukningsulykker som følge av mer tid brukt i og ved vannet. Dette eksempelet høres kanskje åpenbart ut, men slike feiltolkninger av observasjonsdata dukker opp i avisene altfor ofte.
+
+**Les om det å tolke studier i [denne artikkelen](signifikans.qmd "Signifikans og alt det der").**
+
+Derfor, når du leser en artikkel som påstår at «X fører til Y» kan det være veldig lurt å stoppe opp og tenke på hvilke andre faktorer som kanskje kan spille inn her. Er det for eksempel mest sannsynlig at [dagdrømming bak rattet medfører høyere ulykkesrisiko enn mobilbruk](http://www.vg.no/bil-og-motor/artikkel.php?artid=10109958) når man kjører bil, eller kan det være slik at dagdrømming bak rattet rett og slett er mye mer vanlig enn mobilbruk, og at man dermed vil se en høyere forekomst av ulykker forårsaket av dette?
+
+Det hele kan bli enda mer komplisert når man ser på noe så sammensatt som for eksempel sammenhengen mellom kosthold og sykdom. I [denne artikkelen](http://www.vg.no/helse/artikkel.php?artid=10051245) hevdes det at «lavkarbo er farlig for hjertet», noe som er et godt eksempel på en sensasjonsoverskrift. For det første er det veldig uklart hvordan man har definert lavkarbo. Gjelder dette uavhengig av hva som ligger på tallerkenen? Med tanke på hvor stor variasjon man kan ha mellom ulike typer kosthold og matvaner blir det ekstremt overforenklet å kategorisere en bred kostholdsretning på denne måten og sammenlikne dette med «resten».
+
+## Øk treningsinnsatsen med inntil 200 prosent
+
+Ikke alle studier det skrives om er observasjonsstudier. Intervensjonsstudier sees ofte på som de aller beste, siden man da deler folk vilkårlig inn i ulike grupper som gjennomgår ulike intervensjoner, og sammenlikner disse. Man reduserer dermed risikoen for at andre faktorer som skiller gruppene spiller inn på det endelige resultatet. Men slike studier kan også feiltolkes, ofte fordi funnene generaliseres fra studiesettingen til andre situasjoner.
+
+Det at en studie viser at deltakerne som syklet med en treningspartner [økte sin treningsinnsats med 200 prosent](http://www.side2.no/helse/article3624111.ece) sammenliknet med de som syklet alene, betyr ikke nødvendigvis at du vil øke din treningsinnsats like mye dersom du skaffer deg en treningspartner. Det er så mange faktorer som påvirker innsats og motivasjon hos hver enkelt person, at en studie gjort i et laboratorium over 10-minutters-sekvenser ikke nødvendigvis kan overføres direkte til alle treningssituasjoner eller til enhver person. Selvfølgelig kan det være motiverende for mange å trene sammen med noen, men å si at det automatisk dobler treningsinnsatsen er å trekke en svært forhastet konklusjon.
+
+## Det er nok mer komplisert enn som så
+
+En veldig grei regel å huske på når man leser artikler som påstår at «X fører til Y» er at det er som regel mer komplisert enn som så. Én enkelt studie forteller oss veldig lite om hvordan ting henger sammen, og media har en altfor sterk tendens til å blåse opp og overforenkle forskningsfunn.
+
+##### Så, det aller beste å gjøre når du kommer over denne typen helse- og forskningsrelaterte artikler er å være kritisk til det du leser! Verden er dessverre ikke så enkel som den ofte fremstilles i media!

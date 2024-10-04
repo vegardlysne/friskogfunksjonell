@@ -1,0 +1,100 @@
+---
+title: "Hvorfor får man krampe?"
+author: "Martin Hole Hanstveit"
+date: 2013.05.23
+---
+
+Det er ikke uvanlig å se idrettsutøvere og mosjonister som opplever kramper under trening og konkurranser. Andre opplever nattekramper, og da ofte i leggene, noe som kan forstyrre nattesøvnen. Krampe er noe mange opplever fra tid til annen, og det kan være både smertefullt og plagsomt. Det er forholdsvis lite forskning på fenomenet og man er ennå ikke helt sikre på hva som gjør at det oppstår, da mange faktorer spiller inn. Denne artikkelen tar for seg hva kramper er, årsaker til kramper og hva man kan gjøre for å forebygge og behandle kramper.
+
+## Hva er kramper?
+
+Muskelkramper er plutselige, ufrivillige og ofte smertefulle muskelkontraksjoner (sammentrekninger) som oftest gir seg i løpet av noen få sekunder eller minutter. Man opplever da at muskelen “knyter seg” og blir hard, uten at sammentrekningen umiddelbart vil slippe.
+
+Kramper kan være et symptom ved flere sykdommer, særlig i nervesystemet. Det vanligste er likevel at kramper opptrer hos ellers friske personer under søvn, hos gravide eller etter langvarig og intens muskelbruk (Brodal, 2007).
+
+I denne artikkelen er hovedfokuset på aktivitetsrelaterte kramper hos friske individer.
+
+## Årsak til kramper
+
+Man kjenner ikke den nøyaktige grunnen til kramper. Forskere har funnet at kramper er assosiert med repetetiv fyring av aksjonspotensialer (nerveimpulser) og at disse viser et svært likt mønster som gjentar seg konsekvent over tid (Minetto et al. 2013). Disse aksjonspotensialene ligner også på de som blir produsert under voluntære kontraksjoner (viljestyrt muskelbruk). Forskerne mener at fysiologien bak muskelkramper er dårlig forstått på grunn av deres uforutsigbare natur. Det er ikke lett å indusere kramper i en laboratorie-setting med forutsigbarhet.
+
+En vanlig teori er at muskelkramper er forårsaket av dehydrering eller mangel på elektrolytter. Elektrolytter er mineraler med elektrisk ladning i blod og andre kroppsvæsker. Balansen mellom de ulike elektrolyttene er viktig å opprettholde siden de regulerer bl.a. mengden væske i kroppen, surhetsgrad, muskelaktivitet og en rekke helt sentrale prosesser i kroppen. De viktigste elektrolyttene er natrium, kalium, kalsium, magnesium, klor og bikarbonat.
+
+Selv om det ikke er noen bevis for at dehydrering eller elektrolyttmangel er årsaken til muskelkramper kan man ikke totalt utelukke at dette kan være en medvirkende faktor (Schwellnus, 2009).
+
+I artikkelen til Minetto (2013) nevnes disse som de viktigste risikofaktorene for krampe:
+
+-   en historie med kramper i familien
+-   tidligere forekomst av kramper under eller etter trening
+-   økt treningsintensitet og varighet
+-   manglende treningsgrunnlag for aktivitet.
+
+## Hva forskningen sier om risikofaktorer og årsaker
+
+-   Scwellnus (2011) undersøkte risikofaktorer assosiert med muskelkramper blant 49 deltakere i et 56 km langt konkurranseløp. Man kartla muskelsmerter i legger, hamstrings og quadriceps før løpet, samt serum kreatinkinase-aktivitet. 20 deltakere rapportere om kramper underveis i løpet eller innen 6 timer etter løpet. Man fant da at risikofaktorer for krampe var tidligere opplevde kramper, raskere løpshastighet i starten av av løpet, og en høyere kreatinkinase-aktivtet forut for løpet. Høyrere kreatinkinase-aktivitet er en indikator for muskelskade.
+-   Schwellnus, Drew, Collins (2011) undersøkte 210 utøvere i et triathlonløp der 43 individer rapporterte om kramper underveis i løpet. Man fant ingen signifikant forskjell mellom gruppene når man så på serum elektrolyttkonsentrasjon og endringer i kroppsvekt, og konkluderte med at dehydrering og elektrolyttkonsentrasjon ikke er en årsak til muskelkramper under aktivitet. Høyere intensitet og raskere tempo underveis i løpet var derimot større risikofaktorer
+-   I en studie av Shang G, Collins M, Schwellnus MP (2011) undersøkte man 433 deltakere i et triathlonløp. Man fant da at kramper var vanligere hos lengre og tyngre individer, hos de med tidligere skader på leddbånd eller sener, hos personer som holdt svært høy intensitet under løpet, samt hos de med en historie med kramper i familien.
+-   Schwellnus et al. (2004) fant at Hamstring (bakside lår), Quadriceps (forside lår), og Gastrocnemius (legg) utgjorde 95 % av krampetilfellene under et 56 km langt konkurranseløp. Det er også interessant at aktivitetsrelaterte muskelkramper hovedsakelig forekom i musklene som ble utfordret i stor grad under løpingen. Resultatene i denne studien støtter ikke hypotesen om at aktivitetsrelaterte muskelkramper er assosiert med endringer i serum elektrolyttkonsentrasjon eller endringer i væskebalanse under et langdistanseløp.
+-   Minetto et al. (2013) beskriver to hypoteser som omhandler om kramper er av sentral eller perifer opprinnelse (sentralnervesystemet/perifere nervesystem). Hypotesen om sentral opprinnelse går ut på at kramper er et resultat av hyper-eksitabilitet av motoriske nerveceller, og at årsaken stammer fra motorisk cortex (hjernebarken) eller ryggraden. Hypotesen om perifer opprinnelse sier at kramper er et resultat av spontane utslipp fra motoriske nerver eller unormal eksitasjon fra motoriske aksoner.
+
+Det er for øyeblikket ingen konsensus om hvilken hypotese som er korrekt, da mange av observasjonene kan forklares av flere hypoteser. Forfatterne gjør likevel oppmerksom på at nyere studier som involverer bruk av nerveblokkere for å dele involveringen av de sentrale og perifere mekanismer har vist entydig at det nesten helt sikkert er et sentralt engasjement til en viss grad. Hvorvidt det ikke er noen perifer involvering, er imidlertid uklart, men det er ikke urimelig å anta at en kombinasjon av sentral og perifer opprinnelse.
+
+Her er en oversikt over ulike faktorer som kan påvirke:
+
+![](images/clipboard-2953504003.png) \[caption id="attachment_4404" align="aligncenter" width="560"\] Bildetekst: The “altered neuromuscular control” hypothesis for the development of Exercise Associated Muscle Cramping (EAMC).\
+(Schwellnus MP. ,2009)\[/caption\]
+
+## Hva hjelper mot kramper?
+
+Brodal (2007) bemerker at strekk av muskelen ofte er det som mest effektivt stopper krampene, og personer som opplever kramper forsøker instinktivt å strekke ut muskelen for å få den til å slappe av. Grunnen til at strekk av muskulaturen, og noen ganger massasje, er effektivt for å oppheve krampene kan være at dette aktiviserer afferente fibre som via internevroner hemmer motonevronene (Brodal, 2007).
+
+Den mest effektive umiddelbare behandlingen for kramper er hvile og passiv tøyning i følge Schwellnus (2008). Artikkelen hevder også at det viktigste man kan gjøre for å forebygge muskelkramper er å redusere risikoen for tidlig muskelutmattelse.
+
+Det er også mulig at kramper kan komme som et resultat av overaktiv muskulatur. Et vanlig eksempel på dette er Hamstrings (bakside lår) som jobber hardt over lengre tid under for eksempel løping, mens setemuskulaturen ikke bidrar nok/ er ikke sterk nok. Dermed må Hamstrings jobbe hardt både som knefleksor (bøyer) og hofteekstensor (strekker), mens den største hofteekstensoren (Gluteus maximus) underpresterer. Da kan aktiverings- og styrkeøvelser for økt kontakt og kraft i Gluteus maximus være en løsning for å styrke/aktivere muskulaturen som ikke «gjør jobben sin».
+
+Dersom man opplever kramper under løping eller andre spesifikke aktiviteter kan det også være verdt å se på bevegelsesmønster og biomekanikk. Analyse av løpesett og muskulære balanser vil da være fornuftig for å se på lite hensiktsmessig belastning. Har man et løpesett som til stadighet stiller større krav til leggmuskulaturen fremfor å utnytte andre deler av den kinetiske kjeden, kan dette over tid medføre overbelastning og muskelskade.
+
+## Muskelkvalitet og sirkulasjon
+
+En annen viktig faktor som er forsket lite på i sammenheng med kramper, er tilstanden i muskulatur og fascie (bindevev). Dersom det til stadighet er et suboptimalt spenningsforhold og nedsatt sirkulasjon i området krampene viser seg, kan det være en medvirkende faktor til at krampene stadig vender tilbake.
+
+Sirkulasjon, muskelkvalitet og fasciens (bindevevets) tilstand kan alle være viktige faktorer å ta hensyn til, og kan være bakgrunnen for at flere opplever bedring av symptomene ved å få utført muskelterapi regelmessig. Det anbefales da å se på hele den kinetiske kjeden for å sikre optimal sirkulasjon og funksjon. Min erfaring med behandling av aktivitetsrelaterte kramper er at fokus på sirkulasjon og normalisering av muskelspenninger gjennom manuell behandling og tøyning er en fin start før man går over til å undersøke hvorfor krampene er oppstått i utgangspunktet.
+
+Her er en video som viser hvordan man kan bruke massasjerulle å optimalisere spenning og sirkulasjon. Det anbefales å benytte et noe roligere tempo enn vist i [videoen](https://www.youtube.com/watch?v=8caF1Keg2XU) for å gi vevet tid til å respondere på stimuli.
+
+En studie (Hallegraeff et al. 2012) så på tøyning som forebyggende tiltak mot nattekramper hos eldre. De så på effekten av å tøye hamstrings (bakside lår) og triceps surae (bakside legg) rett før leggetid. Deltakerne bestod av 80 personer som alle var eldre enn 55 år, og de opplevd regelmessige nattekramper. Intervensjonen bestod av tøyning av legger, tøyning av kramper, og kombinert tøyning av begge.Etter 6 uker fant de en reduksjon i kramper på 35%.
+
+Tilskudd med magnesium blir ofte nevnt som forebyggende mot kramper, men forskningen viser ingen klare bevis på at det er effektivt (Garrison et al. 2012). Å holde væskeinntaket tilstrekkelig og muligens tilføre noen elektrolytter kan være gunstig for forebygging.
+
+## Oppsummering
+
+Selv om kramper ikke er skadelig, kan de være smertefulle og irriterende. Vedvarende muskelkontraksjoner, som ved langvarig utholdehentstrening, kan ofte resultere i kramper og utøvere innenfor den type idrett er naturlig nok spesielt utsatt for kramper. Det er en rekke mulige årsaker til utviklingen av kramper, og det kan være behov for en grundig undersøkelse dersom man til stadighet er plaget av det. Det er nok en rekke mulige årsaker til kramper og man må derfor se hvert enkelt tilfelle separat før man kan komme frem til årsaker og behandling.
+
+Her er likevel noen generelle tips for å unngå kramper:
+
+-   Sørg for å drikke og spise godt før treningsøkten, og gjør det samme etter treningen.
+-   Gjennomfør en god og grundig oppvarming der du kombinerer bruk av massasjerulle, dynamiske mobiliseringsøvelser og aktiveringsøvelser, samt sørger for å få opp kroppstemperaturen. Her er [en fin artikkel om oppvarming](http://robertsontrainingsystems.com/blog/warm-up/) skrevet av Mike Robertson.
+-   Sørg for en jevn treningsprogresjon der du gradvis øker belastningen innenfor kroppens tåleevne.
+-   Gjennomfør 10-20 minutter med rolig nedkjøring etter tøffere treningsøkter for å holde sirkulasjonen i gang og for å gi kroppen en gradvis tilvenning til hvile.
+-   Hold muskelkvalitet og sirkulasjon i god stand ved regelmessig muskelterapi eller egenmassasje.
+-   Få undersøkt bevegelsesmåte, muskelstyrke og andre faktorer som kan bidra dersom du regelmessig opplever kramper uten å vite årsaken.
+
+Referanser:
+
+1.  Brodal, P. (2007). **Sentralnervesystemet**. 4. utgave Universitetsforlaget , Oslo\
+    Garrison SR, Allan GM, Sekhon RK, Musini VM, Khan KM. (2012) **Magnesium for skeletal muscle cramps**. Cochrane Database Syst Rev. 2012 Sep 12;9:CD009402. doi: 10.1002/14651858.CD009402.pub2.
+
+2.  Hawke F, Chuter V, Burns J (2012) **Factors associated with night-time calf muscle cramps: a case-control study.** Muscle Nerve. 2013 Mar;47(3):339-43. doi: 10.1002/mus.23531. Epub 2012 Nov 21.\
+    Hallegraeff JM, van der Schans CP, de Ruiter R, de Greef MH (2012) **Stretching before sleep reduces the frequency and severity of nocturnal leg cramps in older adults: a randomised trial**. Journal of Physiotherapy, Volume 58, Issue 1,
+
+3.  Schwellnus MP, Drew N, Collins M. (2011) **Increased running speed and previous cramps rather than dehydration or serum sodium changes predict exercise-associated muscle cramping: a prospective cohort study in 210 Ironman triathletes**. Br J Sports Med. 2011 Jun;45(8):650-6. doi: 10.1136/bjsm.2010.078535. Epub 2010 Dec 9.
+
+4.  Schwellnus MP, Allie S, Derman W, Collins M.(2011) **Increased running speed and pre-race muscle damage as risk factors for exercise-associated muscle cramps in a 56 km ultra-marathon: a prospective cohort study**. Br J Sports Med. 2011 Nov;45(14):1132-6. doi: 10.1136/bjsm.2010.082677. Epub 2011 Mar 13.
+
+5.  Schwellnus MP. (2009) **Cause of exercise associated muscle cramps (EAMC)–altered neuromuscular control, dehydration or electrolyte depletion?** Br J Sports Med. 2009 Jun;43(6):401-8. doi: 10.1136/bjsm.2008.050401. Epub 2008 Nov 3.
+
+6.  Schwellnus MP, Drew N, Collins M (2008) **Muscle cramping in athletes–risk factors, clinical assessment, and management,** Clin Sports Med. 2008 Jan;27(1):183-94, ix-x. doi: 10.1016/j.csm.2007.09.006.
+
+7.  Schwellnus MP, Nicol J, Laubscher R, Noakes TD (2004) **Serum electrolyte concentrations and hydration status are not associated with exercise associated muscle cramping (EAMC) in distance runners.** Br J Sports Med. 2004 Aug;38(4):488-92.
+
+8.  Shang G, Collins M, Schwellnus MP.(2011) **Factors associated with a self-reported history of exercise-associated muscle cramps in ironman triathletes: a case-control study.** Clin J Sport Med. 2011 May;21(3):204-10. doi: 10.1097/JSM.0b013e31820bcbfd.

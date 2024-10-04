@@ -1,0 +1,250 @@
+---
+title: "Kosthold og hjertesykdom – hvor står vi i 2013?"
+date: 2013.01.28
+---
+
+24-25. januar arrangerte [landsforeningen for hjerte- og lungesyke (LHL)](http://www.lhl.no/) en kostholdskonferanse med tittelen "Godt for hjertet". Temaet var sammenhengen mellom kosthold og hjertesykdom (HKS). Hensikten var å rydde litt opp i kostholdsdebatten som har rast de siste årene, og se om vi er kommet noen steg nærmere fasiten. Mange meritterte foredragsholdere var invitert, og her kommer en oppsummering av det som ble sagt. Dette er ment å være en oppsummering av hva de ulike foredragsholderne sa, og ikke min mening om det som ble sagt.
+
+**Ettersom det over to dager var hele 20 foredrag i tillegg til en avsluttende paneldebatt, blir dette innlegget en del lengre enn vanlig!**
+
+Generalsekretær i LHL, Frode Jahren, innledet konferansen. Hans hovedbudskap var at den offentlige debatten har gjort folk forvirret. Lavkarbo er den ene dagen livsfarlig, mens det neste dag er det beste som finnes. Han beskrev et kosthold han selv ikke hadde noen problemer med å anbefale til LHL-medlemmene, og poengterte at dette kostholdet både kunne kalles lavkarbo og samtidig gå inn under myndighetenes matvarebaserte kostråd. Mange andre merkelapper kunne sikkert også tas i bruk. Han påpekte også at vi skal være takknemlige for at ny kunnskap potensielt kan forandre rådene vi gir, som på ingen måte er hugget i stein.
+
+> Hva man kaller kostholdet er langt mindre viktig enn hva man faktisk spiser.
+
+## Helsedirektoratet og Folkehelseinstituttet
+
+Konferansen ble ledet av den kjente twitterlegen Wasim Zahid, og ordet gikk først til representanter fra helsedirektoratet og folkehelseinstituttet.
+
+Knut-Inge Klepp snakket litt om Helsedirektoratets innsatsområder. Kronisk sykdom er en konsekvens av risikofaktorer, som er en konsekvens av atferd som igjen styres av bakgrunnsfaktorer som oppvekst, utdanning, arbeid og lignende. Det er først og fremst disse bakgrunnsfaktorene man ønsker å påvirke, siden det er disse som ligger til grunn for valgene vi tar.  Videre pekte han på den offentlige debatten, som i stor grad har dreiet seg om slanking. Ut ifra nyere data argumenterte han for at debatten måtte dreie seg mer over på helseaspektet, siden helseeffekten av å slanke seg utover det å redusere vekten ved fedme er diskutabel. Til slutt viste han noen tall fra den nyeste kostholdsundersøkelsen der vi blant annet kunne se at bare 14% av befolkningen følger rådene om grønnsaksinntak.
+
+> Vær kritisk til helseeffekten av slanking
+
+Øyvind Næss fra FHI snakket om sammenhengen mellom sosiale skjevheter og forekomsten av HKS. Det er ikke nytt at forekomsten av disse sykdommene er høyere i lavere sosiale klasser, og spørsmålet Næss stiller er om dette er noe vi skal ta høyde for i forebyggingsarbeidet. Ved en høyrisikostrategi sikter man tiltakene inn på de med økt risiko, mens massestrategien siktes inn på befolkningen som helhet. Et viktig poeng er hvorvidt en massestrategisk tilnærming vil bidra til å øke de sosiale forskjellene, da det typisk er de som fra før tilhører lavrisikogruppene som også i størst grad nåes ved en slik fremgangsmåte (eksempelvis kostråd). Samtidig vil strukturelle tiltak, som f.eks. reguleringer, kunne flytte hele normalfordelingen av risikofaktorer til det bedre, og dette vil først og fremst gagne de som fra før har høy risiko.
+
+> Øker forskjellene jo mer vi forebygger?
+
+## Epidemiologi
+
+Epidemiologi er læren om befolkningshelse, sykdommers forløp, årsak og konsekvens, utbredelse og demografi (wikipedia). Innen ernæring omfatter dette blant annet større observasjonsstudier, kohortstudier, kostholdsundersøkelser og helsestatistikker.
+
+### Ernæringspolitikk og hjerte- og karsykdommenes epidemiologi
+
+*v/Dag Thelle, professor emeritus ved Universitetet i Oslo*
+
+Thelle viste til statistikker både når det kommer til dødelighet og sykelighet av HKS. Kort oppsummert kan vi si at dødeligheten av disse sykdommene nådde toppen på midten av 70-tallet og har siden vært fallende. Sykeligheten i befolkningen har også vært fallende, og er i denne perioden redusert med 75 %. For kvinner er det imidlertid antydninger til stigende insidens.
+
+For å se på effektene av kostrådene som er gitt, ble det vist til statistikker som viser at totalkolesterolet, blodtrykket og inntaket av mettet fett er noe redusert, samtidig som gjennomsnittlig BMI har økt. Vi røyker også stadig mindre.
+
+### Kausalitet og forstyrrende faktorer i epidemiologi
+
+*v/George Davey Smith, professor ved University of Bristol*
+
+Det er en kjent sak at observasjonsstudier kan gi grunnlag for å danne hypoteser, men ikke direkte si noe om årsak og virkning. Dette skyldes det som kalles konfunderende faktorer, som ifølge Smith i seg selv kan medføre signifikante assosiasjoner i denne typen studier. Dette kan blant annet være med å forklare hvorfor man finner ulike assosiasjoner i ulike studier, siden det kan være ulik grad av forstyrrende elementer.
+
+Han presenterte så tre triks for å kunne bedre tolkningen av resultater fra slike studier. Det å sammenligne med antakelig ikke-kausale faktorer som fars røyking under mors svangerskap, sammenligne med resultater fra andre studier og mendeliansk randomisering som har med gener å gjøre, som ikke vil være relatert til konfunderende faktorer.
+
+## Forklaringsmodeller
+
+Hva er årsakene til hjertesykdom? Det er selvfølgelig umulig å gi et definitivt svar på dette, da det er mange faktorer som bidrar. To av foredragsholderne tok opp dette med ulike forklaringsmodeller.
+
+### Kolesterolmyten og mislykkede kostråd
+
+*v/Uffe Ravnskov, dr.med og docent, Danmark*
+
+Lipidhypotesen sier at mettet fett øker kolesterolet, og at økt kolesterol så fører til aterosklerose og HKS. Ravnskov mener at det ikke er vitenskapelig belegg for å hevde at denne sammenhengen er reell.
+
+Når man bytter ut mettet fett med flerumettet fett så viser store observasjonsstudier at risikoen for HKS synker. Vi kan derimot ikke si hvorvidt det er reduksjonen av mettet fett eller økningen av flerumettet fett som er grunnen til disse observasjonene, eller om dette i det hele tatt har en effekt. Han påpekte at ulike populasjoner med like kolesterolnivåer har svært ulik forekomst av HKS, og at de med lavt kolesterol er åreforkalket i like stor grad som de med høyt kolesterol. Dette gjelder ifølge Ravnskov også for pasienter med familiær hyperkolesterolemi, der det heller ikke i denne gruppen er en sammenheng mellom kolesterolnivåene og sykeligheten.
+
+Videre ble det trukket fram store kohortstudier som Framingham der en reduksjon av kolesterolet ikke gav utslag i mindre hjertesykdom over tid. Når det gjelder studier på kolesterolsenkende medikamenter, så er det heller ingen dose-responsforhold mellom hvor mye man reduserer kolesterolet og risikoreduksjon. Risikoen reduseres like mye uavhengig av om man reduserer kolesterolet litt eller mye.
+
+### Inflammasjon som den underliggende årsaken til sykdom?
+
+*v/Guro Valen, professor, Universitetet i Oslo*
+
+Åreforkalkning er en kronisk inflammatorisk prosess, der blodfett og immunceller avleires inni blodårene. Årsakene til inflammasjonen kan være bakteriell, viral eller aseptisk (mekanisk skade eller lignende).
+
+Inflammasjonen kan altså bidra til å utvikle plakk, men den kan deretter føre til det som heter plakkruptur, der innholdet i plakket kan lekke ut i blodbanen. Da koagulerer blodet, og vi får dannet en blodpropp, som deretter kan sette seg fast i en mindre åre og lage infarkt.
+
+Fettvevet er kroppens største endokrine organ, og produserer blant annet en rekke proinflammatoriske forbindelser. På denne måten kan overvekt være med å bidra i denne prosessen.
+
+## Næringsstoffene
+
+Mat inneholder næringsstoffer, og næringsstoffene er veldig viktige. Men hvilken rolle spiller de ulike næringsstoffene for helsen vår og sykdomsrisikoen?
+
+### Anbefalingene for fett, Frankrike som eksempel
+
+*v/Philippe Legrand, professor, Agrocampus Ouest*
+
+Når man skal gi anbefalinger for fett er det viktig å ta hensyn til både minimumsbehovene og forebygging av eventuell sykdom ved høyt inntak. Vurderingene på disse feltene skal føre frem til en ADI-verdi, som gir grunnlag for anbefalinger.
+
+Legrand har vært med i utarbeidelsen av de franske anbefalingene, og uansett hvilken sykdom man tok utgangspunkt i, så er det ikke sett noen gunstige effekter av å gå under 30-35 E% fra fett. Samtidig har de også kalkulert at med gjennomsnittlig fordeling av fettsyrer må inntaket være på 30 E% for å dekke behovet for de essensielle fettsyrene. De franske anbefalingene er dermed satt til 35-40 E% fra fett.
+
+Når det gjelder sammenhengen mellom fett i kostholdet og kroppsvekt, er det ingen sammenheng mellom disse hos friske mennesker. For insulinresistente er det derimot sett en høyere vektøkning når fettinntaket reduseres, og i studier ser man også jevnt over best bedring av metabolsk syndrom og risikomarkørene for HKS når fettinntaket økes. Dette er likevel ikke et argument for å spise mer fett, men for å optimalisere fordelingene av makronæringsstoffene.
+
+Fett er ikke bare fett, og vi fikk presentert en del informasjon om de ulike fettsyrene. Vi kjenner alle til omega-3 og omega-6, og vet at det bør være et fornuftig forhold mellom disse. Legrand har satt minimumsbehovet til 1 E% omega-3 og 2 E% omega-6. Også blant de mettede fettsyrene er det store individuelle forskjeller, og det er bare et fåtall av disse som potensielt skaper problemer ved opphopning. Mange av de andre har positive helseeffekter. Enumettet fett er stort sett nøytralt, men ved høyt inntak over 20 E% er det assosiert med økt risiko for HKS. Derfor er også mengdeforholdet mellom de ulike fettsyrene viktig!
+
+> Skal fettinntaket økes, må de ulike fettsyrene økes proporsjonalt med hverandre
+
+### Transfett i mat, fremdeles et problem?
+
+*v/Steen Stender, professor og laboratoriedirektør, University of Copenhagen*
+
+Tidligere var transfettinntaket mye høyere enn det er i dag. Nye produksjonsmetoder har minimert innholdet av disse fettsyrene, som de fleste nå er enige om at er negative for helsen. Stender illustrerte dette med å si at transfettet innehar de dårlige egenskapene til både mettet og umettet fett, og fører til en reduksjon av HDL og økning av LDL. Samtidig forklarer ikke kolesteroleffektene hele den negative effekten av transfett, og det er indikasjoner på at transfettet kan fungere motsatt av omega-3.
+
+I Danmark er det lovgivning mot transfett, og produserer man mat som inneholder mer enn 2 % av fettet i form av transfett, så er strafferammen 2 år i fengsel! I Norge har vi ikke en slik lovgivning, og Stender diskuterte fordelene med en slik regulering.
+
+For det første ble det poengtert at for befolkningen som helhet så er ikke transfett et stort problem, men om vi ser på subgrupper så er det små grupperinger som har et høyere inntak. Det er først og fremst hos disse en slik regulering vil ha en merkbar effekt. Fordeler med regulering er at vi ikke trenger å opplyse befolkningen om transfett, siden vi ikke eksponeres for det. Samtidig vil det ikke ha noen betydning for verken vareutvalget eller friheten til å velge hva man vil spise. Uten lovgivning må vi fortsette folkeopplysningen, samtidig som vi må fortsette å merke matvarene med innholdet av transfett. Denne tilnærmingen risikerer å ikke treffe de som er i risikogruppen.
+
+### Hvilken rolle har karbohydrater i kostholdet?
+
+*v/Birger Svihus, professor, Universitetet for miljø- og biovitenskap*
+
+Det totale inntaket av enkle sukkerarter hos en gjennomsnittlig nordmann er på 51 kg/år, der over halvparten kommer fra tilsatt sukker. Det totale inntaket av stivelse er beregnet til 128 kg/år, der hovedkilden er korn. Svihus påpeker at selv om karbohydrater i seg selv ikke nødvendigvis har en negativ effekt på helsen, så er de absolutt knyttet til helseproblemer når vi spiser for mye av dem.
+
+Når vi spiser for mye karbohydrater så kan vi omdanne overskuddet til fettsyrer i leveren, i en prosess som heter de novo lipogenese (DNL). Kapasiteten til denne prosessen viser seg å kunne overskride 500g/dag, og er dermed ikke en begrensende faktor for de fleste. Fettet som dannes her er mettede fettsyrer, og jo mer fett vi lager i leveren, jo høyere innhold får vi av triglyserider, VLDL og LDL i blodet. På denne måten kan et overskudd av karbohydrater være forbundet med en del helseproblemer. Dette snakket Elizabeth Parks mer om senere.
+
+### Hvilken rolle har proteiner i kostholdet?
+
+*v/Margriet Westerterp-Plantenga, professor, University of Maastricht*
+
+Proteiner er et viktig makronæringsstoff, men det har både positive og negative effecter. De negative effektene ved høyt inntak rammer først og fremst blodtrykk og nyrer, mens de positive effektene inkluderer økt metthetsfølelse og økt energiforbruk. De fleste er i nitrogenbalanse ved et inntak på 0,6g/kg. Det relative proteinbehovet synker med alderen, noe som er logisk iom at proteinet først og fremst er nødvendig for vekst.
+
+Inntak av protein endrer substratoksidasjonen i favør fett, noe som betyr at fettforbrenningen øker ved å spise mer protein. Samtidig er ikke protein = protein, som med karbohydrater og fett så finnes det også her ulike typer. Da er det selvfølgelig snakk om aminosyresammensetningen. Det er vist at ulike proteiner gir ulikt utslag på metthet.
+
+Et vanlig problem ved vektnedgang, er at for å opprettholde energiunderskuddet så må vi sikte på å opprettholde metthet, opprettholde energiforbruket og spare fettfri masse i størst mulig grad. Plantenga påpeker at protein gjør alle disse tingene. Proteinbehovet oppgis ofte som andel av totalt energiinntak, og anbefalingene sier generelt at 15 E% bør komme fra protein. Dette gjelder bare ved energibalanse, og det relative proteinbehovet øker i energiunderskudd. Selv om ulike proteinmengder ved kalorikontrollerte dietter ikke gir ulikt vekttap, så gir økt proteintap et høyere andelsvis fettap, noe som understreker at protein bidrar til å spare fettfri masse.
+
+Plantenga anbefaler derfor ikke en total økning av proteininntaket, men at man sikter mot å beholde det absolutte proteininntaket, og da må nødvendigvis andelen økes. Mengdemessig er det ifølge henne tilstrekkelig med rundt 1,2g/kg for å oppnå de ønskede effektene.
+
+## Kosthold
+
+Etter å ha hørt litt om hvordan de ulike næringsstoffene i seg selv påvirker helsen vår, var det på tide å sette det inn i en litt større kontekst. Her følger en kort oppsummering av en rekke foredrag som tar for seg kostholdets betydning som helhet, og hvordan endringer i kostholdet påvirker oss!
+
+### Å bytte ut mettet fett med karbohydrater og risikoen for hjertesykdom
+
+*v/Marianne Jacobsen, professor, Aarhus Universitet*
+
+Historisk sett har det lenge vært et mål å redusere befolkningens inntak av mettet fett, men for å redusere på noe så må vi nødvendigvis øke på noe annet for å opprettholde energibalansen. Men hva skal vi erstatte dette fettet med?
+
+I sin metaanalyse av studier som har sett på assosiasjoner på dette feltet viser Jacobsen klare tall på at det å erstatte et næringsstoff med et annet helt klart påvirker risikomarkører for hjertesykdom på ulike måter. Blant resultatene som ble presentert fortalte hun at det å bytte ut mettet fett med flerumettet gav en redusert risiko, men dersom karbohydrater erstattet det mettede fettet så økte risikoen. Dette bildet ble ytterligere nyansert når man tok hensyn til karbohydratenes glykemiske indeks, der lavglykemiske karbohydrater ser ut til å redusere risikoen mens de høyglykemiske gir en markant risikoøkning.
+
+Det er med andre ord ikke likegyldig hva som erstatter hva, og metaanalyser på området kan være vanskelig å tolke da det ofte ikke er spesifisert hva som har erstattet hva.
+
+### Karbohydrater og fett i kostholdet
+
+*v/Elizabeth Parks, professor,University of Texas*
+
+Kostdebatten handler hovedsakelig om kostholdets innhold av fett og karbohydrater. Parks fortalte om en intervensjon med et karbohydratrikt kosthold der man fant at blodnivåene av triglyserider skjøt i været. Dette skyldes induksjonen av DNL, som Birger Svihus fortalte om. Denne situasjonen kalles karbohydratindusert hypertriglyseridemi, og risikoen for dette er høy hos de med metabolsk syndrom eller høye fastende triglyserider. Dette vil ikke løses så lenge man fortsetter å spise mye karbohydrater.
+
+Økt aktivitet av DNL fører til økte nivåer av VLDL, som igjen gir økte nivåer av LDL. Jo mindre fett og mer karbohydrater man spiser, jo mer øker aktiviteten av DNL, og jo mer vil også nivåene av triglyserider og VLDL øke. Det har vært diskusjon om hvorvidt DNL skjer hos mennesker, men nå er det overbevisende dokumentasjon om at dette er tilfelle, selv om man har sett at graden av DNL varierer mye mellom enkeltindivider.
+
+### Individualisering av kostholdsråd
+
+v/Fedon Lindberg, spesialist i indremedisin
+
+> Vi kan mene mye om hva som er optimalt, men det som betyr noe er hva pasienten kan klare å gjennomføre. Befolkningen er ikke homogen, og vi kan ikke gi samme råd til alle!
+
+Hele 73 % av befolkningen er kostholdsforvirret, men dette er ikke nødvendigvis negativt, for dette kan være de som fra før var helt uinteressert. Debatten om hva som er fornuftig å spise raser, men ifølge Lindberg kan det hele gjøres veldig enkelt med å ta utgangspunkt i følgende tre punkter:
+
+1.  Spis mest mulig naturlig mat
+2.  La mesteparten komme fra planteriket
+3.  Ikke spis for mye om gangen
+
+Et poeng som ble trukket fram er at vi er biokjemisk ulike, noe som vil si at det er anatomiske og fysiologiske variasjoner i hvordan vi responderer på de ulike miljømessige faktorene. I tillegg til våre egne forutsetninger, har vi også en bakterieflora som har et mye større genom enn oss selv, som også spiller inn.
+
+> Det finnes sannsynligvis ingen som er normale, de finnes bare i statistikken
+
+Fedon drøftet muligheten for å gi personifiserte ernæringsråd, og nevnte tre muligheter. Vi kan teste for genetiske mutasjoner. Farmakogenomics er fagfeltet som går på hvordan gener og medikamenter interagerer, og på samme måte er nutrigenomics et stadig voksende fagfelt som tar for seg interaksjoner mellom kosthold og gener. Vi kan også bruke de over 650 kjente biomarkørene som kan måles og vi kan ta utgangspunkt i spørreskjema om kosthold/livsstil.
+
+> Nutrigenomics-tilnærmingen har mange potensielle fordeler og ulemper, men dette feltet er enda ikke klar for beste sendetid!
+
+### En matvare er ikke bare en matvare
+
+*v/Anna Haug, dr. philos, Universitetet for miljø- og biovitenskap*
+
+Næringsinnholdet i matvarene vi spiser varierer mye, og verdiene i matvaretabellen er bare å anse som gjennomsnittsverdier. Hvordan maten fremstilles har mye å si, og som et eksempel dro hun frem at seleninnholdet i maten kan økes ved å bruke kunstgjødsel eller å tilsette det i dyreforet.
+
+Selv har hun ved å benytte to ulike kyllingfor vist at fettsyresammensetningen i foret påvirker fettsyresammensetningen i kyllingkjøttet, som igjen påvirket fettsyresammensetningen i forsøkspersonene som spiste kyllingen.
+
+### Kosthold for vektreduksjon og vedlikehold
+
+*v/Serena Tonstad, professor og overlege, Oslo Universitetssykehus*
+
+Behandlingen av overvekt må i like stor grad rettes mot opprettholdelse av redusert vekt som den gjør mot selve vektnedgangen. Energireduksjon gir vektnedgang, men det kan gi utfordringer når det kommer til vedlikeholdsfasen i etterkant. Nedgangsfasen varer vanligvis rundt 6 mnd, men vedlikeholdsfasen gjelder fra her og ut livet.
+
+Det vanlige målet med vektreduksjonsintervensjoner er å oppnå et vekttap på minst 5 % i det lange løp. Da gjelder det å fokusere på vedlikeholdsfasen og finne løsninger som fungerer på sikt for det enkelte individet. Selv har Tonstad på seg flere hatter i løpet av sin kliniske hverdag, noe som skulle understreke viktigheten av individualisering. Hvilken sammensetning av fett og karbohydrater passer best for den enkelte, og hvilke andre faktorer bidrar til å unngå å gå opp igjen i vekt er viktige ting å ta hensyn til!
+
+> Spising fyller ikke bare fysiologiske behov, og stimuleres heller ikke alltid bare av disse
+
+### Lavkarbo og vektreduksjon
+
+*v/Espen Rostrup, lege og doktorgradsstipendiat, Haukeland Universitetssykehus*
+
+Vi vet at en moderat vektreduksjon gir helsegevinst, og spørsmålet Rostrup tok utgangspunkt i er hvilket verktøy vi skal bruke. Han viste til de offentlige anbefalingene for vektreduksjon, og argumenterte for at lavkarbo fint kan inngå i disse. Hans tilnærming er moderat og individtilpasset, og tar utgangspunkt i en større eller moderat reduksjon i stivelsesrike produkter, en eventuell moderasjon av fruktinntaket og et kutt av varer med tilsatt sukker. Han påpekte at et av problemene i debatten er hvordan man definerer kostholdet.
+
+> Lavkarbo bør inngå som et naturlig behandlingsalternativ
+
+Andre halvdel av foredraget tok oss med på en reise i lipoproteinenes verden, der han blant annet fortalte om ulike varianter av LDL-molekylet og hvordan disse spiller inn i sykdomsprosessen. En aterogen lipidprofil kjennetegnes av små, tette LDL, lav HDL og høye triglyserider. Fordelingen har imidlertid mindre å si når kolesterolet totalt sett er lavt. Det å se på totalkolesterolet eller LDL isolert er en alt for enkel løsning!
+
+I Rostrups eget forskningsprosjekt gav 4 ukers intervensjon med lavkarbo en positiv effekt på kolesterolet. Selv om noen av deltakerne økte sitt totalkolesterol, var den totale lipidprofilen mindre aterogen når man så litt dypere i verdiene.
+
+### Lavkarbo eller høykarbo, mye eller lite fett?
+
+*v/Kjetil Retterstøl, overlege og førsteamanuensis, Oslo Universitetssykehus*
+
+Ketogene dietter har lenge vært brukt ved medisinresisten epilepsi hos barn, og det er identifisert mange bivirkninger av et slikt kosthold hos disse. Retterstøl har nylig gjennomført et forskningsprosjekt på sine egne studenter, der de i tre uker har intervenert med en ekstrem variant av lavkarbo. Endepunktene var total- og LDL-kolesterol, og selv om effektene viste stor individuell variasjon, hadde de fleste fått signifikant økte nivåer. Han er bekymret for at denne effekten i populsjonen vil øke forekomsten av hjertesykdom i årene som kommer.
+
+Han understreket at dette var snakk om en ekstremvariant, og selv om noen absolutt kunne komme godt ut av en mer moderat tilnærming så er kunnskapsgrunnlaget alt for mangelfullt til å anbefale dette i større skala. Det er for eksempel ingen studier med lavkarbointervensjoner som har sett på harde endepunkter som hjertesykdom eller hjertedød.
+
+### Slankere og friskere med middelhavsdiett
+
+*v/Fedon Lindberg, spesialist i indremedisin*
+
+Vi ønsker å bli slankere, men ikke på bekostning av at vi blir sykere. Lindberg repeterer det han nevnte i forrige foredrag om gjennomførbarhet, og sier at dette også gjelder på populasjonsnivå.
+
+> Det at nordmenn skal slutte å spise brød er det bare å glemme
+
+Det som er viktig å fokusere på er kvaliteten på matvarene. Kvalitet foran kvantitet er mye mer gjennomførbart, og vil dermed være et mer effektivt fokusområde. Siden inflammasjon er sentralt for mange livsstilssykdommer, så må vi sikte mot et antiinflammatorisk kosthold. Isolerte effekter på kolesterolet gir ikke grunnlag for å hevde at fett eller mettet fett er noe som må reduseres.
+
+> Det greske ordet diaita betyr livsstil, ikke diett
+
+Den tradisjonelle middelhavsdietten er ikke tilpasset det moderne samfunnet, og må moderniseres. Den glykemiske belastningen må reduseres for å tilpasses dagens reduserte aktivitetsnivå, og inntaket av essensielle fettsyrer må sikres. Frukt og grønnsaker nevnes ofte sammen, men dette må det bli en slutt på. Grønnsaker inneholder langt mer næringsstoffer, mens frukt på sin side inneholder mer sukker. Vi må i større grad fokusere på inntaket av grønnsaker! Dette kaller Fedon for en lavglykemisk middelhavsdiett, og argumenterer for at dette er det kostholdet som har best støtte i forskningen per i dag.
+
+## Kostrådene
+
+### **Det vitenskapelige grunnlaget for kostrådene**
+
+*v/Aage Tverdal, seniorforsker, Universitetet i Oslo*
+
+Skal vi virkelig sitte på fasiten før vi setter i gang tiltak? Nei mener Tverdal, for når kan vi være sikker på at det vi tror er riktig? Dødeligheten av HKS er i dag en fjerdedel av det den var på 70-tallet, så noe har vi åpenbart gjort riktig. Vi røyker mye mindre enn før, noe som selvfølgelig også har spilt inn.
+
+> Mange sykdommer konkurrerer om en røykers liv
+
+I 2012 ble det publisert en stor rapport som heter Global Burden of Disease, som er en sammenfatning av dødsårsaker. Av de 10 øverste risikofaktorene som nevnes syv av dem kostrelaterte, så det er absolutt på sin plass å gi kostråd til befolkningen.
+
+Strukturelle tiltak kan, som nevnt i foredraget til Øyvind Næss, bidra til å flytte hele normalfordelingen i en befolkning. Utviklingen her i Norge viser at totalkolesterolet er redusert, andelen med høyt blodtrykk er drastisk redusert, mens gjennomsnittlig BMI har økt.
+
+### Kostrådene, hvordan dagens kunnskap oppsummert munner ut i konkrete råd?
+
+*v/Rune Blomhoff, professor, Universitetet i Oslo*
+
+Ulike studier egner seg til ulike situasjoner. For å gi kostråd må vi derfor basere oss på mange ulike studietyper. Det kan for eksempel ikke forsvares å sette i gang randomiserte kliniske studier når det gjelder toksikologiske vurderinger.
+
+Tidligere bla kostrådene basert på næringsstoffanbefalinger, men ettersom man nå har mer og mer forskning på matvarenivå vil rådene i større grad baseres på disse. Hovedproblemstillingen når man gir kostråd er forebygging av kroniske sykdommer, noe som eksemplifiseres med hvorvidt vi utvikler HKS når vi er 50-60 eller 80-90 år.
+
+Samtidig så har vi ingen fasit. Kostfaktorer påvirker epigenetiske mekanismer som kan påvirke sykdomsrisikoen på lang sikt. Her har vi ikke god oversikt enda.
+
+> Spørsmålet om kausalitet mellom kosthold og sykdom er en av de vanskeligste problemstillingene i naturvitenskapen
+
+Kostrådene vi har i dag bygger på store, systematiske kunnskapsoppsummeringer og er tiltenkt den friske delen av befolkningen. Samtidig er det viktig å skille mellom individrettede og populasjonsrettede kostråd. Kostrådene til den generelle befolkningen må nødvendigvis være generelle! Det er heller ikke hvert enkelt kostråd isolert som er viktig, men helheten av alt vi spiser.
+
+## Debatt
+
+Konferansen avsluttet med en debatt. Dag Thelle ledet diskusjonen, og i panelet satt Rune Blomhoff, Kjetil Retterstøl, Fedon Lindberg og Birger Svihus.
+
+Kort fortalt ble debatten en uryddig affære, siden det ble tatt opp mange spørsmål om gangen og panelet ikke fikk anledning til å diskutere noen av punktene i særlig grad. Det var bred enighet innad i panelet om at det å innføre transfettlovgivning på lik linje som i Danmark ville være et positivt tiltak, samtidig som det også virket å være lite uenighet i at sukker var et problemområde, og at tiltak som vil redusere befolkningens sukkerinntak var velkommen. Her dro Svihus fram dette med å promotere kunstig søtet drikke som et godt alternativ til sukkervariantene.
+
+Dette med å fokusere på ting man er enige om ble også poengtert av flere av debattantene, noe som er en fornuftig tilnærming til debatten. Det er tross alt mange ting alle sammen støtter, som eksempelvis det å spise mer grønnsaker, mer fisk og mindre sukker. Fedon Lindberg uttalte at dersom disse tingene kom på plass så hadde vi kommet et godt stykke på vei mot bedre folkehelse!
+
+Retterstøl argumenterte for å gjeninnføre 40-årsscreeningen, der man ved en screening av alle 40-åringer (eventuelt en annen alder) kunne plukke ut høyrisikoindivider. Birger Svihus la til at han også ønsket en oral glukosetoleransetest ved denne screeningen, siden dette kan identifisere personer som vil dra spesiell nytte av en karbohydratrestriksjon.
+
+Et siste godt poeng fra Fedon Lindberg var at helsejournalister må forstå at de har en ganske stor påvirkningskraft, og at et fokus på å øke kompetansen disse har til å tolke og formidle forskningsresultater vil bidra med å gjøre folkeinformasjonen fra media langt mer ryddig og nyttig.

@@ -1,0 +1,47 @@
+---
+title: "Soyaprotein, østrogen og uteliggere - Hvorfor du skal være obs på feilkilder"
+author: "Thomas Olsen"
+date: 2013.05.27
+---
+
+[Tilbake til kildekritikk, vitenskap og tankefeil](../../kildekritikk.qmd)
+
+Faglige diskusjoner om ernæring i sosiale medier, på blogger, forum og ellers raser om dagen. Det dras hyppig frem referanser fra databaser som pubmed, medline og så videre for å underbygge og vinkle argumentene. På den ene siden er det veldig fint at man engasjerer seg såpass at man underbygger argumentene sine med faktisk dokumentasjon. En annen ting er derimot å forstå og tolke denne dokumentasjonen samt metodene som blir brukt.
+
+Vegard har tidligere sett på og gitt en innføring i [statistisk metode og hvordan det uttrykkes](signifikans.qmd "Signifikans og alt det der"). I denne artikkelen skal ja ta en titt på en viktig feilkilde som kan forekomme i kvantitative studier, nemlig uteliggere. Ikke som i hjemløse, men som i ekstremverdier, heretter referert til som outliers. Først ved hjelp av et hypotetisk teskje-eksempel, og deretter et eksempel på en slik studie fra virkeligheten som stadig dras frem når det diskuteres proteinkvalitet.
+
+## Hva er en outlier?
+
+Når vi benytter oss av kvantitative forskningsmetoder betyr det at det vi er interessert i å undersøke kan måles i tall, og resultatene presenteres ofte som gjennomsnitt. En outlier vil kunne påvirke dette gjennomsnittet grunnet dens ekstremt høye (eller lave) verdi, og dermed gjøre resultatet svært annerledes sammenlignet med hvordan det ser ut uten denne verdien.
+
+Dersom vi deler datamaterialet i fire like deler, så kalles de tre punktene som havner mellom delene for kvartiler (hhv Q1, Q2 og Q3). Dette brukes ofte for å dele et datasett inn i kategorier etter størrelsen på verdiene. Interkvartil bredde (IQR, inter-quartile range) er avstanden mellom Q1 og Q3, og sier noe om hvor spredt dataene er. En outlier er definert som en verdi som er større enn Q3+1.5xIQR. Dersom verdien overskrider Q3+3xIQR, defineres det som en ekstrem verdi (det samme gjelder selvfølgelig om en verdi er tilsvarende lavere enn Q1). Dette forteller oss hvor mye en verdi skiller seg fra resten av datasettet. Dersom det er stor spredning (stor IQR), så må en verdi skille seg mye fra resten for å bli kategorisert som en outlier, og er dataene godt samlet så må det mindre til.
+
+For å eliminere den potensielle effekten outliere og ekstreme verdier har på gjennomsnittet kan man ganske enkelt bruke en annen statistisk modell når man skal presentere resultatet, som for eksempel median, eller interkvartil bredde. Det finnes utallige veier rundt dette problemet når man bruker SPSS (statistisk programvare), hvorav et av dem er å eliminere deltakeren helt fra studiet. Dette bør derimot vurderes nøye, og det skal også nevnes hvorfor deltakere eventuelt ekskluderes i metodedelen.
+
+**Les også: [Ikke tro alt du leser!](http://www.friskogfunksjonell.no/ikke-tro-alt-du-leser/ "Ikke tro alt du leser!")**
+
+## Et banalt eksempel
+
+La oss si at vi har fem deltakere som skal rangere smaken av rent BCAA-pulver (uten smakstilsetninger) på en skala fra 1 (det smaker avføring) til 100 (det smaker himmelsk). De fleste med normal smakssans vil gi en dårlig score, la oss si et sted fra 1-3, mens sistemann, sannsynligvis fryktelig sær i matveien, gir en score på 100. Her vil 100 være en ekstremverdi som varierer i stor grad fra resten fra resten av poengsummene. Med andre ord er dette en outlier som påvirker gjennomsnittet.
+
+Etter måling hos de fire første deltakerne har smaken en snittscore på ca 1.75, noe som naturligvis representerer en elendig score. Med sistemanns score på 100 vil snittscoren plutselig hoppe til 21.4, som selvsagt ikke blir representativt! I dette eksempelet vil altså 100 karakteriseres som en outlier, eller en ekstremverdi som påvirker utvalget.
+
+## Blir du mindre mann med soya?
+
+For å ta et eksempel fra virkeligheten kan vi se på studien som er gjennomført av Goodin og kolleger (1), hvor resultatene angivelig viser at soyaprotein gjør oss menn til vandrende østrogenmonstre, senker testosteronnivåer og hindrer gains. Denne studien trekkes hyppig frem av alt fra coacher, guruer, internetthelter eller andre abstraktryttere som kun er interessert i å lese konklusjonen til studien uten å sette seg inn i metodene som er brukt. Studien viser at testosteronnivåene sank med 19 % etter inntak av soyaprodukter, som lenge førte, og fortsatt fører til at soyaprotein omtales som uheldig for menn spesielt.
+
+Har man imidlertidig det jeg skrev over her om ekstremverdier i bakhodet, og tar en titt på figur 1, ser man kanskje hvorfor resultatene ble som de ble. Som vi ser av figuren under, er testosteronnivåene til deltaker SP #2 langt høyere ved baseline enn de andre deltakerne, og burde vært vurdert ekskludert for å få bedre, mer representative resultater. Testosteronnivåene sank også drastisk under intervensjonen, noe som ikke er konsistent med resultatene hos de andre deltakerne. Resultatene ville antakeligvis sett langt annerledes ut dersom SP #2 ble ekskludert fra studien.
+
+![](images/clipboard-1792857329.png)Figur 1, Goodin 2007 (1)
+
+For øvrig finner en meta-analyse av Hamilton-Reeves og kolleger (2) ingen effekt av soyaprotein på mannlige kjønnshormoner. Hvorfor ikke denne blir referert til i stedet for Goodin er for meg et lite mysterium. Den røde tråden er nok kanskje at de som sekundært presenterer disse resultatene ikke helt vet hvordan de skal forholde seg til metodikk, og i dette tilfellet statistisk metode.
+
+## Tips
+
+Neste gang du leser fullteksten av en studie vil jeg anbefale at du tar en titt på figurer og tabeller og ser etter eventuelle svakheter, noe som kommer helt tydelig frem i eksempelet over. Sjekk alltid opp i hvilke metoder som brukes, og husk at ekstremverdier bare er en av flere feilkilder som kan påvirke det totale resultatet i kvantitative studier ganske dramatisk. Leser du bare abstractet, vær klar over at dette er ting du typisk vil gå glipp av!
+
+Referanser:
+
+1.  Goodin S, Shen F, Shih WJ, Dave N, Kane MP, Medina P, Lambert GH, Aisner J, Gallo M, DiPaola RS: **Clinical and biological activity of soy protein powder supplementation in healthy male volunteers**. *Cancer epidemiology, biomarkers & prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology* 2007, **16**(4):829-833.
+
+2.  Hamilton-Reeves JM, Vazquez G, Duval SJ, Phipps WR, Kurzer MS, Messina MJ: **Clinical studies show no effects of soy protein or isoflavones on reproductive hormones in men: results of a meta-analysis**. *Fertility and sterility* 2010, **94**(3):997-1007.

@@ -1,0 +1,61 @@
+---
+title: "Peptider og helseeffekt - er det likegyldig hvilke proteiner vi spiser?"
+date: 2013.03.13
+---
+
+At proteiner er viktig for helsen er ingen hemmelighet. Som byggesteiner for alle kroppens celler, forløpere for nevrotransmittere, bestanddeler av en rekke hormoner, enzymer og som energikilde har proteinene mange viktige oppgaver. Uten tilstrekkelig tilførsel av protein vil ikke kroppen kunne fungere. Men har det noe å si hvordan proteinet fordøyes og absorberes i tarmen?
+
+## Fordøyelse, absorbsjon og effekt
+
+Vi får i oss [protein](naeringsstoffer/proten.qmd) gjennom maten vi spiser, og fordøyelsen starter i magesekken.  Her starter kløyvingen av de lange peptidkjedene som utgjør proteinene, og denne prosessen fortsetter i tynntarmen. Når proteinene er brutt ned til enten enkelte aminosyrer eller korte peptider, kan de absorberes. Aminosyrene blir dermed tilgjengelig for kroppens celler.
+
+Tidligere trodde man at proteinet nesten utelukkende ble absorbert i form av enkeltaminosyrer, men nyere kunnskap har avdekket at hele 25 % av proteinet kan absorberes som di- eller tripeptider. Vi vet også at mange av disse små peptidene har biologiske effekter, noe som gjør disse veldig spennende med tanke på helseeffekten av å spise protein fra ulike kilder. Ulike proteinkilder gir nemlig opphav til ulike bioaktive peptider!
+
+## Påvirker peptidene helsen?
+
+Resten av denne artikkelen vil bygge på en oversiktsartikkel av Shimizu og medarbeidere (1), som omtaler en del spennende aspekter ved effektene av peptidene.
+
+Små peptider brytes ikke ned av enzymer i tarmslimhinnene, og absorberes via peptidtransporteren PepT1. Inne i tarmcellene brytes de fleste peptidene, ved hjelp av spesifikke enzymer, ned til aminosyrer, og disse fraktes ut i blodbanen. Noen peptider kan være resistente mot disse enzymene, og fraktes over i blodbanen via et ukjent transportsystem. Det er altså mulig at enkelte bioaktive peptider kan absorberes og utføre effekter også inne i kroppen, men her vil jeg holde meg til potensielle effekter i tarmen og på tarmcellene.
+
+#### Effekter i tarmen
+
+Det er påvist flere effekter av peptider i tarmen, både når det gjelder opptak av næringsstoffer og bekjempelse av uønskede organismer. Her kommer en oversikt over noen funksjoner som er kartlagt:
+
+-   **Øker mineralopptaket**
+    -   Melkederiverte peptider har vist seg å kunne øke opptaket av kalsium og jern, og dyremodeller har også indikert at det samme kan gjelde for sink.
+-   **Reduserer kolesterolnivåene**
+    -   Peptider fra soya har vist seg å hemme opptaket av kolesterol og gallesalter.
+    -   Peptider fra melk har også vist lignende effekter på opptaket, og i tillegg har et spesifikt peptid, lactostatin, vist seg å øke syntesen av gallesyrer og dermed redusere kolesterolet som er forløper for disse gallesyrene.
+-   **Redusere opptaket av fett**
+    -   Peptider fra blodceller har vist seg å kunne redusere hvor fort triglyserider absorberes til tarmcellene.
+-   **Antimikrobiell aktivitet**
+    -   Lactoferrin B er et peptid fra melk som har en evne til å drepe bakterier. Effekter mot sopp, virus og kreftsvulster har også blitt rapportert.
+
+#### Effekter på tarmcellene
+
+I tillegg til effektene i tarmen, er det også kartlagt noen effekter på tarmcellene, og her følger noen eksempler:
+
+-   **Differensiering av tarmcellene**
+    -   Glutaminholdige peptider kan påvirke cellesyklusen på flere punkter, og potensielt både opp- og nedregulere cellevekst.
+-   **Reparere skadde tarmceller**
+    -   Glutaminholdige peptider bidra til å reparere skader som oppstår som følge av f.eks. betennelser i tarmen.
+-   **Modulere tarmpermeabilitet**
+    -   Tarmpermeabiliteten sier noe om hvor mye som kan passere mellom tarmcellene, og det er ønskelig å holde bindingene mellom tarmcellene intakte. Det er vist at glutaminholdige peptider kan bidra til å opprettholde disse bindingene.
+-   **Modulere peptidtransporteren**
+    -   Oksidativt stress i tarmen kan redusere uttrykket av PepT1, og dermed redusere opptaket av peptider. Glutaminholdige peptider har vist seg å motvirke denne effekten.
+-   **Immunmodulering**
+    -   Peptider derivert fra melk kan øke immunresponsen i tarmen gjennom å øke frigjøringen av proinflammatoriske cytokiner.
+    -   Karnosin er et peptid som består av betaalanin og histidin, og dette peptidet kan bidra til å nedregulere inflammasjonsresponsen i tarmen. Peptidet kan også fungere som en antioksidant.
+    -   Opioide peptider fra melk er tenkt å påvirke utskillelsen av cytokiner i inflammasjonsprosessen i tarmcellene.
+-   **Interaksjon med opioide reseptorer**
+    -   Opioidlignende peptider fra melk kan både øke og redusere aktiviteten til opioide reseptorer.
+    -   Opioide reseptorer finner vi blant annet mange av i tarmsystemet, og opioide peptider kan påvirke absorbsjonsprosessene som skjer her. Disse peptidene har blant annet vist seg å redusere tømmingshastigheten fra magesekken og passasjehastigheten gjennom tarmen.
+    -   Økt absorbsjon av væske og elektrolytter er en annen effekt, noe som kan motvirke diaré.
+
+## Konklusjon
+
+Det er svært sannsynlig at peptider kan være med å påvirke helseeffekten av proteinene fra maten vi spiser, og det er ikke nødvendigvis slik at det er likegyldig hvor vi får proteinene våre fra. I artikkelen om [proteinkvalitet](proteinkvalitet.qmd) fikk du en innføring i hvordan sammensetningen av aminosyrer er viktig for helseeffekten, men kanskje kan ny kunnskap om peptider gi oss nye argumenter i valg av proteinkilder? Kanskje kan bioaktive peptider gi opphav til funksjonelle matvarer som kan senke kolesterol, øke opptaket av næringsstoffer eller bidra i behandlingen av sykdom?
+
+Referanse
+
+1\. Shimizu M, Son DO: **Food-derived peptides and intestinal functions**. *Current pharmaceutical design* 2007, **13**(9):885-895.

@@ -1,0 +1,86 @@
+---
+title: "Melk og helse del 2 – bearbeiding"
+date: 2013.04.01
+---
+
+Sist gang  gikk vi i dybden på [melkens innhold av næringsstoffer](melk-helse-1.qmd "Melk og helse del 1 – næringsinnhold"). Denne gangen skal jeg se nærmere på hvordan melken behandles fra den forlater kuen og til den dukker opp i kjøledisken i butikken. Dette er viktig både for hvordan produktet oppleves av oss som skal drikke dem, men også av hensyn til mattryggheten.
+
+## Mattrygghet
+
+Melk er en mulig vei for overføring av bakterier fra dyr til mennesker. Så lenge kuen ikke er syk, vil melken i utgangspunktet ikke inneholde bakterier, men med en gang den forlater kuen kan den kontamineres, så melk fra friske kyr kan også inneholde farlige mikroorganismer (1).
+
+Når det gjelder melk og mattrygghet, er det tre hovedstrategier som skal sikre at melken vi drikker ikke er farlig for oss. Disse er forbedret dyrehelse, optimale hygieniske forhold ved melking og pasteurisering (1). Redusert fare for at melkekyrne er bærere av skadelige mikroorganismer, sammen med forbedrede hygieniske forhold rundt melkingen reduserer faren for at melken kontamineres, men det gir oss samtidig ingen garanti for at melken er trygg. Små mengder patogene bakterier kan være nok til å gi sykdom, så det å begrense innholdet er ikke bra nok. Melken kan også kontamineres etter at den har forlatt kuen, så den desidert viktigste strategien for å gjøre melken mikrobiologisk trygg å drikke er pasteurisering (1).
+
+## Bearbeiding av melk
+
+Når vi snakker om bearbeiding av melk så tenker man primært på to prosesser, nemlig pasteurisering og homogenisering. Pasteurisering er en prosess der melken varmes opp til en temperatur som er tilstrekkelig for å drepe bakterier, mens homogenisering er en mekanisk nedbrytning av fettdråpene som bidrar til at fettet blander seg bedre i melken. Mens pasteuriseringen bidrar til å gjøre melken tryggere og hindrer smittespredning, samt øker holdbarheten, er homogeniseringen primært tiltenkt å gjøre melken mer delikat ved at man unngår at fettet skiller seg fra resten av melken.
+
+Fermentering er en tredje måte å bearbeide melken på, som i tillegg til å øke holdbarheten også gjør noe med næringsinnholdet.
+
+## Pasteurisering
+
+Pasteurisering er en prosess der man ved bruk av høy temperatur dreper patogene bakterier i en matvare (1). Det skilles mellom lav-, høy- og ulttrapasteurisering, som sier noe om hvilken temperatur og varighet som er brukt. Vanlig drikkemelk er lavpasteurisert, som innebærer at melken varmes opp til en temperatur på 72 grader i 15 sekunder. Ved høypasteurisering brukes det en temperatur på 90-95 grader i 2-4 minutter, og ved ultrapasteurisering snakker vi om 140-150 grader i 2-4 sekunder. Jo høyere pasteuriseringsgrad man bruker, jo mer bakterier vil drepes i prosessen.
+
+Pasteurisering gjennomføres for å forebygge smittespredning gjennom å drepe patogene bakterier. Sykdommer som kan skyldes bakterier i melk inkluderer tuberkulose, listeria, salmonella, E-coli og streptokokker (1,2).
+
+Samtidig kan pasteuriseringsprosessen også påvirke [bioaktive peptider](http://www.friskogfunksjonell.no/peptider-og-helse/ "Peptider og helseeffekt – er det likegyldig hvilke proteiner vi spiser?") som kan brytes ned ved oppvarming. Når karbohydrater og proteiner reagerer med hverandre under varmebehandling kan det også oppstå uheldige produkter, noe som spesielt er aktuelt for smakssatt melk (3). Dette skyldes at sukkermolekyler kan reagere med proteinene(4). Pasteurisering brukes også for å øke holdbarheten på melken, og er således en konserveringsmetode (2).
+
+Redusert fare for at melkekyrne er bærere av skadelige mikroorganismer, sammen med forbedrede hygieniske forhold rundt melkingen reduserer faren for at melken kontamineres, men kan ikke utelukke at det skjer. Små mengder patogener er nok til å skape sykdom, så å begrense mengdene er ikke nok. Pasteurisering er den meste effektive måten å sikre at melken er mikrobiologisk trygg å drikke (1).
+
+Innføringen av pasteurisering førte til en markant reduksjon av sykdommer relatert til melkeinntak. I USA i 1983 stod melk for 25 % av tilfellene av sykdomsutbrudd forårsaket av matkontaminering før de innførte obligatorisk pasteurisering. Ved inngangen til år 2000 stod melk for under 1 % av de samme tilfellene (1,2). Det er fremdeles mange eksempler på sykdomsutbrudd relatert til konsum av upasteurisert melk(1). I Norge er det lovfestet at melk som selges kommersielt som menneskemat skal være pasteurisert.
+
+![](images/clipboard-2793859362.png)
+
+Oversikt over dokumenterte sykdomsutbrudd forårsaket av melk i USA (1)
+
+#### Er upasteurisert melk sunnere?
+
+Det er mange som, til tross for det overbevisende kunnskapsgrunnlaget bak effektene av pasteurisering, fremdeles anbefaler å konsumere upasteurisert melk, og hevder at pasteurisering er skadelig. Det er generelt mangel på dokumentasjon bak disse påstandene, men motstridende informasjon fører til at forbrukerne blir usikre (1,2).
+
+Det finnes studier som indikerer at det å drikke upasteurisert melk gir lavere risiko for allergi, astma, utslett og noen andre ting, men det er påpekt at dette kan skyldes konfunderende faktorer forbundet med å drive jordbruk. Barn som vokser opp på gård har generelt en lavere forekomst av allergier enn barn som vokser opp i byene. Andre studier har indikert økt forekomst ved konsum av upasteurisert melk (2).
+
+Pasteurisering dreper laktaseproduserende bakterier, så laktoseintolerante mennesker kan tåle upasteurisert melk bedre enn pasteurisert (1). Likevel har studier blant laktoseintolerante vist at også upasteurisert melk gir de samme symptomene (2).
+
+#### Hvordan påvirkes næringsinnholdet av pasteurisering?
+
+Et vanlig argument mot pasteurisering er at det reduserer næringsinnholdet. Det spesifiseres sjelden mer enn dette, men dette er det forsket på. Pasteurisering kan nemlig potensielt redusere innholdet av enkelte vitaminer og antioksidanter (3).
+
+![](images/clipboard-1447417632.png)
+
+Effekten av pasteurisering på innholdet av vitamin B1. Legg merke til at alle studiene utenom en ikke viser noen effekt. (2)
+
+En systematisk oversiktsartikkel av 40 studier så på effekten av pasteurisering på innholdet av næringsstoffer (2). Noen vitaminer synker litt (B12, B1, B2, Folat, E), noen stiger (A), mens andre er uendret (B6). Imidlertid er resultatene litt varierende fra studie til studie, og i det store og det hele er innholdet av vitaminer minimalt påvirket. Reduksjon av B2 er den eneste effekten som kan regnes som negativt rent næringsmessig, siden melk er en kvantitativt viktig kilde til dette vitaminet (2).
+
+![](images/clipboard-2876924345.png)
+
+Effekten av pasteurisering på innholdet av vitamin B2. Også her er det enkeltutslag som påvirker konklusjonen. (2)
+
+Det må nevnes at metoden i de to studiene som har gitt de største utslagene har vært oppvarming til 63 grader i hele 30 minutter, altså langt mer enn det som er praksis for melken vi drikker. Når vi ser på resultatene fra de studiene der intervensjonen har vært noe som ligner på dagens pasteurisering, er utslagene ikke signifikante i noen retning, så grunnlaget for å påstå at næringsinnholdet endres er veldig svakt når vi ser på metodene som er brukt.
+
+## Homogenisering
+
+Homogenisering er en mekanisk nedbrytning av fettpartiklene. Dette bidrar til at fettet fordeles bedre i melken, og vi unngår at det dannes en fettrand på toppen. Nedbrytningen av fettet gjør melken med delikat og innbydende, men samtidig fryktes det at dette kan ha en negativ innvirkning på helsen vår. På nåværende tidspunkt vet vi rett og slett ikke nok til å si noe sikkert om dette (3).
+
+## Fermentering
+
+Fermentering er en gammel bearbeidingsmetode som øker holdbarheten på melken. På grunn av sesongvariasjon av melkeproduksjonen var det nødvendig med metoder for å øke holdbarheten. Fermenteringen skjer ved at ulike bakterier bryter ned laktosen til ulike nedbrytningsprodukter. Ved å benytte ulike bakterier til fermenteringen kan man påvirke hvordan endeproduktet ender opp (3).
+
+Fermentert melk har vist seg å ha positive effekter på immunsystemet, fordøyelsen og metabolismen. Den lave PHen er også antatt å redusere tømmingshastigheten fra magesekken, noe som kan bidra positivt på reguleringen av apetitten (3). Ved fermentering vil også bakteriene fordøye en del av laktosen, så folk med nedsatt laktosetoleranse kan tåle fermenterte meieriprodukter bedre.
+
+## Oppsummering
+
+Fra melken kommer fra kuen og til den havner hos forbrukeren har den vært bearbeidet på flere måter. Denne behandlingen bidrar til at melken vi finner i butikken er trygg å drikke, men medfører også endring av både konsistens (homogenisering og fermentering) og innhold (pasteurisering og fermentering).
+
+Mange mener at ubehandlet melk derfor er sunnere å drikke, og noen går også så langt at de påstår at denne bearbeidingen gjør melken farlig. Dokumentasjonen bak disse påstandene er per i dag svært dårlig, og hvis man ser an hvilke kilder som legges til grunn så er de jevnt over verken nøytrale eller av god kvalitet. Forskningen på temaet er motstridende, og det er vanskelig å konkludere. Vi kan derimot med god ryggdekning påstå at pasteurisering bidrar til redusert smittefare.
+
+Varierende budskap fra ulike hold bidrar likevel bidrar til at folk blir usikre på hva de skal tro på, noe som øker forvirringen i befolkningen. Per i dag er det mange gode grunner til å inkludere melk i kostholdet, mest på grunn av næringsinnholdet, og jeg vil av sikkerhetsmessige grunner anbefale å holde seg til de bearbeidede variantene.
+
+Referanser:
+
+1\. Lejeune JT, Rajala-Schultz PJ: **Food safety: unpasteurized milk: a continued public health threat**. *Clinical infectious diseases : an official publication of the Infectious Diseases Society of America* 2009, **48**(1):93-100.
+
+2\. Macdonald LE, Brett J, Kelton D, Majowicz SE, Snedeker K, Sargeant JM: **A systematic review and meta-analysis of the effects of pasteurization on milk vitamins, and evidence for raw milk consumption and other health-related outcomes**. *Journal of food protection* 2011, **74**(11):1814-1832.
+
+3\. Haug A, Høstmark A, Harstad O: **Bovine milk in human nutrition - a review**. *Lipids in Health and Disease* 2007, **6**(25).
+
+4\. Haug A, Christophersen O, Høstmark A, Harstad O: **Melk og helse**. *Tidsskr Nor Lægeforen* 2007, **127**:2542-2545.

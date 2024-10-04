@@ -1,0 +1,79 @@
+---
+title: "Diabetes type 2 - hvordan skal man spise?"
+date: 2013.03.11
+---
+
+Diabetes Mellitus type 2 (DM2) er en livsstilssykdom som skyldes insulinresistens, redusert insulinproduksjon eller en kombinasjon av disse.  Sykdommen er assosiert med metabolsk syndrom. Kostrådene som gis ved DM2 varierer litt ut ifra hvor i verden man er, men i gjennomsnitt ligner de på de offentlige kostrådene for den friske befolkningen. Men, hvor god er egentlig evidensen bak disse rådene?
+
+1.mars ble det publisert en metaanalyse i American Journal of Clinical Nutrition som tok for seg randomiserte studier som har sammenlignet ulike kosthold hos de med DM2 (1). Forfatterne ønsket å undersøke hvordan ulike kosthold påvirker parametre som glykemisk kontroll (langtidsblodsukker, HbA1c), vekttap og endringer i blodlipidene. Alle disse parametrene påvirker risikoen for hjertesykdom hos diabetikere, og forfatterne av metaanalysen ønsket å kartlegge hvordan disse ble påvirket av ulike kostmønstre.
+
+## Studieutvalg og metode
+
+Søk etter relevante søkeord fikk 1801 treff, og ved undersøkelse av referanselistene fant man ytterligere 64 artikler. Ved å se gjennom abstractene fant forfatterne 55 artikler som ble utforsket i fulltekst, hvorav ytterligere 35 ble ekskludert grunnet manglende randomisering eller varighet kortere enn 6 mnd.
+
+Til slutt stod man altså igjen med 20 randomiserte studier med en varighet mellom 6 mnd og 4 år. Av disse var det 4 studier som ikke hadde tilstrekkelig informasjon til å bli tatt med i den primære analysen (f.eks. at diabetikere/ikke-diabetikere ikke var separert), men resultatene ble likevel tatt med i resultatdelen. Metaanalysen ble derfor gjennomført på de resterende 16 studiene.
+
+Totalt inkluderte de 20 studiene 3460 pasienter, hvorav det fantes sluttanalyser på 3073. Kostholdene som ble undersøkt var lavkarbo, høykarbo, lav-GI, høy-GI, middelhavskost, høyprotein, lavprotein, høyfiber, vegansk kosthold, vegetarkost, offentlige anbefalinger og diabeteskost etter europeiske retningslinjer. Noen av studiene undersøkte flere enn to kostmønstre på en gang, så det er noen flere sammenligninger enn antall studier.
+
+-   9 av studiene sammenlignet lavkarbodiett med kontrolldietter som lavfett, lav-GI og middelhavsdiett.
+-   4 studier sammenlignet middelhavsdiett med enten lavfett eller et kosthold etter offentlige anbefalinger
+-   3 studier sammenlignet lav-GI med henholdsvis offentlige anbefalinger, høy-GI og høyfiberdiett.
+-   2 studier sammenlignet høyproteindiett med henholdsvis lavprotein og høykarbohydratdiett.
+-   Andre studier sammenlignet vegansk kosthold med offentlige anbefalinger, vegatarkosthold med diabeteskost, høykarbohydrat med høy-enumettet fett og høyfiber med lavfett.
+
+## Resultater
+
+Her følger resultatene av metaanalysen, sortert for de ulike utfallene som ble undersøkt. Alle verdiene som er oppgitt er justerte og representerer gjennomsnittlige forskjeller mellom intervensjons- og kontrollgruppene. Resultatene for hvert enkelt punkt er basert på ulikt antall studier.
+
+**Glykemisk kontroll**
+
+-   Lavkarbo (-0,12 %), lav-GI (-0,14%), middelhavsdiett (-0,47%) og høyproteindiett (-0,28) senket langtidsblodsukkeret mer enn kontrolldiettene
+-   Lav-GI senket langtidsblodsukkeret (-0,14 %) mer enn kontrolldiettene.
+-   Middelhavsdiett senket langtidsblodsukkeret (-0,47 %) mer enn kontrolldiettene
+-   Høyproteindiett senket langtidsblodsukkeret (-0,28 %) mer enn kontrolldiettene
+
+**Vekttap**
+
+-   Lavkarbo gav ingen signifikant forskjell i vekttap sammenlignet med kontrolldiettene
+-   Lav-GI gav ingen signifikant forskjell i vekttap sammenlignet med kontrolldiettene.
+-   Middelhavsdiett viste seg mer effektiv enn kontrolldiettene for vekttap (-1,84 kg).
+-   Høyproteindiett viste ingen fordel sammenlignet med kontrolldiettene for vekttap.
+
+**Endringer i blodlipidene**
+
+-   Lavkarbo økte HDL (+0,08mmol/L), men gav ingen signifikant reduksjon i LDL eller triglyserider sammenlignet med kontrolldiettene.
+-   Lav-GI økte HDL (+0,05mmol/L), men gav ingen signifikant reduksjon i LDL eller triglyserider sammenlignet med kontrolldiettene.
+-   Middelhavsdietten reduserte triglyseridene (-0,21mmol/L) og økte HDL (+0,04mmol/L) sammenlignet med kontrolldiettene. Det var ingen signifikant forskjell for LDL.
+-   Høyproteindiett viste ingen fordeler sammenlignet med kontrolldiettene når det gjaldt endringer i blodlipidene.
+
+## Forfatternes konklusjon
+
+Det å endre på sammensetningen av makronæringsstoffene kan være effektivt for å forbedre de ulike risikofaktorene hos diabetikere. De fire diettene gav alle sammen forbedringer i de klassiske kardiovaskulære risikofaktorene hos diabetikerne, og bør i følge forfatterne inngå som naturlige alternativer til den diabeteskosten som anbefales i dag. De understreker at kosthold er en privatsak, og det å ha flere alternativer vil gjøre det lettere å skreddersy behandlingen til den enkelte pasient.
+
+## Kommentarer og diskusjon
+
+Jeg har tidligere skrevet en sak om [kosthold ved DM2](diabetes-kosthold.qmd), basert på en review-artikkel av Buyken og medarbeidere (2). Konklusjonene i denne metaanalysen samsvarer fint med det Buyken kom fram til i sin artikkel, at lavkarbo, lav-GI og middelhavsdiett er effektive strategier for å forebygge og behandle DM2.
+
+Det å gå ned i vekt dersom man er overvektig vil alltid være positivt, og vektnedgangen i seg selv kan gjøre mye for insulinsensitiviteten og blodlipidene. Siden deltakerne i disse studiene ikke har vært vektstabile, så blir det vanskelig å vurdere hvor mye av effekten på de andre risikofaktorene som skyldes vekttap og hva som skyldes endringene i kosten.
+
+Likevel er det grunn til å tro at endringene i kostholdet også spiller inn i stor grad. Verken lavkarbo, lav-GI eller høyprotein var mer effektivt enn kontrolldiettene for vekttap, men likevel bedre for endringene i risikomarkørene. Forfatterne understreker at det vil være behov for nye studier av disse diettene der energiinntaket er kontrollert, slik at man kan klargjøre hvor mye av endringene som kan forklares av kostholdet. Middelhavsdietten var den eneste dietten som viste en signifikant fordel når det gjaldt vekttap sammenlignet med kontrolldiettene. Dette betyr ikke at de andre diettene ikke er effektive for vekttap, for det kan de absolutt være.
+
+En svakhet som er verdt å ha i bakhodet er at navnet på diettene ikke nødvendigvis sier noe om hva deltakerne har spist. Lavkarbo er for eksempel en rimelig løs definisjon, og kan bety alt fra en moderat karbohydratrestriksjon ned til et ketogent kosthold med minimalt inntak av karbohydrater. Det vil også være vesentlig om deltakernes energiinntak var begrenset eller ikke. Det som vil være mest overførbart til virkeligheten er såkalt ad libitum matinntak, der man ikke begrenser mengdene som inntas. Samtidig vil dette vanskeliggjøre forskningen, siden man da garantert vil få ulikt energiinntak mellom gruppene og dermed en ekstra faktor å ta hensyn til.
+
+Forfatterne nevner i diskusjonen at lavkarbo, lav-GI og middelhavsdiett utpekte seg med signifikant forbedring av blodlipidene. Dette samsvarer med andre studier, som omtalt i en reviewartikkel av Siri-Tarino og medarbeidere (3).
+
+Fedon Lindberg snakket om middelhavskost på årets [kostholdskonferanse i regi av LHL](ldl-konferanse-2013.qmd), og der nevnte han en modernisering av middelhavsdietten der man også justerte den for glykemisk indeks. På denne måten vil den tradisjonelle middelhavsdietten tilpasses dagens inaktive samfunn. 
+
+## Konklusjon
+
+Ut ifra resultatene i denne metaanalysen og tidligere studier, virker middelhavsdiett å være et trygt og solid utgangspunkt for tilrettelegging av kostholdet hos diabetikere. Kanskje bør man ofre noen tanker på matens glykemiske indeks i tillegg, hvertfall om man er inaktiv. Større karbohydratrestriksjon kan være gunstig hos de med stor overvekt eller store problemer med å kontrollere blodsukkeret, og et høyere proteininntak kan også bidra til å redusere energiinntaket gjennom økt metthet.
+
+Kosthold er individuelt, og det viktigste er å finne noe som fungerer for den enkelte. Ved å la disse kostholdene inngå som alternativer til dagens diabeteskost har man mer å spille på, og sjansen for å finne noe som fungerer vil være mye større!
+
+Referanser:
+
+1\. Ajala O, English P, Pinkney J: **Systematic review and meta-analysis of different dietary approaches to the management of type 2 diabetes**. *Am J Clin Nutr* 2013, **97**(3):505-516.
+
+2\. Buyken AE, Mitchell P, Ceriello A, Brand-Miller J: **Optimal dietary approaches for prevention of type 2 diabetes: a life-course perspective**. *Diabetologia* 2010, **53**(3):406-418.
+
+3\. Siri-Tarino PW, Sun Q, Hu FB, Krauss RM: **Saturated fat, carbohydrate, and cardiovascular disease**. *Am J Clin Nutr* 2010, **91**(3):502-509. 

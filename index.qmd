@@ -10,6 +10,6 @@ Artiklene er ikke redigert siden de ble publisert opprinnelig, og informasjonen 
 
 **Flere ulike artikkelforfattere har skrevet innlegg, og hver forfatter har opphavsrett på teksten de har skrevet.**
 
-Flytting pågår, og mer og mer innhold vil dukke opp her den neste tiden. Den originale siden vil etterhvert bli borte.
+Flytting pågår, og mer og mer innhold vil dukke opp her den neste tiden. Den originale siden vil etterhvert bli borte. Noen linker vil dermed også slutte å fungere om de ikke har blitt oppdatert.
 
 [Her](poster.qmd) finner du alle innlegg publisert på bloggen.

@@ -1,0 +1,87 @@
+---
+title: "Melk og helse del 1 - næringsinnhold"
+date: 2013.02.18
+---
+
+På samme måte som at et egg inneholder alle næringsstoffene som skal til for å lage en kylling, inneholder melk alle næringsstoffene som behøves for å utvikle et pattedyr. Som nyfødt menneske drakk du morsmelk, og fordelene med dette er både mange og velkjente.
+
+Etter at vi er ferdig ammet er mennesker den eneste arten som fortsetter å drikke melk, og til og med melk fra andre dyr. Dette er det en del som er skeptiske til, da denne melken tross alt ikke er laget for oss. Mange går så langt at de mener at det å drikke denne melken er skadelig for oss, men hva vet vi egentlig om melk?
+
+De offentlige kostrådene oppfordrer oss til å inkludere meieriprodukter i kostholdet vårt, og da fortrinnsvis de magre variantene. Likevel er det mye skepsis blant befolkningen for om melk har en positiv innvirkning på helsen vår eller ikke. I arbeidet med denne artikkelen har jeg gått gjennom en del nyere forskning på melk, og vil prøve å gi en gjennomgang av hva denne forskningen sier. Bør vi drikke melk, og i så fall, hvilken melk bør vi drikke? Artikkelen er tredelt, og i første del ser vi nærmere på melk generelt og melkens innhold av næringsstoffer.
+
+## Melk
+
+Melkekonsumet i den vestlige delen av verden har sunket de siste tiårene, noe som sannsynligvis skyldes overbevisning om at melk er negativt for helsen vår, og da hovedsakelig rettet mot melkefettet (1). Mange vet at melkefett inneholder en god andel mettede fettsyrer, som er hypotetisert å øke risikoen for en rekke sykdommer og overvekt. Dette bildet er mer nyansert enn som så, noe vi skal se nærmere på lenger nede.
+
+I en redaksjonell artikkel publisert i American Journal of Clinical Nutrition kan vi lese at det er en assosiasjon mellom det å drikke melk og redusert risiko for å utvikle hjertesykdom og diabetes (2). Dette kan skyldes at det å drikke melk kan henge sammen med å gjøre bedre valg i matveien, og forfatteren skriver at det blant annet er en assosiasjon mellom å drikke mer melk og det å spise mindre sukker. Fra før vet vi at [helsebevisste individer](kildekritikk/helsebevissthet.qmd) kan være et forstyrrende element i forskning, noe som kan være gjeldende i dette tilfellet.
+
+Det har vært foreslått at melkekonsum kan bidra til vekttap og redusert fettmasse. Studier gjort på dette peker i litt ulike retninger, men en metaanalyse fra 2012(3) slo fast at det ikke var grunnlag for å hevde at melk hadde en slik effekt utover effektene av en eventuell energirestriksjon.
+
+Med andre ord støtter ikke litteraturen at det å øke inntaket av meieriprodukter gjør at man går ned i vekt eller fettprosent, men det er likevel ting som tyder på at et økt inntak av meieriprodukter kan gjøre det enklere å oppnå et energiunderskudd, da de kan påvirke graden av metthet på flere måter. For det første er de en god kilde til protein, som er det makronæringsstoffet som gir mest metthet per kalori. For det andre er det påpekt i flere studier at melkefettet har en effekt på tømmingen av magesekken, og reduserer hastigheten på denne (1,4). Det at melk er rik på mange næringsstoffer er også et godt argument for å inkludere melk og meieriprodukter i kostholdet, spesielt når man spiser mindre energi for å oppnå vekttap.
+
+## Næringsinnhold
+
+Melk er en kilde til mange viktige næringsstoffer, deriblant [proteiner av god kvalitet](http://www.friskogfunksjonell.no/proteinkvalitet/ "Alt du trenger å vite om proteinkvalitet"), fett og mange vitaminer og mineraler. I tillegg til dette finner vi hormoner, vekstfaktorer, enzymer og flere andre bioaktive stoffer (1), så å kalle melk for en næringsrik matvare er ingen overdrivelse.
+
+I butikken finner vi flere ulike typer melk, og i tabellene under får du en oversikt over innholdet av energi, protein, karbohydrater og fett i de vanligste variantene, inkludert nysatsingen Styrk. Tallene gjelder produkter fra Tine.
+
+|  |  |  |  |  |  |
+|----|----|----|----|----|----|
+| Per 100g | **Helmelk** | **Lettmelk** | **Ekstra lettmelk** | **Skummet melk** | **Styrk** |
+| Energi (kcal) | 62 | 43 | 38 | 33 | 39 |
+| Protein (g) | 3,3 | 3,3 | 3,3 | 3,3 | 5 |
+| Karbohydrat (g) | 4,4 | 4,7 | 4,7 | 4,8 | 4,6 |
+| Fett (g) | 3,5 | 1,2 | 0,7 | 0,1 | 0,1 |
+| -Mettet fett (g) | 2,3 | 0,8 | 0,5 | 0,1 | 0,06 |
+
+Nå skal vi ta en nærmere titt på de ulike bestanddelene av melken, og hvilken effekt disse har på helsen vår!
+
+## Protein
+
+Proteinet i melk består av myseprotein (20%) og kasein (80%). Myseproteinet er mer vannløselige enn kasein, og absorberes derfor raskere til blodstrømmen. Kaseinet fungerer som en bærer for kalsium og fosfat, og øker også opptaket av disse (1). Innholdet av de forgreinede aminosyrene (valin, isoleucin og leucin, BCAA) er høyt, noe som stimulerer proteinsyntesen og motvirker nedbrytingen av protein. Melk har også et høyt innhold av taurin, som er et viktig intracellulært molekyl. Taurin har mange viktige funksjoner, og har blant annet vist seg å virke beskyttende for cellene i blodåreveggen (1).
+
+Det finnes mange biologisk aktive proteiner i melken, og disse har mange ulike funksjoner. Noen har antimikrobielle egenskaper, mens andre hjelper til i fordøyelsen av andre næringsstoffer. I tillegg har vi vekstfaktorer, hormoner og immunmodulerende stoffer. Noen studier indikerer at enkelte peptider kan være med å motvirke høyt blodtrykk. Mange av peptidene er motstandsdyktige mot fordøyelsesenzymer, og rekker å utføre sine egenskaper i tarmen før de brytes ned. De kan også absorberes gjennom tarmcellenes peptidtransporter. Flere av disse bioaktive peptidene er også produsert industrielt og selges som kosttilskudd og funksjonell mat (1).
+
+Melk er en kraftig stimulator av [produksjon og utskillelse av insulin](insulinindeks.qmd), noe som antas å skyldes melkeproteinet (1). Dette betyr at melk potensielt kan bidra til å redusere den glykemiske belastningen etter et måltid, og epidemiologiske studier har vist en assosiasjon mellom melkedrikking og redusert forekomst av sykdommer relatert til blodsukkerkontroll, som diabetes (2).
+
+## Fett
+
+Melkefettet er nok den komponenten i melken som i størst grad er mistenkt for å ha en negativ innvirkning på helsen vår. Når vi ser på det som er gjort av forskning så ser bildet imidlertid litt annerledes ut.
+
+Det er studier som viser en sammenheng mellom inntak av melkefett og redusert forekomst av hjertesykdom (4), men dette er en statistisk sammenheng, og kan også skyldes at de som er hjertesyke har redusert inntaket av melkefett. I studier der man har sett på effekten på blodlipidene er et økt inntak av melkefett assosiert med en mindre aterogen [lipidprofil](minikurs-lipoproteiner.qmd), med færre små, tette LDL-partikler og høyere nivåer av HDL (1,4,5). Per i dag er det ingen beviser for at et moderat inntak av melkefett øker risikoen for sykdom (1).
+
+Melkefettet er sammensatt av mange ulike fettsyrer. Omtrent halvparten av fettet utgjøres av mettede fettsyrer av ulik lengde. Mange av disse er korte eller mellomlange, og disse fettsyrene er kjent for å ha flere positive effekter på helsen. Smørsyre har vist seg å modulere genfunksjon og kan motvirke enkelte krefttyper (1,4). Kapryl- og kaprinsyre kan ha antivirale egenskaper (1,4), og sistnevnte kan også motvirke tumorvekst (4). Laurinsyre har antivirale og antibakterielle egenskaper (1,4), og er også den mettede fettsyren som har den mest positive effekten på ratioen mellom total- og HDL-kolesterol (4,6).
+
+Den fettsyren vi finner mest av i melk er oljesyre, som er enumettet. Et høyt inntak av oljesyre er assosiert med en bedre sammensetning av fettstoffene i blodet, og enkelte studier har også indikert at denne fettsyren kan ha en beskyttende effekt mot kreft (1). Melk inneholder også flerumettede omega-3- og omega-6-fettsyrer i form av alfalinolensyre og linolsyre, og [mengdeforholdet mellom dem](http://www.friskogfunksjonell.no/omega-3-og-omega-6-i-kostholdet/ "Omega-3 og Omega-6 i kostholdet")(1:4) er bra (1,4).
+
+Mange har hørt om CLA (Konjugert linolsyre), og har kanskje også fått med seg at dette er et populært kosttilskudd. CLA er en transfettsyre som kan ha mange positive effekter på helsen vår. Disse effektene er omdiskuterte, men det er gode indikasjoner på at CLA har en positiv effekt på blodlipidene, og eksperimentelle dyremodeller har vist en beskyttende effekt mot kreft (1,4). Nøyaktig hvordan CLA fungerer vet vi ikke, men det er foreslått at fettsyren konkurrerer med arakidonsyre om cyclooxygenaseenzymet, slik at produksjonen av proinflammatoriske [eikosanoider](http://www.friskogfunksjonell.no/omega-3-og-omega-6-i-kostholdet/ "Omega-3 og Omega-6 i kostholdet") reduseres (1). Man har også sett positive effekter på immunsystemet og muskelvekst (4).
+
+## Karbohydrat
+
+Melk inneholder karbohydrater i form av laktose, som er et disakkarid sammensatt av ett glukose- og ett galaktosemolekyl. For å fordøye og absorbere laktose er vi avhengige av at bindingen mellom disse brytes, og da trenger vi enzymet laktase. I utgangspunktet mangler mennesket dette enzymet, men etter hvert som melk har vært en del av kostholdet vårt har vi utviklet evnen til å produsere det. I den nordlige delen av Europa og i USA tåler befolkningen generelt sett laktose godt, mens menneskene i andre deler av verden jevnt over tåler det dårligere.
+
+Sukker, både naturlig forekommende og tilsatt, kan reagere under varmebehandling og danne uheldige forbindelser med proteiner (1). Når det gjelder melk er dette først og fremst aktuelt for melk med tilsatt smak, siden disse inneholder mer sukker og i tillegg ofte varmebehandles mer enn vanlig melk.
+
+## Vitaminer og mineraler
+
+Melk er en kilde til mange vitaminer og mineraler, og inneholder også en del antioksidanter (1).
+
+Når det gjelder de fettløselige vitaminene er melk en god kilde til [A-vitamin](http://www.friskogfunksjonell.no/d-vitamin/ "D-vitamin"), og noen typer er også tilsatt [D-vitamin](http://www.friskogfunksjonell.no/d-vitamin/ "D-vitamin").  Inntak av melk ser også ut til å kunne forbedre opptaket av [E-vitamin](http://www.friskogfunksjonell.no/e-vitamin/ "E-vitamin")(1). Når det gjelder vannløselige vitaminer er melk en god kilde til [riboflavin](http://www.friskogfunksjonell.no/riboflavin/ "Riboflavin, vitamin B2") og [B12](http://www.friskogfunksjonell.no/b12/ "Kobalamin, vitamin B12"). Det er også grunn til å anta at melk er positivt for opptaket av [folat](http://www.friskogfunksjonell.no/folat/ "Folat, vitamin B9"), siden melken inneholder proteiner som binder til seg dette vitaminet. Inntaket av melk er assosiert med lavere nivåer av homocystein, noe som antas å kunne skyldes bedre folatstatus (1). Biotilgjengeligheten til folat er generelt sett ganske lav, og spesielt gravide er anbefalt å ta daglig tilskudd.
+
+[Kalsium](http://www.friskogfunksjonell.no/kalsium/ "Kalsium") er godt kjent som det viktigste mineralet i skjelettet vårt, og meieriprodukter er vår største kilde til kalsium. Man har i studier sett en mulig blodtrykkssenkende effekt samt bedre regulering av kroppsvekt ved inntak av kalsium (1). Melk er vår største kilde til [jod](http://www.friskogfunksjonell.no/jod/ "Jod"), som er den viktigste bestanddelen i stoffskiftehormonene våre (4). [Selen](http://www.friskogfunksjonell.no/selen/ "Selen") har flere viktige funksjoner, deriblant for immunsystemet og i syntesen/reparasjon av arvematerialet vårt. Man antar at selen har en beskyttende effekt mot en rekke krefttyper, og det er også observert en positiv effekt på astma. Generelt sett er innholdet av selen i maten vår veldig lavt, og melk er en av de viktigste kildene (1). [Sink](http://www.friskogfunksjonell.no/sink/ "Sink") er en viktig bestanddel av hver eneste celle i kroppen, og er blant annet med å regulere vekst og celledeling. Melk er en god kilde til sink, og biotilgjengeligheten er også bedre enn for vegetabilske kilder (1). Melk er også en god kilde til [magnesium](http://www.friskogfunksjonell.no/magnesium/ "Magnesium"), som blant annet er viktig for ledning av nervesignaler.
+
+I neste del tar jeg en nærmere titt på [bearbeidingen av melk](http://www.friskogfunksjonell.no/melk-og-helse-del-2-bearbeiding/ "Melk og helse del 2 – bearbeiding").
+
+Referanser:
+
+1\. Haug A, Høstmark A, Harstad O: **Bovine milk in human nutrition - a review**. *Lipids in Health and Disease* 2007, **6**(25).
+
+2\. Sanders TA: **Role of dairy foods in weight management**. *Am J Clin Nutr* 2012, **96**(4):687-688.
+
+3\. Chen M, Pan A, Malik VS, Hu FB: **Effects of dairy intake on body weight and fat: a meta-analysis of randomized controlled trials**. *Am J Clin Nutr* 2012, **96**(4):735-747.
+
+4\. Haug A, Christophersen O, Høstmark A, Harstad O: **Melk og helse**. *Tidsskr Nor Lægeforen* 2007, **127**:2542-2545.
+
+5\. Sjogren P, Rosell M, Skoglund-Andersson C, Zdravkovic S, Vessby B, de Faire U, Hamsten A, Hellenius ML, Fisher RM: **Milk-derived fatty acids are associated with a more favorable LDL particle size distribution in healthy men**. *J Nutr* 2004, **134**(7):1729-1735.
+
+6\. Mensink RP, Zock PL, Kester AD, Katan MB: **Effects of dietary fatty acids and carbohydrates on the ratio of serum total to HDL cholesterol and on serum lipids and apolipoproteins: a meta-analysis of 60 controlled trials**. *Am J Clin Nutr* 2003, **77**(5):1146-1155.

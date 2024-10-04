@@ -1,0 +1,66 @@
+---
+title: "Oslostudien og fettanbefalinger - tilstrekkelig dokumentasjon?"
+author: "Hanne Storhaug"
+date: 2013.02.04
+---
+
+På [LHLs store kostkonferanse](lhl-konferanse-2013.qmd "Kosthold og hjertesykdom – hvor står vi i 2013?") i Oslo holdt overlege på Lipidklinikken, Kjetil Retterstøl, et foredrag med temaet «lavkarbo eller høykarbo, mye eller lite fett?». Retterstøl uttrykker bekymring for at stadig flere nordmenn oppgir at de spiser lavkarbo, og mener at med så mange studier tilgjengelig er det ganske lett å komme med studier som sier forskjellige ting.
+
+Forelesningen avsluttes med konklusjon om at lavkarbo kan ha god effekt hos noen personer, men at det er kjempeviktig å kommunisere at man ikke bør spise smør, egg, bacon og mettet fett. Dette på tross av at disse rådene ikke støttes av nyere forskning (1-5)
+
+[**De offentlige anbefalingene for fett, godt begrunnet?**](anbefaling-fett-godt-begrunnet.qmd "De offentlige anbefalingene for fett, godt begrunnet?")
+
+## Oslo Diet Heart Study (ODHS), 1968
+
+Vi behøver jo ikke gå så langt ut i verden når vi har det her hjemme, sier Retterstøl, og trekker fram studien av Leren og medarbeidere fra 1968 (6). Studien av hjertesyke menn fra Ullevål sykehus brukes ofte, også i offentlige anbefalinger, for å støtte opp om kostråd der målet er å øke inntaket av flerumettet fett på bekostning av mettet. Studien ble designet for å teste hvilken effekt en endring i inntaket av mettet og flerumettet fett kunne ha på hjertesykdom og død. Likevel er det, slik jeg ser det, to hovedproblemer med å legge stor vekt på denne ene randomiserte kliniske studien:
+
+1\. Studien var multifaktoriell. Det vil si at gruppen som skulle endre kostholdet sitt ikke bare økte inntaket av flerumettet fett og senket inntaket av mettet.
+
+-   De spiste mindre sukker og raffinerte karbohydrater og de senket inntaket av margarin (som på den tiden inneholdt transfett)
+-   De økte inntaket av fisk og fiskeolje (Omega-3) samt frukt, grønnsaker og nøtter.
+
+Intervensjonsgruppen gikk altså over til det de fleste vil karakterisere som et mye sunnere kosthold. Flere av disse kostfaktorene er satt i sammenheng med redusert eller økt risiko for utvikling av hjertesykdom, da spesielt Omega-3 og transfett. Dette gjør det svært vanskelig å konkludere at forskjellen i hjertesykdom mellom gruppene kom av at de byttet ut mettet fett med flerumettet. Minst to store forskningsartikler har de siste årene pekt på at intervensjonen i ODHS ikke bare var et bytte av mettede fettsyrer med flerumettede (3,7)
+
+2\. Det er gjort minst syv andre slike randomiserte kliniske studier (8-14) som man må ta hensyn til når før man konkluderer effekten av å gå fra en fett-type til en annen. Blant disse finner man noen studier der de som spiste mer flerumettet fett faktisk hadde høyere risiko for å dø eller bli syke, og samlet er resultatene motstridende og derfor lite egnet for å støtte det ene eller det andre synet.
+
+## En liten gjennomgang av ODHS – for de spesielt interesserte
+
+Deltakerne i studien var 412 hjertesyke menn. Disse ble randomisert til å få kostråd (intervensjonsgruppe) eller til en kontrollgruppe, som skulle spise sin vanlige kost. Målet med kostrådene var å senke inntaket av mettet fett og å øke inntaket av flerumettet. Studien varte i fem år. Hvor godt deltakerne faktisk fulgte kostrådene ble målt ved spørreskjema. De hadde også jevnlig kontakt med en kostekspert. To ganger i løpet av fem år ble sammensetningen av næringsstoffer i intervensjonsgruppen analysert. Dette var bare hos 17 av de 206 personene, og de to periodene varte ikke lenger enn ca to uker.
+
+### Resultater
+
+Det var ingen signifikante forskjeller i total dødelighet mellom gruppene etter fem år, men derimot fant de en forskjell i kardiovaskulær dødelighet, der diettgruppen kom best ut. Tallene er hentet fra analysen Skeaff og Miller gjorde for FAO/WHO:
+
+### Konklusjon
+
+Oslo Diet HeartStudy var en multifaktoriell studie, og er, slik jeg ser det, ikke egnet for å støtte opp om anbefalinger om å øke inntaket av flerumettet fett på bekostning av mettet. Det er også gjort betydelig flere studier, og det er stor spredning i resultatene fra disse. Jeg mener at man må ta hensyn til disse aspektene før man konkluderer og gir anbefalinger.
+
+Referanser:
+
+1\. Siri-Tarino PW, Sun Q, Hu FB, Krauss RM: **Meta-analysis of prospective cohort studies evaluating the association of saturated fat with cardiovascular disease**. *Am J Clin Nutr* 2010, **91**(3):535-546.
+
+2\. Rong Y, Chen L, Zhu T, Song Y, Yu M, Shan Z, Sands A, Hu FB, Liu L: **Egg consumption and risk of coronary heart disease and stroke: dose-response meta-analysis of prospective cohort studies**. *BMJ* 2013, **346**:e8539.
+
+3\. Hooper L, Summerbell CD, Higgins JP, Thompson RL, Capps NE, Smith GD, Riemersma RA, Ebrahim S: **Dietary fat intake and prevention of cardiovascular disease: systematic review**. *BMJ* 2001, **322**(7289):757-763.
+
+4\. Skeaff CM, Miller J: **Dietary fat and coronary heart disease: summary of evidence from prospective cohort and randomised controlled trials**. *Ann Nutr Metab* 2009, **55**(1-3):173-201.
+
+5\. Mente A, de Koning L, Shannon HS, Anand SS: **A systematic review of the evidence supporting a causal link between dietary factors and coronary heart disease**. *Arch Intern Med* 2009, **169**(7):659-669.
+
+6\. Leren P: **The effect of plasma-cholesterol-lowering diet in male survivors of myocardial infarction. A controlled clinical trial**. *Bulletin of the New York Academy of Medicine* 1968, **44**(8):1012-1020.
+
+7\. Ramsden CE, Hibbeln JR, Majchrzak SF, Davis JM: **n-6 fatty acid-specific and mixed polyunsaturate dietary interventions have different effects on CHD risk: a meta-analysis of randomised controlled trials**. *Br J Nutr* 2010, **104**(11):1586-1600.
+
+8\. Frantz ID, Jr., Dawson EA, Ashman PL, Gatewood LC, Bartsch GE, Kuba K, Brewer ER: **Test of effect of lipid lowering by diet on cardiovascular risk. The Minnesota Coronary Survey**. *Arteriosclerosis* 1989, **9**(1):129-135.
+
+9\. Watts GF, Lewis B, Brunt JN, Lewis ES, Coltart DJ, Smith LD, Mann JI, Swan AV: **Effects on coronary artery disease of lipid-lowering diet, or diet plus cholestyramine, in the St Thomas' Atherosclerosis Regression Study (STARS)**. *Lancet* 1992, **339**(8793):563-569.
+
+10\. Rose GA, Thomson WB, Williams RT: **Corn Oil in Treatment of Ischaemic Heart Disease**. *British medical journal* 1965, **1**(5449):1531-1533.
+
+11\. Woodhill JM, Palmer AJ, Leelarthaepin B, McGilchrist C, Blacket RB: **Low fat, low cholesterol diet in secondary prevention of coronary heart disease**. *Advances in experimental medicine and biology* 1978, **109**:317-330.
+
+12. **Controlled trial of soya-bean oil in myocardial infarction**. *Lancet* 1968, **2**(7570):693-699.
+
+13\. Burr ML, Fehily AM, Gilbert JF, Rogers S, Holliday RM, Sweetnam PM, Elwood PC, Deadman NM: **Effects of changes in fat, fish, and fibre intakes on death and myocardial reinfarction: diet and reinfarction trial (DART)**. *Lancet* 1989, **2**(8666):757-761.
+
+14\. Dayton S, Pearce ML: **Prevention of coronary heart disease and other complications of arteriosclerosis by modified diet**. *The American journal of medicine* 1969, **46**(5):751-762.

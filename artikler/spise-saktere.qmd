@@ -1,0 +1,48 @@
+---
+title: "Bør du spise saktere?"
+date: 2013.04.25
+---
+
+Har du noen gang reflektert over hvor fort du spiser maten din? En helt fersk studie publisert i Clinical Nutrition kan indikere at det kanskje kan være verdt å ofre en tanke eller to!
+
+Diabetes type 2 (DM2) er en av de raskest voksende helseutfordringene i verden i dag. Estimert forekomst av denne livsstilssykdommen er på hele 8,5 % av den voksne populasjonen. I arbeidet med å forebygge utviklingen av DM2 er det viktig å identifisere alle påvirkbare risikofaktorer, og ettersom ingen tidligere har sett på sammenhengen mellom spisetempo og DM2, var det akkurat dette to forskere fra Litauen ønsket å undersøke (1).
+
+**Les også: [Diabetes type 2 - hvordan skal man spise?](http://www.friskogfunksjonell.no/diabetes-type-2-kost/ "Diabetes type 2 – hvordan skal man spise?")**
+
+## Metoder
+
+Studien er en såkalt kasus-kontroll-studie, der man starter med utfallet og undersøker om det er ulikheter i en gitt risikofaktor mellom de som har fått sykdommen og de som ikke har det. I dette tilfellet rekrutterte forskerne 234 personer (kasuser) som nylig hadde fått DM2-diagnosen, og 486 personer (kontroller) som verken hadde redusert glukosetoleranse eller DM2. Kontrollene ble rekruttert fra samme klinikk som kasusene, og ble matchet for kjønn og alder. Det trente øyet vil se at for hvert kasus er det to kontroller. Studiepopulasjonen bestod av 28 % menn og 72 % kvinner, med gjennomsnittsalder på hhv 64 og 65 år, men alderen spredte seg helt fra 34 til 86.
+
+Det ble registrert informasjon om kjønn, alder, familiær diabeteshistorie, utdanningsnivå, sivilstatus, kostvaner, røyking og fysisk aktivitet. Etter 12 timers faste ble deltakernes glukosetoleranse testet, og fastende blodsukker og triglyserider ble målt. De ble også veid og midjemålet ble registrert.
+
+Spisetempoet var selvrapportert og basert på hvor fort deltakerne spiste sammenlignet med de andre som spiste ved samme bord. På spørsmålet «hvor fort spiser du sammenlignet med de andre», kunne de kategorisere eget spisetempo som veldig sent, relativt sent, likt, relativt fort eller veldig fort. For å undersøke om det var en sammenheng mellom spisetempo og diabetesrisiko ble de som svarte veldig og relativt sent slått sammen til en gruppe, og det samme med de som sa de spiste relativt eller veldig fort.
+
+Forskerne undersøkte også om det var en forskjell mellom de med og uten DM2 når det kom til alle de andre faktorene de hadde registrert informasjon om.
+
+## Resultater
+
+Når det gjaldt karakteriseringen av de med og uten DM2 fant forskerne ut at de med DM2 hadde signifikant lavere utdanningsnivå, høyere BMI og høyere forekomst av diabetes i nær familie.
+
+I en direkte analyse av rapportert spisetempo og sykdom fant man at de som spiste fort hadde 2,5 ganger høyere forekomst av DM2 enn de som spiste sakte (OR = 2.5; 95% CI 1.69-3.68, p \< 0.001). Ved å justere resultatene for familiær diabeteshistorie, utdanning, BMI, midjemål, røyking, fysisk aktivitet og fastende triglyserider fant man det samme resultatet (OR = 2.52; 95% CI 1.56-4.06, p \< 0.001). Med andre ord, i den undersøkte populasjonen var det en helt klar sammenheng mellom spisetempo og risiko for DM2, også etter at man hadde justert for mange mulige konfunderende faktorer.
+
+## Hva betyr alt dette?
+
+Det er svært lite sannsynlig at det er en direkte årsakssammenheng mellom hvor fortdu spiser og risikoen for hvorvidt du vil utvikle DM2. Studien er den første som ser på denne sammenhengen, og den har flere metodiske svakheter som gjør at det er vanskelig å konkludere. Forfatterne nevner selv et par svakheter med sin egen studie. Måten de har samlet inn informasjon om spisetempo er ikke validert, og det er ikke gjort noen form for kvantitative målinger av hvor fort deltakerne spiste. Det er heller ikke kontrollert for energiinntak.
+
+I tillegg til de nevnte svakhetene er studiedesignet observasjonelt, så den er uansett ikke egnet til å si så mye om årsakssammenhenger. Men kombinert med tidligere studier på spisetempo, så er det mulig å generere noen hypoteser. Det å spise fort har tidligere blitt assosiert med økt energiinntak og insulinresistens. Det å spise saktere er assosiert med et lavere energiinntak og økt metthetsfølelse etter et måltid. Dette støttes også av intervensjonsstudier, der man har observert at de som blir bedt om å spise raskt jevnt over spiser mer energi enn de som spiser sakte.
+
+Blant personer som blir bedt om å spise sakte har man observert høyere nivåer av metthetssignaler som produseres i magen, noe som kan gi tidligere metthet. Det kan indikere at det å spise fort kan gi magen for dårlig tid til å produsere disse signalstoffene, noe som får oss til å spise mer før vi blir mett.
+
+Overvekt, og spesielt abdominalfedme, er en viktig risikofaktor for metabolsk syndrom. Mekanismene som gjør at denne overvekten øker risikoen for blant annet DM2 og hjertesykdom er ikke fullstendig klarlagt, og dette samspillet er komplisert. Det er mange mulige årsaker, men det at fettvevet produserer en del hormoner som er vist å påvirke insulinsensitivitet er sannsynligvis en viktig bidragsyter.
+
+## Konklusjon
+
+Det er ikke grunnlag for å si at det å spise fort har en direkte årsakssammenheng med risikoen for å utvikle diabetes type 2. Men det kan likevel spille en indirekte rolle, fordi det å spise fort kan bidra til å øke energiinntaket, som igjen kan bidra til overvekt og metabolsk syndrom.
+
+For majoriteten av befolkningen kan det derfor være et godt råd å ta seg tid til maten og spise saktere, ettersom dette vil kunne bidra til å begrense energiinntaket og forebygge overvekt. Det er godt grunnlag for å si at metthetssignalene ikke henger helt med i svingene dersom vi spiser for fort, noe som medfører at det å hive nedpå kan bidra til at du totalt sett spiser mer enn du trenger.
+
+For de som prøver å gå ned i vekt kan det være lurt å utnytte den mulige økte metthetsfølelsen av å spise saktere, ettersom sult er en av de primære årsakene til at man ofte ikke klarer å opprettholde et energiunderskudd over tid.
+
+Referanse:
+
+1.  Radzeviciene L, Ostrauskas R: **Fast eating and the risk of type 2 diabetes mellitus: a case-control study**. *Clin Nutr* 2013, **32**(2):232-235.

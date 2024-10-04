@@ -1,0 +1,52 @@
+---
+title: "Samme diett for alle? Neppe!"
+date: 2013.04.22
+---
+
+Vi vet at forskjellen mellom energi inn og energi ut er det som avgjør hvorvidt vi øker eller reduserer energilagrene våre, eller på godt norsk, hvorvidt vi går opp eller ned i vekt. Men vi vet også at energi inn og energi ut ikke er uavhengige faktorer, og at disse i stor grad påvirker hverandre. Nå har det etter hvert også blitt klart at det også er individuelle forskjeller i hvordan vi responderer på tilsynelatende likt kosthold, noe som understreker at det ikke finnes en fasit som gjelder for alle.
+
+## Epigenetikk
+
+Epigenetikk handler om hvordan arvematerialet vårt uttrykkes. For å forenkle det så kan vi si at alle genene våre finnes i DNA, men det er ikke alle disse som brukes til enhver tid. Genene kan nemlig slås av og på, og dette styres av epigenetiske mekanismer som metylering og acetylering, og disse prosessene er reversible og kan påvirkes av miljømessige faktorer.
+
+**Les mer i [artikkelen om genetikk](http://www.friskogfunksjonell.no/genetiske-og-metabolske-sykdommer-genetikk/ "Genetiske og metabolske sykdommer – genetikk").**
+
+Kostholdet vårt påvirker genene gjennom å påvirke disse epigenetiske mekanismene, og hva vi spiser er dermed med å styre hvordan genene våre uttrykkes. Det vil selvfølgelig ha mye å si hvordan genene var uttrykt fra før, og det er her individuelle forskjeller kommer inn i bildet. Vi har mange ganger understreket at vi er forskjellige, og under vil jeg presentere to studier som kan være med å illustrere akkurat dette, i to ulike settinger.
+
+## Ulik respons på kalorirestriksjon
+
+I en studie av Bouchard og medarbeidere så de på endringer i genuttrykket etter seks måneder med kalorirestriksjon (1). Studiepopulasjonen var en subgruppe fra en større vektreduksjonssstudie, og bestod av 14 overvektige, postmenopeusale kvinner. Deltakerne var ikke-røykere, hadde et lavt alkoholforbruk, og hadde ikke diabetes, hjertesykdom eller inflammatoriske sykdommer. De hadde heller ikke stoffskifteproblemer eller andre hormonelle forstyrrelser.
+
+Målet med intervensjonen var å oppnå et vekttap på 10 % over en periode på seks måneder, ved å redusere det daglige energiinntaket med 5-800 kcal fra utgangspunktet. Sammensetningen av kostholdet var standardisert, med 55 E% fra karbohydrater, 30 E% fra fett og 15 E% fra protein.
+
+De 14 kvinnene ble delt inn i to grupper ut ifra hvordan de responderte på kalorirestriksjonen. De som mistet mer enn 3% kroppsfett ble kalt høyrepondere, mens de som mistet mindre ble kalt lavrespondere. De ble også matchet for alder, BMI, fettprosent, blodtrykk, blodlipider, blodsukker, insulinkonsentrasjon og endringer i fettfri masse.
+
+I gjennomsnitt gikk deltakerne i høyrespondergruppen ned ca 7,5 kg, mens lavresponderne gikk ned i underkant av 2 kg. Når man undersøkte biopsiene fra fettvevet før kalorirestriksjonen, fant man 35 lokus som var ulikt metylert i de to gruppene. Etter intervensjonen var det bare tre lokus som var ulikt metylert.
+
+Det neste som ble undersøkt var genuttrykket. Ingen av de undersøkte genene var uttrykt ulikt mellom gruppene før intervensjonen, men etterpå fant man hele 644 transkripsjoner som var endret gruppene imellom. Med andre ord fant forskerne store forskjeller mellom høy- og lavrespondere på kalorirestriksjonen, noe som kan gi en forklaring på hvorfor resultatene i gruppene ble så forskjellige.
+
+## Overspising og endring i genuttrykk
+
+I en studie av Jacobsen og medarbeidere undersøkte de hvordan metylering av DNA i muskelvev endret seg etter en kortvarig overspisingsperiode med en høyfettdiett (2). 26 unge menn midt i 20-årene ble rekruttert. Alle hadde fødselsvekt mellom 50-90-persentilen, alle var friske, og ingen av dem var veldig aktive.
+
+Studien var designet slik at alle deltakerne gjennomførte både intervensjonen og kontrolldietten, med en seks ukers utvaskingsperiode mellom. Kontrolldietten bestod av 50 E% karbohydrat, 35 E% fett og 15 E% protein. Overspisingsintervensjonen bestod av et 50% økt energiinntak, der de ekstra kaloriene hovedsakelig kom fra fett. Begge diettene ble gjennomført i fem dager, der også alle måltidene var identiske de siste tre dagene for å styrke resultatene. Etter gjennomført diettperiode ble det tatt ulike blodprøver og muskelbiopsier, og 21 av forsøkspersonene gjennomførte.
+
+Det ble funnet store forskjeller i metyleringen av DNA i muskelceller som følge av overspisingsperioden. Effektene var delvis reversert etter 6-8 uker. Vi vet fra før at overforing og påfølgende overvekt er assosiert med en rekke livsstilssykdommer, og kanskje skyldes dette endringer i arvematerialet? Forfatterne er usikre på dette, og understreker at mer studier må til for å kartlegge det!
+
+Den samme forskningsgruppen har tidligere gjort en lignende studie der de sammenlignet DNA-metylering som følge av høyfettoverspising hos 46 personer med hhv lav og normal fødselsvekt (3). Her fant man blant annet at de med lav fødselsvekt utviklet perifer insulinresistens som følge av overforingen, mens de med normal fødselsvekt ikke gjorde dette.
+
+Etter kontrolldietten var genuttrykket likt i begge gruppene, men etter overforingen var uttrykket av fem gener lavere hos de med lav fødselsvekt.  Undersøkelse av DNA-metylering viste at de med lav fødselsvekt i gjennomsnitt hadde en høyere metyleringsstatus etter intervensjonen sammenlignet med den andre gruppen. Denne studien viser at både det intrauterine miljøet og kostholdsendringer kan føre til epigenetiske forandringer som potensielt kan påvirke sykdomsrisiko.
+
+**Disse to artiklene ble også omtalt av [forskning.no](http://www.forskning.no/artikler/2013/mars/350430).**
+
+## Hva kan vi trekke ut fra dette?
+
+Vi visste fra før at maten vi spiser er med å påvirke arvematerialet vårt gjennom epigenetiske mekanismer. Disse studiene (blant mange andre) viser oss at det også er individuelle forskjeller på hvordan vi responderer, noe som kan forklare hvorfor vi observerer store forskjeller på folk. Noen kan tilsynelatende spise så mye de vil uten at de legger på seg, mens andre ser ut til å legge på seg selv om de prøver å begrense seg. Noen går lett opp i vekt og opplever at det er vanskelig å holde den nede, andre går lett ned i vekt og sliter med å legge på seg.
+
+Dette er selvfølgelig ingen unnskyldning for å være verken under- eller overvektig, men kan være med å gi en forklaring på hvorfor ikke alt er like lett for alle. I tillegg gir resultatene grunnlag for videre forskning som kan gi oss ytterligere svar på sammenhengen mellom mat og helse, kanskje etterhvert også ned på individnivå!
+
+Referanser:
+
+1.  Bouchard L, Rabasa-Lhoret R, Faraj M, Lavoie ME, Mill J, Perusse L, Vohl MC: **Differential epigenomic and transcriptomic responses in subcutaneous adipose tissue between low and high responders to caloric restriction**. *Am J Clin Nutr* 2010, **91**(2):309-320.
+2.  Jacobsen SC, Brons C, Bork-Jensen J, Ribel-Madsen R, Yang B, Lara E, Hall E, Calvanese V, Nilsson E, Jorgensen SW *et al*: **Effects of short-term high-fat overfeeding on genome-wide DNA methylation in the skeletal muscle of healthy young men**. *Diabetologia* 2012, **55**(12):3341-3349.
+3.  Brons C, Jacobsen S, Nilsson E, Ronn T, Jensen CB, Storgaard H, Poulsen P, Groop L, Ling C, Astrup A *et al*: **Deoxyribonucleic acid methylation and gene expression of PPARGC1A in human muscle is influenced by high-fat overfeeding in a birth-weight-dependent manner**. *J Clin Endocrinol Metab* 2010, **95**(6):3048-3056.

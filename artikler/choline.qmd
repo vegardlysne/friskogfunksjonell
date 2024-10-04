@@ -1,0 +1,47 @@
+---
+title: "Bioblikk: Andre bioaktive stoffer i mat - Choline"
+author: "Thomas Olsen"
+date: 2013.03.25
+---
+
+*Bioblikk er en ny spalte som kan være litt tyngre å lese for noen, men som retter fokus på biokjemiske prosesser eller stoffer som er sentrale for helsen men som ikke får stor oppmerksomhet ellers. Maten vi spiser er antatt å inneholde over 25 000 ulike bioaktive stoffer og alle disse spiller en rolle for helsen vår i større eller mindre grad.*
+
+I den første artikkelen i denne serien skal jeg se nærmere på choline, som har mange viktige biologiske funksjoner.
+
+Jeg har den siste tiden bitt meg merke i at det er blitt et større fokus på fleksibelt kosthold, og at man kan oppnå målene sine med relativ enkelhet så lenge man har makronæringsstoffer under kontroll og får i seg greit med vitaminer og mineraler. Dette er i og for seg greit, så lenge man vet hva man gjør. Likevel ser jeg en økende trend på diverse nettsteder og forum at sælvlærte internetthelter buser ut med kostråd med utgangspunkt i at grandiosa, snickers, mutivitamin og en proteinshake kan gi resultater så lenge du holde deg i kaloriunderskudd- eller vedlikehold. Dette helt uten å ta hensyn til forutsetninger og preferanser, hormonrespons (nei et karbohydrat er ikke *alltid* et karbohydrat) eller hovedpoenget mitt med denne artikkelen; at det også finnes uttallige bioaktive stoffer i mat som vi har begrenset med kunnskap om. Dette innebærer blant annet fytokjemikalier, men også andre næringsstoffer som er essensielle for god kroppsfunksjon.
+
+## Et av disse er choline
+
+Choline er et metylamin som produseres lever. Vi trenger likevel å få i oss choline via kosten for å oppnå adekvat status i kroppen. Som næringsstoff spiller choline en rekke helt fundamentale roller, blant annet som bestanddel i celle- og mitokondriemembraner som ulike fosfolipider eller sfingomyeliner, men ikke minst også som en helt sentral del i en av våre viktigste nevrotransmittere, acetylcholine. Choline tar også del i biokjemiske veier som er nødvendig for remetylering av homocystein til metionin, epigenetisk regulering, lipidmetabolisme, signaloverføring og aktivering av kjernereseptorer. Cholinemetabolismen er i sterk tilknytning til metabolismen av vitamin [B12](http://www.friskogfunksjonell.no/b12/ "Kobalamin, vitamin B12"), [B6](http://www.friskogfunksjonell.no/b6/ "Pyridoksin, vitamin B6") og [folat](http://www.friskogfunksjonell.no/biotin/ "Biotin, vitamin B7"). Forstyrrelser i de metabolske traséene til disse stoffene fører til kompensatoriske endringer i andre.
+
+![](images/clipboard-1743613970.png)
+
+For eksempel kan metyltetrahydrofolat (mTHF)(som er den aktive metabolitten til folat) syntetiseres på to ulike måter, hvorav en er avhengig av choline. Dersom det oppstår mangel vil mTHF-syntese via aminosyren serin oppreguleres. På den andre siden vil et kosthold med mangel på choline kreve mer folat for remetylering av homocystein til metionin. For ordens skyld er metionin er en essensiell aminosyre som er en del av absolutt alle proteiner vi har i kroppen, og utilstrekkelige nivåer av denne aminosyren vil følgelig være kjipt. Metionin spiller også en rolle i post-translasjonell modifikasjon av proteiner og genekspresjon gjennom sin rolle som metyldonor.
+
+Når cholinnivåer i kroppen synker går dette, per kunnskapen vi sitter på i dag, først og fremst utover leveren. Ved en defekt i mekanismene forårsaket av mangel oppstår først og fremst fettlever. Lavere metyleringskapasitet og lavere syntese av phosphatidylcholine (som inngår i fosfolipider) påvirker blant annet sekresjon av VLDL, og fettmetabolismen endres. Dette kan blant annet føre til akkumulering av hepatisk fett. Steg nummer to er utvikling av skrumplever. Phosphatidylcholine inngår også i mitokondriemembranen, og mangel vil følgelig føre til lekk mitokondriemembran og oksidativ skade i mitokondriet som følge av økte nivåer av fettsyrer og redusert ATP-produksjon. Skrumplever kan også inntreffe som følge av epigenetiske forandringer.
+
+Ved å ta del i alle disse mekanismene og funksjonene sier det seg selv at det er mye som kan gå galt ved mangel, og det er fremdeles mye vi enda ikke vet om funksjonene av choline og andre metylaminer.
+
+## Behov og kilder
+
+Behovet for choline varierer genetisk, men også mellom kjønn. Enzymet som er ansvarlig for produksjon av endogent choline og phosphatidylcholine induseres av østrogen, og behovet for eksogent choline vil følgelig være lavere for fertile kvinner og post-menopausale kvinner som behandles med østrogen, enn for menn. Mer enn 40% av kvinner har derimot en mutasjon i genet som koder for dette enzymet, og behovet er derfor økt. Choline finnes i en varierende andel matvarer, men er fremtredende i eggeplommer (nok en grunn til å spise mer egg!) og animalske matvarer som biff, laks og melk, men også utvalgte grønnsaker og bønner.
+
+Som du ser av figuren lenger oppe så omdannes choline til betain i leveren. Betain er også en metyldonor, så inntak av betain fra mat vil redusere behovene for choline. Gode kilder til betain finner vi i planteriket, og korn er en spesielt god kilde.
+
+Behovene som er fastsatt for kvinner er 425 mg/dag. For gravide kvinner er behovet satt til 450 mg/dag, men er anslått å være høyere enn dette. For menn er adekvat daglig inntak satt til 550 mg/dag grunnet lavere endogen produksjon. Dersom man spiser [variert](http://www.friskogfunksjonell.no/hvorfor-bor-du-spise-variert/ "Hvorfor bør du spise variert?") og har et noenlunde fokus på kostholdet, vil ikke disse verdiene være særlig problematisk å dekke, særlig med tanke på at betain også bidrar. Selv om choline finnes relativt tilgjengelig i mange matvarer, har det vist seg at ulike, mangelfulle (eller fleksible om du vil) tilnærminger kan gi et utilstrekkelig inntak.
+
+## Oppsummering
+
+Choline er et essensielt næringsstoff som er nødvendig for en rekke livsviktige funksjoner i kroppen, deriblant lipidmetabolisme og som bestanddel i celle- og mitokondriemembraner. Hovedkilder innebærer animalske matvarer som egg, fisk, melk, men også vegetabilske produkter som diverse grønnsaker og bønner. Ikke grandis, snickers, shake og multivitamin.
+
+Denne artikkelen er først og fremst skrevet med utgangspunkt i en glimrende reviewartikkel (1), skrevet av to autoriteter når det gjelder choline, Karen D. Corbin og Steven H. Zeisel. De har også skrevet et kapittel om choline i boken Present Knowledge in Nutrition (2), som er brukt som supplerende informasjon.
+
+1.  
+
+2.  Corbin KD, Zeisel SH: **Choline metabolism provides novel insights into nonalcoholic fatty liver disease and its progression**. *Current opinion in gastroenterology* 2012, **28**(2):159-165.
+
+3.  
+
+4.  Zeisel SH and Corbin KD. **Choline**. In: Present Knowledge in Nutrition, 10th ed. Erdman JW, MacDonald IA, and Zeisel SH, editors 2012.
+
+5.  

@@ -1,0 +1,91 @@
+---
+title: "Kreatin - noe for deg?"
+author: "Asle Bøe"
+date: 2013.03.04
+---
+
+Kreatin blir ofte omtalt som det best dokumenterte prestasjonsfremmende tilskuddet på markedet, og med god grunn. Mens andre mer obskure tilskudd blir hypet opp, kommer og går inn i glemselen, holder kreatin seg stabilt som ett av de mest brukte ergogene tilskuddene.
+
+**Les også [artikkelen om Beta-Alanin](beta-alanin.qmd), et annet ergogent kosttilskudd!**
+
+Det finnes en rekke andre kreatinformer på markedet: Kre-alkalyn, tri-kreatinmalat,  kreatinpyruvat, kreatin ethyl-ester/HCL. Alle disse har monohydrat som grunnmolekyl, men er påsatt andre kjemiske grupper som skal gi det visse egenskaper. Kreatin monohydrat er det mest studerte og best dokumenterte, så her holder jeg meg til det.
+
+## Kroppen lager og lagrer
+
+Kroppen danner kreatin selv fra aminosyrene metionin, glycin og arginin. Syntesen skjer primært i leveren,  hvorpå det transporteres ut i blodbanen og til musklene. Kreatinet tas opp i muskulaturen gjennom en natriumavhengig kreatintransportør.
+
+Vi inntar også kreatin fra mat, primært fra kjøtt og fisk. Ca 95% av kreatinet i menneskekroppen finnes i skjelettmuskulatur, og en mann på 70 kg inneholder \~120 g kreatin. Rundt 2 g/dag konverteres til kreatinin og erstattes fra enten endogen syntese eller eksogent inntak (1). Et noenlunde alminnelig kosthold gir 1-2 g kreatin om dagen, et vegansk kosthold gir mindre.
+
+## ATP-fosfatsystemet, kroppens nitro
+
+I intensivt muskulært arbeid med varighet \~10 sekunder eller mindre er det primært ATP-Fosfagensystemet som gir energi til sammentrekningene. ATP (Adenosin trifosfat) er kroppens primære energimolekyl, som frigir energi når det reduseres til ADP (Adenosin difosfat) ved å spalte av et fosfatmolekyl.
+
+Når ATP mister et fosfatmolekyl og blir til ADP må det konverteres til ATP igjen for å kunne gi energi. Kreatin lagres som kreatinfosfat, og kan overføre et fosfatmolekyl til ADP sånn at det dannes ny ATP. Mer kreatinfosfat vil potensielt kunne gi raskere opplading av ATP, noe som betyr at mer arbeid kan utføres innen ATP-fosfatsystemet.
+
+Dette systemet er i bruk i flere idretter som krever korte, eksplosive bevegelser der sprint, hopping, løfting og kasting er nødvendig. Spesielt er det ved gjentagende kraftanstrengelser som varer i 5-30 sekunder kreatin viser en prestasjonsfremmende virkning (2). Dersom parametrene som måles innebærer et ferdighetskomponent er det vanskeligere å se effekt da det er andre faktorer som spiller inn enn ren kraftutvikling.
+
+Tilskudd av kreatin kan øke de intracellulære nivåene av kreatinfosfat. Dette gjør flere ting. Kreatinfosfat er osmotisk aktivt og øker cellens hydrasjonsgrad. Dette har vært foreslått som mulig mekanisme for muskelvekst gjennom å øke det myonukleære domenets størrelse. Metabolsk stress og effekten av celleswoling, lokale og systemiske vekstfaktorer er et område som får økende interesse, for en kjapp gjennomgang er det verdt å lese: [Metabolsk stress og muskelvekst](http://myrevolution.no/s/metabolsk-stress-og-muskelvekst/ "Metabolsk stress og muskelvekst").
+
+Intracellulær væske er væske som befinner seg inne i cellene, og i dette tilfellet i sarkoplasmaet til myocyttene eller muskelcellene. Mye tyder på at økt trykk i cellen gjør den mer anabol , blant annet gjennom å øke overflaten til cellen og dermed gjøre det lettere for reseptorer å ta opp aminosyrer, glukose , fettsyrer og andre substanser som øker cellens volum, eller binde seg til hormoner (3). Mer intracellulær væske gir også mulighet for å lagre mer energisubstrat i cellen (4) og kan påvirke signalveien mTOR, en viktig faktor i proteinsyntese positivt.(5)
+
+Kreatintilskudd har også vist å øke nivå av IGF-1, insulinlignende vekstfaktor  og kan redusere myostatin , en reguleringsmekanisme for hvor mye muskelmasse kroppen gir deg lov å ha (6,7).
+
+Ved tilskudd kan nivåene av kreatinfosfat i musklene økes med opp til 20%.  Noen har allerede fulle lagre som følge av kosthold eller høy egenproduksjon, og for disse som kalles non-respondere vil ikke kreatintilskudd øke nivåene.
+
+## Tilskuddsprotokoller
+
+Tidligere var det vanlig å  innta relativt store doser, 5 g x 5-6 iløpet av en dag. Dette øker nivåene raskt. Et mer moderat inntak på 2-5 g pr dag øker nivåene jevnt til de er fulle, og rundt 2 g om dagen er nok til å vedlikeholde fulle nivåer.
+
+Om en stopper å ta kreatintilskudd synker nivåene jevnt ned mot grunnlinjen din pluss det du får fra kostholdet iløpet av noen uker. Det er ikke nødvendig å ta kreatin i sykluser - 2-5 g hver dag gjør jobben enkelt og effektivt. Mange liker å ta kreatin sammen med en proteinshake/karbohydratshake etter trening.
+
+Proteiner og karbohydrater fører til insulinutskillelse, som ved høye nok konsentrasjoner hjelper kreatin inn i cellen. Et enkeltstående forsøk av Cribb og medarbeidere viste betydelig bedre resultater i form av muskelvolum, fettfri masse og kontraktilt muskelprotein av å innta karbohydrater, proteiner og kreatin i forbindelse med trening, men disse resultatene er ikke reprodusert (8).
+
+Det viktigste er å få i seg kreatinet - når og hvordan er underordnet. Det kan være lett å huske å ta i shaken etter trening om du er en av de som benytter seg av det, men dersom du ikke gjør det er hvilken som helst tid på døgnet OK.
+
+Mange, spesielt jenter, er bekymret for at de skal binde mye vann ved kreatininntak. Ved moderat inntak (\~2 g) som ikke følges av en drastisk økning av væskeinntak slik som var vanlig med de tidlige protokollene med opptil 25 g kreatin om dagen, er ikke dette sannsynlig, og du kan få en fin prestasjonsfremmende effekt uten ekstra vektøkning (9).
+
+## Hvem er kreatin for?
+
+Dersom du driver en form for idrett der eksplosivitet gjentatte ganger er nødvendig, prøv kreatin. Dersom du driver styrketrening, prøv kreatin. Om du går gjennom boksen på en måned, to eller tre og ikke responderer kan du klappe deg på skulderen og takke biffen, fisken og egenproduksjonen din for at du allerede har fulle nivåer. Typisk kan en som responderer bra få seg en økning i kroppsvekt på \~1 kg, og studier viser betydelige styrkeøkninger ved kronisk bruk i sammenheng med strukturert styrketrening (10).
+
+Det er mye artig forskning på kreatin til andre enn unge, friske og aktive mennesker men det blir litt for mye å gå inn på her.
+
+## Bivirkninger
+
+Siden kreatin fører til økt intracellulær væskeretensjon i muskelvev har det vært foreslått at kreatin kan føre til hodepine, kvalme og lett dehydrering dersom en ikke drikker nok. Disse symptomene rapporteres i lik grad blant de som bruker og ikke bruker kreatin, og det er vanskelig å isolere kreatin som en mulig årsak. Drikk nok.
+
+Kreatin, spesielt i høye doser vil kunne føre til økninger i kreatininnivå i blodet. Kreatininnivå brukes som et mål på nyrehelse - nyrer som ikke filtrerer skikkelig gjør at kreatinin og andre metabolitter hoper seg opp i blodet. Kreatinin *gir* ikke nyresvikt men kan være et tegn på det, så om du skal utredes medisinsk kan det være lurt å opplyse om at du bruker kreatin.
+
+For friske mennesker er det ikke indikasjoner på at moderat bruk (2-5 g) om dagen vil være skadelig. Interessant nok er det også få indikasjoner på at kreatin øker proteinsyntesen, selv om økninger i fettfri masse i størrelsesordenen 1-2% rapporteres og det er solid teoretisk grunnlag for å kunne si at økt proteinsyntese vil inntreffe ved økt cellehydrering (11,12). Proteinsyntese er som kjent ikke hele sannheten når det kommer til dannelse av fettfri masse, ihvertfall ikke endringer over et par timer.
+
+Noen får merkbare økninger når de fyller lagrene med kreatinfosfat, andre merker ingenting. Noen får så sterk placeboeffekt at de øker 5 kg i benkpress etter første dose.
+
+## Oppsummering
+
+Uansett hva tilfellet er, driver du med kraftidrett eller trening som stiller krav til gjentagende eksplosiv kraftutvikling er kreatin verdt et forsøk. 2-5 g om dagen for å lade opp, 2-5 g om dagen for å vedlikeholde!
+
+Referanser:
+
+1.  Wyss M, Kaddurah-Daouk R. **Creatine and creatinine metabolism**. Physiol Rev. 2000 Jul;80(3):1107-213. Review.
+
+2.  Louise Burke, Vicki Deakin **Clinical Sports Nutrition** 4. th ed McGraw- Hill 2010
+
+3.  Häussinger D, Roth E, Lang F, Gerok W. ***Cellular hydration state: an important determinant of protein catabolism in health and disease*****.** Lancet. 1993 May 22;341(8856):1330-2.
+
+4.  van Loon LJ, Murphy R, Oosterlaar AM, Cameron-Smith D, Hargreaves M, Wagenmakers AJ, Snow R: **Creatine supplementation increases glycogen storage but not GLUT-4 expression in human skeletal muscle**. *Clin Sci (Lond)* 2004, **106**(1):99-106.
+
+5.  Schliess F, Richter L, vom DS, Haussinger D. ***Cell hydration and mTOR-dependent signalling***. Acta Physiol (Oxf) 2006;187:223-9.
+
+6.  Burke DG, Candow DG, Chilibeck PD, MacNeil LG, Roy BD, Tarnopolsky MA, Ziegenfuss T. ***Effect of creatine supplementation and resistance-exercise training on muscle insulin-like growth factor in young adults.*** Int J Sport Nutr Exerc Metab. 2008 Aug;18(4):389-98.
+
+7.  Saremi A, Gharakhanloo R, Sharghi S, Gharaati MR, Larijani B, Omidfar K. ***Effects of oral creatine and resistance training on serum myostatin and GASP-1**.* Mol Cell Endocrinol. 2010 Apr 12;317(1-2):25-30. Epub 2009 Dec 22.
+
+8.  Cribb PJ, Williams AD, Hayes A. ***A creatine-protein-carbohydrate supplement enhances responses to resistance training.*** Med Sci Sports Exerc. 2007 Nov;39(11):1960-8.
+
+9.  Rawson ES, Stec MJ, Frederickson SJ, Miles MP. ***Low-dose creatine supplementation enhances fatigue resistance in the absence of weight gain*****.** Nutrition. 2011 Apr;27(4):451-5.
+
+10. Dempsey RL, Mazzone MF, Meurer LN. ***Does oral creatine supplementation improve strength?*** **A meta-analysis.** J Fam Pract. 2002 Nov;51(11):945-51.
+
+11. Kim HJ, Kim CK, Carpentier A, Poortmans JR. **Studies on the safety of creatine supplementation**. Amino Acids. 2011 May;40(5):1409-18. doi: 10.1007/s00726-011-0878-2. Epub 2011 Mar 12. Review.
+
+12. Francaux M, Poortmans JR. ***Side effects of creatine supplementation in athletes***. Int J Sports Physiol Perform. 2006 Dec;1(4):311-23. Review.
