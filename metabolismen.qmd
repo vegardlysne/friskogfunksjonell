@@ -1,5 +1,6 @@
 ---
 title: "Artikkelserie om metabolismen"
+date: 2012.01.16
 listing:
   contents: artikler/metabolismen/*.qmd
   sort: "date desc"

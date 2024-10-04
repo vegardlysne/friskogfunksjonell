@@ -27,3 +27,5 @@ I søkeboksen kan du filtrere på *Tittel*, *Forfatter* og *Kategorier*
 -   [Næringsstoffene](/naeringsstoffer.html)
 -   [Metabolismen](/metabolismen.html)
 -   [Menneskets fysiologi](fysiologi.html)
+-   [Kildekritikk, Vitenskap og tankefeil](kildekritikk.qmd)
+-   [Kosthold i helseinstitusjoner](kosthold-institusjoner.qmd)

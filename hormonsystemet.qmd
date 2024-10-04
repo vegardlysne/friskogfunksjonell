@@ -1,5 +1,6 @@
 ---
 title: "Hormonsystemet"
+date: 2011.12.13
 listing:
   contents: artikler/hormoner/*.qmd
   sort: "date desc"

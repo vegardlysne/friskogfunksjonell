@@ -1,5 +1,6 @@
 ---
 title: "Artikkelserie om næringsstoffene"
+date: 2011.10.14
 listing:
   contents: artikler/naeringsstoffer/*.qmd
   sort: "date"

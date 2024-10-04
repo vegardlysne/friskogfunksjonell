@@ -1,5 +1,6 @@
 ---
 title: "Kosthold i helseinstitusjoner"
+date: 2012.10.12
 listing:
   contents: artikler/kosthold-institusjoner/*.qmd
   sort: "date desc"

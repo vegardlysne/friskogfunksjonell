@@ -1,5 +1,6 @@
 ---
 title: "Artikkelserie om menneskets fysiologi"
+date: 2013.11.28
 listing:
   contents: artikler/fysiologi/*.qmd
   sort: "date desc"
