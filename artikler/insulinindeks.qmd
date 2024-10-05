@@ -59,7 +59,7 @@ Både GB (r=0.68) og II (r=0.78) var gode prediktorer for insulinbehovet etter m
 
 Sammenhengen mellom de ulike prediktorene og faktisk insulinutskillelse vises i figurene under:
 
-![Figur 2 A-F (Bao 2009)](http://www.friskogfunksjonell.no/wp-content/uploads/2012/08/Insulinindeks-2-A-F.png "Insulinindeks 2 A-F"){alt=""} Figur 2 A-F (Bao 2009)
+![](images/clipboard-2553038033.png) Figur 2 A-F (Bao 2009)
 
 ## Konklusjoner
 

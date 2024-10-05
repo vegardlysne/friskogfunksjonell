@@ -1,0 +1,66 @@
+---
+title: "Tilskudd av ATP?"
+author: "Vegard Lysne"
+date: 2013.09.26
+---
+
+Adenosintrifosfat (ATP) er kroppens primære energimolekyl, og under aktivitet bruker musklene enorme mengder av dette molekylet. Energi frigjøres ved at en fosfatgruppe spaltes av fra ATP, og vi står igjen med adenosindifosfat (ADP). Vi kan redanne ATP ved å koble en fosfatgruppe til ADP. I en helt fersk studie er det undersøkt om tilskudd av ATP kan være nyttig for ytelsen og treningsutbyttet, og i denne artikkelen vil jeg se på hva denne studien viste.
+
+## Redanning av ATP fra ADP
+
+Redanning av ATP fra ADP ved fosforylering er veldig viktig for at cellene skal få en kontinuerlig tilgang på energi. I muskelvevet har vi lagre av kreatinfosfat, som er den raskeste kilden til fosforylering av ADP. Dette er en av grunnene til at [kreatintilskudd](http://www.friskogfunksjonell.no/kreatin/ "Kreatin – noe for deg?") er gunstig for maksimal ytelse i korte tidsrom, som for eksempel sprinting. Etter at lagrene av kreatinfosfat er brukt opp, noe som skjer rimelig kjapt, er vi avhengig av å hente energi fra de energigivende næringsstoffene.
+
+Etter kreatinfosfat er nedbrytning av glukose den raskeste kilden til ATP, og jeg har tidligere skrevet om hvordan cellenes tilgang på ATP er med å regulere [frigjøringen av glukose fra glykogenlagrene](http://www.friskogfunksjonell.no/glykogenmetabolismen/ "Glykogenmetabolismen"). Frigjøringen av energi fra [glukose](http://www.friskogfunksjonell.no/glukosemetabolismen/ "Glukosemetabolismen") kan skje både aerobt (tilstrekkelig oksygen) og anaerobt (for lite oksygen). Ved lave intensiteter rekker cellene å ta opp nok oksygen til at glukosen kan brytes ned fullstendig, og ved å gå inn i sitronsyresyklusen og elektrontransportkjeden dannes det mye ATP. Ved høye intensiteter rekker ikke cellene å ta til seg nok oksygen til dette, og glukosen brytes ned anaerobt. Da produserer vi melkesyre, og energiutbyttet blir lavere siden mesteparten av ATPen produseres i sitronsyresyklusen og elektrontransportkjeden. Fett kan ikke forbrennes anaerobt, så når intensiteten øker blir musklene i større grad avhengig av å hente energi fra glukose.
+
+## Tilskudd av ATP, hvorfor det?
+
+I en helt fersk studie gjennomført av Jacob M Wilson og medarbeidere (1) ønsket de å undersøke om tilskudd av ATP hadde en effekt på prestasjon og utbytte av trening hos mennesker. Bakgrunnen for studien er at det i dyremodeller har blitt demonstrert at tilførsel av ATP fører til et raskt opptak av ATP til røde blodceller. I situasjoner der oksygennivået synker, som ved anaerob aktivitet, frigjøres denne ATPen fra blodcellene og sørger for økt blodtilførsel til de arbeidende musklene. Dette gir økt tilførsel av oksygen og næring. Langtids oral tilførsel av ATP har vist seg å øke mengden ATP i de røde blodcellene hos gnagere, noe som indikerer at dette kan ha en prestasjonsfremmende effekt.
+
+Noen tidligere studier på mennesker har også underbygget at ATP-tilskudd kan ha en positiv effekt på muskelcellene, men frem til nå har ingen undersøkt hvorvidt tilskudd av ATP har en varig effekt kombinert med trening. Derfor ønsket Wilson og kolleger å undersøke om tilskudd av ATP hadde en effekt på maksimal styrke, kraftutvikling og muskelmasse under en 12 uker lang treningsperiode.
+
+## Hva ble gjort
+
+24 menn med erfaring fra styrketrening ble rekruttert, hvorav 21 fullførte studien (3 droppet ut pga skade). Deltakerne var i gjennomsnitt 23 år gamle, 1.80m høy og veide 87kg. I gjennomsnitt løftet de 1,7 x kroppsvekt i knebøy, 1,3 x kroppsvekt i benkpress og 2,1 x kroppsvekt i markløft. Dette tilsier at de hadde en viss treningserfaring fra tidligere. For å bli med i studien kunne de ikke benytte seg av andre prestasjonsfremmende midler eller betennelsesdempende medikamenter. Røykere ble ekskludert, og de kunne heller ikke ha benyttet seg av kosttilskudd de siste tre mnd.
+
+Deltakerne ble randomisert i to grupper, der den ene gruppen (11 personer) fikk daglig tilskudd av 400mg ATP, mens den andre gruppen (10 personer) fikk placebo som bestod av maltodextrin. Tilskuddet skulle tas 30 minutter før trening, eller på tom mage på hviledager. Studien var dobbelblindet, slik at verken forskerne eller deltakerne visste hvem som fikk hva. Alle deltakerne fikk et tilpasset kosthold fra en klinisk ernæringsfysiolog med fordypning i idrettsernæring, sammensatt av 25% protein, 50% karbohydrat og 25% fett. Kostholdet var individuelt tilpasset, og deltakerne fikk beskjed om å spise slik fra og med to uker før studiestart og fortsette gjennom hele treningsperioden.
+
+Treningsprotokollen var tredelt. Første fase bestod av tre ukentlige styrkeøkter med ikke-lineær periodisering, og varte i 8 uker. Andre fase var en systematisk overtreningsperiode som varte i to uker, før deltakerne i siste fase gjennomgikk en formtoppingsperiode på to uker. Målinger av muskelmasse og kroppssammensetning ble gjort ved oppstart, og deretter ved uke 4, 8 og 12. Tester av styrke og kraftutvikling ble gjennomført etter uke 4, 8, 9, 10 og 12. Deltakerne ble også bedt om å vurdere hvor godt restituert de følte seg før hver økt.
+
+Styrketestene bestod av maksløft i styrkeløftgodkjente (IPF-regler) knebøy, benkpress og markløft. Kraftutvikling ble målt ved en sykkeltest og spenstmåling. Kroppssammensetningen ble målt ved DEXA-måling.  Det ble også tatt fastende blodprøver underveis i studieforløpet, og for å vurdere om tilskudd av ATP var trygt ble laboratoriet instruert om å gi beskjed med en gang dersom noen blodverdier skulle vise seg å være unormale. Dette ville medføre at forsøket ville avbrytes for den aktuelle deltakeren, men ingen slike resultater ble registrert.
+
+## Resultater
+
+-   Begge gruppene økte maksimal styrke, men ATP-gruppen hadde en statistisk signifikant større økning i knebøy, markløft og totalsum (knebøy+benkpress+markløft). Gjennomsnittlige økninger for hele perioden var som følger:
+    -   **Knebøy**: Placebogruppen økte fra 145 til 151kg (+4,4%), mens ATP-gruppen økte fra 146 til 165kg (+12,9%).
+    -   **Benkpress**: Placebogruppen økte fra 115 til 119kg (+3,5%), mens ATP-gruppen økte fra 117 til 124kg (+6%). Denne forskjellen var ikke stor nok til å være statistisk signifikant.
+    -   **Markløft**: Placebogruppen økte fra 170 til 182kg (+8,5%), mens ATP-gruppen økte fra 176 til 205kg (+16,4%).
+    -   **Totalsum**: Placebogruppen økte fra 430 til 453kg (+5,9%), mens ATP-gruppen økte fra 440 til 495kg (+12,6%).
+-   Under den systematiske overtreningsperioden gikk styrkeprestasjonen som man skulle forvente ned. I placebogruppen gikk totalstyrken ned 23kg, mens ATP-gruppen bare reduserte totalstyrken med 12kg i samme periode.
+-   Kraftutviklingen målt ved sykkeltesten økte like mye i begge grupper.
+-   Kraftutvikling målt ved spensttest økte mest i ATP-gruppen.
+
+Alle disse resultatene favoriserer ATP-gruppen, men forskjellen når det gjaldt benkpress og sykkeltest var ikke statistisk signifikante. Resultatene, med p-verdier, er oppsummert i tabellen under som er hentet fra studien.
+
+![](images/clipboard-369920841.png)
+
+-   Fettfri masse økte i begge gruppene, men den største økningen ble observert i ATP-gruppen. Muskeltverrsnitt i quadriceps var også signifikant økt i ATP-gruppen sammenlignet med placebogruppen. Resultatene på kroppssammensetning er oppsummert i tabellen under.
+
+![](images/clipboard-923356593.png)
+
+-   I overtreningsperioden ble det observert en signifikant lavere muskelnedbrytning i ATP-gruppen, p=0.007.
+-   Ingen forskjeller ble observert når det gjaldt hormonstatus eller inflammasjonsmarkører. Det ble heller ikke observert forskjeller mellom gruppene når det gjaldt selvopplevd grad av restitusjon.
+-   Blodprøvene som ble tatt viste ingen forskjeller mellom gruppene, og ingen negative effekter av ATP-tilskudd ble observert.
+
+## Oppsummering
+
+I denne studien så man at tilskudd av ATP gav en positiv effekt på styrkeøkning, kraftutvikling og kroppssammensetning sammenlignet med placebo. Dette kan indikere at ATP-tilskudd kan være nyttig for idrettsutøvere, der prestasjonen er tett knyttet til nettopp disse faktorene. Det ble ikke observert noen negative effekter av tilskuddet i de dosene som ble benyttet.
+
+Systematisk overtrening er en strategi som ofte benyttes av idrettsutøvere i perioder. Da øker man treningsmengden så mye at man ikke rekker å hente seg inn igjen til neste økt. Det er vanlig at prestasjonen på trening reduseres i slike perioder, noe som også ble observert i denne studien. Tilskudd av ATP så imidlertid ut til å ha en positiv effekt på dette, og reduksjonen i prestasjon i ATP-gruppen var mindre enn det som ble observert i placebogruppen.
+
+Metodene i denne studien er veldig solide. Forskerne har kontrollert svært mange variabler, deriblant kosthold og bruken av kosttilskudd som kunne påvirket resultatene. Det er likevel viktig å ha i bakhodet at studien er liten, og at den bare er gjennomført blant styrketrenende menn. Forskerne skriver selv at fremtidige studier må ta sikte på å undersøke effekten i andre populasjoner, og i en gruppe på Facebook har førsteforfatter røpet at flere lignende studier allerede er levert for fagfellevurdering.
+
+Det må understrekes at kunnskapsgrunnlaget for ATP-tilskudd foreløpig er veldig tynt, og at dette er den første studien som har undersøkt effekten av dette tilskuddet kombinert med trening over lengre tid. Mekanismene som ligger til grunn for observasjonene er heller ikke kartlagt. Likevel ser det ut til at ATP-tilskudd kan ha en svært positiv effekt for idrettsutøvere, spesielt i harde treningsperioder (systematisk overtrening) eller i konkurranseperioder. Fremtidige studier vil eventuelt kunne bekrefte dette.
+
+Referanse:
+
+1.  Wilson JM, Joy JM, Lowery RP, Roberts MD, Lockwood CM, Manninen AH, Fuller Jr JC, De Souza EO, Baier SM, Wilson SMC, Rathmacher JA: **Effects of oral adenosine-5’-triphosphate supplementation on athletic performance, skeletal muscle hypertrophy and recovery in resistance-trained men.** *Nutr Metab (Lond)* 2013 **10**(1):57

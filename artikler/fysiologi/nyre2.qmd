@@ -8,3 +8,80 @@ categories:
 ---
 
 [Tilbake til artikkelserien om menneskets fysiologi](../../fysiologi.html)
+
+[Forrige gang](nyre1.qmd "Nyrene del 1 – Oppbygging og glomerulær filtrasjonsrate") gikk jeg grundig gjennom hvordan nyrene er bygget opp og hva glomerulær filtrasjonsrate (GFR) er og hvordan det fungerer. I denne artikkelen bygger jeg videre på dette og vil gå i dybden på hvordan nyrene regulerer væskebalansen ved å produsere urin, og ikke minst gå i dybden på hvordan urinproduksjonen foregår.
+
+## Væskebalansen
+
+I artikkelen om [natrium og klor](http://www.friskogfunksjonell.no/natrium-og-klor/ "Natrium og klor") skrev jeg at væskebalansen er et resultat av inntaket og utskillelsen av væske. Det er viktig å opprettholde en stabil væskebalanse, ettersom dette i stor grad påvirker konsentrasjonene av ulike metabolitter i kroppen, noe som påvirker funksjon. Verken dehydrering eller overhydrering vil være optimalt. Mengden osmotisk aktive partikler (der elektrolyttene utgjør de viktigste) styrer hvordan væsken fordeler seg inni og utenfor cellene våre. Derfor er også inntak og utskillelse av salt, og da hovedsakelig natrium som er den viktigste ekstracellulære elektrolytten, også sentralt. Væske forlater først og fremst kroppen i urinen, og i tillegg forsvinner litt gjennom svette, avføring, pust og fordamping fra huden.
+
+Vanligvis styres inntaket av både væske og salt i større grad av vaner enn av fysiologiske behov, noe som gjør at nyrene i stor grad må tilpasse utskillelsen til inntaket for å opprettholde en fornuftig væskebalanse. I den første artikkelen om nyrene fikk du en forklaring på hva glomerulær filtrasjonsrate (GFR) er for noe. Filtrering av blodet er det første steget for å produsere urin. I gjennomsnitt filtrerer en voksen person omtrent 180 liter væske daglig, og av dette reabsorberer vi nesten alt, noe som gjør at vi sitter igjen med et urinvolum på rundt 1,5 liter daglig. Ved endringer i inntaket av salter eller væske har nyrene stor kapasitet til å regulere utskillelsen ved å fortynne eller konsentrere urinen, noe som utdypes lenger nede. Nyrene har en autoregulerende funksjon slik at GFR endres lite på tross av store svingninger i det systemiske blodtrykket. Uten denne autoreguleringen ville små økninger i blodtrykket gitt store økninger i GFR, og uten tilsvarende økninger i reabsorbsjonen av væske ville urinvolumet fort blitt veldig stort.
+
+## Urinproduksjon
+
+Vi har mekanismer for å styre inntaket av både salt og væske, men som nevnt er disse ofte i størst grad styrt av vaner. Hvor mye væske vi skiller ut gjennom andre veier enn urinen er også ganske stabilt, med unntak av at vi selvfølgelig taper mer gjennom svette når vi trener mye. Resten av denne artikkelen vil derfor omhandle hvordan nyrene produserer urin og regulerer utskillelsen av væske. Hvor mye av ulike stoffer som skilles ut i urinen er avhengig av tre viktige prosesser; filtrasjon, reabsorbsjon og sekresjon. I de følgende avsnittene vil jeg utdype disse.
+
+#### 1. Glomerulær filtrasjon
+
+De aller fleste substansene i blodet blir filtrert over til nyretubuli, og hvor mye som filtreres avhenger av GFR. Konsentrasjonen av de ulike substansene vil være mer eller mindre like stor som den var i blodet i utgangspunktet (unntak for proteinbundne stoffer). Dette gir oss en ligning for filtrasjon av det enkelte stoffet:
+
+> *Filtrasjon = GFR x plasmakonsentrasjon av det enkelte stoffet*
+
+Størrelsen på molekylene har noe å si for hvor lett de passerer membranen i glomerulus, og små molekyler slipper lettere gjennom. Molekylenes elektrokjemiske ladning spiller også inn. Kapillærveggen inneholder mange negativt ladede proteoglykaner, og er derfor negativt ladet. Derfor vil positivt ladede molekyler slippe lettere gjennom enn de negative. Proteiner er store molekyler med negativ ladning, og det glomerulære filtratet, råurinen, vil derfor være tilnærmet proteinfri. Molekyler som er bundet til protein i blodet filtreres derfor i mindre grad enn de som finnes fritt.
+
+#### 2. Reabsorbsjon
+
+Den andre prosessen er reabsorbsjon, der molekyler kan absorberes tilbake fra nyretubuli og over til de peritubulære kapillærene slik at utskillelsen blir mindre enn det som filtreres. Dette kan skje både transcellulært (gjennom de tubulære epitelcellene) eller paracellulært (passerer mellom epitelcellene). Hvor mye som reaborberes av det enkelte stoffet vil være av stor betydning for hvor mye som skilles ut til slutt. Noen molekyler, deriblant glukose og aminosyrer, reabsorberes nesten fullstendig, mens andre reaborberes i varierende grad. Elektrolyttene er eksempler på stoffer som reaborberes i ganske stor grad. Det er også en del stoffer som ikke reabsorberes i det hele tatt, deriblant endemetabolitter som kreatinin, som derfor skilles ut i samsvar med konsentrasjonene i blodet. Graden av reabsorbsjon reguleres i tråd med GFR, noe som er viktig for å opprettholde balanse.
+
+Reabsorbsjonen forekommer på flere måter, både passivt og aktivt. Den passive reabsorbsjonen skjer ved diffusjon, og styres hovedsakelig av det hydrostatiske og osmotiske trykket. Væske vil alltid reabsorberes på denne måten. Den aktive reabsorbsjonen skjer derimot via ulike transportproteiner. Et eksempel på dette er reabsorbsjon av kalsium via en energikrevende kalsiumtransportkanal. Dette er et eksempel på primær aktiv transport, der prosessen er direkte drevet av en energikilde (ATP). Vi har også det som kalles sekundær aktiv transport, der transporten av et molekyl frigir energi som brukes til å transportere et annet. Natrium/glukose-kotransportkanalen er et eksempel på dette, som sørger for nærmest total reabsorbsjon av glukose ved hjelp av natrium (en kotransportkanal transporterer to molekyler samtidig, enten i samme retning, symport, eller i motsatt retning, antiport). Reabsorbsjonen av glukose er ikke energikrevende i seg selv, men drives av konsentrasjonsgradienten for natrium. Denne skapes igjen av at Natrium/Kalium(Na/K)-pumpen (en annen kotransportkanal) transporterer natrium ut av epitelcellene og tilbake i blodet, og derfor reduserer natriumkonsentrasjonen inne i cellen.
+
+![](images/clipboard-3323327637.png)
+
+Ulike former for transport over en membran. Til venstre - diffusjon gjennom membran. I midten - diffusjon gjennom et transportprotein. Til høyre - aktiv, energikrevende transport.
+
+#### 3. Sekresjon
+
+Den siste prosessen er sekresjon, der substanser som slapp unna filtrasjonen aktivt transporteres over i nyretubuli fra de peritubulære kapillærene for utskilling. Altså akkurat det motsatte av reabsorbsjonen. Dette bidrar til at avfallsstoffer skilles ut i større grad enn det som ble filtrert, slik at vi kvitter oss raskere med dem. Dette gjelder i stor grad organiske syrer og baser som kan være viktige å bli kvitt for å opprettholde syre/base-balansen. Sekundær aktiv transport er en viktig ekskresjonsmekanisme, og dette involverer ofte at molekyler blir transportert motsatt vei av natrium gjennom et kotransportprotein, slik at reaborbsjon av natrium driver sekresjonen av andre molekyler.
+
+## Hva skilles ut?
+
+Summen av disse tre prosessene avgjør hvor mye av hver enkelt substans som skilles ut i urinen, og her er det store forskjeller mellom de ulike stoffene. Som vi har sett så er natrium en veldig viktig elektrolytt, både når det gjelder reabsorbsjon og ekskresjon via sekundær aktiv transport. Den store mengden Na/K-pumper som finnes i de tubulære epitelcellene sørger for at konsentrasjonen av natrium holdes lav inni disse cellene, noe som legger til rette for natriumdrevet transport av en rekke molekyler, både i reabsorbsjon fra tubuli og ekskresjon fra blodet. Totalt kan urinutskillelsen av et stoff beskrives av følgende:
+
+> *Urinutskillelse = Filtrasjon – reabsorbsjon + ekskresjon*
+
+Kapasiteten for aktiv reabsorbsjon og sekresjon er begrenset, og transportmaksimum er et begrep som beskriver denne. Et godt eksempel på dette er kapasiteten for reabsorbsjon av glukose. Under normale omstendigheter reabsorberes glukosen fullstendig, slik at vi ikke taper glukose i urinen. Hvis vi husker tilbake til filtrasjonen, så vil glukosenivåene i blodet avgjøre hvor mye glukose som filtreres. Dersom blodsukkeret øker tilstrekkelig, vil vi overgå transportmaksimum for reabsorbsjon av glukose, noe som fører til at den øvrige glukosen vil skilles ut i urinen. Dette er et tegn på hyperglykemi, og tidligere ble dette brukt for å diagnostisere diabetes. Ettersom glukose er et osmotisk aktivt molekyl så vil det også trekke med seg ekstra væske, noe som forklarer hvorfor det å måtte hyppig på do er et kjennetegn på diabetes.
+
+## Hvor mye tisser vi
+
+Den totale urinproduksjonen kan beskrives med samme ligning som nevnt over. Summen av filtrasjon, reabsorbsjon og ekskresjon bestemmer hva som til slutt skilles ut. En veldig viktig egenskap i denne sammenhengen er det at nyrene kan konsentrere eller fortynne urinen ganske mye, uten å endre på utskillelsen av metabolittene, noe som er sentralt for å regulere væskebalansen. Du har sikkert merket at urinvolumet stiger i perioder der du drikker mye, og dette skyldes at nyrene da skiller ut mer væske ved å fortynne urinen. Har du drukket lite vil urinvolumet være mye mindre, og urinen er også mørkere ettersom den er mye mer konsentrert. Dette skjer hovedsakelig helt i slutten av det tubulære nettverket, i samlerørene.
+
+Antidiuretisk hormon (ADH), som produseres i hypotalamus som svar på økende osmotisk trykk i den systemiske sirkulasjonen, er viktig for samlerørenes permeabilitet for vann. ADH øker reabsorbsjonen av væske i denne delen av tubuli, slik at urinen konsentreres og mindre væske tapes. En annen faktor som bidrar til evnen til å konsentrere urinen er reabsorbsjon av urea fra samlerørene. Reabsorbsjon av urea skjer når vannreabsorbsjonen øker. Da øker samlerørenes ureakonsentrasjon, slik at noe av dette kan presses ut. Urea er osmotisk aktivt, noe som gjør at mer væske kan trekkes ut fra samlerørene, noe som konsentrerer urinen ytterligere. Urea i som nå befinner seg i nyremargen kan diffundere inn igjen i Henles sløyfe, og denne resirkuleringen kan skje flere ganger så lenge det er behov for det. Proteininntaket, og dermed ureaproduksjonen, er derfor avgjørende for vår evne til å konsentrere urinen, og underernæring er assosiert med redusert kapasitet for dette.
+
+Friske nyrer kan, dersom vi er overhydrerte, skille ut opp mot 20 liter urin i løpet av en dag. Dette oppnår den ved å drastisk redusere reabsorbsjonen av væske. Samtidig opprettholdes reabsorbsjonen av metabolitter, slik at vi ikke skiller ut mer av disse. På denne måten kan vi kvitte oss med overflødig væske uten at vi taper unødvendig mye av andre ting. På motsatt side kan nyrene også produsere kraftig konsentrert urin og begrense urinvolumet ned til 0.5 liter hos en gjennomsnittlig person. Dette kalles det obligatoriske urinvolumet, og tilsvarer den mengden vi er nødt til å skille ut for å kvitte oss med metabolske endeprodukter som urea og kreatinin (som er osmotisk aktive og derfor må trekke med seg noe væske). Denne egenskapen er ekstremt viktig for landlevende dyr som oss, ettersom den utgjør en forsvarsmekanisme mot dehydrering. Størrelsen på det obligatoriske urinvolumet bestemmes av hvor mye metabolitter som må skilles ut, og dette kan variere f.eks. med kroppsstørrelse eller kosthold.
+
+## Hvordan alt dette reguleres
+
+Utskillelsen av væske og metabolitter reguleres som nevnt nøye i nyrene slik at utskillelsen tilpasses inntaket og kroppens behov. Selv ved ekstreme svingninger i inntaket av væske så holder blodvolumet seg mer eller mindre konstant, noe som er et tegn på hvor effektive disse mekanismene fungerer. Vi har allerede vært inne på ADH som er et hormon som påvirker reabsorbsjonen av væske i samlerørene, men det er også andre mekanismer som regulerer alt dette.
+
+Trykkdiurese og trykknatriurese er viktige feedbackmekanismer for å opprettholde væske- og natriumbalansen, noe som er sentralt for å regulere blodtrykk og væskemengden i kroppen. Dette handler om nyrenes respons på økt inntak av væske eller natrium, som er å skille ut mer for å motvirke større endringer i væskebalansen. Dette skyldes at et økt blodvolum vil gjøre at mer blod pumpes ut fra hjertet, noe som øker blodtrykket. Til og med små økninger i blodtrykket vil øker utskillelsen av væske og natrium, slik at blodvolumet reduseres igjen. Motsatt vil også redusert blodvolum medføre redusert utskillelse.
+
+Angiotensin II er et hormon som øker reabsorbsjonen av væske og natrium og dermed øker blodtrykket. Dette hormonet må aktiveres ved hjelp av renin som produseres i nyrene. Aldosteron er et annet hormon som øker reabsorbsjonen av natrium og væske. Når vi spiser mer natrium (salt), så vil nyrenes utskillelse av renin reduseres, noe som reduserer aktiveringen av angiotensin II og dermed øker utskillelsen av natrium. Produksjonen av aldosteron hemmes også. Disse endringene forsterker trykkdiuresen, slik at mer væske og natrium skilles ut som følge av små endringer i blodvolumet. Evnen til å regulere utskillelsen av renin som respons på saltinntaket er en av faktorene som avgjør om en person er saltsensitiv eller ikke, og jo raskere nyrene regulerer dette jo raskere reguleres saltutskillelsen etter saltinntaket. Atrialt natriuretisk peptid (ANP) er et hormon som produseres i hjertemuskelen som respons på økt strekk av hjertet, eksempelvis som følge av økt blodvolum. Dette hormonet øker natriumutskillelsen både ved å øke GFR og redusere natriumreabsorbsjonen.
+
+Det sympatiske nervesystemet er også en sentral regulator av nyrenes utskillelse av væske og natrium. Økt sympatisk stimulering av nyrene vil kunne redusere GFR ved å kontrahere nyrearteriolene, øke reabsorbsjonen av væske og natrium og øke produksjonen av angiotensin II og aldosteron som begge ytterligere øker natriumreabsorbsjonen. Aktivering av det sympatiske nervesystemet kan komme som følge av redusert blodtrykk, eksempelvis på grunn av blødninger, og stimuleres av trykkreseptorer som registrerer blodtrykket.
+
+## Oppsummering
+
+-   Væskebalansen er et resultat av den væsken som tilføres og den som fjernes fra kroppen. I denne prosessen er nyrene svært viktige, ettersom de ved å produsere urin er det viktigste organet for å regulere nettopp dette.
+-   I tillegg til å være viktig for å regulere væskebalansen er urinproduksjonen viktig for å regulere nivåene av alle metabolittene som befinner seg i blodet.
+-   Urinproduksjonen skjer primært i tre prosesser
+    -   Alt blodet filtreres først i glomerulus, dette kalles filtrasjonen.
+    -   Det som ikke skal skilles ut kan reabsorberes fra nyretubuli og tilbake til blodet.
+    -   Til slutt kan nyrene også skille ut ekstra mye av en metabolitt ved sekresjon.
+-   Reabsorbsjon og sekresjon skjer ved hjelp av ulike transportproteiner eller ved passiv diffusjon.
+-   Urinproduksjonen og utskillelsen av metabolitter reguleres etter kroppens behov, og dette styres både hormonelt og via det sympatiske nervesystemet. I tillegg har blodtrykket en egen effekt som kalles trykkdiurese, som gjør at små endringer i blodtrykket raskt kan jevnes ut.
+
+Neste gang ser jeg nærmere på hvordan nyrene regulerer utskillelsen av de ulike elektrolyttene, og vil også komme inn på nyrenes øvrige oppgaver.
+
+All informasjonen i denne artikkelen er basert på en lærebok i fysiologi (1). Artikkelen er ment å gi en oversikt, og jeg anbefaler interesserte å undersøke i bøkene for nærmere beskrivelse av detaljer.
+
+1.  Guyton A, Hall J: **Textbook of Medical Physiology**, 12 edn: Saunders/Elsevier; 2011.

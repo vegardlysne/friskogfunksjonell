@@ -1,0 +1,49 @@
+---
+title: "Bioblikk - Karnitin"
+author: "Thomas Olsen"
+date: 2013.09.12
+---
+
+*Bioblikk er en spalte som retter fokus på biokjemiske prosesser eller stoffer som er sentrale for helsen men som ikke får stor oppmerksomhet ellers.*
+
+Karnitin er et molekyl som vi mennesker produserer selv, men som vi også får i oss gjennom maten vi spiser. Ulike varianter av karnitin er også tilgjengelig som kosttilskudd, og har blant annet blitt fremmet som fettforbrenner og prestasjonsfremmende. I denne artikkelen kommer jeg til å introdusere karnitin og ta for meg dets oppgaver og roller i kroppen samt litt av det vi vet om tilskuddsverdien.
+
+## Introduksjon
+
+Karnitin er en biologisk aktiv aminosyre som dannes fra de essensielle aminosyrene lysin og metionin. Molekylet er av en slik struktur at det fungerer ypperlig til binding av korte-, medium- og langkjedete fettsyrer så vel som organiske syrer. Esterifisering til karnitin tillater overføring av aktiverte acylgrupper (som oftest i form av fettsyrer) over membranen til cellulære organeller, og da spesielt mitokondriemembranen i forbindelse med mitokondriell [beta-oksidasjon](http://www.friskogfunksjonell.no/fettsyrenedbrytning/ "Fettsyrenedbrytning – β-oksidasjon") av fettsyrer i [energimetabolismen](http://www.friskogfunksjonell.no/metabolismen/ "Metabolismen").
+
+## Syntese og metabolisme
+
+Etter proteinsyntese metyleres forskjellige proteiner som aktin, myosin, ATP syntase og histoner. Dette skjer ved at tre molekyler av typen adenosylmetionin post-translasjonelt overfører hver sin metylgruppe (CH~3~) til aminosyren lysin i de ulike overnevnte proteinene. Når disse proteinene degraderes etter proteolyse i lysosomene frigjøres disse metylerte aminosyrene, også kalt trimetyllysin (TML). Kort sagt produseres forløperen til karnitin ved resirkulering/degradasjon av proteiner i cellene. Etter en rekke reaksjoner vil til slutt L-karnitin dannes.
+
+Ettersom at muskelproteinene aktin og myosin er av de viktigste kildene til TML, er det kanskje ikke overraskende at mesteparten av kroppens intracellulære karnitin-pool finnes i skjelettmuskulatur. Ekstracellulært (i plasma) finner vi andre varianter som acetyl-karnitin og mindre andél propionyl-karnitin samt langkjedete acyl-karnitiner.
+
+Transport av karnitin inn i vev er fascilitert av en organisk kation transportør (OCTN2). Denne er avhengig av natrium og uttrykkes i stor grad i [nyrer](http://www.friskogfunksjonell.no/nyre-1/ "Nyrene del 1 – Oppbygging og glomerulær filtrasjonsrate"), skjelettmuskulatur, hjerte, placenta og pankreas.  Nyrene er spesielt viktig for vedlikehold av kroppens karninthomeostase og normalt sett blir 90-98% av karnitin filtrert og reabsorbert av mennesker. OCTN2 i nyremembranen er ansvarlig for reabsorpsjon av karntiner. Denne reabsorpsjonen synker rast etter inntak av karnitin gjennom mat og tilskudd.
+
+## Behov og kilder
+
+Karnitin er ikke et essensielt næringsstoff for folk flest. Veganere og barn har lavere sirkulerende nivåer, mens primær systemisk mangel ikke vil oppstå med mindre man har defekter i genet som koder for OCTN2. Karnitin finnes hovedsakelig i animalske matvarer, hvorav lammekjøtt inneholder mesteparten.
+
+## Biologisk aktivitet og funksjon
+
+Karnitin spiller en helt nødvendig rolle i transporten av fettsyrer inn i mitokondriet for ATP-produksjon og energimetabolisme. Dette starter med at aktiverte lankjedete fettsyrer (som Koenzym A-estere) esterifiseres til karnitin på den ytre mitokondrielle membranen (koenzym A spaltes av). Denne reaksjonen katalyseres av enzymet karnitin palmitoyltransferase 1 (CPT1) som samtidig frakter acylkarnitin inn i mitokondriet. Lankjedete acylkarnitiner transporteres så i neste steg over den indre mitokondrielle membranen via karnitin-acylkarnitin translokase (CACT). Karnitin palmitoyltransferase 2 (CPT2) deltar også i denne reaksjonen og katalyserer esterifisering av den aktiverte fettsyren til intramitokondrielt koenzym A.
+
+![](images/clipboard-4089956880.png)
+
+Figuren viser hvordan karnitin kobles til fettsyrene og frakter dem inn i mitokondriet.
+
+CPT2 sørger for at karnitin frigjøres etter import av langkjedete fettsyrer og etter at disse esterifiseres til CoA. Det frie karnitinet kan da forlate mitokondriet via CACT, eller kan benyttes som et lager for overskudds acetyl-CoA som dannes ved pyruvat/beta-oksidasjon. Denne prosessen tillater lagring av en CoA-konsentrasjon i matriks som kan tilføres beta-oksidasjon, pyruvat dehydrogenase og sitronsyresyklusen ved energibehov. Acetyl-karnitin (acetyl+ karnitin) kan også forlate mitokondriet via CACT til forbruk i andre vev eller andre deler av cellen. Nivåene av acetyl-karnitin øker ved faste grunnet økt beta-oksidasjon av fettsyrer i ulike vev, med påfølgende eksport av overflødige acetyl-enheter. Disse nivåene synker igjen etter et karbohydratrikt måltid.
+
+Karnitin og ekstramitokondrielt CPT påvirker bruken av lange fettsyrer i syntesen av fosfolipider. Fettsyrer bundet til karnitin inkoorporeres i cellemembranen til røde blodceller under reparasjon etter oksidativ skade, og i fosfolipidet dipalmitoylphosphatidylcholine, som er en kritisk komponent i surfaktant i lungene.
+
+Ellers har karnitin en rekke andre funksjoner som involverer anti-inflammatoriske effekter, fosterutvikling og antioksidative egenskaper.
+
+## Karnitin som tilskudd
+
+Karnitin har blant annet blitt foreslått som tilskudd til nyfødte. Grunnene til dette er at spedbarn bruker lipider som primær energikilde for vekst etter fødselen, som krever en høy frekvens av mitokondriell nedbrytning av fett.
+
+Når det gjelder prestasjonsforbedring, er normale karnitinkonsentrasjoner mettende for CPT1-enzymet i muskler. Det vil si at CPT1 ikke kan benytte seg av en økt mengde substrat tilført via tilskudd. Dermed bør man nok ikke forvente en mer effektiv fettmetabolisme under trening. På den andre siden kan tilskudd øke effektiviteten av karnitinmetabolismen i muskler ved at ikke-esterifisert karnitin byttes mot overflødig acetoacetat som bindes til karnitin og gir acetyl-karnitin etter beta-oksidasjon. Dette kan blant annet være gunstig når sitronsyresyklusen og oksidativ fosforylering går for full maskin. Relatert til dette skal man også huske på at for eliteutøvere vil marginal økning i prestasjoner ikke være kvantifiserbart rent statistisk i vanlige studier, men kan likevel ha en stor betydning for resultater.
+
+Til slutt kan det være verdt å nevne at ettersom CPT1 mettes relativt kjapt, og utskillelsen øker gjennom nyrene vil ikke karnitintilskudd påvirke fettforbrenningen i særlig grad, men har vist seg å kunne motvirke depresjon, sannsynligvis fordi karnitin er en sterk antioksidant. Dette trengs det derimot videre studier på, og de som er tilgjengelig er ofte av variabel kvalitet.
+
+*Denne artikkelen er basert på kapittelet om karnitin i boken Present Knowledge in Nutrition*

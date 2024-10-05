@@ -1,0 +1,62 @@
+---
+title: "Bioblikk: Enkarbonmetabolismen, en introduksjon"
+date: 2013.09.16
+---
+
+*Bioblikk er en spalte som retter fokus på biokjemiske prosesser eller stoffer som er sentrale for helsen men som ikke får stor oppmerksomhet ellers.*
+
+Enkarbonmetabolismen er et komplekst samspill der enkarbonenheter, molekyler bestående av ett karbonatom, overføres til og fra ulike forbindelser. Sentralt i enkarbonmetabolismen finner vi omdanningen mellom aminosyrene metionin og homocystein, og samspillet mellom disse er blant annet med på epigenetisk regulering og produksjon av andre molekyler som kreatin.  Sentrale forbindelser i enkarbonmetabolismen er aminosyrene metionin og homocystein. [Folat](http://www.friskogfunksjonell.no/folat/ "Folat, vitamin B9") og  betain, en metabolitt i [kolinmetabolismen](http://www.friskogfunksjonell.no/bioblikk-andre-bioaktive-stoffer-i-mat-choline/ "Bioblikk: Andre bioaktive stoffer i mat – Choline"), er viktige metyldonorer. B-vitaminene [B2](http://www.friskogfunksjonell.no/riboflavin/ "Riboflavin, vitamin B2"), [B6](http://www.friskogfunksjonell.no/b6/ "Pyridoksin, vitamin B6") og [B12](http://www.friskogfunksjonell.no/b12/ "Kobalamin, vitamin B12") er viktige kofaktorer for sentrale enzymer. I denne artikkelen vil jeg gi en overfladisk introduksjon i metabolske prosesser relatert til enkarbonmetabolismen, sentrert rundt bearbeidingen av homocystein.
+
+## Metyleringsreaksjoner
+
+Metylering og demetylering beskriver prosessene der en enkarbonenhet henholdsvis binder til eller spaltes av et molekyl. Kobling av metylgrupper til DNA er eksempelvis en viktig epigenetisk mekanisme som er med å regulere genuttrykket vårt.
+
+Den viktigste metyldonoren i de fleste metyleringsreaksjonene i kroppen vår er S-Adenosylmetionin (AdoMet), som dannes fra aminosyren metionin (Met). AdoMet gir fra seg en metylgruppe og omdannes til S-Adenosylhomocystein (AdoHcy) i prosessen. AdoHcy kan deretter omdannes til homocystein (Hcy), som deretter kan lide en av to metabolske skjebner.
+
+![](images/clipboard-126528648.png)
+
+Figur 1. Adenosylmetionin som metyldonor
+
+Les mer utfyllende om [metyleringsreaksjoner](http://www.friskogfunksjonell.no/bioblikk-metyleringssyklus/ "Bioblikk: Metyleringssyklus").
+
+## Homocysteinmetabolismen
+
+Produksjon av Hcy fra Met er som nevnt innblandet i metyleringsreaksjoner rundt omkring i kroppen. Økte nivåer av homocystein er en etablert risikofaktor for hjertesykdom, og vi har to ulike måter å bli kvitt overskuddet på. Transsulfureringsveien står for en irreversibel fjerning av Hcy, ved at Hcy gjennom to enzymatiske steg blir omdannet til cystein. Alternativt kan Hcy remetyleres og dermed gjendanne Met, og vi har to alternative remetyleringsveier. Figuren under viser en oversikt over disse tre metabolske veiene.
+
+![](images/clipboard-1117609803.png)
+
+**Figur 2.** Oversikt over de sentrale metabolske veiene i homocysteinmetabolismen
+
+Den ene remetyleringsveien finner vi i folatsyklusen. Folat i form av tetrahydrofolat (THF) kan binde enkarbonenheter og er dermed sentral i enkarbonmetabolismen som bærer av disse enhetene. THF kan binde til ulike enkarbonenheter, og den viktigste i denne sammenhengen er 5-metyl THF (mTHF). Denne overfører en metylgruppe til Hcy i en reaksjon katalysert av enzymet metionin syntase (MS). Vitamin B12 er en kofaktor i denne reaksjonen, og hvis vi skal være helt presis så overføres metylgruppen først til redusert B12, og deretter videre til Hcy. MS katalyserer dermed to reaksjoner. Dette er illustrert i figuren under, og tallene indikerer hvordan metylgruppen beveger seg, fra 1 til 3.
+
+![](images/clipboard-2214595968.png)
+
+**Figur 3.** Metionin Syntase katalyserer to reaksjoner i remetyleringen av homocystein. Cbl er forkortelse for kobalamin, som er vitamin B12.
+
+Den alternative remetyleringsveien er koblet til kolinmetabolismen inne i mitokondriet. Betain er det første oksidasjonsproduktet i kolinmetabolismen, og fungerer på samme måte som mTHF som en metyldonor og overfører en metylgruppe til Hcy. Denne prosessen er katalysert av et enzym som heter betain-homocystein-metyltransferase (BHMT), og i denne reaksjonen blir betain omdannet til dimetylglycin (DMG). Det er verdt å merke at betain fraktes ut av mitokondriet, slik at selve remetyleringen skjer i cellens cytosol.
+
+Videre i oksidasjonsveien til kolin finner vi et enzymer som demetylerer DMG, først til sarcosin, deretter til glycin. Begge disse reaksjonene frigjør en enkarbonenhet som kan benyttes til andre prosesser i cellen. Glycin kan ved hjelp av at enzym som heter glycin-N-metyltransferase (GNMT), metyleres tilbake til sarcosin. Dette enzymet er interessant i denne sammenhengen fordi det bruker AdoMet som metyldonor, er en sentral reguleringsmekanisme som bidrar til å metabolisere overskudd av metylgrupper.
+
+![](images/clipboard-1177024125.png)
+
+**Figur 4.** GNMT bruker adenosylmetionin som metyldonor for å danne sarcosin fra glycin
+
+## Format
+
+Format er en enkarbonenhet som produseres inne i mitokondriene i cellene våre. Faktisk så produserer vi format fra alle de intramitokondrielle reaksjonene i oksideringen av kolin, og dette skyldes at det i disse prosessene spaltes av en og en metylgruppe som deretter blir omdannet til format. Format har den egenskapen at den kan fraktes ut av (eller inn i) mitokondriet, og i cellenes cytosol kan den kobles til folat og enten brukes til produksjon av puriner (byggestener for DNA), tymidylat eller remetylering av Hcy. Figuren under illustrerer produksjon og utnyttelse av format.
+
+![](images/clipboard-1034636977.png)
+
+Figur 5. Produksjon av format inne i mitokondriet, og utnyttelse av denne enkarbonenheten til ulike prosesser i cellen.
+
+## Avslutning
+
+Økte nivåer av homocystein er en etablert risikofaktor for hjertesykdom, men mekanismene som ligger til grunn er foreløpig ikke kartlagte. I denne artikkelen har jeg beskrevet de viktigste metabolske veiene som er involvert i metaboliseringen av homocystein, remetylering og transsulfurering. Som jeg har vært inne på så er dette tett knyttet til metyleringsreaksjoner, og kan dermed også knyttes opp mot epigenetiske mekanismer. Som nevnt i innledningen så involverer enkarbonmetabolismen et komplekst samspill av metabolske reaksjoner, som er nøye regulert, og dette vil vi komme tilbake til i senere saker.
+
+Kilder:
+
+1.  Bailey LB. and Caudill MA. **Folate**. In: Present Knowledge in Nutrition, 10th ed. Erdman JWK, MacDonald I, and Zeisel SH, editors 2012.
+
+2.  Stabler SP. **Vitamin B12**. In: Present Knowledge in Nutrition, 10th ed. Erdman JWK, MacDonald I, and Zeisel SH, editors 2012.
+
+3.  Da Silva VR, Russel KA and Gregory III JF. **Vitamin B6**. In: Present Knowledge in Nutrition, 10th ed. Erdman JWK, MacDonald I, and Zeisel SH, editors 2012.

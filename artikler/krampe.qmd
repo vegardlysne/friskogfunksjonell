@@ -1,6 +1,6 @@
 ---
 title: "Hvorfor får man krampe?"
-author: "Martin Hole Hanstveit"
+author: "Martin Hole Hanstvedt"
 date: 2013.05.23
 ---
 

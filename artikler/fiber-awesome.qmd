@@ -1,0 +1,44 @@
+---
+title: "Hvorfor Fiber er Awesome"
+author: "Thomas Olsen"
+date: 2013.06.10
+---
+
+Fiber er et komplekst karbohydrat som har fått mye oppmerksomhet de siste årene, fra både offentlig hold og ellers grunnet dets gunstige helseeffekter. Vi mennesker har ikke verktøyene tilgjengelig for å bryte ned og nyttiggjøre oss fullt ut av dette næringsstoffet, men likevel er det slik at fiber bidrar med en liten andel energi og kan vise seg spesielt gunstig for tarmen vår.
+
+## En kort innføring
+
+Som nevnt innledningsvis er fiber en samlebetegnelse for karbohydrater vi mennesker ikke er i stand til å fordøye. Fordøyelsesenzymene i tarmen klarer med andre ord ikke å kappe dem i biter slik at det absorberes. Karbohydratene det dreier seg om er blant andre ulike typer stivelse, cellulose, lignan, pektiner og andre lignende molekyler.
+
+Fiber deles videre inn i løselig og uløselig fiber. Løselig fiber er som navnet indikerer, løselig i vann, og mesteparten brytes ned av bakteriene i tarmen (som jeg kommer tilbake til om litt). Løselig fiber har en tendens til å forsinke tarmpassasjen noe. Uløselig fiber derimot, løses ikke opp i vann, bedrer tarmpassasje, og bearbeides i langt mindre grad av tarmbakteriene våre. Faktisk brytes kun 5-20% av uløselig fiber ned mot løselig fiber som nesten brytes ned fullstendig (2).
+
+Og hva så egentlig? Hva er det som er så fantastisk med karbohydrater vi ikke en gang kan fordøye? Vel, som jeg nevnte flere ganger i avsnittet over er spiller bakterier en sentral rolle her. Nedbrytningsproduktene som dannes når fiber brytes ned kan nemlig være svært gunstige for oss!
+
+## Kortkjedete fettsyrer
+
+Kolon, eller tykktarmen ble tidligere ansett som en del av tarmen som bare absorberte vann og salter. Slik er det imidlertid ikke lenger. I tykktarmen sitter det nemlig trillioner av bakterier som overgår kroppens celler i antall. Disse bakteriene utøver en rekke helsefremmende funksjoner, deriblant nedbrytningen av fiber. De ulike typene karbohydrater som kommer til kolon tas opp av bakterierer og danner pyruvat via glukolysen og pentose-fosfat-veien. Etter flere intermediære steg vil kortkjedete fettsyrer produseres. Da i hovedsak acetat, propionat og butyrat. Kortkjedete fettsyrer består av 1-6 karbonatomer og kan også produseres fra bakteriell nedbrytning av peptider og enzymer (1).
+
+Av de ulike kortkjedete fettsyrene er det acetat og propionat som produseres i størst grad (1). Begge disse fettsyrene overføres til blodet fra tarmen. Acetat er en viktig kilde til kolesterolsyntese, men hvordan acetat fra fermentering i tarm påvirker lipidmetabolisme vet vi for øyeblikket lite om. Propionat derimot ser ut til å ha en lipidsenkende effekt og en lav acetat:propionat-ratio er assosiert med lavere lipidnivåer hos dem med type 2 diabetes (6).
+
+Av de tre kortkjedete fettsyrene som dannes er butyrat den viktigste (1,2,6). Butyrat foretrekkes som energisubstrat for tarmcellene i tykktarmen fremfor både glutamin og glukose. Denne fettsyren har blant annet en svært potent anti-inflammatorisk effekt. Butyrat hemmer nemlig aktivering av inflammatoriske transkripsjonsfaktorer i cellen, modulerer gentranskripsjon (epigenetiske mekanismer), i tillegg til at den påvirker en rekke mekanismer som hemmer utvikling av tarmkreft, deriblant celledeling og apoptose. Dermed kan det tenkes at for lavt innhold butyrat i seg selv kan spille en rolle i både innflammatoriske tarmsykdommer, [irritabel tarm](http://www.friskogfunksjonell.no/irritabel-tarm-hvordan-behandles-det/ "Irritabel tarm – hvordan behandles det?") og tarmkreft. Nyere studier tyder helt klart på dette, og det har dessuten tidligere vært vist at lavt fiberinntak fører til at tarmen atrofierer.
+
+## Fiber på diett
+
+Så, det er helt klart at nedbrytningsproduktene av fiber, og da spesielt butyrat, er svært positive for helsen vår. Men det oppstår gjerne situasjoner hvor fiberinntaket kan bli mangelfullt, som for eksempel på diett. Spiser man tradisjonell norsk kost, er fiberinntak sjeldent et problem med mindre brødet er helt hvitt. Spiser man derimot svært lite komplekse karbohydrater vil man gjerne unngå gode kilder til fiber som for eksempel fullkorn, men også frukt hos de som er tilhenger av den ketogene varianten.
+
+Studier har tidligere vist lavere bakteriell kolonisering i tykktarm hos dem som foretrekker et kosthold hvor karbohydrater er redusert så mye som mulig (3). En nylig publisert intervensjonsstudie viste også at andel kortkjedete fettsyrer hos deltakere som spiste lite karbohydrater (4%) var lavere enn hos dem som spiste mer karbohydrater (46%). Ingen symptomer ble detektert i studieperioden som kun gikk over åtte uker, men det kan tenkes at en videre reduksjon i kortkjedete fettsyrer hos dem som spiser lite karbohydrater potensielt kan ha en negativ effekt på tarmsystemet, som forfatterne av studien påpeker er vist tidligere.
+
+Butyrat er uvurderlig for normal tarmfunksjon, og de potensielle negative effektene et lavt fiberinntak kan ha hos dem som spiser karbohydratfattig er viktig å ha i bakhodet. Når det er sagt er det ikke sikkert at fekalt butyrat (som her ble målt), reflekterer hvor mye tarmcellene har sugd til seg selv om det i utgangspunktet skal være et godt mål for produksjon i tykktarm. Derimot dannes butyrat nesten utelukkende fra resistent stivelse, slik at nivåene som ble målt sannsynligvis er rèelle.
+
+De beste kildene til fiber og videre butyrat er fullkorn, frukt og grønnsaker. Med tanke på tarmhelsen din er det med andre ord svært viktig å være påpasselig med inntaket av grønnsaker dersom du spiser veldig karbohydratfattig og dropper det meste av fullkorn og frukt. Da er grønne grønnsaker og eventuelt litt nøtter de eneste adekvate kildene til fiber man har tilgjengelig slik at bakteriene i tarmen får gjort jobben sin. Spiser man mer moderate mengder karbohydrater er poteter/søtpoteter, epler, kiwi, og nøtter også potensielle kilder til butyrat. Det finnes også andre kilder til butyrat som smør og melk, men det er viktig å huske på at butyrat i disse matvarene vil absorberes sammen med annet fett i tynntarmen og vil aldri nå tykktarmen og tarmcellene der.
+
+Så med andre ord, dersom brødskive er ut, sørg for å få i deg nok grønnsaker og eventuelt frukt og nøtter slik at fiberinntaket ditt er tilstrekkelig. Det vil magen din sette pris på!
+
+**Referanser:**
+
+1.  Andoh et al; **Role of Dietary Fiber and Short-Chain Fatty Acids in the Colon**, 2003
+2.  Macfarlane & Macfarlane, **Regulation of Short-Chain Fatty Acid Production**, 2003
+3.  Binkworth et al; **Comparative Effects of Very Low-Carbohydrate, High-Fat and High-Carbohydrarte, Low_fat Weight-Loss Diets on Bowel Habit and Faecal Short-Chain Fatty Acids and Bacterial Populations**, 2013
+4.  Ahmed et al; **An Investigation of Fecal Volatile Organic Metabolites In Irritable Bowel Syndrome**, 2013
+5.  Ohigashi et al; **Changes of the Intestinal Microbiota, Short Chain Fatty Acids, and Fecal pH in Patients with Colorectal Cancer**, 2013
+6.  *Wong et al; **Colonic Health: Fermentation and Short Chain Fatty Acids,** 2006*

@@ -1,0 +1,49 @@
+---
+title: "Tankefeil del 2 - Etterpåklokskap og rammeeffekten"
+author: "Andrea Rørvik Marti"
+date: 2013.08.05
+---
+
+[Tilbake til kildekritikk, vitenskap og tankefeil](../../kildekritikk.qmd "Kildekritikk, vitenskap og tankefeil")
+
+I [den forrige artikkelen om bias](tankefeil1.qmd "Tankefeil del 1 – Bekreftelse og tilgjengelighet") tok jeg for meg bekreftelsesbias og tilgjengelighetsbias. I denne artikkelen vil jeg fortsette litt innenfor samme domene og presentere to nye tankefeil som vi også påvirkes av både når vi skal tilegne oss ny kunnskap og når vi skal tenke over den kunnskapen vi allerede har. Jeg vil forklare hvordan disse utarter seg og hvilken relevans de kan ha i det virkelige liv. Som med alle andre typer tankefeil er disse også noe vi alle påvirkes av og som vi alle kan gjøre lurt i å unngå så godt vi klarer. Etter denne artikkelen blir det kanskje litt enklere!
+
+## Etterpåklokskap (hindsight bias)
+
+Dette er en av de få biasene som faktisk har et godt norsk navn! Etterpåklokskap handler om tendensen vi mennesker har til å, etter at noe har skjedd, være skråsikre på at vi kunne forutse det på forhånd. Det er mye enklere å identifisere prediktorer når man allerede vet utfallet. Det etterpåklokskap egentlig bunner i er en mangel på selvinnsikt; det er veldig vanskelig å tenke tilbake og se for oss at vi før har trodd eller ment noe annet enn det vi gjør nå. Det vi vet og mener *nå* er så sentralt for oss at vi ikke evner å fullstendig ignorere det.
+
+> **"Jeg sa jo at det kom til å skje"**
+
+Hvis noen hadde spurt deg den 10. september 2001 hvor sannsynlig et terrorangrep på Amerikansk jord er, hva ville du svart da? Problemet med å ta stilling til dette problemet er at det er umulig for deg å fullstendig ignorere det du vet hendte den 11. september, og dette vil nesten garantert påvirke svaret ditt. Det er også vanskelig å finne ut nå i ettertid hva du egentlig tenkte den 10. September 2001. Det er derfor vanskelig å dobbeltsjekke mange påstander som gis i etterpåklokskapens navn.
+
+[Richard Nixons berømte besøk til Kina i 1972](http://en.wikipedia.org/wiki/1972_Nixon_visit_to_China) dannet bakgrunnen for en praktisk demonstrasjon av hvordan etterpåklokskap kan endre vårt syn på historiske hendelser. I denne studien (1) ble 140 deltakere spurt om hva de trodde utfallet av besøket ville være (målet var enkelt forklart å styrke diplomatiske bånd til Kina). De fylte ut et spørreskjema med spesifikke spørsmål om sannsynligheten for visse ulike hypotetiske scenarioer. I etterkant av besøket ble de så spurt om å fylle inn samme spørreskjema igjen, og prøve å svare det samme som de hadde svart første gang de ble gitt spørreskjemaet. Kanskje ikke så overraskende viste resultatene tydelig at alle deltakerne ble rammet hardt av etterpåklokskapen. Selv om de hadde sett nøyaktig det samme spørreskjemaet kort tid tidligere (to uker for en gruppe, og to måneder for en annen) var en signifikant majoritet av svarene nå skiftet mot det som var det egentlige historiske utfallet av Nixons besøk til Kina. Det at deltakerne visste utfallet av hendelsen hadde rett og slett forårsaket at de hadde glemt hva de tidligere trodde og mente.
+
+Etterpåklokskap har tydelige konsekvenser i dagliglivet, kanskje spesielt når det kommer til bedømmelse av nettopp historiske avgjørelser, legers avgjørelser, og rettsavgjørelser. Når du vet et utfall er det umulig å bedømme hva du ville gjort eller tenkt før utfallet var et faktum. Etterpåklokskap kan også forklare hvorfor så mange ser på psykologisk forskning som «common sense», og dermed på en eller annen måte mindre verdifullt enn oppsiktsvekkende forskningsresultater. Faktum er jo selvfølgelig det at du kan ikke vite hvorvidt resultatene dine er oppsiktsvekkende før du har gjennomført en studie. Like fullt er det mer sannsynlig at folk vil mene resultatene er åpenbare nettopp fordi de påvirkes av etterpåklokskap, siden man etter å ha hørt resultatene gjerne oppfatter dem som selvfølgelige.
+
+## **Rammeeffekten/kontekst-bias (framing effect)**
+
+Rammeeffekten er relevant i tilfeller hvor du må tolke informasjon, noe du helt sikkert gjør oftere enn du tror. Vi påvirkes nemlig av måten informasjon legges frem på, noe som i visse tilfeller også kan påvirke våre avgjørelser. Dette har jeg også nevnt [i en tidligere artikkel](http://www.friskogfunksjonell.no/darlig-livsstil-bare-latskap/ "Dårlig livsstil – bare latskap?"), men her vil jeg gi en nærmere innføring i hvordan rammeeffekten har blitt demonstrert vitenskapelig.
+
+Kahneman og Tversky har avdekket mange kognitive bias, og har hatt ekstremt stor innflytelse innen psykologi, økonomi og møtet mellom de to (adferdsøkonomi). Det var også dem som først demonstrerte tilgjengelighetsbias som jeg snakket om i forrige artikkel, og de har også avdekket en hel skokk med andre biaser (noen av dem skriver jeg muligens om ved en senere anledning). I et berømt eksperiment presenterte Tversky og Kahneman deltakere med et fiktivt scenario (2). Scenarioet innebar at 600 mennesker har blitt syke, og du skal  bestemme hvordan de skal behandles. Du har valget mellom to typer behandlinger. Hvilken velger du?
+
+> 1\. Velger du behandling A vil 200 mennesker overleve.\
+> 2. Velger du behandling B vil du ha 33% sjanse for å redde alle de 600 menneskene, og 66% sjanse for å ikke redde noen.
+
+Stilt ovenfor disse to alternativene velger majoriteten av deltakerne alternativ A. Det å kunne redde 200 virker tryggere enn å risikere å ikke redde noen. Men ved å endre på ordlyden, og hvordan alternativene legges frem, kan majoritetsavgjørelsen vris over til det motsatte. Hvilken av disse ville du valgt?
+
+> 1\. Velger du behandling A vil 400 mennesker dø.\
+> 2. Velger du behandling B vil du ha 33% sjanse for at ingen dør, og 66% sjanse for at alle 600 dør.
+
+Andelen som velger behandling A faller fra 72% til 22% ved en så simpel reformulering som den du er stilt ovenfor her. Om du ikke har forstått det enda: Behandlingene er identiske i begge tilfeller. Den eneste forskjellen er konteksten det presenteres i (om du fokuserer på hvor mange som vil dø kontra hvor mange som vil overleve). En så enkel formulering kan altså drastisk påvirke en avgjørelse som potensielt kan handle om liv eller død. Noe å tenke på.
+
+Rammeeffekten er kanskje ekstra viktig nå i disse valgtider, for hvis det er noen som vet å pynte på det de sier så er det politikerne. Det er langt ifra tilfeldig at abortmotstandere i USA kaller seg «pro-life» - det høres jo langt mer positivt ut. På samme måte er eksempelvis konteksten du oppfatter priser på varer svært viktig for hvorvidt du kjøper dem eller ikke. Er det mest sannsynlig at du kjøper et klesplagg med førpris 1000 kroner, og som nå har blitt satt ned til 200, eller et plagg som alltid har kostet 200? De aller fleste vil foretrekke plagget som er nedsatt, til tross for at begge plaggene vil føre til tap av nøyaktig samme beløp fra konto. Dette er noe reklamebyråer, politikere og mediehus vet godt, og bruker for alt det er verdt. Det skal de selvfølgelig få lov til, men forhåpentligvis vil vi kunne være litt mer immune mot slik «lureri» neste gang vi utsettes for det. Det kan nok hjelpe å stoppe opp og tenke en ekstra gang om hva det er som *egentlig* blir sagt i en gitt situasjon.
+
+## Helt til slutt
+
+Både etterpåklokskap og rammeeffekten har klare konsekvenser i det virkelige liv, både på befolkningsplan og på individuelt plan. Men en ting kan jeg ikke få sagt ofte nok: Jeg vil igjen presisere at slike effekter ikke har noenting med at folk er dumme eller korttenkte å gjøre. Kognitiv bias forekommer som et resultat av hvordan hjernene våre er skrudd sammen. Problemet er at i visse situasjoner så er vi ikke så kritiske, rasjonelle eller oppmerksomme som vi selv liker å tro. Man kan sammenlikne rasjonell tenkning med sansene våre; sammenliknet med andre arter er vi mennesker ganske gode på syn, og ganske dårlige på luktesans. Siden vår egen luktesans er den eneste vi har opplevd er det vanskelig å oppfatte hvor dårlige vi egentlig er i dette domenet. Det samme skjer med kognitiv bias; vi har dem, vi merker ikke at de er der, og derfor antar vi at de kun rammer «alle andre». Jeg håper jeg har klart å overbevise deg om at dette ikke er tilfelle - du er ikke så rasjonell som du liker å tro. Jo før du innser det jo bedre kan du bli på å være bevisst dine egne kognitive biaser. Og bare da kan du forsøke å bekjempe dem.
+
+**Referanser**
+
+1.  Fischhoff, B. & Beyth, R. (1975). I knew it would happen: remembered probabilities of once-future things. *Organizational Behavior and Human Performance*, 13, 1-16.
+
+2.  Tversky, A. & Kahneman, D. (1981). The framing of decisions and the psychology of choice. *Science*, 211, 453-458.

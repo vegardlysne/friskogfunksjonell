@@ -8,3 +8,76 @@ categories:
 ---
 
 [Tilbake til artikkelserien om menneskets fysiologi](../../fysiologi.html)
+
+I denne siste artikkelen om nyrene vil du få et innblikk i årsaker til og konsekvenser av nyresykdom, både akutt og kronisk. Ettersom nyrene utfører svært mange oppgaver i kroppen vår så er det åpenbart at konsekvensene av sykdom eller skade på nyrene også vil være tilsvarende alvorlige.
+
+Tidligere har jeg vært inne på [nyrenes oppbygging og glomerulær filtrasjonsrate](http://www.friskogfunksjonell.no/nyre-1/ "Nyrene del 1 – Oppbygging og glomerulær filtrasjonsrate"), [urinproduksjon og væskebalanse](http://www.friskogfunksjonell.no/nyre-2/ "Nyrene del 2 – Væskebalanse og urinproduksjon") og til slutt [elektrolyttstatus og øvrige funksjoner](http://www.friskogfunksjonell.no/nyre-3/ "Nyrene del 3 – Elektrolyttstatus og andre funksjoner"). Alle disse er relevante for å skjønne hvordan konsekvensene av sykdom oppstår, og kan være verdt å sjekke ut først.
+
+## Nyrefunksjon og nyresvikt
+
+Nyrenes funksjon måles i GFR, og sykdom eller skade vil kunne redusere denne. Dette medfører at nyrene ikke klarer å filtrere blodet godt nok, noe som gjør at molekyler som ellers burde skilles ut i stedet hoper seg opp i blodet. Nyrene kan ikke danne nye nefroner, så ved sykdom eller skade som irreversibelt rammer disse vil reduksjonen i antallet nefroner, og dermed redusert GFR, være varig. Antallet nefroner vil også reduseres etter hvert som vi blir eldre, og det er anslått at etter fylte 40 så vil antallet reduseres med 10% hvert 10. år. GFR måles ikke direkte, og man bruker ulike markører (for eksempel kreatininutskillelse) for å estimere en verdi.
+
+Det er flere mekanismer som kan føre til redusert GFR, men alle sammen rammer på en eller annen måte systemene som er ansvarlig for å regulere GFR i utgangspunktet, altså filtrasjonstrykket eller filtrasjonskoeffisienten, K~f~.
+
+> *GFR = K~f~ x netto filtrasjonstrykk*
+
+Nyresvikt kan forårsakes før, inni eller etter nyrene, og det kan være vanskelig å skille disse på bakgrunn av symptomer. Prerenal nyresvikt skyldes abnormaliteter utenfor nyrene, renal eller intrarenal nyresvikt skyldes abnormaliteter i selve nyrene (nyrekapillærene, glomerulus eller tubuli) og postrenal nyresvikt rammer utførselsveiene for urin. Nyresykdom deles primært inn i to kategorier, akutt og kronisk. Innen de to hovedkategoriene finnes det flere spesifikke nyresykdommer som kan ramme ulike deler av nyrene.
+
+## Akutt nyresvikt
+
+Akutt nyresvikt kjennetegnes ved en plutselig og drastisk reduksjon av GFR. Konsekvensene av akutt nyresvikt er at vi ikke får skilt ut tilstrekkelig med væske og metabolitter, noe som gjør at disse hoper seg opp. Væskeretensjon kan medføre ødemer og forhøyet blodtrykk. Redusert utskillelse av kalium er den mest kritiske konsekvensen, ettersom hyperkalemi kan medføre hjertearytmi og hjertestans. Siden nyrene heller ikke får skilt ut syreoverskudd så vil nyresvikt medføre metabolsk acidose, som i tillegg til å være dødelig i seg selv også ytterligere reduserer utskillelsen av kalium. Akutt nyresvikt kan være prerenal, renal og postrenal.
+
+Prerenal akutt nyresvikt skyldes redusert blodtilførsel til nyrene. Som beskrevet i første artikkel er nyrenes blodtilførsel i utgangspunktet enormt stor, noe som er viktig for at nyrene skal kunne regulere væske- og elektrolyttstatus på en tilfredsstillende måte. Redusert blodtilførsel følges av redusert GFR og dermed redusert urinutskillelse, oliguri, som fører til at væske og metabolitter hoper seg opp. Dersom urinproduksjonen stopper helt opp kalles det anuri. Noen årsaker til prerenal akutt nyresvikt er store blødninger, diaré/oppkast, brannskader (stort væsketap fra huden) og hjertesvikt.
+
+Prerenal akutt nyresvikt er vanligvis reversibel så lenge blodtilførselen ikke reduseres til under 20-25% av normalen og årsaken behandles før det oppstår skade på nyrecellene som følge av oksygenmangel (iskemi). Grunnen til at nyrene tåler en såpass stor reduksjon i blodtilførselen uten at det oppstår iskemi er at GFR reduseres. Da reduseres også behovet for reabsorbsjon av natrium som er den største energi- og oksygenkrevende prosessen i nyrene. Når GFR reduseres så følges dette av et redusert oksygenbehov, og rundt 20-25% av normal blodtilførsel er tilstrekkelig for å holde nyrecellene i live. Dersom årsaken til den prerenale nyresvikten ikke korrigeres kan det altså oppstå skade på selve nyrecellene, og renal nyresvikt oppstår.
+
+Renal akutt nyresvikt skyldes abnormaliteter inne i selve nyrene, som kan ramme kapillærnettverket, nyretubuli eller interstitiet (vevet som omkranser tubuli).
+
+-   Glomerulonefritt er en betennelsestilstand som skader glomerulus. Dette skyldes vanligvis en unormal immunrespons som følge av infeksjoner andre steder i kroppen, og som oftest er det snakk om streptokokkvirus (som eksempelvis kan ramme halsen eller huden). Det som skader glomerulus er ikke infeksjonen i seg selv, men at det dannes komplekser mellom viruset og antistoffer. Disse kompleksene fanges inne i glomerulus, noe som fører til at celler som ligger her ødelegges. Det avleires også mange hvite blodceller som medfører blokkering av flere glomerulus. De som ikke blokkeres kan bli veldig permeable, slik at proteiner og røde blodceller filtreres over i tubuli og skilles ut i urinen. Vanligvis vil glumerulonefritt gå over etter 1-2 uker, og de fleste oppnår normal nyrefunksjon etter en stund. I noen tilfeller kan det ha oppstått skader som ikke lar seg reparere, slik at tilstanden kan gå over i kronisk nyresvikt.
+-   Tubulær nekrose er en tilstand der epitelcellene i nyretubuli ødelegges. Dette kan skyldes utilstrekkelig oksygentilførsel (iskemi) som følge av prerenale komplikasjoner, eller det kan komme som følge av forgiftning. Det er mange ulike toksiner som kan ødelegge disse cellene, deriblant tungmetaller som bly og kvikksølv, samt en rekke medikamenter (som oftest ved misbruk). Døde epitelceller kan ende opp med å blokkere nefronene slik at disse ikke kan produsere urin.
+-   Pyelonefritt er en bakteriell infeksjon av nyreinterstitiet som vanligvis skyldes urinveisinfeksjon. Immunologiske reaksjoner på medikamenter kan også forårsake betennelser i nyreinterstitiet.
+
+Postrenal akutt nyresvikt skyldes abnormaliteter i urinlederne, noe som gir blokkeringer for urinflommen ut fra nyrene. En slik blokkering kan, litt avhengig av hvor den sitter, ramme en eller begge nyrer. Dersom bare en nyre er rammet vil det ikke medføre store endringer i utskillelsen av væske og elektrolytter. Nyrefunksjonen kan gjenopprettes dersom obstruksjonen korrigeres i løpet av noen timer. Kronisk blokkering kan medføre uhelbredelig nyreskade. Nyrestein er den vanligste årsaken til denne typen nyresvikt. Blokkeringer i blæren eller urinrøret kan også være en årsak.
+
+## Kronisk nyresvikt
+
+Kronisk nyresvikt skyldes et progressivt tap av nefroner. Denne prosessen er irreversibel, ettersom nyrene ikke kan danne nye nefroner. Vi tåler en ganske stor reduksjon i antallet nefroner, og kritiske symptomer trenger ikke å oppstå før aktiviteten er redusert til under 25% av normalt. Kronisk nyresvikt kan oppstå som følge av abnormaliteter i blodkar, glomerulus, nyretubuli, interstitiet eller urinveiene, men resultatet er alltid en reduksjon i antallet fungerende nefroner, og dermed en reduksjon i GFR.
+
+Kronisk nyresvikt deles inn i fem ulike stadier etter hvor stor reduksjonen i GFR er, og sluttstadiet kalles end-stage renal disease (ESRD). Ettersom kronisk nyresvikt er progressiv og irreversibel, så vil man på et eller annet tidspunkt komme til sluttstadiet, og da blir man avhengig av nyreerstattende behandling som dialyse eller transplantasjon. Denne prosessen kan ikke stoppes, men  ved å senke blodtrykket og det hydrostatiske trykket i glomerulus ved hjelp av medikamenter kan den forsinkes.
+
+![](images/clipboard-3441803026.png) Figuren viser hvordan tapet av nefroner er progressivt
+
+Kronisk nyresvikt skyldes som regel nedsatt K~f~ (overflate eller permeabilitet). Tidligere var det antatt at ulike former for glomerulonefritt var den vanligste utløsende årsaken til kronisk nyresvikt. I dag regnes imidlertid diabetes og høyt blodtrykk (hypertensjon) for å være de vanligste årsakene, og er regnet for å forårsake over 70% av sykdomstilfellene. Overvekt er regnet for å være den viktigste risikofaktoren for å utvikle både diabetes og hypertensjon. I noen tilfeller kan akutt nyresvikt utvikle seg videre til kronisk nyresvikt.
+
+Diabetes og hypertensjon medfører både økt tykkelse på kapillærveggene i glomerulus eller direkte skade på kapillærene, noe som reduserer permeabilitet og filtrasjonsoverflate. Dette gir en reduksjon i K~f~, som reduserer GFR. Ved noen nyresykdommer vil den negative ladningen i glomeruluskapillærenes membraner tapes først, noe som gjør at små proteiner filtreres og havner i urinen. Dette gjelder i stor grad plasmaproteiner som albumin, og albuminuri/proteinuri er derfor et tegn på nedsatt nyrefunksjon.
+
+## Konsekvenser av kronisk nyresvikt
+
+Ettersom nyrenes primære oppgave er å regulere utskillelsen av væske og metabolitter, er forstyrrelser i disse en konsekvens av nyresvikt. Redusert utskillelse av væske og elektrolytter gir vannansamlinger i kroppen, ødemer. Metabolsk acidose er en annen viktig konsekvens, ettersom nyrene ikke lenger klarer å skille ut syreoverskuddet. Nitrogenholdige metabolske endeprodukter som urea, kreatinin og urinsyre hoper seg om som følge av at utskilellsen reduseres, og det samme gjelder andre metabolitter som eksempelvis kalium (se over) og fosfat. Ved kronisk nyresvikt vil vi ofte ikke se store forandringer før nyrefunksjonen faller under 25% ettersom de gjenværende nefronene til en viss grad kan kompensere for de som forsvinner.
+
+Nyresvikt fører til acidose, altså en forsuring av blodet. Nyrene er sammen med lungene ansvarlig for å regulere blodets pH, som holdes innenfor strenge, fysiologiske grenser. Normalt produserer vi mer sure enn basiske metabolitter, og nyrenes oppgave er å skille ut dette syreoverskuddet slik at pH ikke endres. Ved nyresvikt reduseres nyrenes evne til å skille ut overflødig syre, og når blodets buffersystemer overskrides så begynner pH å synke. Dette er i verste konsekvens dødelig.
+
+Anemi er en vanlig konsekvens av nyresvikt. Dette skyldes redusert produksjon av erytropoietin (EPO), som er hormonet som stimulerer produksjonen av røde blodceller. Dette kan behandles ved å tilføre kunstig EPO.
+
+Nyresvikt er også en årsak til beinskjørhet. En av årsakene til dette er at nyrene er ansvarlig for å aktivere D-vitamin, som deretter kan stimulere opptaket av kalsium i tarmen. Ved nyresvikt reduseres mengden aktivt D-vitamin. En økning i blodnivåene av fosfat bidrar til å øke kalsiumfosfatproduktet, som gjør at vi kan få utfellinger av kalsiumfosfat. Dette reduserer konsentrasjonen av fritt kalsium i blodet, noe som stimulerer til kalsiumfrigjøring fra bein.
+
+## Behandling
+
+Behandlingen av kronisk nyresvikt er veldig individuelt tilpasset. Dette skyldes at ulik grad av reduksjon i GFR har ulike konsekvenser, ettersom utskillelsen av ulike metabolitter reguleres ulikt. Noen metabolitter, som kreatinin, er veldig avhengig av GFR for å skilles ut, og en reduksjon av GFR følges derfor av økte nivåer. Utskillelsen av andre metabolitter, som eksempelvis elektrolyttene, er bedre regulert ved filtrasjon, reabsorbsjon og sekresjon, og nivåene kan derfor i større grad vedlikeholdes selv om GFR reduseres. Kostrestriksjoner er vanlig ved nyresvikt, ettersom redusert inntak gjennom kosten kan være med å forhindre opphopning av metabolitter. Kostrestriksjoner vil alltid vurderes på individuell basis.
+
+[Natriumredusert](http://www.friskogfunksjonell.no/natriumredusert-kost/ "Natriumredusert kost"), [kaliumredusert](http://www.friskogfunksjonell.no/kaliumredusert-kost/ "Kaliumredusert kost") eller [fosfatredusert](http://www.friskogfunksjonell.no/fosfatredusert-kost/ "Fosfatredusert kost") kost er vanlige kosttiltak.
+
+Når nyrefunksjonen blir dårlig nok vil ikke kostrestriksjoner lenger være nok for å forhindre at metabolitter hopes opp. Da vil pasienten bli avhengig av dialysebehandling, der man kobles til en maskin som gjør nyrenes jobb ved å rense blodet. Transplantasjon er siste utvei.
+
+## Oppsummering
+
+-   Nyrefunksjon måles ved å estimere GFR. Nyresvikt medfører redusert GFR, og dermed reduseres nyrenes evne til å skille ut metabolitter i urinen.
+-   Nyresvikt kan være prerenal, renal eller postrenal, avhengig av hva som forårsaker sykdommen.
+-   Akutt nyresvikt kjennetegnes av et plutselig og drastisk fall i GFR, og kan skyldes blødninger, infeksjoner, blokkeringer eller forgiftning.
+-   Kronisk nyresvikt er en progressiv og irreversibel prosess der GFR gradvis reduseres. De viktigste årsakene til kronisk nyresvikt er diabetes og hypertensjon, men også infeksjoner, blokkeringer eller forgiftning kan være årsaker. I noen tilfeller kan akutt nyresvikt utvikles videre til kronisk nyresvikt.
+-   Konsekvensene av nyresvikt er mange. Opphopning av metabolitter, metabolsk acidose, anemi og beinskjørhet er blant de vanligste.
+
+Informasjonen i denne artikkelen er basert på en lærebok i fysiologi (1). Artikkelen er ment å gi en oversikt, og jeg anbefaler interesserte å lese i denne eller en annen fysiologibok for nærmere beskrivelse av detaljer.
+
+1. Guyton A, Hall J: **Textbook of Medical Physiology**, 12 edn: Saunders/Elsevier; 2011.
+

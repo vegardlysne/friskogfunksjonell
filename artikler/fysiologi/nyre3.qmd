@@ -8,3 +8,76 @@ categories:
 ---
 
 [Tilbake til artikkelserien om menneskets fysiologi](../../fysiologi.html)
+
+I [den første artikkelen om nyrene](nyre1.qmd "Nyrene del 1 – Oppbygging og glomerulær filtrasjonsrate") gikk jeg gjennom nyrenes oppbygging og anatomi, samt glomerulær filtrasjonsrate (GFR). Deretter tok jeg i [den andre artikkelen](nyre2.qmd "Nyrene del 2 – Væskebalanse og urinproduksjon") for meg dette med væskebalanse og hvordan nyrene regulerer denne ved å produsere urin.  I denne artikkelen kommer jeg inn på hvordan nyrene regulerer utskillelsen og dermed blodkonsentrasjonene av de ulike elektrolyttene. Selv om filtrasjon av blodet og utskillelse av avfallsstoffer er nyrenes viktigste oppgave, har de også flere andre viktige funksjoner som jeg går igjennom i slutten av artikkelen.
+
+## Regulering av elektrolytter i blodet
+
+I den andre artikkelen gikk jeg i dybden på hvordan nyrene produserer urin, og hvordan utskillelsen av væske og natrium reguleres. Dette er svært viktig, ettersom natrium også er sentralt når det kommer til å regulere konsentrasjonene av veldig mange andre molekyler. Inntaket av de ulike næringsstoffene varierer, og for å opprettholde riktig balanse må også utskillelsen av de enkelte molekylene reguleres hver for seg.
+
+Natrium er viktig for aktiv reabsorbsjon og ekskresjon av en rekke metabolitter, så man skulle tro at endringer i natriumkonsentrasjonene ville påvirke utskillelsen av de andre. Heldigvis har vi en rekke hormoner som spesifikt påvirker reabsorbsjon og ekskresjon av ulike metabolitter, noe som gjør at nyrene kan regulere dette veldig godt. Her vil jeg gå inn på mekanismene som ligger til grunn for nyrenes regulering av kalium, kalsium, fosfat og magnesium, som alle er viktige mineraler i kroppen.
+
+#### Kalium
+
+[Kalium](http://www.friskogfunksjonell.no/kalium/ "Kalium") er vår viktigste intracellulære elektrolytt, og ekstracellulær konsentrasjon er så liten at den raskt kan overskrides av kaliuminnholdet i et enkelt måltid. Det er ekstremt viktig at denne konsentrasjonen reguleres nøye, ettersom små avvik kan medføre store konsekvenser som først og fremst rammer hjertet. Denne konsentrasjonen reguleres først og fremst ved utskillelsen gjennom nyrene, og dette stiller store krav til nyrene om å hele tiden tilpasse utskillelsen slik at den står i forhold til variasjoner i inntaket. Som nevnt i artikkelen om kalium så reguleres blodkonsentrasjonen også i stor grad ved at Na/K-pumpen i alle celler pumper kalium inn i cellene i bytte mot natrium, og dette utgjør førstelinjeforsvaret mot små endringer i kaliumhomeostasen. Et overskudd av kalium i blodet vil raskt transporteres inn i cellene og holdes der til nyrene får skilt ut det overflødige. Transporten av kalium inn i cellene via Na/K-pumpen stimuleres av hormonene aldosteron, insulin og katekolaminene adrenalin/noradrenalin. Acidose vil øke konsentrasjonen av kalium i blodet, mens alkalose reduserer den. Mekanismene er ikke fullstendig kartlagt, men en av dem er via påvirkning på Na/K-pumpen.
+
+Når det gjelder nyrenes utskillelse av kalium, så styres disse av de kjente prosessene filtrasjon, reabsorbsjon og ekskresjon. Filtrasjonsraten er normalt sett helt konstant, og reabsorbsjonen i proksimale tubuli er nesten fullstendig. Det meste styres med andre ord av sekresjonen, som foregår i distale tubuli og i samlerørene. I disse delene av tubuli kan kalium både reabsorberes og sekreres, avhengig av kroppens behov. Utskillelsen må matche inntaket, og dersom vi får i oss veldig mye kalium kan utskillelsen til og med overgå den mengden som blir filtrert, noe som vitner om svært effektive mekanismer.
+
+Mekanismen for kaliumsekresjon i distale tubuli er todelt, og foregår i principalcellene. Først vil en Na/K-pumpe frakte kalium inn i epitelcellene i bytte mot natrium, som da reabsorberes. Deretter vil den høye kaliumkonsentrasjonen inne i cellene føre til at kalium diffunderer passivt over i tubuli som følge av en høy elektrokjemisk gradient. Ved kaliummangel kan de interkalerte epitelcellene bidra til reabsorbsjon av kalium, trolig i bytte mot hydrogenioner, men dette er normalt sett mindre viktig. Sekresjonen av kalium stimuleres av økte kaliumnivåer i blodet (øker sekresjonen ved å stimulere Na/K-pumpen, øke den elektrokjemiske gradienten og å stimulere aldosteron), økt aldosteronnivå (aktiverer Na/K-pumpen og øker samlerørenes permeabilitet for kalium)
+
+![](images/clipboard-1300182639.png)
+
+Sekresjon av kalium (1)
+
+### Fosfat
+
+Opphopning av [fosfat](http://www.friskogfunksjonell.no/fosfor/ "Fosfor") er en veldig vanlig konsekvens ved nyresvikt, og dette har som nevnt tidligere en del uheldige konsekvenser. Utskillelsen av fosfat kan enkelt og greit forklares med at nyrene har en viss transportmaksimum for reabsorbsjon av fosfat, og alt som filtreres som overskrider dette vil skilles ut. Dersom konsentrasjonene i blodet ikke er store nok til at vi fyller denne maksimale grensen, så reabsorberes alt, og mesteparten av dette reabsorberes i proksimale tubuli via en natrium-fosfat-kotransporter.
+
+Fosfatutskillelsen reguleres hovedsakelig ved hjelp av to hormoner, som begge reduserer reabsorbsjonen og derfor øker utskillelsen. Det første hormonet er paratyroideahormon (PTH), som skilles ut som respons på synkende kalsiumkonsentrasjon i blodet. Ved å øke utskillelsen av fosfat øker frigjøringen av beinmineraler, og dermed øker nivåene av kalsium. Det andre hormonet er fibroblast vekstfaktor 23 (FGF-23), som produseres i beinvevet. Dette stimuleres direkte av økende fosfatkonsentrasjon.
+
+### Kalsium
+
+I blodet finner vi [kalsium](http://www.friskogfunksjonell.no/kalsium/ "Kalsium") i tre ulike former. Den aktive formen er fritt, ionisert kalsium. I tillegg finner vi det bundet til plasmaproteiner eller anioner som fosfat/citrat. Konsentrasjonene av ionisert kalsium er nøye kontrollert, og hovedsakelig styres dette av de kalsiumregulerende hormonene PTH og kalsitonin fra biskjoldbruskkjertelen, som hhv øker og reduserer blodkonsentrasjonen. Avvik fra normalnivåene kan medføre problemer med signaloverføringen i nervecellene, som kan gi muskulære problemer. Endringer i blodets syre/base-status kan påvirke i hvor stor grad kalsium binder til de ulike plasmaproteinene, og dermed også konsentrasjonene av ionisk kalsium i blodet. Ved acidose vil mindre binde til proteiner og mer ionisk kalsium blir tilgjengelig. Ved alkalose skjer det motsatte, og konsentrasjonene av aktivt kalsium synker.
+
+Utskillelsen av kalsium over nyrene styres av filtrasjon og reabsorbsjon. Det foregår ingen sekresjon av kalsium. Proteinbundet kalsium filtreres ikke i nyrene ettersom proteinene er for store til å trenge gjennom kapillærveggen i glomerulus, noe som gjør at bare om lag halvparten av kalsiumet vi har i blodet filtreres. Normalt sett vil så godt som alt sammen reabsorberes, men dette kan reguleres etter kroppens behov (som følge av inntak/absorbsjon i tarmen). I proksimale tubuli reabsorberes kalsium først og fremst paracellulært sammen med væske. I distale tubuli skjer reabsorbsjonen ved aktiv transport. Først transporteres kalsiumet inn i epitelcellene gjennom en kalsiumtransportkanal, og deretter fra epitelcellene og til blodet enten gjennom en energikrevende kalsiumtransporter eller i bytte mot natrium gjennom en Na/Ca-kotransporter.
+
+![](images/clipboard-3934193600.png)
+
+Reabsorbsjon av kalsium (1)
+
+Det er hovedsakelig PTH som regulerer (øker) den aktive reabsorbsjonen av kalsium. Den passive reabsorbsjonen i proksimale tubuli er ikke påvirket av PTH ettersom det foregår ved diffusjon sammen med væske, og avhenger mest av hvor stor reabsorbsjonen av væske er. Ved økt blodtrykk synker denne, og da vil også mer kalsium skilles ut. Ved lavt blodtrykk vil imidlertid kalsiumutskillelsen på grunn av samme mekanisme reduseres. Inntaket av salt vil på grunn av økt natriumutskillelse øke utskillelsen av kalsium, noe som er en grunn til å begrense saltinntaket. Metabolske syre/base-forstyrrelser vil også påvirke kalsiumreabsorbsjonen. Ved acidose (som reduserer binding til plasmaproteiner) vil reabsorbsjonen av kalsium i distale tubuli hemmes, slik at mer kalsium skilles ut i urinen. Det motsatte er tilfelle ved alkalose.
+
+### Magnesium
+
+Mesteparten av [magnesiumet](http://www.friskogfunksjonell.no/magnesium/ "Magnesium") i kroppen er lagret i beinvevet eller lagret intracellulært, noe som gjør at bare en veldig liten del befinner seg i blodet, hvorav halvparten i tillegg er proteinbundet og derfor ikke filtreres i nyrene. Ettersom magnesium er svært viktig for en lang rekke prosesser er det viktig at nivåene i blodet reguleres nøye. Nyrene regulerer derfor magnesiumutskillelsen etter hvor stort opptaket fra tarmen er. Kapasiteten for å øke utskillelsen er stor, og den kan også reduseres til tilnærmet ingenting om inntaket er lavt. Hovedsakelig reabsorberes magnesium i proksimale tubuli og i Henles sløyfe.
+
+Utskillelsen av magnesium økes ved økte plasmanivåer av magnesium eller kalsium og ved økt blodvolum/høyt blodtrykk.
+
+## Nyrenes øvrige oppgaver
+
+Nyrenes øvrige oppgaver er varierte, men omhandler hovedsakelig å opprettholde homeostasen i kroppen.
+
+-   **Regulering av blodtrykk**
+    -   Nyrene er viktige for langtidsreguleringen av blodtrykket, noe som hovedsakelig skjer ved å skille ut væske og salter i riktige mengder. På kort sikt påvirker nyrene blodtrykket ved å skille ut og aktivere hormoner som er med å regulere blodtrykket, som renin og angiotensin II.
+-   **Regulere syre/base-balansen**
+    -   Ved å aktivt skille ut syrer og baser fra blodet er nyrene, sammen med lungene, viktige for å opprettholde blodets fysiologiske pH. Nyrenes regulering omtales som metabolsk, mens lungenes bidrag omtales som respiratorisk. Nyrene er alene om å kunne skille ut svovel- eller fosforholdige syrer. Metabolske syre/base-forstyrrelser er en vanlig konsekvens av nyresvikt.
+-   **Regulerer produksjon av røde blodceller**
+    -   Nyrene produserer hormonet erytropoietin (EPO), som stimulerer beinmargen til å produsere røde blodceller. Normalt sett produserer nyrene så godt som all EPO som skilles ut i blodet, og anemi er en vanlig konsekvens ved nyresvikt.
+-   **Aktiverer D-vitamin**
+    -   I [artikkelen om D-vitamin](http://www.friskogfunksjonell.no/d-vitamin/ "D-vitamin") kan du lese at dette vitaminet krever to metabolske omdanninger for å produsere den aktive metabolitten. Den første omdanningen skjer i leveren, mens den andre skjer i nyrene. Dette er viktig for at D-vitamin skal kunne øke opptaket av kalsium som er viktig for beindannelsen. Også inaktiveringen av vitaminet skjer i nyrene, noe som er viktig for å kunne regulere effekten.
+-   **Degradering av peptidhormoner**
+    -   Degradering av noen hormoner, deriblant insulin, skjer i nyrene, noe som er viktig for å regulere effekten av disse.
+-   **Nyrene produserer glukose**
+    -   [Leveren](http://www.friskogfunksjonell.no/leveren/ "Leveren – metabolismens dirigent") er det organet som i størst grad produserer glukose fra protein og fett dersom glukosetilførselen ikke dekker kroppens behov. Glukoneogenesen foregår også i nyrene, og under langvarig faste kan kapasiteten her komme opp mot leverens nivå.
+
+## Nyrene er fantastiske
+
+I disse tre første artiklene om nyrene har du fått innblikk i det brede spekteret av oppgaver som utføres av nyrene, og du kan sannsynligvis tenke deg hvor mye som går galt på en gang dersom nyrene skulle slutte å fungere. I den neste og siste artikkelen kommer jeg inn på nyresvikt, hva som forårsaker det og hva konsekvensene av dette er.
+
+Informasjonen i denne artikkelen er basert på lærebøker i fysiologi (1) og ernæring (2). Artikkelen er ment å gi en oversikt, og jeg anbefaler interesserte å undersøke i bøkene for nærmere beskrivelse av detaljer.
+
+Takk til Thomas Olsen for gjennomlesing og innspill.
+
+1.  Guyton A, Hall J: **Textbook of Medical Physiology**, 12 edn: Saunders/Elsevier; 2011.
+
+2.  Erdman JW, Macdonald IA, Zeisel SH (eds.): **Present Knowledge in Nutrition**, 10 edn: Wiley-Blackwell; 2012.

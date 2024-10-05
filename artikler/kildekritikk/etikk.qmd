@@ -1,0 +1,57 @@
+---
+title: "Forskningsetikk"
+author: "Andrea Rørvik Marti"
+date: 2013.09.05
+---
+
+[Tilbake til kildekritikk, vitenskap og tankefeil](../../kildekritikk.qmd "Kildekritikk, vitenskap og tankefeil")
+
+Etiske retningslinjer er en ekstremt viktig del av forskning, og noe som alle og enhver i det minste bør ha en viss kjennskap til. I denne artikkelen vil jeg først gi en historisk innføring i hvordan og hvorfor etiske retningslinjer brukes i forskning. Jeg vil så gå igjennom noen av de viktigste etiske hensynene man må ta når man gjennomfører forskningsprosjekter. Jeg vil her fokusere spesielt på forskning som involverer deltakelse av mennesker. Formålet med artikkelen er både å gjøre deg som potensiell deltaker obs på dine egne rettigheter, men også å presisere hvor streng den etiske godkjenningsprosessen er. Dette er naturligvis bra, og viktig for å opprettholde den høye etiske standarden all forskning skal og bør forholde seg til.
+
+## Hvorfor trenger vi etiske retningslinjer?
+
+Behovet for etiske retningslinjer i forskning kom i moderne tid først i fokus etter Nürnberg-rettsakene etter Andre Verdenskrig, og de grusomme medisinske eksperimentene som ble gjennomfør blant annet i nazistenes konsentrasjonsleirer i denne perioden (1). Som et resultat av rettsaken ble dokumentet kjent som Nürnberg-kodeksen innført. Nürnberg-kodeksen bestod av ti punkter som alle måtte overholdes under forskning på mennesker. Det viktigste punktet omhandlet samtykke, at ingen skulle tvinges til å delta i et eksperiment de ikke ønsket å delta i. Rettighetene til de som deltok i forskning skulle styrkes.
+
+Til tross for de etiske retningslinjene beskrevet i Nürnberg-kodeksen ble det gjennomført flere eksperimenter i mange ulike deler av verden som i dag ses på som etisk forkastelige. Et kjent eksempel er en longitudinell studie som ofte omtales som «The Tuskegee Syphilis Experiment». Studien startet opp i 1932 i Alabama, USA (2). I denne studien ble hundrevis av svarte menn med vilje infisert med syfilis slik at forskerne kunne studere den naturlige progresjonen av sykdommen. Mennene ble ikke fortalt at de hadde syfilis, og de ble ikke behandlet for det da Penicillin ble tilgjengelig og kjent som syfilis-kur på 1940-tallet. Studien fortsatte helt til 1972 da The New York Times gjorde grusomhetene rundt studien offentlig kjent. Gitt at slike ting kan skje, er behovet for klare og strenge etiske retningslinjer ganske åpenbart.
+
+I 1964 ble Helsinkierklæringen akseptert av FN for første gang. Den har blitt revidert flere ganger siden da, og skal igjen revideres i 2014 (3). Her beskrives etiske retningslinjer for forskere og institusjoner i detalj, og alle land må forholde seg til den. I tillegg har land, regioner og institusjoner ofte sine egne etiske retningslinjer som de forholder seg til. I Norge finner vi syv regionale komiteer for medisinsk og helsefaglig forskningsetikk (4). Disse komiteene består av personer med ulik faglig bakgrunn som skal vurdere og gi (eller avslå) etisk godkjenning til alle forskningsprosjekter som skal gjennomføres ved Norske institusjoner og bedrifter. De etiske problemstillingene er mange og varierte, men visse universelle etiske krav stilles til ethvert forskningsprosjekt som gjennomføres i de aller fleste deler av verden. Jeg vil gi en rask oversikt over de etiske kravene som stilles til forskningsprosjekter nedenfor, med et spesielt fokus på prosjekter som involverer mennesker som deltakere.
+
+## Etiske retningslinjer i dag
+
+All informasjon i denne seksjonen er hentet fra [denne siden](https://helseforskning.etikkom.no).
+
+**Godkjenning av en etisk komite**
+
+Dette er allerede nevnt ovenfor. Ethvert forskningsprosjekt skal søke om og få etisk godkjenning fra en etisk komite før prosjektet kan igangsettes. Her skal man gjøre rede for nøyaktig hva prosjektet omfatter, hvilke etiske utfordringer man kan komme over, hvorfor man velger å utføre prosjektet på denne måten, og hvilken nytte utfallet av prosjektet kan ha. Søknader om etisk godkjenning kan variere fra å være et par sider lange (i tilfeller hvor ingen deltakere er involvert, og eksperimentet er fullstendig uproblematisk) til flere hundre sider, stort sett i tilfeller hvor dyr er involvert.
+
+**Beskyttelse av deltakere**
+
+I forskningsprosjekter hvor mennesker er involvert er det spesifikke krav satt med det formål å beskytte deltakerne. Disse kravene bygger på følgende konsepter:
+
+-   Informert samtykke: Deltakeren skal før eksperimentets start informeres om hva eksperimentet innebærer, potensielle risikoer, og så langt det er mulig om eksperimentets formål. I visse tilfeller kan det være nødvendig å gi ufullstendig informasjon til deltakeren (som for eksempel hvis eksperimentet innebærer [placebokontroll](http://www.friskogfunksjonell.no/full-kontroll/ "Full kontroll?"). Dette kan aksepteres hvis grunnene er gode og veldokumenterte. Samtykkeskjema skal alltid leses og signeres før eksperimentet startes.
+-   Frivillighet: Deltakeren deltar i studien av egen fri vilje. Det er ikke lov å bruke noen form for tvang eller overtalelse for å få vedkommende til å delta.
+-   Rett til å trekke seg: Deltakeren kan til enhver tid velge å trekke seg fra studien uten at dette skal medføre noen form for straff, og uten å bli spurt om hvorfor. Deltakeren kan også be om at hans/hennes data fjernes fra studien både under og etter datainnsamlingen.
+-   Anonymitet og konfidensialitet: Dataene fra studien skal arkiveres slik at deltakerens anonymitet beskyttes. Det skal ikke være mulig å identifisere enkeltpersoner basert på datasettet. Datasettet skal kun gjøres tilgjengelig for dem som har behov for det; som regel innebærer dette kun de som jobber direkte med prosjektet. Andre kan søke om tilgang, om de har en god grunn til det.
+
+**Beskyttelse av sårbare grupper**
+
+I tillegg til de retningslinjene som er detaljert over, finnes det også tilleggskrav til forskningsprosjekter som involverer deltakelse av mennesker fra såkalte «sårbare grupper». Betegnelsen brukes fordi disse menneskene kan ha utfordringer med å gi godt informert samtykke, og skal derfor beskyttes ekstra godt. Dette gjelder blant annet:
+
+-   Barn
+-   Personer med begrenset levetid
+-   Personer med demens
+-   Personer med psykisk lidelse
+-   Rusmisbrukere
+-   Utviklingshemmede
+
+I tilfeller hvor sårbare grupper skal brukes i forskning stilles ekstra strenge etiske krav. Det aller viktigste er at informert samtykke skal gis både av deltakeren og av en person med omsorgsansvar for personen.
+
+## Konklusjon
+
+Etiske retningslinjer er absolutt nødvendig for å sikre god forskningspraksis. Takket være kravene som stilles til etisk godkjenning i dag kan du til enhver tid være nokså sikker på at studiedeltakeres rettigheter ivaretas, og at øvrige etiske betenkeligheter er vurdert og akseptert før en studie utføres. Forhåpentligvis har denne artikkelen vist at etisk godkjenning er ikke er, og ikke skal, være lett å oppnå. Like fullt forteller historien oss at det er slik det må være. Strenge etiske krav fører til at forskningen som utføres er nødvendig og så harmløs som mulig, og det er en veldig bra ting. Målet helliggjør aldri middelet, og det er det forskningsetikken eksemplifiserer.
+
+1.  Brysbaert, M. & Rastle, K. (2013). *Historical and Conceptual Issues in Psychology,* 2^nd^ ed. Pearson: Harlow.
+
+2.  <http://exhibits.hsl.virginia.edu/badblood/report/>
+
+3.  http://legeforeningen.no/Emner/Andre-emner/Etikk/Internasjonalt/Helsinkideklarasjonen/

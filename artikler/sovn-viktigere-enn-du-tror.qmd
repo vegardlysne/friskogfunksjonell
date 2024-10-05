@@ -1,0 +1,47 @@
+---
+title: "Søvn - viktigere enn du tror!"
+author: "Thomas Olsen"
+date: 2013.07.01
+---
+
+Som både jeg og Vegard har vært inne på tidligere kan spiller søvn en viktig rolle for den stadige formskiftende livsstilen vår. I den forrige artikkelen jeg skrev om søvn skrev jeg blant annet at apetitthormonene leptin og ghrelin sannsynligvis vil være forstyrret ved et forstyrret søvnmønster, som i tur kan føre til et økt matinntak. I denne artikkelen skal jeg  pirke litt mer i overflaten på hvordan søvn påvirker fysiologiske mekanisme og omvendt, og hvordan dette i tur kan knyttes til overvekt.
+
+## Døgnrytmen
+
+Vår fysiologiske og atferdsmessige syklus på ca 24 timer (biologisk døgnrytme) blir styrt av en såkalt circadisk klokke som befinner seg i et bestemt område av hyptalamus (suprachiasmatisk nukleus for å være helt nøyaktig) (1). Denne styres hovedsakelig av lys/mørke-sykluser, og hovedfunksjonen er å fremme våkenhet når det er lyst ute og trøtthet når det er mørkt ute. Metabolske prosesser, deriblant energiomsetning og gentranskripsjon følger også denne klokken.
+
+Det er derimot ikke bare dette området av hypotalamus som styrer vår fysiologiske døgnrytme. Det finnes også perifere circadiske maskineri i de fleste vev, og disse vil i stor grad påvirkes av matvanene våre. Disse vil derfor indirekte påvirke vår biologiske døgnrytme (fysiologisk 24-timers syklus) og atferden som følger denne. Endrede matvaner som kalorirestriksjon, endring i matinntak og til og med måltidsrytme, spesielt i sammenheng med endret eller forstyrret døgnrytme, kan forstyrre metabolske prosesser i kroppen vår.
+
+## Søvn, energibalanse og sjokolade
+
+Som [jeg har vært inne på tidligere](http://www.friskogfunksjonell.no/sovn-og-overvekt-2/ "Søvn og overvekt – Større sammenheng enn vi tror?") forårsaker søvnmangel en del endokrine forstyrrelser, deriblant lavere og høyere nivåer av henholdsvis leptin og ghrelin som igjen kan knyttes til energibalansen (mer energi) og økt apetitt (2). I tillegg har lavere søvnkvalitet (kortere perioder med REM-søvn) blitt relatert til overvekt og økt BMI (3,4). Nylig er det også observert at aktiviteten i hjernen endrer seg som følge av søvnmangel. Noen av disse endringene skjer i områder relatert til belønning, som for eksempel putamen, talamus og prefrontal cortex (5). På godt dagbladsk vil det si at jo dårligere man sover, jo mer lyst får man på snop. I den samme studien fant de også at når man ble utsatt for søvnmangel så spiste forsøkspersonene i gjennomsnitt 300 kcal mer om dagen enn i den perioden der de fikk sove lenge nok. Dette er en betydelig effekt på energiinntaket, og [denne studien har Vegard skrevet om her](http://www.friskogfunksjonell.no/sovn-og-overvekt/ "Kan søvnmangel bidra til overvekt?").
+
+## Skeiv døgnrytme, hormoner og energibalanse
+
+Innledningsvis nevnte jeg vår biologiske døgnrytme. En lang rekke hormoner følger det cricardiske systemet, og danner basis for en indre biologisk døgnrytme. Vi vet blant annet fra artikkelen av Gonnissen et al at kortisol er høyt om den biologiske morgenen, glukose og insulin er høyest på den biologiske natten, det samme gjelder leptin som faller når vi nærmer oss morgen og frokosttid (1). Samme gjennomgangsartikkel  påpeker også at metabolismen av makronæringsstoffene også endres som følge av det circardiske maskineriet, og nevner at karbohydrater metaboliseres bedre etter frokost. Slik jeg ser det er det nok en forskjell på hva kroppen og hodet krever fra person til person. At kroppsvev ønsker glukose tidlig på dagen er i seg selv ganske naturlig i og med at dette er dets primære drivstoff.
+
+Både phase advance (dersom man sovner tidligere og våkner tidligere enn det som er biologisk optimalt) og phase delay (dersom man sovner senere og våkner senere enn det som er biologisk optimalt) forårsaker en økt oksidasjon av karbohdyrater og en redusert oksidasjon av proteiner (grunnet hyperinsulinemi). Phase delay økte også glukosekonsentrasjonen i blod. Den økte karbohydratoksidasjonen skyldes trolig hyperinsulinemi og hyperglykemi, som begge kan tilskrives forstyrret døgnrytme og til dels høyere kortisolnivåer ved forstyrret søvn. Spillet mellom kortisol og insulin i denne prosessen er ikke kartlagt fullstendig, men døgnvariasjoner med tydelige svingninger ser ut til å forekomme.
+
+## Måltidsrytmen har ingenting å si. Eller?
+
+Måltidsrytme har egentlig for lengst blitt avskrevet som en særlig viktig faktor for overvekt. Lite og ofte øker ikke forbrenningen, og hindrer ikke overspising. Ikke hos alle i alle fall. Setter man måltidsrytmen i sammenheng med døgnrytmen og den cricardiske klokken har det derimot vært observert store metabolske svingninger ved et fråtsende og aggresivt matinntak sammenliknet med småspising hvor oksidasjonen var relativt konstant gjennom de aktive timene av dagen (1). Dette kan selvfølgelig helt enkelt også settes i sammenheng med at store måltider gjerne stiller større krav til metabolske prosesser enn små. Likevel nevner Gonnissen at fettoksidasjon var høyere hos kvinner som spiste tre måltider sammenliknet med to.
+
+## Søvnproblemer og overvekt
+
+Dersom vi samler opp informasjonen jeg har nevnt tidligere i innlegget er det ganske klart at redusert søvnkvalitet og timer i senga påvirker substratoksidasjon, leptin- og ghrelinkonsentrasjoner (apetitt) og mat som belønning slik at en positiv energibalanse fremmes. Spørsmålet en kan stille seg videre da er om et optimalt søvnmønster kan hjelpe til med å normalisere disse prossessene, samtidig som et rigid måltidsmønster også vil kunne påvirke vår circardiske klokke. Dersom det er en reell effekt av måltidsrytme på døgnrytmen vår vil disse effektene etter hvert kunne potensiere hverandre. La oss heller ikke glemme at en invers korrelasjon mellom søvnlengde, fettmasse og kroppsvekt ble funnet ved *vedlikehold* av vekt. Med andre ord, sover man lengre og bedre kan kroppskomposisjonen forbedres (til et visst punkt vel og merke).
+
+Basert på overnevnte informasjon er det ingen tvil om at det eksisterer en sammenheng mellom søvn, kroppskomposisjon og kroppsvekt. Det kreves nok litt mer enn en stabil måltidsrytme og gunstigere døgnrytme for å få bukt med overvektsepidemien vi står ovenfor i dag, og jeg vil påpeke at denne artikkelen bærer preg av informasjon og kunnskap som ikke er fullstendig kartlagt enda. At begge deler kan bidra til en sunnere livsstil skal man derimot ikke se bort ifra.
+
+Det at jeg skriver denne artikkelen uti de sene nattetimer er ikke ment som et eksempel til etterfølgelse!
+
+Referanser:
+
+1.  Gonnissen HK, Hulshof T, Westerterp-Plantenga MS: **Chronobiology, endocrinology, and energy- and food-reward homeostasis**. *Obesity reviews : an official journal of the International Association for the Study of Obesity* 2013, **14**(5):405-416.
+
+2.  Van Cauter E, Knutson KL: **Sleep and the epidemic of obesity in children and adults**. *European journal of endocrinology / European Federation of Endocrine Societies* 2008, **159 Suppl 1**:S59-66.
+
+3.  Liu X, Forbes EE, Ryan ND, Rofey D, Hannon TS, Dahl RE: **Rapid eye movement sleep in relation to overweight in children and adolescents**. *Archives of general psychiatry* 2008, **65**(8):924-932.
+
+4.  Theorell-Haglow J, Berne C, Janson C, Sahlin C, Lindberg E: **Associations between short sleep duration and central obesity in women**. *Sleep* 2010, **33**(5):593-598.
+
+5.  St-Onge MP, McReynolds A, Trivedi ZB, Roberts AL, Sy M, Hirsch J: **Sleep restriction leads to increased activation of brain regions sensitive to food stimuli**. *The American journal of clinical nutrition* 2012, **95**(4):818-824.

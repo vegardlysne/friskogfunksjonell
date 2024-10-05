@@ -8,3 +8,65 @@ categories:
 ---
 
 [Tilbake til artikkelserien om menneskets fysiologi](../../fysiologi.html)
+
+For at vi skal fungere normalt er vi avhengig av at konsentrasjonene av de ulike molekylene i blodet holder seg noenlunde på de nivåene de skal være. For mye eller for lite av noe vil i de fleste tilfeller føre til uønskede konsekvenser. Nyrene er ekstremt viktige i denne sammenhengen, ettersom de i stor grad styrer dette ved å regulere hvor mye vi skiller ut gjennom urinen. I denne artikkelen, som er den første av fire, får du en innføring i hvordan nyrene er bygget opp og hva glomerulær filtrasjonsrate er for noe.
+
+![](images/clipboard-895948937.png)
+
+## Nyrenes anatomi og oppbygning
+
+Vi har to nyrer som ligger plassert på den bakre bukveggen, utenfor selve bukhulen. En voksen nyre er på størrelse med en knyttneve og veier om lag 150g. På siden som vender inn mot midten av kroppen finner vi en åpning, nyrehilus, der nyrearterien, nyrevenen, lymfen, nervevev og urinlederen passerer inn i eller ut fra nyrene.
+
+Nyrenes anatomi kan overordnes deles i to deler. Ytterst finner vi en beskyttende bindevevskapsel som kalles nyrebarken, som primært er der for å beskytte strukturene som ligger innenfor. Under/innenfor barken ligger nyremargen. I nyremargen finner vi strukturer som kalles nyrepyramider. Disse plasserer seg inntil nyrebarken, og toppen leder ut i samlerør som peker inn mot nyrebekkenet, som er hulrommet i midten som leder ut i urinlederen. Hver nyre har 8-10 slike nyrepyramider.
+
+![](images/clipboard-537764098.png)
+
+De funksjonelle enhetene i nyrene kalles nefroner. Hver nyre har omtrent en million slike enheter, og det er disse som filtrerer blodet og produserer urin. Omtrent 22% av alt blodet som forlater hjertet går til nyrene, noe som tilsvarer over en liter per minutt. Med tanke på nyrenes størrelse er dette en enorm blodtilførsel, og sammenlignet med hjernen så mottar nyrene syv ganger så mye blod med tanke på størrelsen. Dette gjør at nyrene også har en enorm tilførsel av oksygen, noe som er langt over deres metabolske behov. Dette ekstra oksygenet kan blant annet benyttes i reabsorbsjonsprosessene som beskrives mer i detalj i neste artikkel. Det systemiske blodtrykket har en viss påvirkning på nyrenes blodgjennomstrømning, men nyrene har autoreguleringsmekanismer (mer om dette lenger nede) som gjør at denne holder seg noenlunde konstant over en variasjon i det systemiske blodtrykket mellom 80-170 mmHg. Dette er viktig for nyrenes evne til å kontrollere urinproduksjonen. Blodet kommer til nyrene gjennom nyrearterien, og inne i nyrene fordeler blodet seg gjennom mindre arterioler. Nefronene inneholder et langt rørstystem, nyretubuli, som er dekket av tubulære epitelceller. Vevet som omkranser tubuli kalles interstitium. Nefronene har også to kapillærnettverk som er tilknyttet nyretubuli, ordnet slik at det er mulig for nyrene å filtrere og reabsorbere store mengder væske og metabolitter.
+
+Det første kapillære nettverket kalles glomerulus og ligger inne i Bowmans kapsel. Blodet fraktes til glomerulus gjennom den tilførende arteriolen, og videre gjennom den fraførende arteriolen. I glomerulus er det hydrostatiske trykket høyt, noe som presser væsken ut fra blodårene, over i Bowmans kapsel og deretter inn i proksimale tubuli som ligger i nyrebarken. Det andre kapillære nettverket består av peritubulære kapillærer. Her er det hydrostatiske trykket mye lavere, noe som muliggjør reabsorbsjon av væske og metabolitter som ikke skal skilles ut. Nyrene kan selv regulere trykket i glomerulus og de peritubulære kapillærene slik at filtrasjon og reabsorbsjon reguleres etter kroppens behov. Dette er ikke minst viktig ved store endringer i det systemiske blodtrykket, som ellers ville medført endringer i filtrasjonen.
+
+![](images/clipboard-4250494475.png)Glomerulus til venstre. Oversikt over nefron til høyre. (Proksimale tubuli i lyseblått, distale tubuli i grønt, samlerør i brunt)
+
+Væsken som filtreres i glomerulus kalles råurinen. Denne fraktes gjennom proksimale tubuli og videre gjennom Henles sløyfe, som er et segment av tubuli som beveger seg ned i nyremargen og opp igjen til barken. Anatomisk skiller vi mellom den nedadstigende og oppadstigende delen av Henles sløyfe. Den nedadstigende og begynnelsen av den oppadstigende delen har tynne epitelvegger, og kalles derfor det tynne segmentet. Resten av den oppadstigende delen har tykkere epitelvegger og kalles det tykke segmentet.
+
+På slutten av det tykke segmentet finner vi et felt med spesialiserte tubulære epitelceller som heter Macula Densa, som er viktig for å regulere nefronfunksjonen ved at de er i direkte kontakt med tilførende og fraførende arteriolene som fører blodet gjennom glomerulus. Etter Macula Densa kommer vi over i distale tubuli, som befinner seg i nyrebarken, som til slutt tømmes over i samlerøret. Distale tubuli er bekledd av to typer epitelceller, prinipalceller og interkalerte celler, som har ulike egenskaper. Samlerørene er dekket av kubeepitelceller.
+
+Samlerørene fra flere nefroner slår seg sammen til større og større samlerør som går nedover i nyremargen og tømmer innholdet over i nyrebekkenet ved spissen av nyrepyramidene. Hver nyre har omtrent 250 store samlerør, og hver av disse samler urin fra omtrent 4000 nefroner.
+
+## Glomerulær filtrasjonsrate
+
+Glomerulær filtrasjonsrate (GFR) er et mål på hvor mye blodplasma som filtreres gjennom glomerulus. GFR bestemmes av det hydrostatiske og osmotiske trykket på hver side av kapillærmembranen (filtrasjonstrykket) og filtrasjonskoeffisienten (K~f~), som er produktet av hvor stor filtrasjonsoverflaten er og dens permeabilitet. Det hydrostatiske trykket er høyere i kapillærene enn i tubuli, noe som fremmer filtrasjonen, mens det osmotiske trykket også er høyest i kapillærene og motvirker filtrasjon ved å holde væsken tilbake i blodårene. Permeabiliteten er høy. Til sammen gir dette en høy netto filtrasjon, og hele 20% av blodet som tilføres nyrene filtreres. Hos et gjennomsnittsmenneske gir dette en GFR på omtrent 125mL/min eller 180L/dag. Daglig variasjon i GFR skyldes normalt sett ikke endringer i K~f~, men justeringer av det hydrostatiske trykket i kapillærene ved å regulere motstanden i tilførende og fraførende arteriole.
+
+> *GFR = K~f~ x netto filtrasjonstrykk*
+
+## Hvordan GFR reguleres
+
+Når væske filtreres i glomerulus så vil det osmotiske trykket i blodårene øke (konsentrasjonen av osmotisk aktive metabolitter øker som følge av at væske føres over i nyretubuli), og dette reduserer GFR. Endringer i nyrenes blodtilførsel vil, dersom GFR er uendret, påvirke hvor stor andel av væsken som filtreres. Ved lav tilførsel vil en større andel filtreres og motsatt. Dette vil påvirke hvor stor endringen i det osmotiske trykket blir, som igjen vil gi en kompensatorisk endring i GFR. Dette gjør at en reduksjon i nyrenes blodtilførsel vil gi en reduksjon i GFR, som er en viktig tilpasning i en slik situasjon.
+
+GFR reguleres også hormonelt, og det viktigste hormonet er angiotensin II. Den inaktive formen, angiotensinogen, produseres i leveren. Angiotensinogen må deretter aktiveres til angiotensin I i en prosess som styres av renin, et enzym som produseres i nyrenes juxtaglomerulære celler. Den videre omdanningen til angiotensinogen II skjer ved hjelp av angiotensinkonverterende enzym (ACE) som hovedsakelig produseres i lungene, men også i nyrene og blodkarene. Som følge av fall i blodtrykket eller blodvolumet vil det produseres angiotensin II, og effekten i nyrene er konstriksjon av fraførende arteriole. Prostaglandiner og nitrogenoksid motvirker konstriksjon av tilførende arteriole. Dette motvirker fallet i GFR som vi ellers ville fått ved redusert systemisk blodtrykk, samtidig som det øker reabsorbsjonen av elektrolytter fra nuretubuli. På denne måten er angiotensin II med å gjenopprette blodtrykk og blodvolum.
+
+Hovedmekanismen for den fysiologiske reguleringen av GFR er imidlertid nyrenes regulering av det hydrostatiske trykket i glomerulus, som styres ved å endre motstanden i de tilførende og fraførende arteriolene. Konstriksjon av tilførende arteriole vil redusere blodtilførselen og dermed redusere det hydrostatiske trykket i glomerulus. Konstriksjon av fraførende arteriole vil gjøre at blodet i større grad holdes tilbake i glomerulus, og det hydrostatiske trykket øker. Dilatasjon av de samme blodårene vil gi motsatt effekt. Konstriksjon av fraførende arteriole vil også redusere total blodtilførsel til nyrene, så om konstriksjonen av de fraførende arteriolene blir for stor så vil den kompensatoriske økningen i det osmotiske trykket overgå økningen av det hydrostatiske trykket og gjøre at nettoeffekten blir redusert GFR. For å oppsummere så vil konstriksjon av tilførende arteriole redusere GFR mens effektene av konstriksjon av fraførende arteriole er avhengig av hvor kraftig konstriksjonen er. Disse autoreguleringsmekanismene gjør at GFR holder seg mer eller mindre uendret på tross av svingninger i det systemiske blodtrykket, noe som gjør at filtrasjon og reabsorbsjon av de ulike metabolittene fungerer normalt.
+
+Macula Densa, de spesialiserte epitelcellene i overgangen mellom proksimale og distale tubuli, er veldig viktig for denne autoreguleringen. Disse cellene registrerer saltkonsentrasjonene i filtratet som passerer over i distale tubuli, og bruker denne informasjonen til å gi signaler som justerer GFR. Mekanismene for hvordan dette skjer er foreløpig ikke godt forstått, men de kan innebære både regulering av motstanden i arteriolene og frigjøring av hormonet renin som aktiverer angiotensin II. Det er viktig at saltkonsentrasjonene i distale tubuli er godt regulert, ettersom denne i stor grad påvirker hvor mye væske som skilles ut i urinen. Faktorer som øker eller reduserer reabsorbsjon av salter i proksimale tubuli vil påvirke konsentrasjonen som kommer til Macula Densa. Dersom konsentrasjonen er for høy eller lav, vil GFR reguleres for å rette opp i dette.
+
+GFR er altså veldig høy og rimelig godt regulert. Den største fordelen med en høy GFR er at alt blodet filtreres gjennom nyrene veldig mange ganger daglig, noe som gir nyrene muligheten til å regulere urinproduksjonen veldig nøye etter kroppens behov.
+
+## Oppsummering
+
+Nyrene er organene som produserer urin, og derfor veldig sentral i opprettholdelsen av væskebalansen og nivåene av ulike stoffer i blodet. Dette skjer ved at nyrene filtrerer blodet og skiller ut det som ikke skal være der. Derfor har nyrene en veldig høy tilførsel av blod, og hele blodvolumet filtreres mange ganger hver eneste dag.
+
+De funksjonelle enhetene i nyrene heter nefroner, og det er i disse filtrasjonen av blodet skjer. Blodet fraktes til glomerulus der det filtreres over i nefronenes tubuli. Hvor mye som filtreres kalles glomerulær filtrasjonsrate. Det er viktig at den glomerulære filtrasjonsraten opprettholdes, og derfor er denne nøye regulert, først og fremst av nyrene selv.
+
+Les også de neste artiklene om nyrene:
+
+-   [Nyrene del 2 – Væskebalanse og urinproduksjon](nyre2.qmd "Nyrene del 2 – Urinproduksjon og væskebalanse")
+
+-   [Nyrene del 3 – Elektrolyttregulering og øvrige oppgaver](nyre3.qmd "Nyrene del 3 – Elektrolyttstatus og andre funksjoner")
+
+-   [Nyrene del 4 – Nyresykdom](nyre4.qmd "Nyrene del 4 – nyresykdom")
+
+All informasjonen i denne artikkelen er basert på en lærebok i fysiologi (1). Artikkelen er ment å gi en oversikt, og jeg anbefaler interesserte å undersøke i faglitteratur for nærmere beskrivelse av detaljer.
+
+Takk til Thomas Olsen for gjennomlesing og korreksjoner.
+
+1.  Guyton A, Hall J: **Textbook of Medical Physiology**, 12 edn: Saunders/Elsevier; 2011.

@@ -8,3 +8,103 @@ categories:
 ---
 
 [Tilbake til artikkelserien om menneskets fysiologi](../../fysiologi.html)
+
+Når vi snakker om metabolismen så er leveren det mest sentrale organet. Så godt som alt vi spiser vil absorberes i tarmen og fraktes via leveren til målcellene. Leveren står helt sentralt og styrer alt som skjer. I denne artikkelen får du et innblikk i hvordan leveren er bygget opp, hvilke oppgaver den har og hva som skjer dersom leveren slutter å fungere som den skal.
+
+## Leverens anatomi og oppbygning
+
+Leveren er det største av kroppens indre organer, og en gjennomsnittlig voksen lever veier omkring 1,5kg. De funksjonelle enhetene i leveren kalles lober. Hver lever har et sted mellom 50.000 og 100.000 lober, som er bygget opp av små lag av leverceller, hepatocytter. Mellom cellelagene finner vi små ganger som kalles sinusoider, og midt i cellelagene finner vi gallecanaliculi, som leder ut til gallegangene. Rommet som skiller leverlobene kalles septa.
+
+![](images/clipboard-1960674530.png)
+
+Blodforsyningen til leveren er både arteriell og venøs. Fra leverarterien får leveren ferskt, oksygenrikt blod fra hjertet, mens venøst blod kommer via portåren og inneholder næringsstoffer som er absorbert i tarmen. Både det arterielle og det venøse blodet fraktes til septa, og herfra tømmes det videre over i sinusoidene. Midt i hver lobe finner vi sentralvenen. Etter at blodet har passert gjennom sinusoidene ender det opp i denne sentralvenen, som frakter blodet videre til levervenen som transporterer det videre til vena cava. Blodforsyningen til leveren er på hele 1350ml/minutt, og i hvile utgjør dette om lag 27% av alt blodet som pumpes ut fra hjertet.
+
+I tillegg til hepatocytter finner vi to andre hovedcelletyper i sinusoidene. Akkurat som i blodårene så er det også her et lag av endotelceller, men dette endotellaget har store porer slik at store molekyler som proteiner kan passere mellom blodet og hepatocyttene. Mellom endotelcellene og hepatocyttene finner vi et lite mellomrom som kalles perisinusoidalrommet. Dette mellomrommet er direkte koblet til lymfevevet, noe som gjør at overflødig væske raskt fjernes denne veien. Den andre celletypen i sinusoidene er noen store makrofager som kalles kupferceller. Disse refereres ofte til som retikuloendoteliale celler. Kupfercellene kan ta seg av bakterier og andre fremmede molekyler som kommer inn i sinusoidene.
+
+![](images/clipboard-4267746434.png)
+
+## Hvilke oppgaver har leveren?
+
+Når jeg i overskriften kaller leveren for metabolismens dirigent så er dette ingen overdrivelse. Leveren styrer det meste av det enormt komplekse systemet som utgjør metabolismen vår. I seg selv er leveren en storforbruker av energi. Denne energien går med til å bearbeide og syntetisere en lang rekke molekyler som kan fraktes rundt omkring i kroppen. Disse prosessene går langt utover det som er mulig å beskrive i en kort oversiktsartikkel som dette, så her vil jeg begrense meg til det viktigste.
+
+### Karbohydratmetabolismen
+
+-   Leveren er sentral i [karbohydratmetabolismen](http://www.friskogfunksjonell.no/karbohydratmetabolismen/ "Karbohydratmetabolismen"), og er spesielt viktig for å regulere blodsukkeret. Dette er spesielt viktig for å legge til rette for at hjernen får jevn tilgang på glukose.
+
+Ved å lagre glukose som glykogen kan leveren både fjerne overflødig glukose fra blodet, og slippe det ut igjen ved behov. Etter et måltid vil leveren være svært aktiv for å ta opp glukosen som tilføres gjennom det vi spiser. Leverglykogenet er den viktigste faktoren i blodsukkerreguleringen, og levercellene kan lagre glykogen tilsvarende hele 5-8% av sin vekt, noe som tilsvarer rundt 100g. Når lagringskapasiteten overskrides vil overflødig glukose metaboliseres til acetyl-CoA, som kan brukes til å danne fettsyrer, kolesterol eller gallesalter.
+
+En annen oppgave relatert til blodsukkeret er nydanning av glukose fra aminosyrer og glyserol fra triglyserider i en prosess som heter glukoneogenese. Denne funksjonen er spesielt viktig etter hvert som leverglykogenet begynner å tømmes for å unngå at blodsukkeret blir for lavt..
+
+Levercellene kan også omdanne de ulike monosakkaridene til hverandre, i reaksjoner som stort sett ender med at det dannes glukose. Den er altså helt sentral i metaboliseringen av fruktose og galaktose.
+
+Metabolisering av metabolitter i karbohydratmetabolismen er en siste viktig oppgave leveren har. Under anaerobe forhold vil glukose brytes ned ufullstendig slik at det dannes mye melkesyre. Leveren kan omdanne denne melkesyren tilbake til glukose gjennom en prosess som kalles Cori-syklus.
+
+### Fettmetabolismen
+
+-   Leveren er også sentral i [fettmetabolismen](http://www.friskogfunksjonell.no/fettmetabolismen/ "Fettmetabolismen"), og veldig mye av denne skjer nettopp her. Både syntese og nedbrytning av fettsyrer og andre lipider styres i stor grad av leveren.
+
+Nedbrytning av fettsyrer til Acetyl-CoA gjennom β-oksidasjonen skjer i de aller fleste cellene i kroppen, men mesteparten av dette skjer i hepatocyttene. Leveren kan ikke bruke all denne energien selv, så den danner acetoacetat (et ketonlegeme) som sendes i blodet til andre celler, der det brytes ned til Acetyl-CoA som inngår i [sitronsyresyklusen](http://www.friskogfunksjonell.no/sitronsyresyklusen/ "Sitronsyresyklusen")/[elektrontransportkjeden](http://www.friskogfunksjonell.no/elektrontransportkjeden/ "Elektrontransportkjeden") og frigjør energi. Noe acetoacetat vil omdannes videre til et annet ketonlegeme, β-hydroxybutyrat, men den samlede konsentrasjonen av disse ketonlegemene vil under normale omstendigheter holde seg svært lav (\< 3mg/dL), ettersom de blir tatt svært godt opp av andre celler. Men store mengder vil fraktes i blodet totalt sett.
+
+Når tilgangen på energisubstrat er tilstrekkelig vil leveren danne triglyserider som sendes ut i blodet i VLDL-partikler. Dersom det derimot ikke er tilstrekkelig tilgang på energisubstrat vil leveren i større grad omdanne fettsyrer til ketonlegemer, som er vannløselige molekyler som kan benyttes som energi i fravær av tilstrekkelig glukose. Grunnen til at det dannes ketonlegemer er at det ikke er nok oksaloacetat til at Acetyl-CoA kan gå inn i sitronsyresyklusen, siden oksaloacetatet brukes til å produsere glukose i glukoneogenesen. Under faste eller andre situasjoner der forbruket av fett som energikilde øker, vil triglyserider fra fettvevet slippes ut i blodet og fraktes som frie fettsyrer til leveren for oksidasjon. Da øker produksjonen av ketonlegemer, og konsentrasjonen av disse i blodet kan øke, og da sier vi at vi kommer i ketose. Dette kommer jeg tilbake til i en annen sak.
+
+Leveren produserer også mange fettholdige partikler som [lipoproteiner](http://www.friskogfunksjonell.no/minikurs-i-lipoproteiner/ "Minikurs i lipoproteiner"), kolesterol og fosfolipider. Etter et måltid vil om lag 95% av alle fettstoffene i blodet være inkorporert i lipoproteiner, som også inkluderer kylomikroner som produseres i tarmcellene. Leveren har også større kapasitet til å desaturere fettsyrer enn andre kroppsvev, noe som er veldig viktig. Andelen umettede fettsyrer i cellemembranene i alle kroppens celler er viktig for fluiditet og funksjon, og hovedkilden til disse fettsyrene er altså fra produksjon i leveren.
+
+### Proteinmetabolismen
+
+-   I [protein- og aminosyremetabolismen](http://www.friskogfunksjonell.no/proteinmetabolismen/ "Proteinmetabolismen") har leveren mange viktige oppgaver. Nedbrytning av aminosyrer er leverens egen hovedkilde til energi, ettersom nedbrytningsmetabolittene fra karbohydrater og fettsyrer først og fremst sendes ut til andre celler og vev.
+
+De aller fleste aminosyrene kan metaboliseres i leveren, og det er også her mesteparten av dette metabolske spillet utføres. Leveren utfører deaminering- og transamineringsreaksjonene som gjør at vi kan produsere ikke-essensielle aminosyrer i de mengdene vi trenger.
+
+Når aminosyrer brytes ned for å brukes til energi så må først nitrogenet fjernes. Dette nitrogenet inkorporeres i urea, som kan fjernes fra kroppen gjennom urinen. Leveren lager så godt som all urea som produseres i kroppen, og uten denne funksjonen ville ammoniakkonsentrasjonene i blodet steget til skadelige nivåer. Det som blir igjen av aminosyren, karbonskjelettet, kan benyttes som energi, og dette er leverens primære energikilde. Karbonskjelettet kan også brukes til å produsere glukose (glukoneogenese), fett (lipogenese) eller ketonlegemer (ketogenese).
+
+Leveren produserer også omtrent 90% av alle plasmaproteinene våre, og kapasiteten for denne produksjonen er 15-50g/dag. De ulike plasmaproteinene har viktige funksjoner. Albumin er viktig for opprettholdelse av det osmotiske trykket og derfor opprettholdelse av blodvolumet. Globuliner utfører en del enzymatiske reaksjoner i blodet og er viktig for immunfunksjon. Fibrinogen er viktig for blodkoagulasjonen. I tillegg til spesifikke funksjoner er plasmaproteinene også viktig for å frakte andre molekyler som eksempelvis vitaminer i blodet. Proteinbundte molekyler unngår filtrering i nyrene og skilles dermed i liten grad ut i urinen.
+
+### Alkoholmetabolismen
+
+Leveren er organet som primært metaboliserer [alkohol](http://www.friskogfunksjonell.no/alkohol/ "Alkohol") i kroppen. Etanolen omdannes til acetaldehyd, som er den metabolitten som forårsaker symptomene som oppstår etter å ha drukket litt for mye en kveld. Acetaldehyd omdannes videre til acetat ved hjelp av enzymet aldehyd dehydrogenase.
+
+### Vitamin- og mineralmetabolismen
+
+Leveren fungerer som et lagringsorgan for mange næringsstoffer, og er derfor også en god kilde til mange av disse dersom vi spiser lever. De vitaminene vi finner de største lagrene av i leveren er [A-vitamin](http://www.friskogfunksjonell.no/a-vitamin/ "A-vitamin"), [D-vitamin](http://www.friskogfunksjonell.no/d-vitamin/ "D-vitamin") og [B12](http://www.friskogfunksjonell.no/b12/ "Kobalamin, vitamin B12"). Av mineraler kan [jern](http://www.friskogfunksjonell.no/jern/ "Jern") trekkes frem, som lagres i store mengder bundet til ferritin. I aktivering og nedbrytning av vitaminer spiller leveren også en stor rolle. Her vil jeg trekke frem aktivering av D-vitamin som eksempel.
+
+### Andre oppgaver
+
+Leveren kan utvides, og fungerer derfor som et viktig lagringsorgan for blod. Normalt finner vi omtrent en halv liter blod, noe som utgjør rundt 10% av det totale blodvolumet. Dersom det skulle være behov, eksempelvis ved hjertesvikt, kan leverens kapasitet for blodlagring økes med rundt en liter ekstra.
+
+Leveren mottar blod direkte fra tarmene, og her følger det ofte med bakterier. Leveren har derfor en viktig oppgave med å rense dette blodet. Kupfercellene tar seg av denne jobben etter hvert som blodet passerer gjennom sinusoidene, og det er antatt at mindre enn 1% av bakteriene som kommer over i blodet fra tarmene overlever førstegangspassasje gjennom leveren.
+
+Hepatocyttene produserer galle, som er nødvendig for fordøyelsen av fett og fettløselige molekyler i tarmen. Gallen produseres fra kolesterol, og omtrent 80% av kolesterolet som produseres i leveren brukes til å lage galle. Gallen fraktes via gallecanaliculi og ut i gallegangen. Her lagres gallen i galleblæren før den tømmes ut i tolvfingertarmen sammen med fordøyelsesvæsker fra bukspyttkjertelen som følge av et måltid, spesielt dersom det inneholder fett. Mesteparten av gallesaltene reabsorberes nederst i tynntarmen og føres tilbake til leveren gjennom portåren.
+
+![](images/clipboard-3445758098.png)
+
+Leveren er sammen med nyrene kroppens primære avgiftningsorgan. Her finner vi blant annet Cytokrom P450-enzymene som kan modifisere både kjente og fremmede stoffer slik at de kan skilles ut, enten via gallen eller urinen. Dette inkluderer også deaktivering av hormoner og dermed bidrar leveren også til å regulere hormonbalansen.
+
+## Hva er konsekvensene av sykdom eller skade?
+
+At leveren har mange oppgaver er noe som blir veldig tydelig når leverfunksjonen svekkes. Ved sykdom eller skade på leveren vil nemlig alle disse funksjonene forstyrres samtidig, noe som understreker hvor alvorlig en leversvikt kan være.
+
+Det skilles mellom akutt leversvikt, som oftest forårsaket av forgiftninger (i den vestlige verden er paracetforgiftning den vanligste årsaken) eller infeksjon (viktigste årsak globalt), og kronisk leversvikt som igjen kan skyldes en rekke faktorer. Den mest klassiske varianten av kronisk leversvikt er alkoholisk leversykdom som skyldes kronisk høyt alkoholinntak over lenger tid. Ikke-alkoholisk fettlever har imidlertid blitt den vanligste leversykdommen i industrilandene. Dette regnes som en del av det metabolske syndrom, og er assosiert med overvekt, insulinresistens, høyt blodtrykk og diabetes type 2. Ikke-alkoholisk fettlever vil i likhet med alkoholisk fettlever kunne bli betent, og til slutt vil det dannes fibrøst bindevev og det utvikles levercirrhose, som regnes som endestadiet for kroniske leversykdommer.
+
+Gulfarging av huden og kløe er tidlige tegn på leversvikt. Dette skyldes at vi får en opphopning av bilirubin som er et nedbrytningsprodukt av hemoglobin. Normalt sett vil bilirubin tas opp av leveren og skilles ut i gallen, men når dette i stedet hopes opp i blodet så forårsaker det gulfarging av huden (og eksempelvis øyne) og kløe. Andre viktige symptomer er smerter, kvalme og tretthet.
+
+Ettersom leveren også er et viktig avgiftningsorgan så kan vi ved leversvikt få en opphopning av uønskede stoffer som kan gjøre direkte skade på vev. Redusert produksjon av urea fra nedbrytningen av aminosyrer vil gjøre at ammoniakk hoper seg opp i blodet, noe som er antatt å være med å forårsake hepatisk encefalopati som kjennetegnes ved redusert hjernefunksjon og i ytterste konsekvens koma og død.
+
+Leveren er som understreket svært viktig for metabolismen av næringsstoffene. Leversvikt vil gjøre at kroppen får problemer med å regulere blodsukkeret. Redusert produksjon av plasmaproteiner kan forårsake ødemer. Dette skyldes at det osmotiske trykket i blodårene synker (plasmaproteinene er osmotisk aktive), noe som presser væske ut i vevet. Redusert blodvolum vil på sin side stimulere nyrene til natrium- og væskeretensjon for å motvirke fallet i blodvolumet, noe som fører til at enda mer væske presses ut i vevet og ødemene vokser. Et klassisk tegn på leversvikt er ascites, som er store væskeansamlinger i buken, noe som skyldes at blodtrykket i kapillærene i dette området øker som følge av at levercirrhosen øker motstanden for blodstrømmen gjennom leveren.
+
+Vi får også en svikt i koagulasjonssystemet som følge av manglende produksjon av koagulasjonsfaktorer, og blødninger er vanlig. Også i opptaket av næringsstoffer er leveren viktig, ettersom gallen produseres her. Fettmalabsorbsjon og redusert opptak av de fettløselige vitaminene A, D, E og K er vanlig. Ved fettmalabsorbsjon så vil også de toverdige mineralene kalsium, magnesium og jern kunne binde seg til fettsyrene og dermed ikke tas opp. Som en total konsekvens av dette vil leverskade i stor grad legge til rette for underernæring, og det å dekke kroppens behov kan være en utfordring.
+
+Underernæring er veldig vanlig ved leversykdommer, og det er flere grunner til dette. For det første vil smerter og kvalme gjøre at matinntaket reduseres. I tillegg vil også malabsorbsjon bidra til at tilførselen av næringsstoffer reduseres. I tillegg vil også energiforbruket være høyere som følge av hypermetabolisme, noe som gjør at risikoen for å ligge i underskudd øker ytterligere. Underernæring kan ofte være vanskelig å oppdage ettersom vekttapet effektivt kan maskeres av vannansamlinger.
+
+## Oppsummering
+
+Leveren er et veldig sentralt organ med mange viktige oppgaver. Metabolismen av alle næringsstoffene styres i stor grad herfra, og viktige punkter er regulering av blodsukker, nedbrytning og syntese av fett og fettstoffer, produksjon av viktige plasmaproteiner og lagring og transport av vitaminer og mineraler. I tillegg er leveren viktig for avgiftning og fungerer i tillegg som et lagringsorgan for blod. I fordøyelsen av maten vi spiser er leveren viktig ettersom den produserer galle som er spesielt viktig for absorbsjonen av fettløselige stoffer.
+
+Ettersom leveren har så mange viktige oppgaver vil sykdom og skade kunne ha mange konsekvenser. Leversvikt gir forstyrrelser i metabolismen til de ulike næringsstoffene, og vi får en opphopning i blodet av molekyler som normalt fjernes effektivt. Vi kan få problemer med fordøyelsen, og redusert produksjon av plasmaproteiner kan forårsake ødemer, der store vannansamlinger rundt buken er et vanlig symptom. Underernæring er svært vanlig ved leversykdom, og den kan grunnet vannansamlinger være vanskelig å oppdage.
+
+I arbeidet med denne artikkelen har jeg tatt utgangspunkt i fagbøker innen fysiologi (1) og biokjemi (2). For de interesserte anbefaler jeg å sjekke ut disse bøkene for mer utdyping.
+
+Takk til medisinstudent Andreas Blomkvist for gjennomlesning og kommentarer.
+
+1.  Guyton A, Hall J: **Textbook of Medical Physiology**, 12 edn: Saunders/Elsevier; 2011.
+
+2.  Berg JM, Tymoczko JL, Stryer L (eds.): **Biochemistry**, 6 edn: Freeman; 2007.

@@ -7,3 +7,50 @@ categories:
 ---
 
 [Tilbake til artikkelserien om metabolismen](../../metabolismen.html)
+
+Ketonlegemer er vannløselige molekyler som produseres som følge av ufullstendig nedbrytning av fettsyrer, og disse produseres først og fremst av leveren. Leveren kan ikke selv benytte seg av disse, så de sendes ut i blodet og fraktes til andre celler der de brukes som energikilde. Produksjonen av ketonlegemer øker i situasjoner der karbohydratinntaket er lavt, eller ved faste. I denne artikkelen ser jeg nærmere på hvordan produksjonen av ketonlegemer foregår, og hvordan de kan benyttes som energikilde.
+
+Relevante artikler
+
+-   [Fettsyrenedbrytning – β-oksidasjon](http://www.friskogfunksjonell.no/fettsyrenedbrytning/ "Fettsyrenedbrytning – β-oksidasjon")
+-   [Glukosemetabolismen](http://www.friskogfunksjonell.no/glukosemetabolismen/ "Glukosemetabolismen")
+-   [Sitronsyresyklusen](http://www.friskogfunksjonell.no/sitronsyresyklusen/ "Sitronsyresyklusen")
+
+## Produksjon av ketonlegemer
+
+Endeproduktet for β-oksidasjonen er acetyl-CoA. Dette molekylet kan gå inn i sitronsyresyklusen for å produsere energi, men når produksjonen av acetyl-CoA overgår sitronsyresyklusens kapasitet, vil disse molekylene i stedet benyttet for å produsere ketonlegemer. For å gå inn i sitronsyresyklusen må acetyl-CoA kondenseres med oksaloacetat, og det er derfor konsentrasjonen av oksaloacetat som er avgjørende for hvor mye acetyl-CoA som kan metaboliseres denne veien. Oksaloacetat produseres hovedsakelig som følge av nedbrytning av pyruvat, som er endepunktet i glykolysen. Lav tilgang på karbohydrater vil derfor bidra til produksjonen av ketonlegemer.
+
+Mesteparten av fettsyrenedbrytningen i kroppen foregår i leveren, og overskuddet av Acetyl-CoA blir omdannet til ketonlegemer som kan fraktes i blodet til andre celler der de kan brukes som energikilde. Vi har tre ketonlegemer, acetoacetat, 3-hydroksybutyrat og aceton.
+
+Acetoacetat blir dannet fra acetyl-CoA i tre steg. Først kondenserer to acetyl-CoA-molekyler og danner acetoacetyl-CoA. Deretter kondenserer acetoacetyl-CoA med enda et acetyl-CoA, og vi får dannet 3-hydroksy-3-metyl-glutaryl-CoA (HMG-CoA). HMG-CoA spaltes til slutt til et acetyl-CoA og ketonlegemet acetoacetat. De to andre ketonlegemene dannes fra acetoacetat.
+
+![](images/clipboard-2437709513.png)
+
+## Ketonlegemer som energikilde
+
+Ketonlegemene produseres som nevnt hovedsakelig i leveren, og herfra sendes de ut i blodet ettersom leveren selv mangler enzymene som trengs for å bryte dem ned. Flere vev, deriblant hjertet og nyrene, er storforbrukere av ketonlegemer som energikilde. For å brukes som energikilde må ketonlegemene først konverteres tilbake til acetyl-CoA, som deretter går inn i sitronsyresyklusen og elektrontransportkjeden for å produsere ATP.
+
+Acetoacetat krever to enzymatiske steg i denne prosessen. Først kobles det på et CoA-molekyl, slik at vi får dannet acetoacetyl-CoA. Deretter spaltes dette molekylet i to samtidig som en andre CoA-gruppe kobles på slik at vi står igjen med to acetyl-CoA-molekyler. 3-hydroksybutyrat må gjennomgå et ekstra enzymatisk steg, der det oksideres og omdannes til acetoacetat.
+
+![](images/clipboard-1008871346.png)
+
+## Regulering
+
+Insulin spiller en rolle i ketonmetabolismen, og dette henger sammen med hormonets effekter på glukose- og fettmetabolismen. Insulin skilles ut som følge av økte blodsukkerverdier, og dersom vi spiser lite karbohydrater så vil vi også skille ut mindre insulin. Dette har hovedsakelig to biokjemiske effekter som sammen gjør at produksjonen av ketonlegemer øker.
+
+1.  Leveren tar opp mindre glukose fra blodet, noe som reduserer tilgjengeligheten av oksaloacetat i leveren. Dette gjør at acetyl-CoA fra fettsyrenedbrytning i leveren ikke kan gå inn i sitronsyresyklusen.
+2.  Fravær av insulin vil øke fettsyrefrigjøringen fra fettvev, og store deler av disse fettsyrene tas opp av leveren. Økt fettsyrenedbrytning i leveren, kombinert med reduserte nivåer av oksaloacetat, gjør at ketonproduksjonen øker.
+
+Spiser vi lite nok karbohydrater, så vil altså produksjonen av ketonlegemer øke. Dette vil føre til at konsentrasjonen av ketonlegemer i blodet, som normalt sett holdes veldig lavt, også vil øke. Dette kalles å være i ketose. Dersom ketosen kommer fordi inntaket av karbohydrater er lavt, kan vi si at ketosen er kostindusert. Dersom energiinntaket over tid er for lavt, vil frigjøring av fettsyrer også øke som en naturlig del av sultresponsen. I denne situasjonen vil oksaloacetatet brukes opp av glukoneogenesen for å produsere glukose til å opprettholde blodsukkeret, noe som følgelig vil føre til en økning i produksjonen av ketonlegemer. Siden ketosen i denne situasjonen først og fremst er utløst av et for lavt energiinntak, kan vi si at den er sultindusert.
+
+## Ketose
+
+Produksjonen av ketonlegemer i leveren er stor, og mengden som transporteres i blodet er derfor også stor. Vi kan se på ketonlegemene som en vannløselig transportform for Acetyl-CoA. Ettersom disse molekylene raskt tas ut igjen fra blodbanen, holdes konsentrasjonene i blodet normalt sett lave. I noen situasjoner kan imidlertid produksjonen av ketonlegemer øke så mye at konsentrasjonen i blodet stiger, og dette kalles ketose. Da vil ketonlegemer vanligvis også skilles ut i urinen, noe som kalles ketonuri, og det er vanligvis dette man måler dersom man spiser en ketogen diett og skal kontrollere om man er i ketose. Aceton kan også forlate kroppen gjennom pusten, noe som gir en karakteristisk ånde.
+
+## Ketoacidose
+
+Ketoacidose beskriver en situasjon der konsentrasjonen av ketonlegemer i blodet blir så høy at det påvirker blodets pH. Dette er en livstruende tilstand, ettersom vi er avhengig av å holde pH innenfor snevre fysiologiske grenser. Dette oppstår som følge av at produksjonen av ketonlegemer i leveren øker mye samtidig som kapasiteten til å metabolisere ketonlegemene i andre vev synker. Det er først og fremst diabetikere (type 1) eller alkoholikere som er i risiko for å utvikle ketoacidose, og det forekommer ytterst sjelden hos ellers friske.
+
+Personer med diabetes type 1 har utilstrekkelig eller fraværende produksjon av insulin, noe som fører til at glukagonet får dominere. Dette stimulerer glukoneogenesen og glykogennedbrytning i leveren, noe som sørger for de høye blodsukkerverdiene som kjennetegner sykdommen. Fraværet av insulin øker også som nevnt frigjøringen av fettsyrer og påfølgende fettsyrenedbrytning i leveren. Ettersom glukoneogenesen bruker opp oksaloacetat til nydanning av glukose, kan ikke acetyl-CoA fra fettsyrenedbrytningen gå inn i sitronsyresyklusen, og produksjonen av ketonlegemer i blodet øker.
+
+*Artikkelen er sist oppdatert september 2013.*

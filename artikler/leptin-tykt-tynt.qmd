@@ -1,0 +1,53 @@
+---
+title: "Tykt og tynt om leptin"
+author: "Thomas Olsen"
+date: 2013.07.11
+---
+
+Vegard har gått ettertrykkelig igjennom [energibalansen](energibalansen.qmd "Energibalansen – hva sier den egentlig?") tidligere og hvordan den kan styres i positiv og negativ retning som resulterer i enten energiunderskudd eller energioverskudd. Det er i hovedsak matinntak og forbruk i hverdagen som påvirker på hvilken side av regnskapet vi ender opp på. Blant annet påvirker en rekke hormoner valgene vi tar når det kommer til matinntak, og påvirker i varierende grad sultsenteret i hjernen som sitter i hypotalamus.
+
+Leser man på diverse fora vil man gjerne komme over anbefalinger om matvarer som påvirker metthet. Ofte er det proteiner og fett som trekkes frem som prakteksemplene på hva man bør prioritere om man vil bli mett. Insulin, som påvirkes direkte av karbohydrater [men også proteiner](http://www.friskogfunksjonell.no/insulinindeks/ "Insulinindeks – hva og hvorfor?"), spiller derimot også en rolle for metthet og apetitt, blant annet gjennom å øke sirkulerende leptinkonsentrasjoner i blodet.
+
+Jeg vil i denne artikkelen ta for meg leptin som er sentral i langtidsregulering av apetitten vår.
+
+## En liten introduksjon
+
+Leptin er et hormon som hovedsakelig produseres i fettvev og utskilles proposjonalt med mengde fettvev. Det tar del i langtidsreguleringen av matinntak ved å stimuleres reseptorer i hjernen og forteller oss at vi trenger mindre mat og kan prioritere energiforbruk (3). Dette er i utgangspunktet en av kroppens forsvarsmekanismer mot store svingninger i kroppsvekten. Legger vi på oss så stiger leptinnivåene, og dette vil stimulere til lavere energiinntak i neste periode. Dette er med på å forklare hvorfor de fleste over tid holder en noenlunde stabil kroppsvekt. En skulle da gjerne tro at overvektige som har mer fettvev og følgelig økte nivåer av sirkulerende leptin, ikke hadde problemer med apetitten. Det har derimot vist seg å være feil, og leptinresistens er et begrep som derav har etablert seg i klinikken. Det er sentralt i endokrinologien at et hormon ikke utøver en effekt i seg selv, men virker gjennom å binde til reseptorer og dermed stimulere til effekter inne i cellene. Uten å gå for mye inn på det, skyldes leptinresistens at transporten over blod-hjerne-barrieren er redusert samtidig som signaloverføringen i hjernens nerveceller er svekket (1). Dermed vil ikke hormonet kunne utøve sin normalt apetittdempende effekt, ved at det rett og slett ikke når frem til metthetssenteret i hjernen, slik at målreseptorer aktiveres.
+
+## Funksjoner
+
+Leptin en apetittdempende funksjon blant annet ved å redusere produksjonen av nevropeptid Y (NPY) (2). NPY er en meget potent apetittfremmer som også demper veksthormon og gonadotropiner som igjen fører til redusert produksjon av kjønnshormoner. Knebling av NPY vil i tur kunne føre til lavere energiinntak og potensielt redusert/vedlikeholdt kroppsvekt. I tillegg vil leptin stimulere aktivering av melanokortinreseptorer, øke aktiviteten i det sympatiske nervesystemet, og redusere insulinutskillelsen (bedre insulinsensitivitet) som alle vil bidra til en redusert lagring av energi i form av fett og fremme energiforbruk (3).
+
+Som nevnt i avsnittet over vil leptin aktivere melanokortinreseptorer (hovedsakelig MC3R og MC4R) i hjernen. Disse reseptorene binder ulike melanocytt-stimulerende hormoner (α/β/γ-MSH) som produseres i såkalte POMC-uttrykende nevroner. Ved tilførsel av leptin vil produksjonen av disse hormonene oppjusteres, og MC3R og MC4R-aktivering vil i tur øke og gjøre oss mette. Defekter i disse reseptorene fører til ekstrem fedme (3).
+
+## Regulering
+
+Sirkulerende leptinnivåer bestemmes først og fremst av kroppsfett, men følger også insulinnivåene i blodet. Man skulle dermed tro at spesielt karbohydrater/måltider med lav glykemisk belastning (les: «komplekse karbohydrater») gjør nytten for å øke metthet. Dette stemmer forsåvidt, men husk det jeg nevnte innledningsvis. Leptin spiller hovedrollen i *langtidsregulering* av metthet (delvis også korttidsregulering ved å forsterke effekten av cholecystokinin). Det har seg nemlig slik at leptin ikke er på sitt høyeste før ca klokken 0200 om natten for oss som spiser til normale tider (2). Med andre ord gjerne ikke før 4-6 timer etter siste insulinstimulerende måltid.
+
+Samspillet mellom insulin og leptin er ikke fullstendig klarlagt enda, men jeg tillater meg å spekulere litt i plausible mekanismer. Når insulin bindes til sine reseptorer i ulike vev, også fettvev, skjer det flere ting (3). Raske effekter er blant annet transport av glukose inn i cellen, mens kaskadereaksjoner som tar alt fra timer til dager også initieres. Derfor er det plausibelt at substratene som dannes etter reseptoraktivering blant annet bindes til kjernereseptorer som oppregulerer det leptin-produserende *Ob*-genet i fettcellene våre. Denne prosessen tar flere timer og derfor øker ikke leptinkonsentrasjonen i blodet før noen timer etter matinntak.
+
+Leptin er ikke bare en indikator på kroppskomposisjon hos oss mennesker. Fler og fler av oss befinner oss i den situasjonen at vi enten er i energiunderskudd- eller overskudd. Leptin vil da i følge Meier og Gressner (2004) fungere som en sensor for ubalanse i energihomeostasen vår (2), hvorpå de trekker frem at faste kan redusere konsentrasjonen av hormonet med ca 30%. Overspising vil derimot kunne øke konsentrasjonen med over 50%. Dette er helt naturlige responser som kommer av at leptinet skal beskytte oss mot store svingninger i kroppsvekt.
+
+Jeg vil understreke at dette garantert varierer individuelt, og varierende kroppskomposisjon fra person til person gjør det umulig å komme med spesifikke anbefalinger. Dette viser oss derimot at karbohydrater ikke alltid bør neglisjeres når det diskuteres hvilke næringsstoffer som påvirker apetitten vår i størst grad. Husk igjen at det her er snakk om apetittregulering over lang tid. Effekten av proteiner og fett på metthet er i hovedsak regulert via korttidsmekanismer som inolverver cholecystokinin og peptid YY som produseres i magesekken. Dette vil jeg komme tilbake ved en senere anledning.
+
+## Andre funksjoner - Kjønnshormoner
+
+Til sist vil jeg såvidt nevne at kostpåvirkning av leptin kan være spesielt viktig i enkelte grupper. Folk med ekstremt lav fettprosent, deriblant enkelte idrettsutøvere og spiseforstyrrede, kan ha et større behov for å stimulere leptinutskillelsen denne veien, ettersom de grunnet liten fettmasse produserer lite. Leptin er nemlig også satt i sammenheng med produksjonen av andre hormoner, deriblant kjønnshormonene, og derfor kan karbohydrater og proteiner som stimulerer økt insulinutskillelse være spesielt viktig i disse gruppene. De nøyaktige mekanismene for hvordan leptin stimulerer produksjonen av kjønnshormoner er ikke fullstendig kartlagt, men man tror at det kan ha med at leptin stimulerer signalstoffer fra hypotalamus (gonadotropinfrigjørende hormoner), som stimulerer frigjøringen av luteniserende hormon fra hypofysen som igjen stimulerer produksjon av kjønnshormoner.
+
+## Aktuelt - Leptin og diabetes
+
+Det spekuleres for tiden i om leptin kan ha en effekt på diabetes, og en nylig publisert gjennomgangsartikkel fra Nature Reviews har drøftet nettopp dette (1). I denne artikkelen drøftes det i detalj hvorvidt leptin øker insulinsensitivitet og bedre glukosetoleransen hos pasienter med diabetes type 1 og 2, og leptinbehandling har dessuten vist seg svært effektivt på dyr. Et hinder hos mennesker er ofte at pasienter med diabetes type 2 er overvektige og gjerne leptinresistente. Hos mennesker med lipodystrofi (grovt forenklet varierende grad av akkumulering/svinn av fettvev) og diabetes har leptin vist seg effektiv i normalisering av både lipid- og glukoseubalanser. Forfatterne peker også på at det finnes diabetespasienter som ikke er overvektige, som kan ha nytte av disse effektene. Her spekuleres det i at aktivering av POMC-uttrykkende nevroner i hypotalamus spiller en viktig regulering for blodsukkerkontroll. Det kreves dog mye forskning for å klarlegge disse eventuelle antidiabetiske effektene, og videre hvordan man skal jobbe seg rundt leptinresistens.
+
+## Avslutning
+
+Denne artikkelen er ment å skrape litt på overflaten av hvordan apetitten vår reguleres delvis via karbohydrater og insulin. Det er antakeligvis en lang rekke mekanismer som spiller inn på akkurat hvordan leptin reguleres, og å isolere dette hormonet som en faktor alene blir dog en oversimplifisering. Leptin styrer i hovedsak langtidsreguleringen av apetitten vår, men det er også en del signalmolekyler som responderer mer akutt på matinntak. Den såkalte korttidsreguleringen, og de spennende gluko/aminostatiske teoriene skal vi se nærmere på senere.
+
+Takk til min bedre halvdel, Bente Øvrebø, for gode innspill og kritikk.
+
+**Referanser**
+
+1.  Coppari R, Bjorbaek C: **Leptin revisited: its mechanism of action and potential for treating diabetes**. *Nature reviews Drug discovery* 2012, **11**(9):692-708.
+
+2.  Meier U, Gressner AM: **Endocrine regulation of energy metabolism: review of pathobiochemical and clinical chemical aspects of leptin, ghrelin, adiponectin, and resistin**. *Clinical chemistry* 2004, **50**(9):1511-1525.
+
+3.  Hall, JE, Guyton, AC 2011. ***Guyton and Hall textbook of medical physiology**,* Philadelphia, Pa., Saunders/Elsevier
