@@ -7,7 +7,7 @@ At proteiner er viktig for helsen er ingen hemmelighet. Som byggesteiner for all
 
 ## Fordøyelse, absorbsjon og effekt
 
-Vi får i oss [protein](naeringsstoffer/proten.qmd) gjennom maten vi spiser, og fordøyelsen starter i magesekken.  Her starter kløyvingen av de lange peptidkjedene som utgjør proteinene, og denne prosessen fortsetter i tynntarmen. Når proteinene er brutt ned til enten enkelte aminosyrer eller korte peptider, kan de absorberes. Aminosyrene blir dermed tilgjengelig for kroppens celler.
+Vi får i oss [protein](naeringsstoffer/protein.qmd) gjennom maten vi spiser, og fordøyelsen starter i magesekken.  Her starter kløyvingen av de lange peptidkjedene som utgjør proteinene, og denne prosessen fortsetter i tynntarmen. Når proteinene er brutt ned til enten enkelte aminosyrer eller korte peptider, kan de absorberes. Aminosyrene blir dermed tilgjengelig for kroppens celler.
 
 Tidligere trodde man at proteinet nesten utelukkende ble absorbert i form av enkeltaminosyrer, men nyere kunnskap har avdekket at hele 25 % av proteinet kan absorberes som di- eller tripeptider. Vi vet også at mange av disse små peptidene har biologiske effekter, noe som gjør disse veldig spennende med tanke på helseeffekten av å spise protein fra ulike kilder. Ulike proteinkilder gir nemlig opphav til ulike bioaktive peptider!
 
