@@ -1,0 +1,88 @@
+---
+title: "Folat, Vitamin B12 og enkarbonmetabolisme – FASEB dag 4, 5 og 6"
+date: 2015.02.06
+---
+
+Grunnet ny jobb og en del annet på agendaen i det siste har det dessverre tatt litt tid å få oppdatert fra siste halvdel av konferansen i sommer. Men bedre sent enn aldri, ikke sant? I dette innlegget vil jeg i korte trekk ta for meg resten av konferansen fra i fjor sommer.
+
+Mer fra konferansen:
+
+-   [FASEB dag 1](faseb2014-1.qmd "Folat, vitamin B12 og enkarbonmetabolisme – FASEB dag 1")
+
+-   [FASEB dag 2, økt 1](faseb2014-2a.qmd "Folat, Vitamin B12 og enkarbonmetabolisme – FASEB dag 2, økt 1")
+
+-   [FASEB dag 2, økt 2](faseb2014-2b.qmd "Folat, Vitamin B12 og enkarbonmetabolisme – FASEB dag 2, økt 2")
+
+-   [FASEB dag 3](faseb2014-3.qmd "Folat, Vitamin B12 og enkarbonmetabolisme – FASEB dag 3")
+
+## Dag 4
+
+#### Folat og autisme
+
+Rebecka Schmidt hadde dagens første foredrag, med tittelen "Folate and DNA Methylation in Autism Etiology". Hennes forskning har vist at risikoen for å føde et barn med autisme er økt hos mødre som har hatt et lavt inntak av folat tidlig i svangerskapet, spesielt den første måneden. Dette er også vist i flere andre studier, deriblant den norske Mor og Barn-undersøkelsen. Hun diskuterte hvorvidt endret [DNA-metylering](bioblikk-epigenetikk.qmd "Bioblikk: DNA-metylering og epigenetikk") kunne være en mekanistisk årsak.
+
+#### Posterpresentasjon
+
+Onsdag var også dagen der jeg selv skulle i ilden. Som nevnt hadde jeg med meg en poster, der jeg presenterte noen resultater fra masteroppgaven min, samt fra en nyere rottestudie. Temaet var regulering av vitamin B12-metabolismen, og resultatene jeg presenterte viser at MMA, en funksjonell markør for B12-mangel, øker når rottene blir behandlet med medikamenter som aktiverer kjernereseptoren PPARα. Hypotesen er at denne reseptoren, som er kjent for å være involvert i reguleringen av energimetabolismen, også er med å påvirke den intracellulære prosesseringen av vitamin B12, og at MMA i tillegg til å være en markør for B12-mangel også kan reflektere økt PPARα-aktivitet.
+
+![](images/clipboard-2945943870.png)
+
+#### Misinkorporering av uracil i DNA
+
+Martha Field holdt kveldens siste foredrag, og tema var folat sin rolle i syntesen av tymidylat, en bestanddel av DNA. Folatmetabolitten 5,10-metylentetrahydrofolat brukes for å omdanne uracil til tymidylat, og ved utilstrekkelig folatstatus kan uracil bli inkorporert i DNA i stedet. Dette fører til et mindre stabilt DNA-molekyl, som igjen øker risikoen for blant annet kreft. Forskningen til Field har sett nærmere på mekanismene som ligger til grunn for en slik misinkorporering, og fokuset deres ligger på produksjonen av 5,10-metylentetrahydrofolat. Denne metabolitten kan dannes på to måter, og den ene (som bruker enzymet SHMT), brukes i kroppen hovedsakelig til å produsere tymidylat.
+
+![](images/clipboard-3164150066.png)
+
+## Dag 5
+
+#### Vitamin B12 og perioden rundt fødsel
+
+Det første foredraget jeg var på torsdag morgen var Julia Finkelstein sin presentasjon, som handlet om vitamin B12 og perinatal helse. Utgangspunktet for hennes foredrag er at B12-mangel er et problem globalt, og at mangel hos gravide har vist seg å øke risiko for komplikasjoner, samt negative konsekvenser for barnet. Finkelstein har ledet et forskningsprosjekt i India, der de har gitt gravide tilskudd av blant annet B12, og vist at dette gav økte nivåer av B12 og reduserte nivåer av metylmalonsyre og homocystein, funksjonelle markører for B12-mangel under graviditeten. Utover dette fant de et høyere innhold av B12 i brystmelken, og bedret B12-status hos de nyfødte.
+
+#### Lavdose B-vitaminintervensjon
+
+Mary Ward kommer fra en irsk forskergruppe som har hatt fokus på lavdosebehandling med B-vitaminer. Utgangspunktet for hennes foredrag var at utilstrekkelig B-vitaminstatus er satt i sammenheng med økt risiko for ulike sykdommer. De har gjennomført noen studier hvor de har sammenlignet ulike doser med folattilskudd for å senke homocystein, og har funnet at lave doser over tid er like effektivt som høye doser.
+
+![](images/clipboard-1240336995.png)
+
+Det mest spennende temaet i denne forelesningen var imidlertid vitamin B2 og høyt blodtrykk. Forskergruppen til Ward har i flere år studert en gentype (677C-\>T polymorfisme i MTHFR-genet) som er satt i sammenheng med økt blodtrykk. I genetiske studier er det vist at denne genotypen er assosiert med en doblet risiko for å ha høyt blodtrykk. Dette er en polymorfisme som senker aktiviteten i MTHFR, som er enzymet som produserer metyltetrathydrofolat. Dette enzymet er avhengig av vitamin B2, så hypotesen var at tilskudd av B2 skulle ha en effekt. Bildene under viser hvor effektivt de klarte å senke blodtrykket med B2-behandlingen avhengig av genotypen, og det er tydelig at dette er en svært genotypespesifikk effekt som bare gjelder i TT-gruppen. Disse resultatene har de også validert i en crossoverstudie der forsøkspersonene fikk B2-behandling i en periode og placebo i en annen.
+
+![](images/clipboard-3274879063.png)
+
+![](images/clipboard-3500845718.png)Neste bilde viser en sammenligning av blodtrykkseffekten mot tradisjonelle tilnærminger for å senke blodtrykk (systolisk). Som dere ser så kan denne behandlingen vise til tilsvarende resultater som 10 kg vekttap.
+
+![](images/clipboard-2158789925.png)
+
+Dette er et veldig godt eksempel på hvordan genotypespesifikk behandling har potensiale for å ha en drastisk effekt på helsen vår.
+
+## Dag 6
+
+Den siste dagen av konferansen hadde vitamin B12 som det overordnede temaet.
+
+#### Vitamin B12-prosessering
+
+Luciana Hannibal var første kvinne ut, og hennes forskning har i stor grad dreid seg om hvordan vitamin B12 prosesseres når det kommer inn i cellene. Når B12 fraktes i blodet er kobalamin bundet til en av flere funksjonelle grupper. Inne i cellen må først fritt kobalamin gjøres tilgjengelig, før vi kan danne de to aktive formene - metylkobalamin og adenosylkobalamin. Et sentralt enzym i denne prosessen heter MMACHC, og mangelfull MMACHC-funksjon fører til økte blodverdier av både homocystein og MMA, som er biomarkører for B12-mangel. Mens MMACHC har som oppgave å frigjøre fritt B12, er det et annet enzym, MMACHD, som sørger for å fordele kobalaminet til de to B12-avhengige enzymene. Hannibal kunne fortelle oss at MMACHD ikke selv kan binde seg til kobalamin, noe som gjør at man nå tror at MMACHC og MMACHD på en eller annen måte jobber sammen om denne prosessen.
+
+Mange har mangel på vitamin B12, og denne kan være forårsaket av for lavt inntak, malabsorpsjon eller være metabolsk betinget. Det intracellulære maskineriet som prosesserer vitamin B12 består av mange forskjellige enzymer, og funksjonen i disse kan være nedsatt som følge av genvarianter eller mangel på viktige kofaktorer. Videre forskning på disse enzymene og hvordan de reguleres kan gi oss en enda bedre forståelse av hva som påvirker vitamin B12-status
+
+#### Biotilgjengelighet
+
+Vi vet at vitamin B12 produseres av bakterier og at kilder til dette vitaminet først og fremst er animalsk mat. Men er det sånn at B12 er like biotilgjengelig i ulike matvarer? Svaret på dette er nei, og det var tema for Eva Greibe sitt foredrag. Melk og kjøtt har nemlig vist seg å være gode kilder til B12, med en biotilgjengelighet på 60-65%, mens fisk (35-40%) og egg (25-35%) ser ut til å være dårligere. Greibe har undersøkt hvorvidt det er proteinet vitamin B12 er bundet til som påvirker hvor godt vi tar opp B12, og i en rottemodell testet hun dette ved å gi B12 bundet til ulike typer protein. Her fant hun ut at når de gav B12 bundet til fiskeprotein, så ble lite av vitaminet absorbert. Opptaket av B12 bundet til melk var imidlertid godt.
+
+![](images/clipboard-256903957.png)
+
+Den foreløpige konklusjonen er at forskjellene i biotilgjengelighet kan være et resultat av ulikheter i proteinsammensetningen.
+
+#### Måling av B12-status
+
+Ralph Green fikk æren av å holde konferansens siste foredrag, og hans tema var måling av vitamin B12-status. Standardmålet for vitamin B12-status er å måle total mengde vitamin B12 i blod, men dette målet har store svakheter. I blod sirkulerer vitamin B12 bundet til enten transkobalamin (TC, \~10-30%) eller til haptokorrin (HC, \~70-90%). Det er bare  TC-bundet B12 som tas opp i cellene, noe som betyr at mesteparten av sirkulerende B12 ikke er tilgjengelig. En faktor som kompliserer dette litt er at HC-bundet B12 kan skilles ut med gallen og dermed havne i tarmen, slik at vitaminet kan absorberes på nytt og dermed binde til TC.
+
+Siden total B12 har store svakheter som statusmål, har det vært foreslått å måle TC-bundet B12 (holo-TC) gir et bedre bilde av status. Siden TC-bundet B12 har en raskere omsetning enn HC-bundet, så vil man kunne oppnå en funksjonell mangel uten at dette gjenspeiles i de totale B12-nivåene.
+
+Green tok oss gjennom den sannsynlige rekkefølgen av metabolske forandringer når man utvikler en B12-mangel. Først vil Holo-TC reduseres, og deretter vil de intracellulære B12-lagrene tømmes. Når dette skjer, vil vi se en økning av homocystein og MMA, og til slutt kommer de kliniske manifestasjonene som er anemi og nevrologiske symptomer.
+
+Gjennom mange studier ser det ut til at det å måle holo-TC og total B12 er [omtrent likeverdige](http://www.ncbi.nlm.nih.gov/pubmed/16384886) når det kommer til å avdekke en mangel, og det er derfor å anbefale at begge disse testes. Dersom både holo-TC og total B12 er lav så er det veldig sannsynlig at vi har en mangel. Er bare en av dem lave er det snakk om en mulig mangel, mens dersom ingen av dem er lave er det usannsynlig at vi har en mangel.
+
+## Hyggelig opplevelse
+
+Avslutningsvis vil jeg si at dette var en svært hyggelig uke hvor jeg fikk muligheten til å bli kjent med mange nye mennesker som jobber innen det samme feltet som jeg selv ønsker å jobbe med i årene som kommer. Faglig sett var det svært lærerikt, og jeg ser helt klart frem til neste konferanse.

@@ -1,0 +1,40 @@
+---
+title: "Spiser du fort?"
+date: 2014.06.23
+---
+
+Overvekt er et stadig voksende problem, og er satt i sammenheng med risiko for en rekke sykdommer. Overvekt defineres av overflødig akkumulering av kroppsfett, og vi vet at rent mekanistisk er dette et resultat av en positiv [energibalanse](energibalansen.qmd "Energibalansen – hva sier den egentlig?") over tid. Jeg har tidligere [skrevet om en studie](spise-saktere.qmd "Bør du spise saktere?") (1) som indikerte at det var en sammenheng mellom det å spise fort og risiko for å ha diabetes type 2.  En av årsaksmekanismene som ble diskutert i denne artikkelen var at det å spise fort kan føre til at man spiser mer og dermed er mer utsatt for å legge på seg. Nylig ble det publisert en systematisk oversiktsartikkel og metaanalyse som har undersøkt effekten av å spise saktere på energiinntak og sultfølelse (2).
+
+## Bakgrunn for studien
+
+Observasjonsstudier har vist at overvektige spiser raskere enn normalvektige, og det finnes også grunn til å tro at det å spise fort kan være en arvelig oppførsel. Likevel så er det en del svakheter med denne typen studier, og i mer kontrollerte studier har resultatene vist litt forskjellig, og det er dermed uklart hvorvidt det å spise fort faktisk medfører økt energiinntak eller ikke. Dette kan blant annet skyldes at ulike studier har redusert spisetempo på forskjellig måter, deriblant muntlig eller ved å endre matens konsistens.
+
+Målet med denne metaanalysen var derfor å undersøke om det var grunnlag for å hevde at det å spise saktere kan bidra til å redusere energiinntak, og i tillegg hvorvidt dette gav utslag i selvrapportert sultfølelse. I tillegg ville de undersøke om strategien man brukte for å redusere spisetempo hadde noe å si. De inkluderte bare eksperimentelle studier der man hadde undersøkt effekten av å spise saktere, både studier der deltakerne var sine egne kontroller (crossover) og studier med uavhengige grupper, randomiserte og ikke-randomiserte.
+
+## Resultatene
+
+Ettersom de ulike studiene hadde rapportert resultatene på ulik måte, valgte forfatterne av metaanalysen å regne om alle forskjeller til en [Cohen’s d effektstørrelse](http://www.friskogfunksjonell.no/signifikans-og-alt-det-der/ "Signifikans og alt det der"). Denne forteller oss hvor stor forskjellen mellom gruppene er i standardavvikenheter, og gjør det dermed mulig å sammenligne resultater på tross av at de er rapportert i ulike enheter. Totalt ble 22 studier inkludert i metaanalysen.
+
+I studier som sammenlignet to spisetempo ble det funnet at det å spise raskt førte til et høyere totalt energiinntak. For de studiene som hadde undersøkt tre ulike spisetempo, fant de at jo fortere man spiste, jo mer spiste man. Jo større forskjellen mellom de ulike tempoene var, jo større var også forskjellen i energiinntaket.
+
+Når det gjaldt måten man hadde redusert spisetempo på, så var det fire ulike metoder som ble analysert: Muntlig instruksjon, digital tilbakemelding under måltidet, type mat (konsistens) eller måte man spiste på (sugerør eller skje, spise fra en beholder som fylte seg opp fort eller sakte). Det var ingen statistisk signifikante forskjeller mellom disse metodene når det kom til effekt på energiinntaket. Alle disse resultatene er oppsummert i figuren under.
+
+![](images/clipboard-1509371288.png)
+
+Referanse (2).
+
+Det var ingen forskjeller mellom gruppene når det kom til selvrapportert sultfølelse i etterkant av måltid, uavhengig av om måltidene inneholdt like mye energi eller ikke.
+
+## Konklusjoner
+
+Resultatene fra denne metaanalysen viser at det er en sammenheng mellom spisetempo og hvor mye vi spiser, og det ser ut til at det er grunn til å hevde at å spise saktere fører til at vi spiser mindre. Videre ble det ikke funnet noen forskjeller ut fra hvordan man gikk frem for å få forsøkspersonene til å spise saktere. Det ble også funnet et dose-responsforhold der man fant at jo større reduksjon i spisetempo, jo større reduksjon i totalt energiinntak. Til tross for dette ble det ikke funnet noen effekt på selvrapportert sultfølelse ved måltidets slutt eller etter noen timer.
+
+De nøyaktige mekanismene for hvorfor det å spise saktere reduserer energiinntaket er ikke fullstendig kartlagt. Det har vært diskutert om spisetempoet kan påvirke utskillelsen av metthetshormoner, eller om en direkte effekt på magesekken kan spille inn. En annen mulig mekanisme er at det å spise saktere gjør at maten oppbevares lenger i munnen, og denne eksponeringen for smak kan gjøre at man spiser mindre.
+
+Resultatene fra denne analysen viser at det å redusere spisetempoet kan være et viktig verktøy i kampen mot overvekt. Spesielt ettersom det reduserte energiinntaket ikke var forbundet med økt sult senere, noe som reduserer risikoen for at man kompenserer med å spise mer ved en senere anledning.
+
+Referanser:
+
+1.  Radzeviciene L, Ostrauskas R: **Fast eating and the risk of type 2 diabetes mellitus: a case-control study**. *Clin Nutr* 2013, **32**(2):232-235.
+
+2.  Robinson E, Almiron-Roig E, Rutters F, de Graaf C, Forde CG, Tudur Smith C, Nolan SJ, Jebb SA: **A systematic review and meta-analysis examining the effect of eating rate on energy intake and hunger**. *Am J Clin Nutr* 2014.

@@ -1,5 +1,5 @@
 ---
-title: "Aminosyre- og proteinmetabolismen"
+title: "Aminosyre- og proteinsyntese"
 author: "Vegard Lysne"
 date: "2014.06.11"
 categories: 
@@ -7,3 +7,84 @@ categories:
 ---
 
 [Tilbake til artikkelserien om metabolismen](../../metabolismen.html)
+
+Proteiner er kroppens primære byggesteiner, og stort sett alt vev er bygget opp av ulike proteiner. Utover dette har protein også andre funksjoner, deriblant som enzymer og hormoner. Proteiner er bygget opp av aminosyrer, og for at proteinsyntesen skal fungere er vi avhengig av tilstrekkelig tilgang på alle de ulike aminosyrene. Disse kan vi få fra maten vi spiser, og en del av dem kan vi også lage selv. I denne artikkelen skal jeg ta for meg hvordan aminosyresyntesen foregår og hvordan aminosyrene settes sammen til nye proteiner.
+
+-   Les om proteiner og hvordan de fordøyes og tas opp i [denne artikkelen](../naeringsstoffer/protein.qmd "Protein").
+
+## Aminosyrer
+
+Aminosyrer er den enkleste byggesteinen i proteiner, og for at proteinsyntesen skal opprettholdes må kroppen altså ha tilgang på alle de 20 aminosyrene. Hvis det er for lite av en aminosyre, vil hele proteinsyntesen stoppe opp, noe som kan føre til mangelsykdommer. De essensielle aminosyrene kan kroppen ikke lage selv, og vi er avhengig av å få de i oss via kostholdet. De resterende aminosyrene er betegnet som ikke-essensielle, noe som betyr at kroppen kan lage dem selv. I tillegg har vi en gråsone som kalles betinget essensielle aminosyrer, som kort fortalt betyr at selv om vi normalt sett kan lage tilstrekkelig selv, er det situasjoner der også disse blir essensielle, for eksempel ved enkelte metabolske sykdommer. De 20 aminosyrene er gruppert i tabellen under.
+
+|                 |                      |                          |
+|-----------------|----------------------|--------------------------|
+| **Essensielle** | **Ikke-essensielle** | **Betinget essensielle** |
+| Fenylalanin     | Alanin               | Arginin                  |
+| Isoleucin       | Aspartat             | Cystein                  |
+| Leucin          | Aspargin             | Glutamin                 |
+| Lysin           | Glutamat             | Glycin                   |
+| Metionin        | Serin                | Histidin                 |
+| Treonin         |                      | Prolin                   |
+| Tryptofan       |                      | Tyrosin                  |
+| Valin           |                      |                          |
+
+En aminosyre er bygget opp av et karbonskjelett med en tilhørende nitrogenholdig aminogruppe, og strukturen kan du se på bildet under. R representerer en funksjonell gruppe, og det er ulike R som skiller de forskjellige aminosyrene fra hverandre.
+
+![](images/clipboard-1062659921.png)
+
+Bilde: Wikipedia\[/caption\]
+
+## Syntese av ikke-essensielle aminosyrer
+
+De ikke-essensielle aminosyrene kan kroppen lage selv, enten fra intermediære metabolitter fra for eksempel sitronsyresyklusen eller ved omdanning fra andre aminosyrer.
+
+### Alanin, aspartat og glutamat - transaminering
+
+Transaminering er prosessen der en aminogruppe overføres fra et molekyl til et annet, ved hjelp av vitamin B6-avhengige aminotransferaser. Dette er en sentral prosess i aminosyrenedbrytning, men noen aminosyrer produseres også på denne måten.
+
+I glykolysen og sitronsyresyklusen finner vi ketosyrene pyruvat, oksaloacetat og α-ketoglutarat. Disse kan ved å motta en aminogruppe fra en annen aminosyre omdannes til henholdsvis aminosyrene alanin, aspartat og glutamat. I denne reaksjonen blir altså aminosyren omdannet til en a-ketosyre, mens a-ketosyren blir omdannet til en aminosyre.
+
+![](images/clipboard-3590620592.png)
+
+### Glutamin og aspargin - amideringsreaksjoner
+
+Noen aminosyrer inneholder to aminogrupper, og kan dermed dannes ved at en aminogruppe overføres fra en annen aminosyre. Dette gjelder for omdanningen av glutamat til glutamin og aspartat til aspargin.
+
+### Prolin og arginin – glutamat som forløper
+
+Glutamat produseres som nevnt ved transaminering av α-ketoglutarat, og i tillegg til å kunne omdannes videre til glutamin fungerer glutamat også som forløper for aminosyrene prolin og arginin.
+
+### Tyrosin dannes fra fenylalanin
+
+Tyrosin kan dannes fra den essensielle aminosyren fenylalanin ved hjelp av enzymet fenylalanin hydroksylase. Personer med Føllings sykdom mangler dette enzymet, og kan derfor ikke bryte ned fenylalanin. For disse blir tyrosin derfor en essensiell aminosyre.
+
+![](images/clipboard-1931111471.png)
+
+### Serin, glycin og cystein
+
+Serin er en aminosyre som i kroppen kan produseres fra en metabolitt som stammer fra nedbrytning av glukose, 3-fosfoglyserat. Serin kan videre konverteres til glycin i en reversibel reaksjon katalysert av det folat- og B6-avhengige serin hydroksymetyltransferase. Dette vil si at serin også kan produseres fra glycin.
+
+Glycin kan på sin side, i tillegg til å produseres fra serin, også produseres fra nedbrytning av aminosyren treonin, fra nedbrytningen av [kolin](../bioblikk-kolin.qmd "Bioblikk: Andre bioaktive stoffer i mat – Choline") og ikke minst som et biprodukt i syntesen av [karnitin](../bioblikk-karnitin.qmd "Bioblikk – Karnitin").
+
+Cystein dannes i en reaksjon der homocystein kobles sammen med serin, som du kan lese mer om i artikkelen om [enkarbonmetabolismen](../bioblikk-enkarbonmetabolismen.qmd "Bioblikk: Enkarbonmetabolismen, en introduksjon"). Homocystein er et endeprodukt fra metyleringsreaksjoner, og [stammer opprinnelig fra den essensielle aminosyren metionin](../bioblikk-metyleringssyklus.qmd "Bioblikk: Metyleringssyklus"). Dette forklarer også hvorfor cystein er en betinget essensiell aminosyre, ettersom vi blir avhengig av å få den gjennom kostholdet dersom metionininntaket ikke er tilstrekkelig.
+
+![](images/clipboard-3479256886.png)
+
+## Proteinsyntese
+
+Aminosyrene fraktes fra blodet og inn i [cellene](http://www.friskogfunksjonell.no/cellen/ "Cellen"). Her inngår de i proteinsyntesen, der nye proteiner bygges opp. Funksjonen til et protein er bestemt av flere ting, blant annet rekkefølgen på aminosyrene. Dette kalles primærstrukturen, og bestemmes av oppskriften som finnes i [den genetiske koden](http://www.friskogfunksjonell.no/genetiske-og-metabolske-sykdommer-genetikk/ "Genetiske og metabolske sykdommer – genetikk") i vårt DNA, der tre og tre baser koder for en aminosyre
+
+Inne i cellekjernen skjer det som kalles transkripsjon, nemlig at informasjonen fra DNA kopieres over på RNA. RNA fraktes ut av cellekjernen og over til ribosomene, der selve proteinsyntesen (translasjon) foregår. Det finnes ulike RNA-typer, som har sine funksjoner i proteinsyntesen:
+
+- **mRNA** binder til ribosomene og fungerer som oppskrift på proteinet
+- **tRNA** binder til en spesifikk aminosyre, og det finnes minst et tRNA til hver aminosyre.
+
+Under selve prosessen vil tRNA frakte den riktige aminosyren til ribosomet, som fester aminosyren på det proteinet som holder på å bygges etter oppskriften som står på mRNA. På denne måten hektes en og en aminosyre på hverandre, helt til proteinet er ferdig bygget opp. tRNA inneholder et såkalt antikodon, som består av tre baser som komplementerer den genetiske koden, og slik sørges det for at riktig aminosyre havner på riktig plass i den voksende peptidkjeden. Hvis det ikke er tilgang på alle aminosyrene, vil hele proteinsyntesen stoppe opp, ettersom prosessen vil stoppe opp om den neste aminosyren ikke er tilgjengelig.
+
+I starten av hvert nye protein finner vi metionin. Dette er fordi tRNA for metionin kan binde direkte til ribosomene og initiere selve proteinsyntesen. På slutten av oppskriften for et protein finner vi et stoppkodon, som ikke har komplementære tRNA. Disse stoppkodonene gjenkjennes av såkalte "release factors", som sørger for at translasjonen stopper opp og det ferdige proteinet slippes fri fra ribosomet.
+
+Bildet under illustrerer proteinsyntesen:
+
+![](images/clipboard-2609922565.png)
+
+Bilde: wikipedia

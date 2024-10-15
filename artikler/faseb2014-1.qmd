@@ -1,0 +1,34 @@
+---
+title: "Folat, vitamin B12 og enkarbonmetabolisme - FASEB dag 1"
+date: 2014.08.04
+---
+
+3-8. august arrangerer Federation of American Societies for Experimental Biology (FASEB) en konferanse som omhandler temaene [folat](naeringsstoffer/folat.qmd "Folat, vitamin B9"), [vitamin B12](http://www.friskogfunksjonell.no/b12/ "Kobalamin, vitamin B12") og [enkarbonmetabolismen](bioblikk-enkarbonmetabolismen.qmd "Bioblikk: Enkarbonmetabolismen, en introduksjon"). Jeg er på plass i Colorado Springs for å delta på konferansen og presentere en vitenskapelig poster med tittelen "PPARα activation and dietary fat affects cobalamin status", som er basert på noen av resultatene fra masteroppgaven min. Jeg vil underveis prøve å komme med noen korte oppdateringer fra de presentasjonene jeg får med meg.
+
+Den første dagen har stort sett gått med til registrering, innlosjering, åpning av konferansen og middag, men det ble plass til en omfattende gjennomgang av folatberiking, ved Joshua Miller.
+
+## Folatberikning: Fremskritt og utfordringer
+
+Folatberikning, altså tilsetting av folat i matvarer (fortrinnsvis i kornprodukter), er per i dag obligatorisk i 77 land, hvorav ingen i EU. Hensikten med dette er å redusere risikoen for nevralrørsdefekter, og man har sett at dette har vært svært effektivt. Likevel er det viktig å følge med på helseeffektene av et slikt tiltak, for det er ikke sikkert at disse bare er positive.
+
+Undersøkelser av personer som bor i land med obligatorisk folatberikning har vist at mange får i seg mer enn anbefalt øvre grense, selv om dette nok i stor grad skyldes at mange tar tilskudd som bidrar med store doser. Det er også mange som har høye nivåer av folat i blodet, og det er vist at med et økende inntak så akkumuleres også umetabolisert folat i blodet. Folat som brukes til beriking og i kosttilskudd er en syntetisk variant (folsyre) som ikke finnes i naturen. Vi mennesker metaboliserer denne varianten lite effektivt, så man frykter at økt inntak av denne vil kunne føre til at mengdene i blodet kan stige til skadelige konsentrasjoner.
+
+Det store spørsmålet er hvorvidt et stort inntak av folat kan være skadelig, og det er det ting som tyder på at det kan være. Folat er blant annet sentralt for produksjon av byggesteiner for DNA, og det er derfor mulig at høy folatstatus kan være med å bidra til økt celledeling og dermed progresjon av kreft. Det spekuleres i hvorvidt folatmangel kan være verst for friske, ettersom dette kan øke risikoen for å utvikle kreft, mens høy folatstatus kan være ekstra ille for de som har utviklet kreft.
+
+Siden folat og B12 jobber tett sammen, er interaksjoner mellom disse to interessant å undersøke. Det er studier som indikerer at høy folatstatus kan forverre en B12-mangel, og det er observert at kombinasjonen av lav B12 og høy folat kanskje kan være ekstra ille.
+
+## Litt biokjemi
+
+For de som er interessert i biokjemien som kan ligge til grunn for dette kan vi se nærmere på hvordan folat metaboliseres inne i cellene. Følg gjerne med på figuren underveis da det kan være lettere å se det enn å lese det. Først vil folsyren reduseres til dihydrofolat (DHF). DHF vil i neste omgang reduseres videre til tetrahydrofolat (THF) ved hjelp av enzymet DHF reduktase (DHFR). Det er vist at folsyre er en hemmer av DHFR, noe som tilsier at økte intracellulære nivåer av folat kan bidra til at vi får en akkumulering av DHF.
+
+![](images/clipboard-2004582453.png)
+
+Det er THF som kan binde enkarbonenheter og dermed produsere aktive folatmetabolitter. formylTHF og metylenTHF er viktig for produksjonen av DNA/RNA. MetylenTHF kan videre omdannes til metylTHF som er metyldonor for remetyleringen av homocystein tilbake til metionin. Dette skjer ved hjelp av enzymet metylenTHF reduktase (MTHFR).  Intracellulær DHF hemmer MTHFR, som kan forstyrre folatmetabolismen. Dette kan for eksempel gjøre at vi får mer av de folatmetabolittene som bidrar til produksjon av DNA, noe som igjen kan påvirke kreftrisikoen. I tillegg får vi mindre metylTHF, noe som kan gi forstyrrelser i [metyleringssyklus](bioblikk-metyleringssyklus.qmd "Bioblikk: Metyleringssyklus") og dermed også [DNA-metylering og epigenetisk regulering](bioblikk-epigenetikk.qmd "Bioblikk: DNA-metylering og epigenetikk"), noe som også kan påvirke risikoen for både kreft og en rekke andre tilstander.
+
+## Utfordring
+
+Når det gjelder beriking med folat er vi nødt til å balansere mellom det vi vet og det som muligens kan være tilfelle. Vi vet at folatberiking har vært svært effektivt for å forebygge nevralrørsdefekter, men samtidig er det mulig at et høyt inntak av folat kan ha negative konsekvenser, hvertfall for enkelte. Et viktig etisk prinsipp er at man ikke skal gjøre tiltak som gjør skade, men samtidig er det også slik at det å la være å gjøre noe, og dermed tillate at skade skjer, er minst like ille. Kanskje er det slik at både det å berike med folat og det å ikke gjøre det har sine ulemper og fordeler som må veies opp mot hverandre.
+
+Miller konkluderte foredraget sitt med at det er mange ubesvarte spørsmål, og at det absolutt er behov for mye mer forskning før vi kan si noe sikkert. Under spørsmålene kom det frem enda et godt poeng, nemlig det at dersom folatet som tilsettes i matvarer er nok til å potensielt øke risiko, så vil også folat fra kosttilskudd som vanlige multivitamintabletter representere den samme risikoen. Dosene folk får i seg fra kosttilskudd er nemlig større enn det folatberikingen i seg selv bidrar med. Det ble også diskutert hvorvidt det ville være en ide å bruke en annen folatforbindelse til beriking og tilskudd.
+
+Siden det bare var ett foredrag i dag ble det en lang rapport. De neste dagene blir det flere foredrag, så de neste oppdateringene kommer til å være mindre detaljerte.

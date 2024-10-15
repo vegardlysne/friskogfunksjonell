@@ -1,0 +1,52 @@
+---
+title: "Er forskning til å stole på?"
+date: 2014.04.10
+---
+
+[Tilbake til kildekritikk, vitenskap og tankefeil](../../kildekritikk.qmd "Kildekritikk, vitenskap og tankefeil")
+
+I 2005 publiserte epidemiologen John Ioannidis en meningsartikkel med tittelen «Why most research findings are false» (1), hvor han argumenterer for hvorfor mange konklusjoner fra forskning rett og slett viser seg å være feil. Han setter blant annet søkelyset på den allmenne oppfatningen om at et forskningsresultat kan bedømmes ene og alene basert på p-verdien, som sier noe om hvor sannsynlig et resultat er med de forutsetningene man hadde på forhånd. Er p-verdien lav nok, sier vi at resultatet er statistisk signifikant, og dermed tror vi også at resultatet er til å stole på og sier noe om virkeligheten. Men er det egentlig det?
+
+## Tolkning av p-verdi
+
+Det ultimate målet med forskning er å finne sanne sammenhenger, altså å finne ut noe om hvordan verden rundt oss faktisk fungerer. Feile konklusjoner fra forskning kan dermed grovt sett deles inn i to hovedkategorier, falske positive og falske negative. En falsk positiv kalles en type 1 feil, og dette betyr at man i studien har funnet en effekt som egentlig ikke eksisterte. Falske negative kalles type 2 feil, og kjennetegnes ved at man ikke finner en effekt som i realiteten var der. Risikoen for begge typer feil er alltid til stede, og derfor brukes statistiske metoder for å vurdere sannsynligheten av resultatene, og p-verdien representerer den estimerte sannsynligheten for å gjøre en type 1 feil, altså at resultatene rett og slett var tilfeldige.
+
+Den kanskje største ulempen med p-verdier er at det stimulerer svart/hvitt-tenkning, nemlig at vi oppkonstruerer et skille mellom effekt/ikke effekt basert på en gitt grenseverdi, vanligvis p=0.05. I teorien skal en slik p-verdi tilsi at det bare er 5% sjanse for at resultatet var en tilfeldighet, altså at bare 1/20 statistisk signifikante forsøk vil være et resultat av tilfeldighet. I praksis er det mer komplisert.
+
+P-verdien var nemlig aldri ment å brukes som en definitiv test, men heller være et verktøy for å kunne vurdere hvorvidt et gitt resultat var verdt å undersøke nærmere. Når dette ble kombinert med krav om strenge og objektive mål for å gjøre evidensbaserte vurderinger, ble p-verdien mer eller mindre gjort om til en definitiv størrelse, og dette diskuteres i en nylig publisert artikkel i Nature (2). Her kan vi lese at dersom man regner mer nøye på det, så representerer en p-verdi på 0.01 en feilrate på minimum 11%, mens en p-verdi på 0.05 tilsvarer en risiko på minst 29% for at funnet var en falsk positiv. Ganske langt unna det man skulle tro ut fra teorien altså.
+
+P-verdien kan ikke i seg selv si noe som helst om verden rundt oss, men bare sannsynligheten for å få et gitt resultat basert på en helt spesifikk nullhypotese, som oftest at gruppene var helt like. Og ofte undersøker man mange variabler på en gang, noe som i praksis vil si at man hyppig vil finne falske positive resultater og dermed argumentere for effekter som ikke er reelle. Av denne grunn er det spesielt viktig at vitenskapelige funn replikeres og bekreftes av andre før man hopper på konklusjoner.
+
+## Hvor stor var effekten?
+
+Til syvende og sist er det effekter man er ute etter å identifisere når man gjennomfører en studie, og store studier stiller naturligvis sterkere enn små når det kommer til troverdighet. Men det at en effekt er statistisk signifikant er ikke i seg selv noen indikator for at den er praktisk eller klinisk relevant. Det er viktig å være klar over at p-verdien i svært stor grad påvirkes av størrelsen på studien slik at til og med små, irrelevante effekter kan oppnå statistisk signifikans bare studien er stor nok. Dette er spesielt viktig å ha i bakhodet når det kommer til store observasjonsstudier som følger mange mennesker over lang tid. Det er svært mange publiserte studier som er bygget på analyser av slike store studier hvor man har samlet inn et stort datamateriale.
+
+Det er derfor svært relevant å spørre seg hvor stor effekten var, og ikke bare se på hvorvidt det var en effekt eller ikke. Vanlige effektstørrelser du støter på kan være:
+
+-   Korrelasjonskoeffisienter (r), som sier noe om hvordan to faktorer er assosiert med hverandre. Hvis to faktorer øker i takt med hverandre snakker vi om en positiv korrelasjon, og dersom en faktor synker når en annen stiger, snakker vi om en negativ korrelasjon. En perfekt korrelasjon har verdien 1, som vil si at de to faktorene følger hverandre perfekt. Dersom det ikke er noen sammenheng, er verdien 0. Jo nærmere 1 vi kommer, jo sterkere er sammenhengen, og vanligvis regnes r \>0.5 som en sterk, mens r\<0.1 er regnet som en svak korrelasjon (3).
+-   Cohens d, som sier noe om forskjellen mellom to gjennomsnittsverdier i standardavvikenheter. d=1 betyr at forskjellen mellom gruppene er ett standardavvik. En d\>0.8 er regnet som en stor effekt, mens d\<0.2 er regnet som en liten effekt (3).
+-   Oddsratioer (OR), relativ risiko (RR), hasardrate (HR) og lignende, som sier noe om sannsynligheten for et utfall i en gruppe sammenlignet med en annen. En verdi på 2 betyr at sannsynligheten er dobbelt så stor i den ene gruppen, mens 0.5 vil bety at risikoen var halvparten så stor. I epidemiologiske studier er det beregnet at en OR\<1.5 tilsvarer en d\<0.2 (liten effekt), mens OR\>5 tilsvarer d\>0.8 (stor effekt) (4).
+
+Effektstørrelser kan du lese mer om i artikkelen om [signifikans og alt det der](signifikans.qmd "Signifikans og alt det der").
+
+## Den totale evidensen
+
+Etter hvert som det blir publisert flere studier på samme fenomen er det ikke til å komme bort fra at sannsynligheten for at det vil publiseres falske positive og negative resultater øker. Som nevnt lenger oppe vil en et statistisk signifikant resultat med p=0.05 kunne gi et feil svar i nesten 30% av studier. Derfor er det viktig å se på den samlede kunnskapen, og ikke fokusere for mye på enkeltstudier.
+
+Systematiske kunnskapsoppsummeringer bidrar til nettopp dette, ved å samle sammen resultatene fra de studiene som foreligger og se i hvilken retning totalen peker. Her vil det også tas hensyn til styrker og svakheter ved de enkelte studiene, slik at de studiene som metodisk sett er av høyest kvalitet også vil vektes høyere i totalen. Cochrane Collaboration er en organisasjon som gjennomfører slike systematiske reviewartikler, og disse artiklene regnes blant den høyeste grad av evidens.
+
+## Kan vi stole på resultatene?
+
+Målet mitt med denne artikkelen er ikke å indikere at forskning ikke er til å stole på, men å få frem viktigheten av å se på hvor store effektene er, ikke bare hvorvidt et resultat er statistisk signifikant. Nå vet du at en p-verdi aldri var ment å brukes som en definitiv størrelse som sier noe om en effekt er reell eller ikke, men at den skulle indikere hvorvidt et resultat var interessant nok til å undersøke i mer detalj. Du har også fått et innblikk i ulike effektstørrelser og hvordan du kan tolke disse verdiene. På grunn av risikoen for å finne falske positive resultater, er det veldig viktig at vitenskapelige funn replikeres av andre før man trekker forhastede konklusjoner. Størrelsen på effekten vil likevel gi verdifull informasjon om hvor relevant resultatet er.
+
+Det er mange andre faktorer som vil være avgjørende for å tolke resultatene i en vitenskapelig artikkel. Men ved å være bevisst på hvordan man tolker statistiske resultater er man ett steg nærmere gode vurderinger.
+
+Referanser:
+
+1.  Ioannidis JP: **Why most published research findings are false**. *PLoS Med* 2005, **2**(8):e124.
+
+2.  Nuzzo R: **Scientific method: statistical errors**. *Nature* 2014, **506**(7487):150-152.
+
+3.  Cohen J: **A power primer**. *Psychological bulletin* 1992, **112**(1):155-159.
+
+4.  Chen HN, Cohen P, Chen S: **How Big is a Big Odds Ratio? Interpreting the Magnitudes of Odds Ratios in Epidemiological Studies**. *Commun Stat-Simul C* 2010, **39**(4):860-864.

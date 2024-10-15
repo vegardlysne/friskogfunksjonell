@@ -1,0 +1,46 @@
+---
+title: "Folat, Vitamin B12 og enkarbonmetabolisme – FASEB dag 2, økt 2"
+date: 2014.08.06
+---
+
+Dagens andre økt hadde det overordnede temaet betain homocystein metyltransferase (BHMT), som er enzymet som remetylerer homocystein tilbake til metionin ved hjelp av en metylgruppe fra betain, og i denne reaksjonen dannes dimetylglycin (DMG). Dette enzymet finner vi hovedsakelig i leveren og i nyrene hos mennesker.
+
+Mer fra konferansen:
+
+-   [FASEB dag 1](faseb2014-1.qmd "Folat, vitamin B12 og enkarbonmetabolisme – FASEB dag 1")
+
+-   [FASEB dag 2, økt 1](faseb2014-2a.qmd "Folat, Vitamin B12 og enkarbonmetabolisme – FASEB dag 2, økt 1")
+
+## BHMT – struktur og funksjon
+
+Første taler ut var Timothy Garrow, som fortalte om sine studier på strukturen og funksjonen til BHMT. Gjennom studier på mus har han sammen med sine medarbeidere vist at dersom man hemmer BHMT vil musene utvikle hyperhomocysteinemi, som er en velkjent risikomarkør for hjertesykdom. De har dermed vist at BHMT er essensiell for å opprettholde homeostasen i metabolismen av svovelholdige aminosyrer (metionin, homocystein, cystein).
+
+Videre fortalte han litt om substratbinding, og selv om dette ble utdypet i mer detalj i kveldens siste innlegg, fortalte han at BHMT ikke gjenkjenner verken betain (substrat) eller DMG (produkt) med mindre enzymet først har bundet seg til homocystein. Den normale reaksjonsmekanismen er tidligere kartlagt. Først binder homocystein, deretter binder betain. Etter at en metylgruppe er overført fra betain til homocystein står vi igjen med DMG og metionin, hvorav sistnevnte frigis til slutt. DMG fungerer som en potent hemmer av BHMT ved å binde i stedet for betain.
+
+I tillegg til BHMT har vi en enzymvariant som kalles BHMT2, som også finnes i lever og nyre. Denne kodes av et annet gen, og selv om de to enzymene ligner mye på hverander så mangler BHMT2 noen viktige deler som gjør at enzymet oppfører seg annerledes. Det er ikke i stand til å bruke betain som metyldonor, men remetylerer homocystein ved hjelp av en metylgruppe fra S-metylmetionin. BHMT2 kan heller ikke hemmes av DMG. Vi vet foreløpig lite om hvorvidt dette enzymet har en funksjon  hos mennesker.
+
+## Betainmetabolisme og DMG dehydrogenase
+
+Michael Lever er en tungvekter når det gjelder forskning på betain og betainmetabolisme. Han begynte foredraget sitt med å fortelle oss om betain, som i tillegg til å være en metyldonor også er en viktig osmolytt. Betain er dermed viktig for å regulere cellevolum, spesielt i leveren, og dermed også viktig for at alt annet inni cellen skal fungere som det skal. På grunn av dette er det viktig at nedbrytningen av betain gjennom BHMT reguleres nøye.
+
+BHMT er et av de proteinene vi har mest av i leveren, og ettersom dette enzymet er homocysteinbindende, er det nå antatt at en av de viktigste oppgavene til BHMT er å binde opp intracellulært homoocystein, spesielt ettersom kapasiteten for å binde homocystein er større enn konsentrasjonen av homocystein inni cellen.
+
+Som nevnt er det nå dokumentert at DMG er en potent hemmer av BHMT, og BHMT-funksjon er dermed avhengig av at DMG fjernes. DMG brytes ned av enzymet DMG dehydrogenase (DMGDH), som finnes i mitokondriet. DMGDH er osmoregulert, noe som gjør at når cellen har behov for å spare på betain kan DMGDH nedreguleres slik at DMG kan hemme BHMT. DMGDH er også regulert av folatstatus. På grunn av dette kan DMGDH anses som et viktig kontrollpunkt av hele enkarbonmetabolismen.
+
+Både høy og lav betainstatus i blodet er assosiert med økt risiko for karsykdom, og høyere nivåer av DMG er vist å være en uavhengig risikomarkør for hjerteinfarkt og død.
+
+## BHMTs katalytiske syklus
+
+Sist ut for kvelden var Markos Koutmos, som tok oss gjennom den virkningsmekanismen til BHMT, steg for steg. Forelesningen var svært interessant, med gode videoanimasjoner som viste hvordan ting foregår. Som nevnt er reaksjonsrekkefølgen svært viktig for funksjonen til dette enzymet, noe som skyldes at hvert trinn fører til en endring i enzymets struktur som legger til rette for neste steg.
+
+Det første som skjer er at enzymet binder seg til homocystein, noe som fører til at bindingssetet for betain åpner seg. Etter at betain er bundet, kan metylgruppen overføres, og etter at vi sitter igjen med de to produktene metionin og DMG, kan ikke metionin frigis før DMG er borte. Bildet under er tatt under forelesningen og viser denne katalytiske syklusen.
+
+![](images/clipboard-333741842.png)
+
+#### DMG sin hemming av BHMT
+
+Etter at BHMT har bundet homocystein kan både betain og DMG binde seg til enzymet. Dersom DMG binder, er det ikke mulig for betain å binde, og komplekset som dannes kan ikke brukes til noe. DMG kan nemlig heller ikke løses igjen, og det hele ble omtalt som et "abortive complex". Bildet under er også hentet fra forelesningen, og viser hva som skjer dersom dette skjer.
+
+![](images/clipboard-2069265744.png)
+
+Neste foredragsøkt vil hovedsakelig omhandle produksjon av hydrogensulfid, H2S.

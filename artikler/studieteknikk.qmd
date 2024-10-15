@@ -1,0 +1,69 @@
+---
+title: "Studieteknikk - prinsipper og memorisering"
+author: "Andreas Wahl Blomkvist"
+date: 2014.08.26
+---
+
+For mange er høsten begynnelsen på et nytt studium. For disse kan læringsmetodikken på universitet og høyskole være ukjent. For de mer erfarne studentene er høsten en ny anledning til å ta i bruk erfaringer fra tidligere år. Uansett hvilken situasjon du befinner deg i så kan det være lurt å se hva noen vitenskapelige studier innen kognitiv psykologi og nevrovitenskap har å si om læring og memorisering.
+
+## Hva mener vi med studieteknikk?
+
+Studieteknikk refererer til en metode for å *lære,* og ganske ofte *memorisere,* ny informasjon. I nevrovitenskap kan vi definere læring som prosessen der ny informasjon anskaffes av nervesystemet og deretter har en observerbar effekt i vår atferd (inklusivt tale) \[1\]. Hukommelse eller minne kan bli definert som koding, lagring og henting av lært informasjon. Ordet memoriserer brukes ofte om den prosessen som er relatert til å kode og lagre ny informasjonen i langtidsminnet. Dette er relatert til prosessen konsolidering, en prosess der arbeidsminne blir omgjort til langtidsminne i hjernen. God studieteknikk er med andre ord en effektivisering av læring og memorisering, og det er dette denne artikkelen handler om. Først nevner jeg noen enkle og relativt innlysende tips, før jeg ser nærmere på generelle prinsipper og hvordan man bruker disse i memorisering og notatskriving.
+
+## Noen innlysende råd
+
+Det er mange råd som er innlysende, men likevel viktig å nevne \[2\]. Du bør overholde en studieplan, samt holde oversikt over datoer for innlevering, eksamener og lignende. Det er også viktig å konsentrere deg når du studerer (unngå distraksjoner), og forsøker å være strukturert i dine studier. Med dette unngår du skippertak-lesing. I tillegg hjelper det å være fysisk aktiv og sove nok om nettene.
+
+## Generelle prinsipper
+
+*Tid og repetisjon.* Kroppen blir flinkere til å gjøre noe hvis den gjør det ofte. Det har lenge vært et slags ”variasjons-mantra” i treningsmiljøet der variasjon er alltid til det bedre. Faktumet er at den beste måten å bli flink til å gjøre knebøy på er å gjøre nettopp knebøy, og mange av de beste styrkeløfterne i verden trener denne øvelsen mer eller mindre daglig. Så klart, nyanser og finpussing av bevegelsesbaner kan trenes eksplisitt, og bidra til en forbedring, men det er viktig å ikke glemme hva du forsøker å bli flink i. Det samme gjelder hjernen og læring. Hvis du bruker mye tid på å studere, vil du i utgangspunktet ha en fordel overfor de som ikke gjør det. Vi ønsker så klart å bruke denne tiden så effektivt som mulig (og vi skal se på dette lenger ned), men desto mer tid du bruker på eksempelvis historien bak den russiske revolusjon, desto flinkere blir du.
+
+Det er generell enighet om at den fysiske lagringen av informasjon i langtidsminnet er avhengig av langtidsforandringer i effektiviteten av overføring mellom de aktuelle synaptiske forbindelsene mellom nevroner og/eller vekst og omordning av disse forbindelsene.^1^ Disse koblingene blir, forenklet sagt, forsterket ved repetitiv bruk.
+
+*Forstå innholdet*. Hvis du leser for raskt og bader i avsnitt der du blir nødt til å late som om du forstår begrepene som brukes, må du stanse deg selv og gå tilbake. Etter hvert som begrepene blir tilnærmet uforståelig blir også din kapasitet til å gjengi teksten og informasjonen hemmet. Hjernen er relativt flink til å kode og lagre informasjon som er sammenhengende og forståelig, mens den er relativt dårlig til å lagre informasjon som oppfattes som kaotisk og tilfeldig. For eksempel, et menneske kan i gjennomsnitt huske en rekke på omtrent 7-9 tall eller annen vilkårlig biter med informasjon i arbeidsminnet, men er langt flinkere til å forklare konsepter og gjengi informasjon den har forstått og som har en sammenheng. Det kan også være en god prøvelse å forenkle vanskelige konsepter ved å bruke sammenligninger som du lettere kan relatere deg til. På denne måten kan du øke din forståelse og derfor din læring.
+
+*Interesse og erfaring*. Informasjon som oppfattes av hjernen som viktig har mye større sannsynlighet for å bli husket. For eksempel, husker du hvor du var når du hørte om 22. juli 2011? Trolig gjør du det, men husker du hva spiste du til middag, eller hvem du spiste med, for fire dager siden? Generelt kan vi si at vi fanger opp informasjon som opptar plass i vår oppmerksomhet. Dette kan være betydningsfulle, interessante eller bisarre ting. Det er altså en fordel til studenten som har funnet et studie eller fag som virkelig interesserer ham eller henne. For andre studenter, eller for temaer som ikke er fullt så interessante, kan vi krydre lesestoffet med interessante sammenligninger eller bisarre bilder/forestillinger. Dette kan gjøre at informasjonen sitter bedre.
+
+Det samme gjelder også erfaring. Et godt eksempel er erfarne sjakkspillere og memorisering av posisjoner i sjakkspill. Så fremt brikkene er i en posisjon som sannsynligvis kan oppstå under et slag sjakk vil en erfaren sjakkspiller kunne gjengi brettet med mye høyere nøyaktighet enn uerfarne spillere. Det samme er ikke sant hvis brikkene har blitt plassert vilkårlig på brettet. Faktisk er uerfarne sjakkspillere like flinke eller bedre enn erfarne sjakkspillere til å gjengi posisjonen til brikkene. Erfaringen til profesjonelle sjakkspillere har altså forbedret deres evne til å huske informasjon som kan relateres til et ekte sjakkspill (ingen overraskelse egentlig). Det kan derfor være lurt å aktivt bruke det vi har lært tidligere (kanskje fra et tidligere semester) til å se det nye vi skal lære i sammenheng (så fremt det lar seg gjøre).
+
+## Memorisering
+
+I løpet av studiene ønsker du å forberede deg på dagen der du sitter på eksamen med et eller flere spørsmål foran deg. Noen ganger har du tilgang på tilleggsinformasjon, andre ganger ikke. I begge situasjonene trenger du å bringe fram relevant informasjon relatert til spørsmålet – du skal hente fram informasjon fra minnet ditt. I følge vårt første prinsipp bør vi altså *øve på å gjenfinne informasjonen innenfor de samme rammene som eksamen* *blir*. Med andre ord, når du skal forbedre deg til eksamen så bør du øve på å svare på relevante spørsmål uten å bruke hjelpemidler du ikke har på eksamen (og helst uten noe som helst). Effekten av denne typen læring kalles *testing effect* i kognitiv psykologi og det er nå mye forskning som støtter denne typen læring \[3\]. Det er altså mye bedre for din memorisering å forsøke å innhente informasjonen fra minnet ditt før du leter opp i en bok.
+
+En studie \[3\], som illustrerer dette, brukte studenter til å lære seg 40 Swahili-Engelsk ordpar. Straks de hadde studert ordene ble de testet. Ordparene som ble husket korret ved testing ble deretter behandlet på fire forskjellige måter: (1) ordparet ble igjen studert og testet sammen med de andre, (2) ordparret ble droppet fra videre studie, men testet igjen (mao. kun ordpar som ikke ble gjengitt korrekt ble studert videre), (3) ordparet ble videre studert, men ikke testet. (mao. ordpar som ble gjengitt korrekt ble ikke testet videre) og (4) ordparet ble droppet fra videre studie og ble ikke testet igjen. Metode 1 og 2 tvinger studentene til å teste ordpar gjentatte ganger, mens metode 3 og 4 ikke gjør det. Resultatene var slående. Etter en uke kunne studentene som brukte metode 1 og 2 huske omtrent 80% av ordparrene korrekt, mens resten av studentene husket bare omtrent 35% (figur 1)!
+
+![](images/clipboard-1446180499.png)
+
+\[3\]
+
+Et pragmatisk spørsmål blir hvordan vi skal gjøre dette i praksis? Hvor ofte skal jeg gjengi informasjonen for meg selv? Når skal jeg gjøre dette? En mulig strategi kalles *expanding schedule of retrieval* foreslått av Landauer og Bjork \[se ref 3\]. I denne metoden lærer du deg først informasjonen ved å memorisere/teste deg selv, og deretter repeterer denne informasjonen med gradvis forlengede intervaller. For eksempel, du lærer deg enzymene i glykolysen utenat. Deretter venter du ett minutt (les en artikkel på frisk og funksjonell imens!) og gjentar disse enzymene uten å sjekke fasit. Deretter venter du stadig lenger (for eksempel 4 minutter, 8 minutter, 20 minutter osv.). En annen strategi er å ha et fastlåst intervall. Uavhengig av hvilken metode du bruker så forbedres *testing effect* ved å gi deg selv feedback eller tilbakemeldinger om det du husket var korrekt. Dette hindrer at du har memorisert noe galt og deretter forsterker dette (feilaktige) minnet.
+
+Hvordan du skal teste deg selv til å innhente relevant kunnskap varierer så klart til hva du skal huske og lære. Metoden er ikke begrenset til kun ordpar eller enkle faktasetninger. Et nyttig hjelpemiddel kan være bruken av flashcards hvor du har hint, stikkord eller spørsmål på en side og svaret på andre siden \[4\]. Et annet råd kan være å gjengi disposisjoner for å gi en strukturert oversikt over kildene (og hvor du finner relevant informasjon) du kan bruke på eksamen eller rett og slett ha en systematisk oversikt over emnet. Poenget er å tvinge deg selv til å *tenke* på hvordan og hva du ville svart; og dermed trener du nervesystemet til å innhente det du trenger på eksamen.
+
+Det nevrovitenskapelige grunnlaget for hvorfor akkurat denne metoden fungerer bedre enn å bare lese stoffet om igjen ligger trolig i hvordan du forsterker synaptiske koblinger relevant for å innhente informasjonen fra minnet. Når du leser svaret uten denne prosessen vil du få informasjonen servert utenfra, og effekten på din *evne til å huske eller forklare* noe blir ikke særlig bedre.
+
+Viktigheten av assosiasjon i informasjonslagring bør også understrekes hetr.Bruken av både visuelle og verbale assosiasjoner til det som skal læres legger grunnlaget for memoriseringsteknikken memo \[5\]. Lignende teknikker blir også brukt av memoriseringseksperter som vinner hukommelsekonkurranser, slik som Joshua Foer som bruker hva psykologer kaller *Elaborative encoding* \[6\]. Du kan lære mer om memo og elaborative encoding i referanselisten.
+
+## Notatskriving
+
+Bør du ta notater før, under eller etter forelesningen? Hva med mens du leser boka? Forfatter Garth Sundem i boken ”Brain Candy” skriver at med mindre du må ta notater for å greie å holde oppmerksomheten på rett plass er det bedre å skrive notater *etter* forelesning \[7\]. Grunnlaget for dette er at læreevnen kan bli svekket hvis du gjør flere oppgaver samtidig. Det kan likevel være nyttig å skrive en disposisjon av hovedemnene i forelesningen (så fremt foreleseren greier å presentere materialet på en systematisk måte), og deretter bruke denne disposisjonen etter forelesning til å fylle ut de detaljene du eventuelt husker.
+
+Det bør også nevnes at notater kan hjelpe til å organisere materialet slik du ønsker det og kan derfor gi en mer strukturert tilnærming til stoffet. En kan også bruke tegninger til å visualisere vanskelige konsepter eller bruke det kjente tankekartet for å organisere temaet. Poenget er altså å gjøre noe ut av notatene dine, gjerne slik at du kan bruke de til et formål senere. På denne måten kan notatskriving være et nyttig verktøy, men tidsbruken og nytteverdien er noe du må balansere og finne ut av selv.
+
+## Konklusjon
+
+Øvelse gjør mester og uansett hva det gjelder må du øve på akkurat det du skal testes i, omså det er knebøy eller innhenting av informasjon fra ditt minne. Forskning har tydeliggjort den kritiske rollen testing spiller i læringsprosessen. Dersom vi tvinger oss selv til å forklare et konsept eller gjengi informasjon uten å bruke en fasit, kan vi framprovosere forandringer i hjernen som gjør det lettere på eksamen. Samtidig kan vi dra nytte av teknikker som har vært benyttet av memoriseringseksperter i en årrekke (assosiering, visuelle kart, tilføye betydning og lignende). Notatskriving kan være et nyttig verktøy, men krever trening og erfaring for å vite hvordan det kan bli best mulig brukt for deg og ditt studium. Lykke til med skolestart!
+
+1.  Purves D, Augustine GJ, Fitzpatrick D et al. *Neuroscience*. Sinauer Associates, Inc. 4. utgave (2007). Kap. 31
+
+2.  StudentTorget. *10 studieteknikker som fungerer*. StudentTorget 2014 Jun. http://www.studenttorget.no/index.php?show=41&expand=3795,41&artikkelid=14031 (19.08.2014)
+
+3.  Roediger HL 3rd, Butler AC. *The critical role of retrieval practive in long-term retention*. Trends Cogn Sci. 2011 Jan;15(1):20-7
+
+4.  Det er i dag mange nettsider som forenkler prosessen i å lage flashcards. Quizlet.com og Cram.com er to eksempler
+
+5.  Rustand K. *Lær deg teknikker for å huske mer*. StudentTorget 2012 Sept. http://www.studenttorget.no/index.php?show=41&expand=3795,41&artikkelid=9803 (19.08.2014)
+
+6.  Gregg A. *Joshue Foer on how he greatly improved his memory.* YouTube 2011 Okt. https://www.youtube.com/watch?v=1-E9MMTciBo&list=PLFPqqlepaJ6HFqEfUD_zMD8FixZun_vfG&index=3 (19.08.2014)
+
+7.  Sundem G. *Brain Candy*. Three Rivers Press; 1. utgave 2010 Aug. S. 154

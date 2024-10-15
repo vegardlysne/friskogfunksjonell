@@ -1,0 +1,38 @@
+---
+title: "Folat, Vitamin B12 og enkarbonmetabolisme - FASEB dag 2, økt 1"
+date: 2014.08.04
+---
+
+FASEB-konferansen er lagt opp slik at det hver dag er to økter med foredrag, med en pause midt på. For at ikke innleggene skal bli alt for lange vil jeg derfor dele noen av dagene inn i 2 innlegg. Dagens første økt handlet om metioninmetabolisme ved leversykdom, og her kommer en liten oppsummering fra to av foredragene jeg fikk med meg.
+
+[Les oppsummeringen fra dag 1 her](faseb2014-1.qmd "Folat, vitamin B12 og enkarbonmetabolisme – FASEB dag 1")
+
+## Alkohol og leverskade, et spørsmål om metylering?
+
+Dagens første foredrag fra Kusum Kharbanda handlet om alkoholisk leversykdom. Det er en kjent sak at alkoholmisbruk øker risikoen for fettlever (steatose) og videre leversykdom (steatohepatitt og cirrhose), og over 90% av alkoholikere utvikler dette. Med tanke på konferansens overordnede tema er det interessant at også mangel på metyldonorene kolin og metionin også fører til lignende skader, noe som kan bety at forstyrrelser i enkarbonmetabolismen kan være involvert i alkoholisk leversykdom. Spesielt ettersom ca 85% av alle metyleringsreaksjoner foregår i leveren.
+
+En modell for alkoholisk leversykdom ble laget der en gruppe rotter fikk 36 % av energiinntaket sitt i form av alkohol, mens dette ble erstattet med karbohydrater i kontrollgruppen. I gruppen som fikk alkohol så man at aktiviteten i de to enzymene som remetylerer homocystein tilbake til metionin ble endret, med en reduksjon i metionin syntase og en økning i betain homocystein metyltransferase (BHMT). Man så også at både homocystein og S-adenosylhomocystein (SAH), produktene av metyleringsreaksjoner, økte, noe som førte til en reduksjon av ratioen mellom metyldonoren S-adenosylmetionin og SAH, som regnes som et mål på metyleringskapasitet. Interessant nok ble det funnet at å gi tilskudd av betain, metyldonoren for BHMT, reverserte de negative effektene av alkohol, noe som indikerer en viktig rolle for BHMT.
+
+Forskerne har tidligere vist at alkohol virker hemmende på en rekke metyltransferaser, noe som er antatt å skyldes økte konsentrasjoner av SAH. Med tanke på fettlever er fosfatidyletanolamin metyltransferase (PEMT) en metyltransferase som er viktig for produksjonen av fosfatidylkolin, et viktig molekyl for produksjon og sekresjon av VLDL. Når aktiviteten til PEMT reduseres, får ikke leveren kvittet seg med fettet, noe som gjør at fettet heller akkumuleres i leveren. Dette er sannsynligvis noe av forklaringen for hvorfor alkohol fører til leverskade.
+
+#### Kreatinsyntese
+
+En av de viktigste forbrukerne av metylgrupper i kroppen er guanidinoacetat metyltransferase (GAMT), som er viktig for produksjonen av kreatin i leveren.  I den nevnte modellen så forskerne at alkohol virket hemmende på GAMT, noe som reduserte produksjonen av kreatin. De så også at forløperen for kreatin hopet seg opp, og denne kan være toksisk.
+
+![](images/clipboard-148361664.png)
+
+For de av oss som er interessert i idrett og prestasjon har Asle Bøe tidligere skrevet en artikkel om [kreatin](http://www.friskogfunksjonell.no/kreatin/ "Kreatin – noe for deg?") og hvordan dette kosttilskuddet har en godt dokumentert prestasjonsfremmende effekt. Vi vet jo også at alkohol ikke akkurat fremmer prestasjon, og kanskje kan dette ha noe med redusert kreatinproduksjon å gjøre.
+
+#### Tarmpermeabilitet
+
+For å utvikle leversykdom er det ikke nok at fett akkumuleres. Leveren må også bli betent, og dette er kjent som «two hit»-hypotesen for utviklingen av leversykdom. Inflammasjon kan skyldes proinflammatoriske stoffer som kommer fra tarmen, eksempelvis lipopolysakkarid (LPS). Forskerne viste her at alkoholkonsum øker tarmpermeabiliteten, noe som førte til økte nivåer av LPS i blodet. Interessant nok viste det seg at også her ble effekten reversert ved å tilføre betain, noe som indikerer at enkarbonmetabolisme og metyleringsreaksjoner også er involvert i reguleringen av tarmpermeabilitet.
+
+## Mangel på metyldonorer, fetal programmering og risiko for leversykdom
+
+Det andre foredraget jeg fikk med meg i dag handlet om mangel på metyldonorer (folat, B12 og kolin) under graviditet, og hvordan dette kan påvirke barnet. Rosa-Maria Guéant-Rodriguez og medarbeidere utviklet en rottemodell hvor gravide villtyperotter enten fikk en diett som manglet metyldonorer eller en kontrolldiett. Barna fikk deretter en standarddiett de første 50 dagene, før noen av dem fikk en høyfettdiett fra 50-180 dager, som tilsvarer voksen alder. Det viste seg at de rottene fra mødre som fikk metyldonormangel under graviditeten utviklet steatohepatitt dersom de ble eksponert for høyfettdiett i voksen alder.
+
+Dette kan indikere at noen kan være predisponert for å utvikle leversykdom i kontekst av et høyfettkosthold, og dette kan skyldes epigenetisk regulering som følge av mangel på metyldonorer hos mor under graviditet. Vi vet at mangel på både folat og vitamin B12 forekommer relativt hyppig blant gravide, og dette er interessant i kontekst av økende forekomst av metabolsk syndrom, som leversykdom er en bestanddel av. Bildet under er tatt under foredraget og viser en hypotese for hvordan dette kan gjøre seg gjeldende hos mennesker.
+
+![](images/clipboard-2378294827.png)
+
+Senere i dag skal det være en forelesningsøkt der hovedtema er [de metabolske rollene til betain-homocystein metyltransferase (BHMT)](http://www.friskogfunksjonell.no/faseb-2b/ "Folat, Vitamin B12 og enkarbonmetabolisme – FASEB dag 2, økt 2").

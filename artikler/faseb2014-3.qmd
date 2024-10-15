@@ -1,0 +1,52 @@
+---
+title: "Folat, Vitamin B12 og enkarbonmetabolisme – FASEB dag 3"
+date: 2014.08.09
+---
+
+Morgenøkten på konferansens tredje dag var dedikert til transsulfureringsveien og produksjon av hydrogensulfid, H2S, som er et signalmolekyl som har fått mye oppmerksomhet den siste tiden. Denne gassen er involvert i en lang rekke prosesser, deriblant regulering av blodtrykk, hjertefunksjon, inflammasjon, cellesyklus osv. For min del var dette så langt den mest informative økten, ettersom jeg på forhånd kunne svært lite om H2S. På kveldstid var hovedtemaet genetiske studier for hyperhomocysteinemi.
+
+Mer fra konferansen:
+
+-   [FASEB dag 1](faseb2014-1.qmd "Folat, vitamin B12 og enkarbonmetabolisme – FASEB dag 1")
+
+-   [FASEB dag 2, økt 1](faseb2014-2a.qmd "Folat, Vitamin B12 og enkarbonmetabolisme – FASEB dag 2, økt 1")
+
+-   [FASEB dag 2, økt 2](faseb2014-2b.qmd "Folat, Vitamin B12 og enkarbonmetabolisme – FASEB dag 2, økt 2")
+
+## Oksidativt stress som patologisk mekanisme ved CBS-mangel
+
+Kenneth N. Maclean ledet foredragsøkten, og holdt det første foredraget selv. CBS er det første enzymet i transsulfureringsveien som står for den metabolske nedbrytningen av homocystein. Klassisk homocystinuri er en sykdom forårsaket av mangel på dette enzymet, og tilstanden følges ofte av mental retardasjon, bindevevssykdommer og økt risiko for kardiovaskulær sykdom og død. Mekanismene som ligger til grunn for dette er foreløpig ikke så godt kjent, men Maclean og hans medarbeidere har gjennomført flere forsøk med en transgen musemodell for CBS-mangel, og han presenterte resultatene fra disse.
+
+Oksidativt stress ser ut til å være en felles faktor for manifestasjonene av CBS-mangel, og dette gir god mening rent biokjemisk. Transsulfureringsveien er nemlig viktig for produksjon av den viktige intracellulære antioksidanten glutation og taurin, som begge er avhengig av cystein produsert gjennom transsulfurering av homocystein. I tillegg er homocystein et prooksidativt molekyl, så akkumulering av homocystein kan også bidra til økt oksidativt stress. Dette er vist på bildet under, som er tatt under foredraget.
+
+![](images/clipboard-425692835.png)
+
+Et spørsmål som dermed er nærliggende å stille seg er hvorvidt antioksidantterapi vil være nyttig for denne pasientgruppen, og ut fra forsøkene med denne musemodellen ser det ut til at dette har noe for seg, da tilskudd av taurin hadde positiv effekt.
+
+Dagens behandling av CBS-mangel er å begrense inntaket av metionin, forløperen for homocystein. I tillegg får pasientene ofte tilskudd av betain for å  øke remetyleringen av homocystein via BHMT. Vi vet at BHMT hemmes av oksidativt stress, og et av forsøkene som ble presentert viste at å behandle musene med taurin samtidig som man gav betain førte til en mer effektiv senking av homocystein. Men, som det ble understreket til slutt, god effekt i dyremodeller har ofte vist seg å ikke fungere for mennesker, så til tross for lovende resultater er ikke siste ordet verken sagt eller skrevet.
+
+## Cystationin gamma lyase og ER stress
+
+Endoplasmatisk retikulum (ER) er viktig for folding av proteiner, og forstyrrelser i ER homeostasen kan føre til en opphopning av defekte proteiner, som igjen kan være involvert i utvikling av sykdom. Richard Austin fortalte oss om nye studier som viser at antioksidanten glutation er viktig for korrekt proteinfolding, og i dyremodeller har man funnet at enzymer i transsulfureringsveien og spesielt cystationin gamma lyase (CGL) spiller en sentral rolle. For eksempel har man sett at ApoE-/- mus, som er kjent for å utvikle aterosklerotiske plakk gjør dette mye raskere dersom de i tillegg mangler CGL.
+
+## Hydrogensulfid
+
+H2S er et signalmolekyl som den siste tiden har fått mye oppmerksomhet, og det er vist at molekylet er involvert i en lang rekke fysiologiske prosesser. Disse er oppsummert på bildet under, som er tatt under foredraget til Omer Kabil, som omhandlet transsulfureringsenzymenes rolle i regulering av H2S-produksjon.
+
+![](images/clipboard-1303084308.png)
+
+Det er nemlig de to enzymene i transsulfureringen (i tillegg til enzymet mercaptopyruvat sulfurtransferase, MST) som står for produksjon av H2S i kroppen. Forløpere for H2S er homocystein, cystein og ulike kombinasjoner av disse. Figuren under viser alle de ulike reaksjonene som leder til produksjon av H2S. Ifølge Kabil er det de to reaksjonene på venstre side er vist å være de mest effektive, mens de tre reaksjonene på høyre side av CGL er demonstrert å respondere på økte homocysteinnivåer og dermed øke H2S-produksjonen.
+
+![](images/clipboard-833515946.png)
+
+Som dere kan se på figuren så vil 2 cysteinmolekyler ved hjelp av CBS omdannes til H2S og lantionin, mens to homocysteinmolekyler ved hjelp av CGL omdannes til H2S og homolantionin. Arbeid med vitamin B6-restriksjon i laboratoriet til Jesse F. Gregory har vist at under normale fysiologiske forhold er konsentrasjonene av lantionin omtrent 10 ganger høyere enn homolantionin, noe som tilsier at cystein kvantitativt sett er en viktigere forløper enn homocystein. Dette kom frem i foredraget til Barbara DeRatt.
+
+## Cystein, taurin og BHMT
+
+Martha Stipanuk fortalte oss om en dyremodell der de har undersøkt mus som mangler genet for cystein dioksygenase, som er involvert i produksjonen av taurin fra cystein. Disse musene metaboliserer i større grad cystein gjennom CBS og CGL i reaksjonene illustrert over, og har derfor også en høyere produksjon av H2S. Som en konsekvens av dette produserer de langt mindre taurin, og dette viste seg å også påvirke kolinoksidasjonsveien. Taurin er nemlig i tillegg til å være en antioksidant også en viktig osmolytt, og redusert taurinsyntese var assosiert med en akkumulering av betain og lavere aktivitet i BHMT, mest sannsynlig for å opprettholde kontrollen av cellevolum ved å bruke mer betain som osmolytt.
+
+## Hyperhomocysteinemi og risiko, underliggende mekanismer
+
+Kveldens første foredrag, og det eneste jeg fikk med meg, ble holdt av Hong Wang. Hyperhomocysteinemi er velkjent som en risikofaktor for hjertesykdom, men de underliggende mekanismene er ikke kartlagt. Wang presenterte data som underbygger at hypometylering av DNA kan være en underliggende mekanisme som forklarer noe av denne risikoen. Akkumulering av homocystein gir nemlig en opphopning av S-adenosyhomocystein, som effektivt hemmer metyltransferaser og dermed også kan redusere DNA-metylering og påvirke genuttrykk, i tillegg til å redusere metylering av proteiner som også kan påvirke risikoen.  De har vist at hyperhomocysteinemi akselererer [den aterosklerotiske prosessen](fysiologi/hjerte4.qmd "Aterosklerose – Hva og Hvordan"), undertrykker vekst av endotelceller og fremmer inflammasjon via å redusere DNA-metylering. Arbeidsmodellen er oppsummert på følgende slide som ble vist under foredraget.
+
+![](images/clipboard-3893749826.png)

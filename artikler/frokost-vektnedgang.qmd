@@ -1,0 +1,85 @@
+---
+title: "Hittil største kontrollerte frokoststudie: Ingen effekt på vektnedgang"
+author: "Erik Arnesen"
+date: 2014.06.27
+---
+
+De fleste vokser opp med en leveregel om at frokost er dagens viktigste måltid, og utsagn som «Du *må* spise frokost hvis du skal ned i vekt» eller «Hvis du hopper over frokosten, overspiser du senere på dagen» gjentas så ofte at nesten ingen tør å tvile på at de stemmer.
+
+Forskning på kosthold og helse domineres av observasjonsstudier (les mer om det i Vegards artikkel [Signifikans og alt det der](kildekritikk/signifikans.qmd)). Observasjonsstudier kan gi mye nyttig og interessant informasjon som genererer hypoteser for videre forskning. Men altfor ofte blir funnene i observasjonsstudier tolket som endelige *bevis* på at det er et årsaksforhold mellom eksponering og utfall, noe som er en feilslutning.
+
+Les gjerne mer om [svakheter i ernæringsepidemiologi](kildekritikk/ernaeringsepidemiologi.qmd "Svakheter i ernæringsepidemiologi").
+
+Selv om de anses som "gullstandarden" i biomedisinsk forskning, er randomiserte, kontrollerte studier ikke alltid praktisk (eller etisk) mulig å gjøre for å besvare et kostholdsrelatert spørsmål. En påstand som det derimot ER fullt mulig å teste eksperimentelt er at det er gunstig å spise frokost dersom man skal gå ned i vekt. Dessverre finnes det få slike studier, mens det finnes en rekke observasjonsstudier som jevnt over viser en *sammenheng* mellom mindre overvekt blant personer som jevnlig spiser frokost.
+
+Det finnes faktisk så mange slike studier at mye rett og slett [er bortkastet](http://sunnskepsis.wordpress.com/2013/09/15/mye-bortkastet-forskning-pa-frokost/) bruk av tid og ressurser, mente en gruppe amerikanske forskere i [en oversiktsartikkel fra 2013](http://ajcn.nutrition.org/content/early/2013/09/04/ajcn.113.064410.abstract). Evidensgrunnlaget for frokost og kroppsvekt er preget av forskning som mangler formålstjenlig verdi, dvs. observasjonsstudier som viser statistiske sammenhenger, men som likevel ikke kan bevise at frokost er *årsak* til at frokostspisere er mindre overvektige.  Forfatterne av den nevnte artikkelen konkluderte den gang med følgende:
+
+> 1.  At frokost beskytter mot fedme antas og hevdes å være sant, til tross for at det ikke finnes entydige bevis.
+>
+> 2.  Det har vært utført unødvendig mange studier på sammenhengen mellom frokost og fedme, slik at store deler av den vitenskapelige litteraturen er lite formålstjenlig.
+>
+> 3.  Det finnes bevis for at forskere rapporterer sine egne og andres resultater om frokost og fedme på en partisk måte.
+
+Påstanden om at det å regelmessig spise frokost beskytter mot fedme er enn så lenge [en udokumentert antakelse](http://www.nejm.org/doi/full/10.1056/NEJMsa1208051 "New England Journal of Medicine, 2013"), uansett hvor utbredt troen på det er. Riktignok finnes det noen studier som viser at folk som hopper over frokost kan kompensere ved å spise mer senere på dagen, men det som er avgjørende for vekta er jo [energibalansen](energibalansen.qmd "Energibalansen – hva sier den egentlig?") over hele døgnet.
+
+## Nye studier på frokost
+
+For kort tid siden ble to nye og interessante, eksperimentelle studier av frokost blitt publisert. [Den første](http://ajcn.nutrition.org/content/early/2014/06/04/ajcn.114.089573.abstract "American Journal of Clinical Nutrition, 2014") var ledet av David Allison, som også var medforfatter av oversiktsartikkelen om frokost jeg nevnte over. Studien - som er den hittil største randomiserte, kontrollerte studien om frokost og vekt - ble gjennomført ved fem sentere, i Alabama, København, Boston, Columbia og Colorado.
+
+Deltakerne (totalt 309 menn og kvinner, hvorav ca. halvparten pleide å spise frokost) ble tilfeldig delt i tre grupper: én kontrollgruppe, én frokostgruppe og én ikke-frokostgruppe. Kontrollgruppen fikk utdelt en brosjyre om sunt kosthold, uten at frokost ble nevnt. Frokostgruppen fikk samme brosjyre, men også beskjed om å spise frokost før klokken 10 om morgenen hver dag. Det ble ikke gitt noen krav om hva de skulle spise til frokost. Den tredje gruppen fikk beskjed om ikke å spise noe før klokken 11 om morgenen.
+
+Deretter ble deltakerne fulgt opp per telefon tre ganger i løpet av de neste 12 ukene, hvor de ble spurt om de etterlevde planen. De var alle interessert i å gå ned i vekt, men ingen av dem hadde gått på diett eller gått opp eller ned i vekt de seks siste månedene før studien.
+
+## **Frokosten var** ikke **avgjørende**
+
+Etter 16 uker hadde 283 av deltakerne gjennomført. Det var ingen signifikant forskjell i vekttap mellom de tre gruppene. Hovedhypotesen var imidlertid at personer som måtte *endre* frokostvaner ville gå ned mer i vekt (noe en tidligere studie har antydet). Men det var ingen forskjeller i vektnedgangen mellom de som i utgangspunktet spiste og de som ikke spiste frokost.
+
+Blant de som fra før av *ikke* spiste frokost var gjennomsnittlig vektendring i de respektive gruppene:
+
+-   Frokost: -0,76 kilo
+-   Ikke frokost: -0,61 kilo
+-   Kontroll: -0,71 kilo
+
+Mens de som pleide å spise frokost gikk ned henholdsvis:
+
+-   Frokost: -0,59 kilo
+-   Ikke frokost: -0,71 kilo
+-   Kontroll: -0,53 kilo
+
+De fant imidlertid at menn gikk ned mer i vekt enn kvinner, at eldre gikk ned mer enn yngre, og at spansktalende sorte gikk ned mindre enn deltakere med annen etnisk bakgrunn. Deltakerne i København gikk også ned mer i vekt enn ved de andre sentrene, men ingenting av dette hadde noe med hvorvidt de spiste frokost eller ikke. Resultatene var også uavhengig av hvor godt deltakerne fulgte rådene (gjennomsnittlig etterlevelse var over 90 prosent for både frokost- og ikke-frokostgruppen).
+
+## **Testet ikke hva** slags **frokost som er "best"**
+
+Studien viste altså at det å *oppfordre* folk til å spise frokost ikke førte til større eller mindre vekttap enn det å oppfordre til det motsatte.
+
+Vel å merke var dette ikke en test av en spesiell type frokost, men en test av frokostvaner som et generelt slankeråd. En annen studie som [ble publisert i 2013](http://onlinelibrary.wiley.com/doi/10.1002/oby.20460/abstract;jsessionid=202CBDD5BA301668B04D625D2831E1D4.f04t04) fant at de som spiste en svært kaloririk frokost gikk ned mer i vekt under en lavkaloridiett enn de som spiste mesteparten til middag. De ville muligens også fått et annet resultat dersom de hadde gjort en mer intensiv, kontrollert intervensjon, men da ville studien også vært vanskelig å generalisere til "virkeligheten".
+
+Én svakhet er at de kun undersøkte vektendring, ikke endring av kroppssammensetning, ernæringsstatus, appetittregulering m.m. 16 uker kan også ha vært for kort tid. Studien gir med andre ord ikke svaret på alt, men tyder om ikke annet på at det **ikke** er avgjørende for vekttapet om man spiser før klokka 10 om morgenen.
+
+## **«Bra for forbrenningen»?**
+
+Noen sier at frokost er viktig om man skal passe på vekta, siden det «setter igang forbrenningen» etter en natts faste. [Den andre](http://ajcn.nutrition.org/content/early/2014/06/05/ajcn.114.083402.abstract "American Journal of Clinical Nutrition") nye frokoststudien jeg skal nevne (også den publisert i American Journal of Clinical Nutrition) skulle teste nettopp hvorvidt det å spise frokost eller ikke i 6 uker påvirket *energiforbruket* hos 33 normalvektige personer. Halvparten skulle spise frokost (minst 700 kalorier før kl. 11:00), de andre skulle faste til kl. 12:00.
+
+Aktivitetsmålingene (både puls og akselerometere) viste at de som spiste frokost forbrente mer energi under og etter fysisk aktivitet enn de som hoppet over (i snitt 1449 og 1007 kalorier per dag), og spesielt før klokken 12. De som spiste frokost gjorde signifikant mer dagligdagse, lette aktiviteter om morgenen enn de som fastet, noe som ga utslag på det totale energiforbruket.
+
+Ettersom de som spiste frokost naturlig nok spiste mer energi, brukte de også litt mer energi på å fordøye maten (såkalt kostindusert termogenese). Energiforbruket i hvile (eller stoffskiftehormoner) ble derimot ikke signifikant påvirket av frokosten, som vist i figuren under.
+
+![](images/clipboard-4165657969.png)
+
+Energiforbruk per dag blant personer som spiste eller ikke spiste frokost i 6 uker
+
+Dette gir altså inntrykk av at det å spise frokost ikke har en metabolsk fordel ved å øke forbrenningen *i hvile*, men at det kanskje øker spontan fysisk aktivitet og dermed det totale energiforbruket. Som studieforfatterne selv skriver gir dette et *foreløpig* belegg for at *«skipping a morning meal altogether (…) may impose a limit on the amount of energy expended via physical activities»*.
+
+Men når det gjelder vekt er jo energiforbruket bare én side av energibalansen. Hva skjedde med det totale **energiinntaket**?
+
+Frokostgruppen rapporterte (ikke helt uventet) å spise signifikant mer, i snitt over 500 kalorier mer, totalt i løpet av dagen. De spiste spesielt mer karbohydrater i form av sukker. Det vil si at de som ikke spiste frokost **ikke** kompenserte for det senere på dagen. Det kan selvsagt tenkes at de som ikke spiste frokost var mer tilbøyelige til å underrapportere matinntaket, men det burde ha gitt utslag på vekta (som ikke endret seg signifikant mellom gruppene).
+
+Appetitthormoner som leptin og ghrelin endret seg ikke forskjellig mellom gruppene, heller ikke blodsukkerregulering, kolesterolverdier m.m.
+
+## **Kan fortsatt** være **fornuftig**
+
+Ingen av disse studiene handler om hvorvidt frokost er viktig for helsa. Som dr. David Katz har påpekt [i en fin kommentarartikkel](http://www.huffingtonpost.com/david-katz-md/breakfast-research_b_3660740.html), kan det å spise frokost være fornuftig siden det er en bevisst handling som kan motvirke impulsiv, «ubevisst» spising, og fordi typisk «frokostmat» kan være sunne (f.eks. en viktig kilde til fiber og fullkorn). Men han påpeker også at det er forskjell på frokoster, og at det å hoppe over frokosten fordi man ikke har *lyst* på den ikke er det samme som å hoppe over frokosten *til tross* for at man er sulten.
+
+Før eller siden må man jo spise noe («bryte fasten»), men det er foreløpig lite grunnlag for å tro at klokkeslettet for dagens første måltid er sentral for vekta.
+
+*(Dette innlegget er noe bearbeidet fra innlegget [Hittil største kontrollerte frokoststudie: Ingen effekt på vektnedgang](http://sunnskepsis.wordpress.com/2014/06/07/hittil-storste-kontrollerte-frokoststudie-ingen-effekt-pa-vektnedgang/) på min private blogg Sunn Skepsis.)*

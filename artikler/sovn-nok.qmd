@@ -1,0 +1,73 @@
+---
+title: "Søvn - får du nok?"
+author: "Andrea Rørvik Marti"
+date: 2014.10.22
+---
+
+Vi mennesker tilbringer cirka en tredjedel av livet i søvne. Dette enkle faktum kan fortelle oss at søvn er svært viktig. Likevel forstår vi ikke fullt ut hvorfor vi sover, men vi vet en god del om hva som skjer dersom vi ikke får den søvnen vi trenger. I denne artikkelen vil jeg snakke om hvilke prosesser som påvirker kvaliteten og mengden på søvnen vår, hvor mye søvn vi trenger og konsekvenser av for lite søvn. Jeg vil også gi noen tips til grep som kan tas for å forbedre søvnen.
+
+Artikkelen er i stor grad basert på artikkelen «Basale Søvnmekanismer» av Grønli og Ursin \[1\]. Der andre kilder er brukt vil jeg henvise til disse i teksten.
+
+## Søvnlengde
+
+Når du legger deg, hvor lenge du sover, og når du står opp, reguleres i hovedsak av tre faktorer. Den første faktoren er oppbygget søvnbehov. For at du skal klare å sovne må du ha vært våken i et visst antall timer slik at kroppen får et behov for å hvile. Jo høyere behovet ditt er for søvn, jo lengre vil du sove. Oppbygget søvnbehov bestemmes i stor grad av hvor lenge det var siden du sist sov.
+
+Den andre faktoren er døgnrytme. Døgnrytmen styrer når på døgnet ulike hormoner skilles ut i kroppen, hvilket vil påvirke hvor trette vi føler oss, når vi føler oss sultne, når vi er opplagte osv. Når i døgnrytmen vi legger oss vil påvirke hvor lenge vi sover fordi kroppen blant annet skiller ut hormonet melatonin om kvelden som bidrar til å gjøre oss søvnige, og kortisol om morgenen som bidrar til å gjøre oss opplagte. Kroppstemperaturen vår varierer også med døgnrytmen, og denne kan måles gjennom et døgn for å finne ut hvordan døgnrytmen er plassert (se figur 1). Kroppstemperaturen har som regel sitt toppunkt ca kl 17, og sitt bunnpunkt ca kl 05, men her finnes individuelle forskjeller (se bilde under). Det naturlige for oss er å legge oss mens døgnrytmen er i den synkende fasen (etter kl 17) og stå opp mens at døgnrytmen er i den stigende fasen (etter kl 05). Døgnrytmen reguleres av ytre signaler, som for eksempel lys og mørke. For å opprettholde en stabil døgnrytme er det derfor blant annet viktig å unngå for mye lys om kvelden, og oppsøke lys om morgenen.
+
+![](images/clipboard-2009745077.png)
+
+Den tredje faktoren som påvirker søvnlengde er adferd. Hva du gjør vil påvirke hvor trøtt du føler deg, og hvor lenge du sover. Hvis du for eksempel er ute på fest til langt på natt vil dette påvirke det tidspunktet du legger deg, men hvis du har en stabil døgnrytme vil du likevel kunne våkne etter bare noen få timers søvn, til tross for at søvnbehovet ditt ikke er oppfylt. Andre adferdsfaktorer som påvirker søvn kan være bruk av medikamenter, eksponering for lys (blått lys fra PC- og mobilskjermer har spesielt stor påvirkning), inntak av koffein, bruk av nikotin, trening sent på kvelden, og liknende. Det er viktig å være obs på disse faktorene dersom man ønsker å oppnå optimal søvnlengde og søvnkvalitet.
+
+## Søvnbehov
+
+Alle mennesker trenger søvn, men hvor mye søvn vi behøver varierer på tvers av alder og individer. Nyfødte barn har et veldig høyt søvnbehov, og sover i snitt 16,5 timer i døgnet. Ettersom man blir eldre senkes søvnbehovet sakte, og voksne har et søvnbehov som stort sett varierer fra 6 til 9 timer. En liten minoritet har et lavere eller høyere søvnbehov enn de fleste, og disse kaller vi for kortsovere (behøver under 6 timer søvn) og langsovere (behøver mer enn 9 timers søvn). I gjennomsnitt ser man også at kvinner har et litt høyere søvnbehov enn menn.
+
+Forskjellen på de som har et lavt og et høyt søvnbehov ligger hovedsakelig i hvordan søvnen er delt inn gjennom natten. Når vi sover går søvnen igjennom ulike stadier, og fordelingen og mengden av søvn i de ulike stadiene varierer. De som har et lavt søvnbehov bruker en større andel av den tiden de sover i dyp søvn enn dem som har et høyere søvnbehov.
+
+## Sosialt jet lag
+
+Et lenge aktuelt tema for søvnforskere har vært temaet om «søvnrebound» og «sosialt jet lag». Disse uttrykkene referer til at mange mennesker i dagens samfunn sover svært lite i ukedagene, og deretter tar igjen søvn i helgene. I tillegg forskyves ofte sovetiden i helgene, ettersom man ikke har jobb eller skole. Sosialt jet lag handler nettopp om denne tendensen til å legge seg og stå opp på tider som ikke samsvarer med døgnrytmen. Et slikt søvnmønster vet vi nå at ikke er heldig. Én artikkel hevder at så mange som en tredel av oss er kronisk søvndepriverte \[2\]. The Human Sleep Project har også kartlagt søvnen til over 150 000 mennesker over hele verden, og kommet frem til at fra 2003 til 2013 så man ingen endring i hvor mye folk sov på fridagene sine, men at på arbeidsdager har søvnmengden redusert med hele 38 minutter på bare ti år \[3\].  Søvnmangel har alvorlige konsekvenser, og kan ikke veies opp for med ekstra søvn senere i uken.
+
+## Søvnmangel – konsekvenser
+
+Ved søvnmangel er kanskje det aller første man merker endring i humør. Det å være morgengretten er et kjent fenomen, og kan tas som et tegn på at man ikke har sovet nok. Man ser også tidlig en reduksjon i kognitive evner, spesielt når det kommer til oppgaver som skal gjennomføres raskt. Fysiske prestasjoner påvirkes ikke direkte av søvnmangel, men den reduserte evnen til å konsentrere seg, samt redusert motivasjon vil føre til at man heller ikke her kan prestere optimalt. Om man i tillegg ønsker å utnytte langtidseffekter av trening er søvn viktig, ettersom store mengder veksthormon skilles ut under søvn. Søvn er i aller høyeste grad viktig for å få maksimalt ut av treningen.
+
+Søvn er også satt i sammenheng med overvekt, noe Vegard og Thomas har vært inne på tidligere.
+
+-   [Kan søvnmangel bidra til overvekt](sovnmangel-overvekt.qmd "Kan søvnmangel bidra til overvekt?")?
+
+-   [Søvn og overvekt - større sammenheng enn vi tror?](sovn-overvekt "Søvn og overvekt – Større sammenheng enn vi tror?")
+
+-   [Søvn - viktigere enn du tror!](sovn-viktigere-enn-du-tror.qmd "Søvn – viktigere enn du tror!")
+
+De ovennevnte konsekvensene tror jeg de fleste er klar over, men det finnes andre alvorlige og kanskje mindre kjente konsekvenser av for lite søvn, eller søvn på feil tid. Blant annet er 57% av trailerulykker som resulterer i død for trailersjåføren assosiert med søvnmangel \[2\]. På grunn av dette er det nå innført strenge regler om hviletid for yrkessjåfører. I store ulykker som Tsjernobyl, Challenger og Exxon Valdez har søvnmangel hos ansvarshavende vært pekt ut som en av de største utløsende faktorene.
+
+Vi kjenner alle til uttrykket «skjønnhetssøvn». I en studie fra 2010 ønsket svenske forskere å undersøke om det faktisk var slik at søvn gjorde deg vakrere \[4\]. De tok bilde av 23 mennesker etter en god natts søvn, og tok også et bilde av dem etter at de hadde vært våken hele natten. Deretter viste de disse bildene parvis til observatører som skulle bedømme hvilken av de to (den uthvilte eller den søvndepriverte) de syntes var mest attraktiv. Resultatene viste at bildet av den uthvilte deltakeren ble skåret som mest attraktiv, mest sunn og minst trøtt av de to. Se på bildet og bedøm selv hvilke av de to du synes er mest attraktiv (svaret på hvem som hadde fått skjønnhetssøvnen sin får du nederst i artikkelen)
+
+![](images/clipboard-433348809.png)
+
+Søvnmangel er ikke bare negativt for utseende, men kan også ha langtids metabolske konsekvenser. Flere studier viser at mennesker som sover for lite både har økt risiko for overvekt og undervekt. Sosialt jetlag kan også påvirke risiko for overvekt. For hver time med sosialt jetlag (forskjellen mellom når døgnrytmen dikterer at du bør sove og når du faktisk sover) øker risiko for overvekt og fedme med 33%. I tillegg assosieres sosialt jetlag med røyking, samt økt bruk av alkohol og koffein, og kanskje aller mest alvorlig – symptomer på depresjon.
+
+## Råd for bedre søvn
+
+Jeg håper artikkelen hittil har overbevist deg om at søvn er viktig. Dersom du tror du ikke får nok søvn (som jeg vil tro gjelder svært mange av oss), skal jeg helt til slutt gi noen råd for hvordan man kan forbedre søvnen. Som jeg forklarte innledningsvis er det tre faktorer som påvirker søvnen vår: Søvnbehov, døgnrytme og aktivitet. Det aller første du bør gjøre er å identifisere hvilke av disse som gjør at du ikke klarer å sove nok. Hvis du sliter med å sovne om kvelden, og føler at du sover veldig lett igjennom natten, kan det hende kroppen din ikke har klart å bygge opp et stort nok søvnbehov igjennom dagen. Hvis du legger deg og står opp til ulike tider hver eneste dag, og sliter med å stå opp tidlig om morgenen, kan det være døgnrytmen som må fikses. Hvis du drikker red bull og kaffe og spiller dataspill til langt på natt er det nok adferden din du må tak i. Her følger noen råd \[4\]:
+
+For å sikre oppbygget søvnbehov er kanskje det viktigste at du unngår å sove på dagtid. Trening på dagen kan også bidra til å utmatte kroppen slik at du lettere klarer å sovne. Det er allikevel viktig at du avslutter aktiviteten minst 3 timer før du legger deg slik at du rekker «å lande» før du skal innta sengen. Du bør heller ikke ligge lenge i sengen om morgenen. Ha et klart skille mellom søvn og våkenhet.
+
+For å stabilisere døgnrytmen og holde den stabil bør du sørge for at du legger deg og står opp til cirka samme tid hver eneste dag. Du bør også sørge for å oppsøke dagslys om morgenen, og unngå sterkt lys om kvelden og natten. Melatoninbehandling kan være nyttig, men kun dersom du har et reelt døgnrytmeproblem. Melatonin er ikke sovemedisin, og har ikke effekt på søvnen spesifikt. Det det derimot gjør er å hjelpe med plasseringen av døgnrytmen på døgnet. Så hvis du sliter med å sove på feil tid kan melatoninbehandling være nyttig, så lenge dette tas korrekt. Ved feil bruk kan det gjøre vondt verre (dersom du tar behandlingen på feil «side» av døgnrytmen). Derfor er det viktig å høre på instrukser fra lege eller annet helsepersonell.
+
+Adferd er kanskje det punktet der de fleste av oss gjør store feil. Å fikse opp i disse kan også virke ganske «kjedelig», men jeg kan love deg at det er verdt det. Du trenger ikke følge alle disse rådene, men identifiser de som kanskje er mest relevante for deg, og prøv deg frem! Disse rådene handler hovedsakelig om å sikre en deaktivering som enklere kan bidra til søvnighet. Koffeinholdige drikker bør ikke drikkes etter kl 17. Nikotin bør også unngås, spesielt sent på kvelden ettersom dette har en aktiverende effekt (til tross for at mange mener det virker avslappende på dem). Du bør ikke trene hard de siste 3 timene før du legger deg, og du bør sørge for å være passelig mett (ikke stappmett, ikke sulten). Hvordan du bruker soverommet er også viktig. Soverommet, og spesielt sengen, bør brukes til søvn, ikke til arbeid eller bruke av PC eller mobil. Temperaturen i rommet bør ikke vøre for høy, og du bør ha muligheten til å stenge ute så mye ytre stimuli (lys og lyd hovedsakelig) som mulig.
+
+Også et lite ord om sovemidler: Sovemidler løser ingen søvnproblemer, er sterkt vanedannende og bedrer ikke søvnens kvalitet. Sovemedisiner bør unngås, spesielt bruk over lengre perioder. Når det gjelder alkohol kan et lite glass hjelpe med innsovning, men man ser allikevel at alkohol gjør søvnkvaliteten dårligere og gir hyppigere oppvåkninger. En gang iblant er greit, men ikke gjør det til en vane. Hvis du virkelig ønsker å bedre søvnen din finnes det ingen «quick fix». Du må gjøre jobben og ta grep av typen illustrert ovenfor.
+
+Helt til slutt: Denne artikkelen er ikke ment for mennesker som lider av en søvnlidelse som for eksempel insomni, narkolepsi, døgnrytmeforstyrrelse, skiftarbeidslidelse og liknende. Hvis søvnen din plager deg så mye at den har betydelige negative konsekvenser for daglig funksjon bør du oppsøke kvalifisert helsepersonell, og sikre deg en grundig utredning og spesifikk behandling.
+
+Svar til figur 2: Bildet til venstre er tatt etter en natts søvn, og ble bedømt som mest attraktiv av deltakerne i studien.
+
+1.  Grønli, J. & Ursin, R. (2009). Basale søvnmekanismer. Tidsskrift for den Norske Legeforening, 129, 1758-61.
+
+2.  Bonnett, M.H. & Arand, D.L. (1995). We are chronically sleep deprived. Sleep, 18, 908-11.
+
+3.  Axelsson et al. (2010). Beauty Sleep: experimental study on the perceived health and attractiveness of sleep deprived people. BMJ, 341, c6614.
+
+4.  Bjorvatn, B. (2013). Søvnhygiene – gode råd ved søvnproblemer. http://haukeland.no/no/OmOss/Avdelinger/sovno/sovn-og-sovnsykdommer/Sider/sovnhygiene--gode-rad-ved-sovnproblemer.aspx

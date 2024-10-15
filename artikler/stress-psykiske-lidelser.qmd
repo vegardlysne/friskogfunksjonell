@@ -1,0 +1,79 @@
+---
+title: "Psykisk lidelse som følge av tidlig livsstress"
+author: "Andrea Rørvik Marti"
+date: 2014.04.03
+---
+
+Forebygging og behandling av psykiske lidelser som for eksempel angst, depresjon og lærevansker, er svært viktig i dagens samfunn. For å kunne behandle psykiske lidelser trenger vi en forståelse for hvordan disse oppstår. Epidemiologiske studier indikerer at over 25% av alle psykiske lidelser kan predikeres av tidlig livsstress. Dette gjelder også nesten 50% av alle psykiske lidelser hos barn (1). Man vet at hjernen gjennomgår en viktig modningsprosess både før og etter fødselen, og stress som utløses i denne perioden kan føre til varige endringer i hjernens utvikling og funksjon. Stress kan defineres som enhver stimuli som antyder en trussel til kroppslig [homeostase. ](http://www.friskogfunksjonell.no/homeostase/ "Homeostase")Dette har jeg skrevet i detalj om i artikkelen om [stressrespons](http://www.friskogfunksjonell.no/stressresponsen/ "Stressresponsen"). I denne artikkelen vil jeg forklare noen av de viktigste basale mekanismene som forklarer linken mellom påkjenninger tidlig i livet, og senere psykiske lidelser.
+
+![](images/clipboard-85181275.png)
+
+HPA-aksen, illustrasjon av hvordan stress fører til utskillelse av glukokortikoider (GC) som for eksempel kortisol.
+
+## HPA-aksen
+
+Stress reguleres og uttrykkes av et system som kalles for Hypothalamus-Hypofyse-Binyre-aksen (Hypothalamic-Pituitary-Adrenal, HPA). Når vi opplever stress stimuleres hypothalamus i hjernen til å skille ut et hormon som kalles for CRH. Dette hormonet beveger seg ned til hypofysen, som så stimuleres til å skille ut ACTH. ACTH går ut i blodstrømmen og binder seg til reseptorer i binyrene som er en hormonkjertel som ligger på nyrene. Binyrene skiller deretter ut stresshormoner som betegnes som glukokortikoider. De viktigste stresshormonene er kortisol som utskilles hos mennesker, og kortikosteron som utskilles hos dyr. Stresshormoner går så ut i blodet og binder seg til reseptorer i en rekke områder i både kroppen og hjernen. Aktivering av noen av disse reseptorene vil føre til et «negativ feedback»-signal som går tilbake til hypothalamus og gir beskjed om å avslutte stressresponsen. Når dette skjer vil stresshormonutskillelsen stoppe, og nivåene vil gå tilbake til normalen (2).
+
+## Tidlig livsstress og HPA-aksen
+
+Hos både mennesker og dyr ser man at stress tidlig i livet kan føre til en permanent feilregulering av HPA-aksen. Utallige studier på rotter og mus har adskilt rottemoren fra barna i korte eller lengre perioder, for så å se på effektene av denne adskillelsen. Det man i all hovedsak ser er at kortvarig separasjon fra mor (10-30 minutter) fører til lavere basal HPA-akseaktivitet senere i livet (3). Dette betyr at nivåene av stresshormon i kroppen er lave når personen ikke er utsatt for stress. Et lavt basalt nivå av stresshormon er positivt, fordi det betyr at det skal mer til før stressresponsen setter inn, og det også går fortere å hente seg inn igjen etter at en stressreaksjon har blitt utløst. Altså kan små mengder med stress tidlig i livet kanskje ha en slags styrkende effekt hvor man i ettertid blir ekstra motstandsdyktig for stress.
+
+Dessverre ser man det motsatte for rotter som har blitt utsatt for mye tidlig livsstress. Ved å for eksempel separere mor og barn i 8 timer daglig ser man store negative effekter på HPA-akseaktiviteten senere i livet. Basale nivåer av stresshormoner er sterkt forhøyede, og stressresponsen utløses lett og langvarig (4). Dette kan ha negativ påvirkning på hjernens utvikling og senere funksjon.
+
+## Fysiologisk og psykologisk stress
+
+Man kan dele stress inn i to grunnleggende grupper: Fysiologisk og psykologisk (5). Fysiologisk stress er en respons på stimuli som indikerer en direkte trussel mot umiddelbar overlevelse. Dette kan for eksempel være oksygenmangel. Denne typen stimuli går direkte fra sensoriske nervefibre i ryggmargen til hypothalamus, og setter i gang stressreaksjonen. På den annen side krever psykologisk stress «tolkning» fra andre områder i hjernen for at en stressrespons skal kunne utløses. Viktige områder her er blant annet Hippokampus og Amygdala, som jeg vil snakke mer om i detalj senere. Psykologisk stressende stimuli kan for eksempel være å bli plassert i et helt nytt og ukjent miljø. For at du skal vite at dette miljøet er nytt er du nødt til å huske tidligere miljøer du har oppholdt deg i. Derfor må hukommelsesområder prosessere informasjonen som kommer inn før den kan sendes videre til hypothalamus, og igangsette en stressreaksjon (5). Stress tidlig i livet, enten det er fysiologisk eller psykologisk, kan forårsake skader på disse intrikate systemene som er involvert i tolkning av stressende signaler i tillegg til en lang rekke andre viktige oppgaver (5). Jeg vil nå ta for meg effektene av tidlig livs stress på hovedsakelig hippokampus og amygdala.
+
+## Stresshormoner og Hippokampus
+
+Hippokampus er et hjerneområde som er ekstra sårbart for stresshormoner (som for eksempel kortisol). Hippokampus er helt sentral i hukommelse og læring, og er også med på regulere stressresponsen (6). Stresshormoner har to hovedeffekter på hippokampus. For det første kan høye konsentrasjoner av stresshormoner være nevrotoksiske for Hippokampus-celler, hvilket ganske enkelt vil si at de er giftige, og dreper celler i Hippokampus (7).
+
+For det andre kan stresshormoner i høye konsenstrasjoner binde seg til en reseptor som kalles for glukokortikoid-reseptor (GR) (6). Aktivering av denne reseptoren er med på å sende et negativ-feedback-signal til hypotalamus om at den må avslutte stressresponsen. Ironisk nok fører også GR-aktivering til en epigenetisk nedregulering av antallet GR-reseptorer i Hippokampus. Dette vil si at neste gang en stressrespons utløses og stresshormoner ankommer Hippokampus, vil en større andel av GR-reseptorene som finnes der bli aktivert. Aktivering av denne reseptoren fører også til en blokkering av evnen til å lage nye minner, og aktivering av en høy andel reseptorer kan være en medvirkende faktor til lærevansker som følge av tidlig livsstress (2).
+
+Når Hippokampus påvirkes negativt av stresshormoner vil dette altså føre til at cellene i Hippokampus dør, og at antall GR-reseptorer i Hippokampus går ned. Begge disse faktorene innebærer at negativ-feedback-signalet fra Hippokampus om at stressresponsen må avsluttes blir svakere. Når dette signalet svekkes vil det ta lenger tid før stressreaksjonen avsluttes og nivåene av stresshormoner i kroppen normaliserer seg. Dette vil i sin tur føre til at Hippokampus blir langvarig påvirket av de giftige stresshormonene, og celler dør. Slik kommer man inn i en ond sirkel, som illustrert i figuren under.
+
+![](images/clipboard-2977050040.png)
+
+## CRH og Amygdala
+
+Som nevnt, er CRH et hormon som skilles ut av hypothalamus ved en stressrespons, og igangsetter en kaskade av hendelser som ender opp i utskillelse av stresshormoner i blodet. CRH er derimot ikke bare et hormon, men også en nevrotransmitter som bidrar til kommunikasjon mellom hjerneceller (8). CRH produseres blant annet i amygdala, og er sterkt påvirkelig av stress. Dette er en av grunnene til at CRH har blitt utpekt som en viktig substans når det gjelder effekt av tidlig livs stress på senere psykopatologi. Hos rotter som har vært utsatt for tidlig livsstress ser man dobbelt så høy CRH-produksjon i amygdala sammenliknet med rotter som ikke har vært utsatt for stress (9). Det som er ekstra interessant her, er at mengden CRH produsert i amygdala korrelerer med antall CRH-reseptorer i to hjerneområder som kalles for raphe nucleus og locus coeruleus, hvor det produseres henholdsvis serotonin og noradrenalin. Man har lenge trodd at serotonin er sentral i humørlidelser som for eksempel depresjoner, og noradrenalin er trolig viktig i en lang rekke lidelser som for eksempel angstlidelser. Disse funnene kan altså tyde på at stress tidlig i livet har permanente effekter på CRH-produksjon, som i sin tur påvirker serotonin- og noradrenalin-aktivitet i hjernen. Dette kan være én av grunnene til at tidlig livs stress kan føre til utvikling av psykiske lidelser.
+
+## CRH og Hippokampus
+
+I hippokampus produseres det også CRH, og i likhet med amygdala ser man også her økt produksjon etter tidlig livs stress (10). Det som er interessant, er at CRH-produksjon IKKE øker som følge av en kortisol-injeksjon. Dette vil si at det ikke er stressresponsen i seg selv som fører til den økte CRH-produksjonen. På samme måte øker ikke CRH-produksjonen som følge av oksygenmangel, altså fysiologisk stress. CRH-produksjon i Hippokampus påvirkes KUN av psykologisk stress (8). Det virker som om CRH produsert i hippokampus har effekt på kommunikasjonen mellom hjerneceller som sitter i dette området. Man tror at CRH kan ha en effekt på formasjonen av minner fra stressende hendelser (8).
+
+I tillegg påvirker CRH i hippokampus trolig langt flere hjerneområder, og kanskje da spesielt i de frontale hjerneområdene som er involvert i «høyere» kognitive funksjoner (11). Man har sett at mus som har blitt genmodifisert til å produsere ekstra mye CRH både utviser store lærevansker (som er relatert til hippokampus) og hyperemosjonalitet (som er relatert til en lang rekke hjerneområder) (12). Når musene behandles for hyperemosjonalitet gjennom tilførsel av angstdempende medikamenter, forsvinner også lærevanskene. Dette tyder på at CRH kanskje har en effekt på emosjonalitet, som i sin tur har en effekt på hukommelse og læring – fjerner du humørsymptomene, fjerner du automatisk også lærevanskene! På grunn av disse funnene tenker man seg nå at CRH i hippokampus ikke bare har en direkte effekt på lærevansker, men også en indirekte effekt på emosjonalitet, og at denne emosjonaliteten igjen har en ytterligere effekt på lærevansker. Her snakker vi altså om et intrikat samspill mellom mange ulike hjernefunksjoner. Og puslespillet er langt ifra ferdig enda.
+
+![](images/clipboard-1730847281.png)
+
+## Konklusjon
+
+Det finnes i dag ingen tvil om at det er en klar sammenheng mellom opplevelse av tidlig livsstress og utvikling av senere psykopatologi. Dette betyr selvfølgelig ikke at alle som har opplevd tidlig livs stress vil utvikle psykiske problemer, eller at alle med psykiske problemer har opplevd tidlig livsstress. Man tror heller at det her er et samspill mellom genetikk, biologiske endringer som følge av tidlig miljø, samt endringer som følge av senere miljø.
+
+I denne artikkelen har jeg fokusert på endringene som kommer fra tidlige opplevelser, og håper med dette at jeg har fått illustrere noe av kompleksiteten som ligger bak disse prosessene. Ved å finne ut hvilke endringer som har skjedd i kroppen og i hjernen kan vi kanskje en dag utvikle metoder for å reversere, eller til og med forebygge disse. Denne forskningen er viktig nettopp fordi den tar oss fra en overfladisk forståelse basert på observerbare symptomer til en detaljer kunnskap basert på nøyaktige målinger av intrikate prosesser. Vi er langt unna en ferdig kartlegging av hvilke prosesser som finner sted, men håpet er at denne vitenskapen en dag vil kunne bidra til utvikling av spesifikke behandlinger for psykiske lidelser.
+
+**Referanser**
+
+1.  Green, J. G., McLaughlin, K. A., Berglund, P. A., Gruber, M. J., Sampson, N. A., Zaslavsky, A. M., & Kessler, R. C. (2010). Childhood adversities and adult psychiatric disorders in the national comorbidity survey replication I: associations with first onset of DSM-IV disorders. Arch Gen Psychiatry, 67(2), 113-123. doi:10.1001/archgenpsychiatry.2009.186
+
+2.  Gunnar, M., & Quevedo, K. (2007). The neurobiology of stress and development. *Annu Rev Psychol, 58*, 145-173. doi:10.1146/annurev.psych.58.110405.085605
+
+3.  Daskalakis, N. P., Bagot, R. C., Parker, K. J., Vinkers, C. H., & de Kloet, E. R. (2013). The three-hit concept of vulnerability and resilience: toward understanding adaptation to early-life adversity outcome. *Psychoneuroendocrinology, 38*(9), 1858-1873. doi:10.1016/j.psyneuen.2013.06.008
+
+4.  Murgatroyd, C., & Spengler, D. (2011). Epigenetic programming of the HPA axis: early life decides. *Stress, 14*(6), 581-589. doi:10.3109/10253890.2011.602146
+
+5.  Avishai-Eliner, S., Brunson, K. L., Sandman, C. A., & Baram, T. Z. (2002). Stressed-out, or in (utero)? *Trends in Neurosciences, 25*(10), 518-524. doi:10.1016/s0166-2236(02)02241-5
+
+6.  Korz, V., & Frey, J. U. (2003). Stress-related modulation of hippocampal long-term potentiation in rats: Involvement of adrenal steroid receptors. *J Neurosci, 23*(19), 7281-7287.
+
+7.  Sapolsky, R. M., Krey, L. C., & McEwen, B. S. (1985). Prolonged glucocorticoid exposure reduces hippocampal neuron number: implications for aging. *J Neurosci, 5*(5), 1222-1227.
+
+8.  Fenoglio, K. A., Brunson, K. L., & Baram, T. Z. (2006). Hippocampal neuroplasticity induced by early-life stress: functional and molecular aspects. *Front Neuroendocrinol, 27*(2), 180-192. doi:10.1016/j.yfrne.2006.02.001
+
+9.  Weaver, I. C., La Plante, P., Weaver, S., Parent, A., Sharma, S., Diorio, J., . . . Meaney, M. J. (2001). Early environmental regulation of hippocampal glucocorticoid receptor gene expression: characterization of intracellular mediators and potential genomic target sites. *Mol Cell Endocrinol, 185*(1-2), 205-218. doi:10.1016/s0303-7207(01)00635-9
+
+10. Maras, P. M., & Baram, T. Z. (2012). Sculpting the hippocampus from within: stress, spines, and CRH. *Trends Neurosci, 35*(5), 315-324. doi:10.1016/j.tins.2012.01.005
+
+11. Wang, X. D., Labermaier, C., Holsboer, F., Wurst, W., Deussing, J. M., Muller, M. B., & Schmidt, M. V. (2012). Early-life stress-induced anxiety-related behavior in adult mice partially requires forebrain corticotropin-releasing hormone receptor 1. *Eur J Neurosci, 36*(3), 2360-2367. doi:10.1111/j.1460-9568.2012.08148.x
+
+12. Heinrichs, S. C., Stenzel-Poore, M. P., Gold, L. H., Battenberg, E., Bloom, F. E., Koob, G. F., . . . Pich, E. M. (1996). Learning impairment in transgenic mice with central overexpression of corticotropin-releasing factor. *Neuroscience, 74*(2), 303-311. doi:10.1016/0306-4522(96)00140-6

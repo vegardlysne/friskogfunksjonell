@@ -1,0 +1,48 @@
+---
+title: "Aspartam, en søt kontrovers?"
+date: 2014.03.31
+---
+
+Aspartam er et kunstig søtstoff som benyttes som erstatning for sukker, spesielt i drikkevarer og som oftest i kombinasjon med andre søtstoffer som Acesulfam K. Ikke alle er overbevist om at aspartam er et helsemessig godt valg, og om man skulle tro alt som skrives i media og på internett kan det fort virke som om det verserer en stor uenighet rundt dette søtstoffet. Men er ekspertene egentlig så uenige?
+
+[Les mer om søtstoffer her.](sotstoffer.qmd "Søtstoffer")
+
+## Hva er aspartam?
+
+Aspartam er et kunstig søtstoff som er omtrent 200 ganger søtere enn sukker. Stoffet ble, i likhet med mange andre stoffer, oppdaget ved en tilfeldighet og består av de to aminosyrene fenylalanin og aspartat samt metanol i fordelingen 50/40/10%. Ettersom sukker i tillegg til å gi søtsmak også bidrar med en del fyllmasse i bakverk, brukes søtstoffet hovedsakelig i drikkevarer som lettbrus og lettsaft.
+
+Siden aspartam er så mye søtere enn sukker trenger vi bare en veldig liten mengde for å oppnå samme søthet som sukker ville gitt. En halvliter brus bidrar med omtrent 50g sukker, noe som vil si at samme mengde lettbrus inneholder o.25g aspartam. Når man i tillegg kombinerer flere søtstoffer, blir mengden av hvert enkelt stoff enda mindre, så det reelle innholdet av aspartam er faktisk enda lavere.
+
+## Så mye aspartam tåler du
+
+Akseptabelt daglig inntak (ADI) av aspartam, som representerer den mengden vi kan få i oss hver eneste dag uten at det er belegg for at det gir negative effekter, er satt til 40mg/kg kroppsvekt. Om vi skal ta utgangspunkt i at lettbrus inneholder 0.5g (500mg) aspartam per liter, så tilsvarer dette en mengde på 0.8dL per kg kroppsvekt daglig. For en person på min størrelse tilsvarer dette i overkant av 7 liter lettbrus daglig, hele livet. Og da har vi ikke tatt høyde for at aspartam vanligvis kombineres med andre søtstoffer.
+
+Når vi nå har fått et perspektiv over hvor store mengder det faktisk er snakk om, er det på tide å legge til at i fastsettelsen av ADI for aspartam er det brukt en sikkerhetsmargin på 100, som vil si at selv om vi ganger ADI med 100 er det fremdeles ikke observert negative helseeffekter.
+
+I forbindelse med en reevaluering av alle tillatte tilsetningsstoffer har det europeiske matsikkerhetsorganet EFSA nylig gjennomført den mest omfattende undersøkelsen av aspartam, hvor også over 200 kritiske innspill ble vurdert. De konkluderte med at det ikke var noen grunn til å endre nåværende grenseverdier.
+
+Den tilsynelatende kontroversen er med andre ord ikke så stor som man skulle tro.
+
+## Hva er det egentlig vi frykter?
+
+Av de tre bestanddelene i aspartam er det utvilsomt metanol som høres mest skummelt ut, og det er også denne som oftest trekkes frem med negativt fortegn. Her kan det være greit å ha et begrep om hvilke mengder vi snakker om, så husk at bare 10% av aspartamet utgjøres av metanol. Farlige konsentrasjoner av metanol ser vi først i konsentrasjoner på over 200mg/kg kroppsvekt, noe som gjør det unødvendig i det hele tatt å begynne å kalkulere hvor mye lettbrus dette tilsvarer. Faktisk får du i deg langt større mengder metanol ved å spise frukt eller drikke et glass jus.
+
+Den mest toksiske bestanddelen av aspartam er imidlertid ikke metanol, men aminosyren fenylalanin. Denne er imidlertid bare skummel for de som har Føllings sykdom (fenylketonuri), som er en medfødt tilstand der man ikke klarer å bryte ned denne aminosyren. Denne sykdommen forekommer hos 1 av 13 000 nyfødte, noe som i Norge tilsvarer 3-5 nye tilfeller hvert år. Har du Føllings sykdom bør du derfor holde deg unna aspartam. Har du derimot ikke denne sykdommen har du lite å frykte.
+
+## Forskning på bivirkninger
+
+Et annet argument som hyppig kommer opp i diskusjoner rundt aspartam er at det finnes en liste over 92 registrerte bivirkninger ved inntak av søtstoffet. Denne listen ligger ute hos amerikanske Food and Drug Administration (FDA), som blant annet har som oppgave å regulere og overvåke mat i USA.
+
+Dette er en liste over selvrapporterte bivirkninger. I praksis betyr dette at folk har meldt inn symptomer til FDA som de selv tror skyldes aspartam. Men selv om disse symptomene er helt reelle, er det ikke dermed sagt at de faktisk skyldes inntak aspartam. For det første kan det være andre stoffer i lettbrusen/saften som er årsaken, eller det kan være noe helt annet. At to ting forekommer samtidig betyr ikke at det ene må ha forårsaket det andre.
+
+Disse symptomene må likevel tas på alvor, og i den forbindelse er det ved universitetet i Hull nylig gjennomført en dobbeltblindet studie som har undersøkt mennesker som selv har rapportert å reagere negativt på aspartam. I denne uavhengig finansierte studien ble disse personene servert en snackbar som enten inneholdt aspartam eller placebo, for så å se om inntak av aspartam gav mer bivirkninger enn placebo. Denne studien er for tiden inne til publisering, men en foreløpig pressemelding har avslørt at resultatene ikke gav noen grunn til bekymring vedrørende dagens grenseverdier.
+
+## Det beste valget
+
+Hvis jeg skal komme med en konklusjon på bakgrunn av eksisterende data, så vil jeg absolutt påstå at kunstig søtet drikke er et bedre valg enn sukkersøtet drikke for de aller fleste. Jeg vil utvilsomt anbefale vann som tørstedrikk foran begge disse, men dersom du ønsker å drikke brus eller saft, vil lettvariantene være det beste valget. De gunstige helseeffektene av å redusere sukkerinntaket, kanskje spesielt i flytende form, er det nemlig liten uenighet rundt!
+
+Noen kan derimot med fordel velge den sukkersøtede varianten om de først skal drikke brus. For underernærte som sliter med å dekke energibehovet kan de ekstra kaloriene komme godt med, og det samme er tilfelle for de som har et svært forhøyet energibehov som følge av høyt aktivitetsnivå.
+
+Vann vil alltid være den beste tørstedrikk, men kunstig søtning er et bedre valg enn sukker!
+
+Denne artikkelen ble opprinnelig først publisert på [bramat.no](http://bramat.no/kosthold/naeringsstoffer/1221-helsefarlig-med-aspartam)
