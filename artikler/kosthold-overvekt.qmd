@@ -1,0 +1,67 @@
+---
+title: "Kosthold og forebygging av overvekt"
+date: 2013.12.09
+categories:
+  - kosthold
+  - overvekt
+---
+
+Debatten om hva som er den beste sammensetningen av makronæringsstoffer i kostholdet tar ofte utgangspunkt i hva som gir best effekt på vektnedgang, og her er dokumentasjonen sprikende. I forbindelse med lanseringen av de nye nordiske kostrådene ([NRR 2012](http://www.norden.org/no/tema/nordic-nutrition-recommendation)) ble det publisert en systematisk litteraturanalyse som har undersøkt hva sammensetningen av næringsstoffer og inntaket av ulike matvaregrupper har å si for fremtidig utvikling av overvekt. I denne artikkelen vil jeg gå gjennom hva de fant ut i denne analysen.
+
+Artikkelen “[Dietary macronutrients and food consumption as determinants of long-term weight change in adult populations: a systematic literature review](http://www.foodandnutritionresearch.net/index.php/fnr/article/view/19103)” \[1\] er publisert med åpen tilgang I tidsskriftet [Food and Nutrition Research](http://www.foodandnutritionresearch.net/), så alle kan følge lenken og lese fullteksten ved interesse.
+
+## Overvekt, fedme og kosthold
+
+BMI over 25 defineres som overvekt, og BMI over 30 defineres som fedme. Mye kan sies om BMI som måleenhet når det kommer til enkeltindividet, da det ikke tar høyde for forskjeller i kroppssammensetning. I større populasjoner vil imidlertid endringer i BMI gi en god pekepinn på forekomst av både fedme og overvekt, ettersom økt BMI vil representere en gjennomsnittlig vektøkning i en større populasjon. Den globale forekomsten av overvekt og fedme er økende, og det er beregnet at omtrent hver tredje voksne person vil lide av fedme innen 2015. Ettersom overvekt er en sentral risikofaktor for en rekke sykdommer er det av alles interesse at denne utviklingen bremses og snus.
+
+Det er ingen tvil om at kosthold spiller en sentral rolle når det er snakk om overvekt og fedme ettersom en akkumulering av energi lagret som fettvev er en direkte konsekvens av en ubalanse mellom inntak og forbruk av energi. Det er en lang rekke faktorer som påvirker både hvor mye energi vi spiser og hvor mye vi forbruker. En av disse kan være sammensetningen av næringsstoffer. Studier som har sammenlignet lavkarbodietter med tradisjonelle lavfettdietter finner konsekvent at lavkarbodiettene medfører en spontan reduksjon i energiinntak, mest sannsynlig grunnet økt metthetsfølelse ved et slikt kosthold. Dette kan forklare hvorfor svært mange finner det enklere å gå ned i vekt ved å følge en slik diett. Når det er sagt, så finner man ingen forskjell i vektreduksjon mellom de ulike diettene når alle er kalorikontrollerte, så den underliggende mekanismen for vekttap er til syvende og sist oppnåelsen av kaloriunderskudd.
+
+Tilgangen på mat er økende, og utviklingen av overvekt ser ut til å følge det stadig økende energiinntaket i verdens befolkning. Et spørsmål som frem til nå har stått ubesvart er hvorvidt hvilken rolle sammensetningen av kostholdet eller inntaket av spesifikke matvarer spiller i denne sammenhengen, og dette var motivasjonen bak den omtalte metaanalysen.
+
+## Metoder
+
+Det er en forskjell mellom folk som alltid har vært slanke og de som tidligere har vært overvektige. Forfatterne valgte derfor å se på disse gruppene separat, og har da gjort et skille mellom studier som har undersøkt effekten av kostholdet i primærforebygging av overvekt og studier som har sett på kostholdets effekt på vektøkning hos de som har slanket seg etter tidligere overvekt. I begge tilfellene er bare studier med varighet over 1 år inkludert i analysen.
+
+For å undersøke effekten av sammensetningen av næringsstoffer i kostholdet, måtte de inkluderte studiene gi informasjon om totalfordelingen av karbohydrater, protein og fett, sammensetning av fettet (mettet, enumettet, flerumettet), samt inntak av tilsatt sukker og fiber.
+
+Bare studier publisert i år 2000 eller senere er inkludert, og det var også et krav at deltakerne skulle være mellom 18-70 år. Til sammen 43 studier møtte alle inklusjons- og kvalitetskriteriene.
+
+## Næringsstoffenes rolle
+
+Studiene som har undersøkt hvordan sammensetningen av makronæringsstoffene påvirker vektutviklingen er hovedsakelig prospektive kohortstudier. Disse studiene så på ulike ting, noe som vanskeliggjør arbeidet med å finne trender som er godt dokumenterte.
+
+Den sterkeste sammenhengen som ble funnet var den inverse korrelasjonen mellom inntak av [fiber](http://www.friskogfunksjonell.no/fiber/ "Fiber") og vektøkning. Dette var et funn som gikk igjen i de fleste studiene. Ulike kilder til fiber gav lignende, men svakere resultater. Totalt sett kan se ut som om det å øke inntaket av fiber er et positivt trekk for å forebygge vektøkning. Dette kan forklares med at fiberet øker volumet på maten uten at energiinnholdet øker noe særlig. På denne måten kan fiber bidra til økt metthet.
+
+Kostholdets energitetthet har i noen studier blitt funnet å ha en sammenheng med en økning i midjemålet, men resultatene for vektøkning var langt mindre konsistente. Ingen av makronæringsstoffene karbohydrater, proteiner og fett viste en konsekvent sammenheng med vektøkning. Det samme gjaldt fordelingen av ulike fettyper.
+
+Totalt sett er det av næringsstoffene altså bare fiber som viser noenlunde konsekvente resultater når det gjelder forebygging av vektøkning. Som Thomas har vært inne på tidligere har fiber også andre gunstige egenskaper.
+
+Les: [Hvorfor fiber er awesome](http://www.friskogfunksjonell.no/hvorfor-fiber-er-awesome/ "Hvorfor Fiber er Awesome")
+
+## Matvarenes rolle
+
+De ulike matvaregruppene viser seg å ha sterkere sammenheng med vektutvikling enn næringsstoffene i seg selv. Trenden som ble identifisert var at nøtter, fullkorn, frukt, og meieriprodukter (både fete og magre) ser ut til å være beskyttende, mens fint mel, lyst brød, kjøtt og godteri ser ut til å ha en motsatt effekt. Når det gjelder kjøtt har man i denne analysen bare funnet sammenhenger for det totale inntaket av kjøtt. Analyser av ulike typer bearbeidet kjøtt gav ikke grunnlag for noen videre konklusjoner. Analysene for inntak av fisk gav ingen klare svar.
+
+Enkeltmatvarer ser altså ut til å kunne ha motsatte effekter på vekten til tross for at de bidrar med mange av de samme næringsstoffene. Et godt eksempel er at meieriprodukter og kjøtt, som begge bidrar med animalsk protein og fett, ser ut til å trekke i motsatt retning. Det er mulig å oppnå en lik sammensetning av makronæringsstoffer på vidt forskjellige måter, og å isolere effekten av en enkeltkomponent i en matvare er derfor vanskelig. Når vi da vet at maten vi spiser består av flere tusen ulike komponenter, der mange av disse ikke engang er identifisert, blir det enda viktigere å se an effekten av hele matvaren.
+
+Men, et kosthold består av en sammensetning av flere enkeltmatvarer, og det å trekke konklusjoner om effekten av et kosthold basert på enkeltmatvarer kan være problematisk. På samme måte som det er problematisk å isolere effekten av et næringsstoff i en matvare kan det også være vanskelig å bedømme effekten av en enkeltmatvare i et sammensatt kosthold. Derfor ønsket forfatterne å undersøke effekten av kjente kostholdsmønstre. Ved å gi en score for hvor godt man følger de amerikanske offentlige kostrådene (ligner de norske), var det to studier som viste at det å følge retningslinjene var assosiert med lavere vektøkning. Lignende studier på middelhavskosten gav samme resultat.
+
+## Hva med de som har gått ned i vekt?
+
+Det å opprettholde et vekttap er kanskje en større utfordring enn det å gå ned i vekt i utgangspunket. Forfatterne har i denne analysen ikke funnet noen konsekvente sammenhenger mellom sammensetning av kostholdet og opprettholdelsen av vekttap. Det er noen studier som har konkludert med at lavkarbo/høyfett fungerte best, mens andre studier har konkludert med det motsatte. Å spise mat med lav glykemisk indeks/glykemisk belastning ser ut til å være gunstig.
+
+## Hva skal vi tro?
+
+For å oppsummere funnene fra studien, sier forfatterne at de sterkeste funnene er at økt inntak av fiber og nøtter beskytter mot vektøkning, mens økt inntak av kjøtt predikerer større vektøkning. De nest sterkeste funnene gjelder inntak av meieriprodukter og det å følge et anbefalt kostholdsmønster. Generelt gav matvarer og kostholdsmønstre sterkere resultater enn de enkelte næringsstoffene.
+
+Denne litteraturanalysen viser på en god måte hvor kompleks sammenhengen mellom kosthold og vekt er. At matvarer med lignende sammensetning ser ut til å ha motsatt effekt på vekten underbygger viktigheten av å gi matvarebaserte kostråd.
+
+På de fleste områder ser vi at resultatene fra de ulike studiene spriker i alle retninger. Det er mye som kan fungere, og alt dette understreker viktigheten av å finne noe som fungerer på individuelt nivå. Å spise fiberrikt ser ut til å være et godt råd, og nøtter kommer også positivt ut. Det ser heller ikke ut til at det er noe poeng å frykte meieriproduktene, og inntaket av kjøtt bør kanskje reduseres noe. Etter min mening er det først og fremst det bearbeidede kjøttet man bør redusere på, men denne analysen gav altså ikke støtte for dette med tanke på overvekt. Å følge de offentlige anbefalingene ser ut til å være et godt valg, og det samme med middelhavskosten, hvertfall om vi skal bruke utvikling i kroppsvekt som et resultatmål.
+
+Det er også viktig å få understreket at denne analysen i hovedsak er bygget på observasjonsdata, ikke intervensjonsdata, slik at resultatene må vurderes deretter. I tillegg bør det også nevnes at det heller ikke er tatt høyde for effekten av fysisk aktivitet, noe som etter min mening er vel så viktig som kosthold for å oppnå god helse.
+
+Til slutt forfatternes konklusjon:
+
+> In general, the results suggest that the proportion of macronutrients in the diet is not important in prevention of obesity. In contrast, plenty of fibre-rich foods and dairy products, and less refined grains, meat and sugar-rich foods and drinks were associated with less weight gain in prospective cohort studies.
+
+1.Fogelholm M, Anderssen S, Gunnarsdottir I, Lahti-Koski M: **Dietary macronutrients and food consumption as determinants of long-term weight change in adult populations: a systematic literature review**. *Food & nutrition research* 2012, **56**.

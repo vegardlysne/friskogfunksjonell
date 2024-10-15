@@ -1,0 +1,57 @@
+---
+title: "Kaliumredusert kost"
+author: "Ingvild Thun"
+date: 2013.10.31
+---
+
+Tilbake til [kosthold i helseinstitusjoner](../../kosthold-institusjoner.qmd "Kosthold i helseinstitusjoner").
+
+Maten vi spiser inneholder makronæringsstoffene karbohydrat, protein og fett, men også viktige mikronæringsstoffer i form av vitaminer, mineraler og sporstoffer. Kalium er et mineral som er viktig for mye, blant annet syrebasebalansen og for normal funksjon av nerver, muskler og nyrer. Noen pasientgrupper har behov for å begrense inntaket av dette mineralet, og for disse benyttes kalimredusert kost.
+
+Kaliumredusert kost inngår i serien [kosthold i helseinstitusjoner](http://www.friskogfunksjonell.no/kosthold-i-helseinstitusjoner/ "Kosthold i helseinstitusjoner").
+
+-   Les mer om [kalium](http://www.friskogfunksjonell.no/kalium/ "Kalium")
+
+## Målgruppe
+
+Så hvem trenger et kosthold med begrensede mengder kalium? Personer med redusert utskillelse av kalium og forhøyet kalium i blodet, såkalt hyperkalemi. Dette er hovedsakelig et problem hos de som har liten eller ingen [urinproduksjon](http://www.friskogfunksjonell.no/nyre-2/ "Nyrene del 2 – Væskebalanse og urinproduksjon"), som kan skyldes problemer i [nyrene](http://www.friskogfunksjonell.no/nyre-1/ "Nyrene del 1 – Oppbygging og glomerulær filtrasjonsrate"). Hensikten med kosten er dermed å normalisere kaliumverdier i blodet for å motvirke konsekvensene av forstyrret kaliumbalanse. Evnen til å utskille kalium svekkes med alderen.
+
+## Matvarevalg
+
+Kalium finnes overalt i all mat, men hovedkildene er poteter, fruktjuice, tørket frukt, nøtter, sjokolade, brunost og salterstatninger. Frukt, bær og grønnsaker inneholder ulike mengder kalium; lavt, moderat eller høyt nivå. Lavt innhold er 150mg kalium per 100g vare, moderat er 150mg kalium per 75g vare og høyt er 150mg kalium per 10-50g vare.
+
++-------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Kaliuminnhold** | **Frukt og bær**                                                                                                                                                                  | **Grønnsaker**                                                                                                                                                                                        |
++-------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Lavt**          | Ananas, eple, pære, vannmelon, hermetisk frukt u/lake, klementin, litchi, fersken, nektarin, druejuice, stikkelsbær, blåbær og tyttebær                                           | Babygulrot (fryst), sikorisalat, grønn paprika, syltede rødbeter, hermetiske grønne erter (obs salt), lime, sitron, frosne grønnsaksblandinger kokt i mye vann                                        |
++-------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Moderat**       | Appelsin, meloner, pasjonsfrukt, mango, kaktusfiken, plommer, appelsinjuice, bjørnebær, bringebær, jordbær og multer                                                              | Agurk, aubergine, frosne grønnsaker, sukkererter, løk, herm.mais (obs salt), paprika, issalat, endive, surkål og herm.sjampinjong (obs salt)                                                          |
++-------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Høyt**          | Aprikos, avokado, banan, druer, granateple, guava, kiwi, papaya, rabarbra, eplejuice, kirsebær/moreller, rips, solbær, tørket frukt av aprikos, rosiner, svisker, daddel og fiken | Asparges, aspargesbønner/grønne, bladsalat, rapid, blomkål, ertestuing, gresskar, gulrot, kinakål, kålrot, mais, neper, purreløk, sellerirot, spinat, squash, stangselleri, tomat, tomatpure, bønner\ |
+|                   |                                                                                                                                                                                   | **Unngå**: grønnkål, pastinakk, persillerot, rosenkål, sopp og tomatpure                                                                                                                              |
++-------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+Frukt og grønnsaker er ikke det første man kutter ut, men man bytter til lavnivå. Man skal forsøke å opprettholde inntaket så mye som mulig og se hvor langt man kommer med å kutte ut andre matvarer som ikke er viktige ernæringsmessig. Dette gjelder blant annet lakris, kaffe, kakao, øl, vin og røyketyggis. Man prøver å beholde grove kornprodukter og havregryn.
+
+Grønnsaker med høyt nivå av kalium blir tilberedt via en prosedyre kalt *kaliumreduserende tilberedningsmetode*: kalium løses lett i vann og man kan dermed benytte seg av bløtlegging, koking og konservering. Hvis hele prosedyren følges, skal kaliuminnholdet bli halvert:
+
+-   Skall må fjernes
+-   Kutte matvaren i små biter
+-   Bløtlegge og koke i mye vann
+-   Kokevann og hermetisk lake må kastes
+-   Poteter og grønnsaker: skrelles og deles i biter, legges i vann over natten og kokes o nytt vann
+-   Frosne blandinger har lavere innhold enn rå vare – reduseres ytterligere ved å koke i mye vann
+-   Belgfrukter: bløtlegges over natten, skift vann og bytt 1-2 ganger ila koketiden
+-   Fisk og kjøtt: mest mulig *kokt* – her deles de opp i små biter, skifter også vann ofte
+
+## Utfordringer
+
+Hva er så utfordringene med et kaliumredusert kosthold? Å få dekt behovet for vitaminer, mineraler, sporstoffer og fiber kan være en utfordring, derfor er det viktig å innta den mengden av frukt og grønt man kan. Kosttilskudd kan være en mulighet hvis man ikke kommer i mål med kosten, men dette må samkjøres med en spesialist. En velfungerende tarm er også viktig for kaliumutskillelse, slik at nok vann og [fiber](http://www.friskogfunksjonell.no/fiber/ "Fiber") er essensielt.
+
+## Råd for kaliumrestriksjon
+
+-   Kutte ut matvarer med høyt kaliuminnhold som ikke er ernæringsmessig viktige
+-   Spise frukt og grønt med lavt innhold
+-   Koke i stedet for å steke/ovnsbake
+-   Benytte seg av kaliumreduserende tilberedningsmetode på høynivågrønnsaker for mer variasjon
+-   Unngå forstoppelse; drikk vann og spis fiber evt bruke romoppfyllende eller osmotisk lakserende midler

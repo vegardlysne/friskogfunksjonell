@@ -1,0 +1,55 @@
+---
+title: "Dette påvirker håndtering og opplevelse av stress"
+author: "Andrea Rørvik Marti"
+date: 2014.01.16
+---
+
+I [forrige artikkel](stressresponsen.qmd) gav jeg en oversikt over hvordan en typisk stressrespons utarter seg. Likevel ble det påpekt at stress varierer fra person til person. Hvorvidt en stressrespons forekommer, samt hvor sterkt den er, påvirkes av faktorer som varierer basert på situasjon, gener, oppvekst, erfaring, og personlighet. Her vil jeg gjøre rede for en del av disse faktorene. I senere artikler vil jeg komme tilbake til hvordan disse variasjonene kan ha betydning for en persons fysiske og psykiske helse.
+
+Artikkelen er basert på review-artikkelen «The time dimension in stress responses: Relevance for survival and health (1).
+
+## Stabile trekk
+
+Stabile trekk er betegnelsen som gis på egenskaper som varierer mennesker imellom. Dette inkluderer genetiske forskjeller, men også forskjeller som kommer som resultat av påvirkning gjennom en persons liv. Eksempler på slik påvirkning kan være stress som påføres under mors svangerskap (prenatalt stress), ulike kostholdsfaktorer og varierende nivåer av hormoner gjennom oppveksten. Stabile trekk vil påvirke hvordan en person takler stressende situasjoner.
+
+Generelt kan man si at litt stress under barnets utvikling har positiv effekt. Dette vil føre til en redusering av stressrespons når man utsettes for stressende situasjoner senere i livet. Litt motgang kan altså gjøre en sterkere og bedre rustet til å takle fremtidige vanskelige situasjoner. Mye stress tidlig i livet kan derimot ha en svært negativ effekt på evne til å takle stress senere. Dette kan blant annet føre til langvarig endring i hjernens struktur og kjemi, og føre til det man kaller sensitivisering. Sensitivisering vil jeg komme tilbake til i en senere artikkel
+
+## Situasjonsfaktorer
+
+Stabile trekk påvirker hvordan kroppen reagerer på endokrinologisk-, nevrokjemisk-, immunologisk- og atferdsnivå når vi utsettes for stress. Men situasjonen påvirker også hvordan stressresponsen utarter seg. En stressrespons kan utløses av en hvilken som helst fysisk stimulus, og responsen er både individuell og situasjonsbetinget. «Ulike mennesker reagerer ulikt på ulik stimuli i ulike situasjoner». Grunnen til dette er at forholdet mellom stimulus og respons er ikke-lineær. Etter at stimulusen har blitt oppdaget må informasjonen tolkes og filtreres av hjernen, og det er ulikheter i tolkningen som resulterer i variasjon i respons. Mer spesifikt finner vi to relevante teoretiske «filtre» som påvirker hvordan vi opplever stress. Det første filteret handler om stimulus-forventning og det andre filteret handler om respons-resultat-forventning. Jeg vil nå forklare litt nærmere hva som menes med dette.
+
+### Stimulus-forventning
+
+Vi har alle forventninger om hva en stimulus er, basert på våre tidligere erfaringer. Disse forventningene kommer av den typen læring som kalles for klassisk betinging, hvor en stimuli vekker ulike spesifikke assossiasjoner. Hvis du forventer at en farlig stimulus er farlig vil dette være bra, og stressresponsen vil sette inn for at du skal kunne unngå denne farlige stimulusen. Det vil derimot være negativt hvis en farlig stimulus *ikke* vekker assossiasjoner til noe farlig, siden du da ikke vil forvente den potensielle skaden stimulusen kan påføre deg. Det kan også være at en helt ufarlig stimulus vekker assossiasjoner til noe farlig, og at stressresponsen settes inn selv om dette ikke er nødvendig. Dette kan også ha negative konsekvenser, da stressresponsen ikke bør aktiveres når det ikke er nødvendig.
+
+Stimulus-forventning påvirker hvordan vi opplever en stimulus, og også hvilken effekt stimulusen har på oss. Et godt eksempel på dette er hvis du drikker en dyr vin kontra en billig vin. Studier viser at folk rapporterer at en vin smaker bedre hvis de har fått oppgitt at denne er svært kostbar, sammenliknet med hvis de har fått oppgitt at vinen var billig (2). Dette skjer selv om det er nøyaktig samme vin de får smake på. Ikke bare endres vår subjektive oppfatning av vinen, men vi ser også ulikheter i hjerneaktivering avhengig av hvilken informasjon vi har fått om vinen vi drikker. Stimulus-forventning er også knyttet til placebo-effekten, for eksempel ved at forventningen om at en behandling skal ha en effekt bidrar til at den virker bedre.
+
+### Respons-resultat-forventning
+
+Stressresponsen påvirkes ikke bare av hvilke assossiasjoner vi har til potensielt stressende stimuli, men også til hvilke forventninger vi har til hva vi kan gjøre for å unngå eller eliminere den stressende stimulusen. Denne typen forventning er knyttet til operant betinging, og handler om hva vi tror kommer til å skje hvis vi foretar oss noe. Hvis vi utsettes for en stressende stimulus, men vet at vi enkelt kan respondere og eliminere stimulusen så behøver vi ikke å utløse noen stor stressrespons siden vi allerede er godt forberedt og vet hvilke tiltak som må iverksettes. Dette er ikke nødvendigvis relatert til hvor godt vi i realiteten er rustet til å takle situasjonen, men til hvor godt vi *forventer* at vi kan takle situasjonen.
+
+Dette ble demonstrert i et klassisk eksperiment fra 1978 som ble utført på menn som trente til å bli fallskjermjegere (3). Kortisol- og testosteronnivåer ble målt rett før og rett etter mennenes aller første treningshopp. Rett etter hoppet økte nivåene av kortisol, og nivåene av testosteron falt. Dette indikerer at mennene opplevde stress. Det de derimot så, allerede på dag to i treningen, var at disse hormonelle endringene var kraftig redusert, og etter svært kort tid var stressresponsen så å si eliminert. Dette skjedde lenge før mennene hadde mestret fallskjermhopping, og de var i aller høyeste grad fortsatt på nybegynnernivå. Det som derimot *hadde* skjedd var at mennenes forventning til sine egne evner (deres respons-resultat-forventning) var positiv. De følte at de kunne mestre fallskjermhoppet, til tross for at de i realiteten ikke hadde den nødvendige treningen.
+
+Ursin og Eriksen har formulert en teori for hvordan respons-resultat-forventning påvirker hvordan vi takler stressende situasjoner. Jeg vil komme nærmere inn på teorien i en senere artikkel, men vil her oppsummere raskt. Hvis vi har en positiv respons-resultat-forventning opplever vi at vi er i stand til å takle stressende stimuli. Vi opplever det som kan kalles for *mestring*. Hvis vi derimot har en negativ respons-resultat-forventning så forventer vi at uansett hva vi foretar oss vil utfallet være negativt. Da opplever vi det som kan kalles for *håpløshet*. Vi kan også ha en totalt fraværende respons-resultat-forventning. Da er vi av den oppfatningen at uansett hva vi gjør så kan vi ikke påvirke utfallet av situasjonen. Da opplever vi det vi kan kalle for *hjelpeløshet*. Det viktige her er ikke hva vi *faktisk* kan gjøre, men hva vi *forventer* at vi er i stand til å gjøre i en gitt situasjon. Respons-resultat-forventning hjelper hjernen og kroppen vår med å bestemme seg for hvordan den skal reagere i en gitt situasjon. Hvorvidt vi opplever mestring, håpløshet eller hjelpeløshet påvirker hvordan stressresponsen utarter seg, og kan også ha stor innflytelse på vår fysiske og psykiske helse. Dette vil jeg også komme nærmere inn på i senere artikler.
+
+## Oppsummering
+
+-   Mange faktorer påvirker hvordan eller hvorvidt stressresponsen utarter seg hos hver enkelt person.
+-   Stabile trekk er relativt permanente og varierer fra person til person. Slike trekk bestemmes av blant annet gener, opplevelse av stress tidlig i livet, ernæring og hormoner.
+    -   Generelt kan man si at litt stress tidlig i livet er positivt, men overdrevent stress kan føre til sensitivisering og ha en negativ effekt på evne til å takle stressende situasjoner senere i livet.
+-   Situasjonsfaktorer varierer fra situasjon til situasjon, og spesielt til hvordan vi opplever at vi kan takle en potensielt stressende stimulus.
+-   Stimulus-forventning: De assossiasjonene en stimulus vekker i oss vil påvirke hvordan vi forholder oss til den gitte stimulusen.
+-   Respons-resultat-forventning: Hvorvidt vi *forventer* at vi er i stand til å takle en gitt stimulus vil påvirke hvordan vi reagerer i situasjonen.
+    -   Positiv respons-resultat-forventning = mestring
+    -   Negativ respons-resultat-forventning = håpløshet
+    -   Fraværende respons-resultat-forventning = hjelpeløshet
+
+Alle disse faktorene er avgjørende for hvordan vi opplever og mestrer hverdagen, og kan påvirke vår langvarige psykiske og fysiske helse. Dette vil jeg komme tilbake til i senere artikler.
+
+*Referanser:*
+
+1.  Eriksen, H. R., & Ursin, H. (1999). The time dimension in stress responses: Relevance for survival and health, *Psychiatry Research*, 85, 39-50.
+
+2.  Plassmann, H., O’Doherty, J., Shiv, B., & Rangel, A. (2008). Marketing actions can modulate neural representations of experienced pleasantness. *PNAS*, 105, 1050-1054.
+
+3.  Levine, S. (1978). Cortisol change following repeated experiences with parachute training (pp. 51-56). In H. Ursin, E. Baade & S. Leving (eds), *Psychobiology of Stress: A study of coping in men.* New York: Academic Press.

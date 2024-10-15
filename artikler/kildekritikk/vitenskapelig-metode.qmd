@@ -1,0 +1,49 @@
+---
+title: "Den vitenskapelige metode"
+author: "Andrea Rørvik Marti"
+date: 2013.12.26
+---
+
+[Tilbake til kildekritikk, vitenskap og tankefeil](../../kildekritikk.qmd "Kildekritikk, vitenskap og tankefeil")
+
+Vitenskapelig metode er et sett med retningslinjer for hvordan man skal gå frem for å undersøke en problemstilling eller et spørsmål på en vitenskapelig måte. Denne metoden brukes for å sikre at den kunnskapen man tilegner seg gjennom forskning skal være så objektiv og sikker som mulig. Vitenskapelig metode legger vekt på systematiske metoder for å frembringe ny kunnskap. Dette gjøres for at opplysninger man kommer frem til på vitenskapelig vis skal kunne repeteres for kvalitetssikring. Vitenskapelig metode er den beste og mest pålitelige måten vi har for å tilegne oss kunnskap. I denne artikkelen vil jeg i korte trekk gjøre rede for de stegene som inngår i den vitenskapelige metode.
+
+## Still et spørsmål
+
+Man starter som regel med et spørsmål man ikke har noe svar på. Dette spørsmålet kan være stort eller lite, bredt eller smalt. Som regel vil man kunne formulere gode og spesifikke spørsmål om man har detaljkunnskaper om det temaet man ønsker å forske på. Men man kan også begynne med et stort overhengende spørsmål, og senere i prosessen avgrense det til et mer spesifikt tema som kan undersøkes på en vitenskapelig måte.
+
+Etter at spørsmålet er formulert er det viktig å undersøke bakgrunnen for spørsmålet man har valgt å stille. Her bør man forsøke å finne ut hvilken kunnskap som allerede eksisterer rundt temaet man ønsker å fokusere på. Kanskje oppdager man også at spørsmålet man ønsker å stille har blitt besvart før, eller kanskje finner man ut at problemstillingen viser seg å være langt mer komplisert enn det man først trodde.
+
+Baser på bakgrunnsundersøkelsene kan man deretter formulere en hypotese. Dette skal være en spesifikk påstand som man mener kan være plausibel. Denne skal være så spesifikk som mulig slik at den kan testes på en relativt enkel og systematisk måte.
+
+## Eksperiment
+
+Det neste steget er å teste hypotesen man har formulert med et eksperiment. Her er det ekstremt viktig at eksperimentet på forhånd utformes slik at resultatene man får vil kunne bekrefte eller avkrefte hypotesen man har formulert. Om eksperimentet er dårlig designet vil dataene man samler inn potensielt være verdiløse, eller i det minste ikke kunne si noe som helst om det man ønsker å finne ut av. Man må også sørge for at eventuelle etiske retningslinjer oppfylles i henhold til [de lover og regler som gjelder](http://www.friskogfunksjonell.no/forskningsetikk/ "Forskningsetikk").
+
+Det er svært viktig at eksperimentet utføres på en systematisk måte og at det man skal gjøre er godt planlagt på forhånd. Fremgangsmåten skal være klart og tydelig formulert slik at eksperimentet i ettertid kan reproduseres for kvalitetssikring. Dette er også viktig fordi eksperimentet skal gjennomføres i sin helhet selv om man kanskje tidlig i prosessen innser at man ikke får samme resultater som hypotesen hadde forespeilet. Eksperimentet skal ikke gjennomføres med prøving og feiling for å forsøke å finne støtte for hypotesen sin. Det er like viktig å finne ut at en hypotese er feil som å finne ut at den er korrekt – begge former for funn bidrar til ny kunnskap om temaet.
+
+Man må også passe på at man etter å ha utført eksperimentet sitter med data som er mulig å analysere. Derfor må man også planlegge hvilke statistiske analyser man ønsker å gjennomføre på forhånd.
+
+Ulike typer studier og statistiske begreper kan du lese mer om i artikkelen: [Signifikans og alt det der](http://www.friskogfunksjonell.no/signifikans-og-alt-det-der/ "Signifikans og alt det der")
+
+## Analyser data
+
+Når eksperimentet er gjennomført skal dataene man har samlet inn analyseres. Dataene vil forhåpentligvis være samlet inn på en slik måte at de er i et format som er lett å analysere med en statistisk metode som for eksempel t-test (sammenligner to resultater) eller variansanalyse (ANOVA) (sammenligning av flere enn to resultater). Fra en test som disse vil man kunne beregne både effektstørrelse og signifikansnivå, som gir grunnlag for å vurdere om man kan akseptere eller avvise hypotesen man formulerte i utgangspunktet.
+
+Når man har funnet ut om hypotesen kan aksepteres eller avvises er det på tide å trekke konklusjoner. Hva betyr disse resultatene, og på hvilken måte er dette nytt? Man må allikevel være veldig forsiktig med å ikke komme med for bastante påstander. Det er ekstremt viktig at alle konklusjoner som trekkes skal støttes av dataene fra eksperimentet. Enhver påstand må begrunnes med utgangspunkt i håndfast bevis.
+
+Det er viktig å ta hensyn til ulike feilkilder som [uteliggere](http://www.friskogfunksjonell.no/soyaprotein-ostrogen-og-uteliggere-hvorfor-du-skal-vaere-obs-pa-feilkilder/ "Soyaprotein, østrogen og uteliggere – Hvorfor du skal være obs på feilkilder") og [konfunderende faktorer](http://www.friskogfunksjonell.no/helsebevisste-individer/ "Helsebevisste individer – en forstyrrende faktor i forskningen?").
+
+Etter et gjennomført eksperiment vil man aldri sitte med alle svar på spørsmålet man stilte i utgangspunktet. Mest sannsynlig vil resultatene ha åpnet opp for en haug med nye spørsmål som vil måtte testes på samme måte som den aktuelle hypotesen. Slik er det vitenskapen fungerer; den er en organisk prosess som aldri stopper. Man blir aldri 100% sikker på noe, men vil forhåpentligvis komme nærmere svaret for hvert eksperiment som utføres. Ny kunnskap gjør det mulig å stille nye, forhåpentligvis enda bedre, spørsmål, og på den måten er det positivt at vitenskapelig metode produserer mer og mer problemstillinger som krever vitenskapelig undersøkelse.
+
+## Kommuniser resultatene
+
+Resultatene av et eksperiment er ganske så ubrukelige om de låses nede i en skuff og aldri blir tilgjengelige for andre som vil se dem. Derfor er det viktig at forskere deler kunnskapen de har tilegnet seg både med andre forskere og med befolkningen som helhet. Det er svært viktig at man er så åpen som mulig om hvordan man har kommet frem til resultatene i tillegg til hva man har funnet. Dette må gjøres for at andre skal ha muligheten til å evaluere metodene brukt, og derav kunne si ifra om de mener konklusjonene som trekkes er rettferdiggjort eller ikke. Vitenskapelige funn skal kunne etterprøves og evalueres, og om de utsettes for sterk nok kritikk, bør dette føre til at de enten forkastes eller at nye eksperimenter utformes for å forbedre metodene i ettertid.
+
+En viktig form for kvalitetssikring i den vitenskapelige prosessen forekommer når vitenskapelige funn publiseres. [Publikasjonsprosessen](http://www.friskogfunksjonell.no/publikasjonsprosessen/ "Publikasjonsprosessen") er streng, og dette er viktig for å sikre at vitenskapelige påstander som fremmes for andre er støttet av det dataene fra eksperimentet sier.
+
+Når funnene er gjort tilgjengelige for forskersamfunnet og resten av samfunnet generelt, kan denne nye kunnskapen legges til grunn for ny forskning. Kanskje vil en forsker i fremtiden bruke denne kunnskapen når han eller hun i sin tid gjør et dypdykk i litteraturen for å undersøke bakgrunnsstoff for et eksperiment vedkommende selv planlegger å utføre. Forskeren som utførte det første eksperimentet kan så lene seg tilbake og være fornøyd med å ha bidratt til vitenskapelige fremskritt. Selv om ett enkelt funn fra ett enkelt eksperiment ikke alltid er banebrytende i seg selv kan det være et vesentlig ledd i å finne svar på store vitenskapelige gåter. Store teorier er stort sett alltid bygget på en stor mengde mindre vitenskapelige funn. Og det er nettopp det at alle disse småfunnene er gjort gjennom utførelse av den vitenskapelige metode som gjør disse store vitenskapelige teoriene så robuste og troverdige. Ha dette i bakhodet når du utøver [kildekritikk](http://www.friskogfunksjonell.no/kildekritikk/ "Kildekritikk – hva er en god kilde?").
+
+Den vitenskapelige metode er oppsummert i modellen under:
+
+![](images/clipboard-1093494877.png)

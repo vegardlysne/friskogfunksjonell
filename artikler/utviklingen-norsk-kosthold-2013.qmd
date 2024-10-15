@@ -1,0 +1,74 @@
+---
+title: "Utviklingen i norsk kosthold 2013"
+date: 2013.12.13
+---
+
+For et par dager siden publiserte [Helsedirektoratet](http://helsedirektoratet.no/Sider/default.aspx) den årlige rapporten "Utviklingen i norsk kosthold", som kartlegger ulike aspekter av det norske kostholdet. Denne rapporten gir et godt bilde av hvordan den gjennomsnittlige nordmannen spiser, og kan være interessant å ta en titt på for å se hvordan  dette utvikler seg over tid.
+
+Rapporten er publisert i både lang og kort versjon, og PDF finner du ved å trykke på linkene under.
+
+-   [Utviklingen i norsk kosthold - langversjon](http://www.helsedirektoratet.no/publikasjoner/utviklingen-i-norsk-kosthold-langversjon-2013/Publikasjoner/IS-2116%20_langversjon.pdf)
+-   [Utviklingen i norsk kosthold - kortversjon](http://www.helsedirektoratet.no/publikasjoner/utviklingen-i-norsk-kosthold-matforsyningsstatistikk-2013/Publikasjoner/Utviklingen%20i%20norsk%20kosthold%202013.pdf)
+
+## Datagrunnlag
+
+Utviklingen i norsk kosthold er en rapport som er bygget på undersøkelser på flere nivå. På det mest overordnede nivået finner vi matforsyningsstatistikkene, som forteller oss hvor mye mat vi har hatt tilgjengelig totalt sett, også kalt engrosnivå. Dette inkluderer produksjon, import, eksport og omsetning av matvarer. Disse tallene har ulik grad av nøyaktighet for ulike matvaregrupper, og jevnt over er tallene solide for kjøtt, korn og meieriprodukter, mens tallene for fisk, poteter, grønnsaker, og frukt er mindre gode. De viktigste kildene bak disse tallene er de ulike markedsaktørene.
+
+Engrostall sier lite om hva vi faktisk har spist, og derfor samles det også inn data som sier noe om forbruket. Forbruksundersøkelsene gjennomføres av statistisk sentralbyrå, og registrerer hvor mye mat som anskaffes av et representativt utvalg av norske husholdninger. Disse tallene sier noe om hva vi kjøper inn av mat, men plukker ikke opp den maten vi spiser utenfor hjemmet som eksempelvis i kantinen på jobb eller på restaurant. Det mest detaljerte nivået det er samlet inn data på er kostholdsundersøkelser i ulike aldersgrupper. Disse tallene gir et estimat på hva som faktisk blir spist.
+
+Helsedirektoratet skriver selv:
+
+> Beskrivelsen av utviklingen i norsk kosthold bygger i hovedsak på tallmaterialet fra matforsyningsstatistikk for hele landet i perioden 1953–2012, samt undersøkelser angående anskaffelse av fisk i privathusholdninger 1995–2012. Statistisk sentralbyrås forbruksundersøkelser over anskaffelse av matvarer i privathusholdninger er også en viktig del av datagrunnlaget for å beskrive trender i matvareforbruket.
+
+## Selvforsyningsgrad og matpriser
+
+Selvforsyningsgrad er et mål på hvor mye av maten vi produserer selv. I 2012 var denne på 43%, men det nevnes at denne kan økes betraktelig om det skulle bli behov for det.
+
+Matvareprisene bestemmes av mange faktorer, som jordbruksavtaler, import/eksport, tilbud/etterspørsel, subsidier og momsregler. Justert for stigningen i konsumprisindeksen har maten jevnt over blitt billigere. Her kan vi forøvrig se at prisendringen i ulike matvaregrupper skiller seg mye fra hverandre. Fra 1998 til mai 2013 har konsumprisindeksen steget fra 100 til 134. I samme periode kan vi se at kjøtt plasserer seg på 103, som betyr at kjøtt i praksis har blitt mye billigere. Det samme gjelder kaffe, te og kakao (104), frukt (117) og sjokolade, syltetøy og sukkervarer (113). I motsatt ende finner vi fisk (137), melk, ost og egg (138), matfett (166) og brus, leskedrikker og jus (166), som altså har blitt dyrere. Dette er oppsummert i tabellen under.
+
+![](images/clipboard-1642603918.png)
+
+Totalt sett ender matvareprisindeksen på 125, altså mindre enn den totale konsumprisindeksen. Dette ser vi igjen i andelen av vår inntekt som brukes på mat. I perioden 1977-79 brukte vi 18%, noe som sank til 10% i 2007-09. Av matvaregruppene er det kjøtt som stjeler den største andelen av matutgiftene våre, og her bruker vi hele tre ganger så mye som vi bruker på fisk. Vi bruker også en betydelig andel penger på sukkervarer og leskedrikker.
+
+## Engrosforbruket
+
+Engrosforbruket sier noe om det årlige forbruket av ulike matvarer målt i kg per innbygger. Her tas det ikke hensyn til svinn, slik at det reelle forbruket vil være noe lavere. For å oppsummere trenden de siste årene har jeg laget en punktvis liste som tar utgangspunkt i tallene fra 2011, foreløpige tall fra 2012 og til slutt prognoser for 2013. Alle tallene er per innbygger per år. Listen er oppsummert i en tabell lenger nede.
+
+-   Kornforbruket (inkludert ris) har de siste årene vært synkende. I 2011 var tallet 83,5 kg. I 2012 sank dette til 82 kg, og prognosene for 2013 ligger på 81,6 kg.
+-   Det totale forbruket av poteter er kraftig redusert fra tidligere, men utviklingen ser ut til å ha bremset opp. I 2011 spiste vi 59,8 kg hver, mens tallet i 2012 var 63,7 kg. Prognosen for 2013 viser en reduksjon til 60 kg. En stadig større del av totalforbruket er i form av potetprodukter som potetchips og pommes frites, og av de totale 60 kg er det beregnet at matpoteten bare utgjør 24,4 kg.
+-   Grønnsaksforbruket økte fra 71,7 kg i 2011 til 74,2 kg i 2012. Prognosen for 2013 indikerer at forbruket synker noe, ned til 72,1 kg.Inntaket av frukt og bær stiger jevnt, fra 86,7 kg i 2011 til 87,9 kg i 2012. 88,2 kg er prognosen for 2013. Totalt kan vi se at inntaket av disse to øker.
+-   Inntaket av sukker og sukkervarer nådde sin topp rundt år 2000 (44kg), og har deretter sunket. I 2011 var inntaket på 30,2 kg, for så å synke til 29,1 kg i 2012. Prognosen for 2013 sier at forbruket er stabilt på 29,2 kg.
+-   Totalforbruket av melk er redusert fra 96,7 kg i 2011 til 94,8 kg i 2012 og 92,3 kg i 2013. Tallene for 2013 fordeles på 17,9 kg helmelk, 47,7 kg lettmelk og 26,6 kg ekstra lett eller skummet. Forbruket av fløte og rømme har vært stigende, men har nå stabilisert seg. Både 2011 og 2012 viser 7,8 kg, mens 2013 viser 7,7 kg. Inntaket av melk som ingrediens i ulike ferdigprodukter var i 2011 på 31 kg. Dette økte til 34,3 kg i 2012, men har sunket til 29,7 kg i 2013.
+-   Smørforbruket har fått en del oppmerksomhet i media, og steg en del for et par år siden. Nå har det imidlertid stabilisert seg, og utviklingen har gått fra 3,3 kg i 2011 til 3,6 kg i 2012 og 2,4 kg i 2013. Vi ligger fremdeles godt under rekordforbruket på 70-tallet da vi lå oppunder 6 kg. Margarinforbruket har sunket siden det kom på markedet, og selv om utviklingen er bremset så synker forbruket fortsatt, fra 9,4 kg i 2011, via 9,3 kg i 2012 og til 9 kg i 2013.
+-   Osteforbruket har steget kraftig fra tidligere. I 2011 lå forbruket på 17 kg, mens 2012 og 2013 ligger på henholdsvis 17,5 og 17,6 kg. Mesteparten av dette utgjøres av hvitost.
+-   Forbruket av kjøtt og kjøttprodukter er fremdeles økende, selv om den enorme økningen fra 1990-2010 er noe bremset opp. I 2011 var forbruket på 75 kg, i 2012 økte det litt til 75,7 kg, mens inntaket i 2013 ser ut til å bli 76,3 kg. Eggforbruket er stabilt.
+
+![](images/clipboard-1704248179.png)
+
+-   Forbruket av fisk er beregnet på bakgrunn av undersøkelser om husholdningers anskaffelse. Ut fra disse tallene ser det ut som om spiselig mengde fisk øker fra 10,5 kg i 2011 til 11,2 kg i 2012. Tall fra 2013 foreligger ikke. Dette vises i en egen tabell under.
+
+## Sammensetning av kostholdet
+
+Maten vi spiser inneholder næringsstoffer. Her følger en oppsummering av hvordan inntaket av og fordelingen mellom de ulike næringsstoffene har utviklet seg fra år 2000 frem til år 2012. Først i absolutte mengder, deretter i prosent av det totale energiinntaket.
+
+Det totale energiinntaket per person er i denne perioden redusert fra omtrent 2850 kcal til 2750 kcal. Inntaket av karbohydrater er redusert fra 369 til 317 g/dag, hvorav sukkerinntaket har sunket fra 120 til 90 g/dag. Proteininntaket er noe økt, fra 95 til 101 g/dag. Fettinntaket har økt fra 110 til 114 g/dag, og denne økningen kommer hovedsakelig i form av enumettet fett.
+
+Fordelingsmessig lå vi i år 2000 på 52% fra karbohydrater (hvorav 17% fra sukker), 13% fra protein og 34% fra fett (hvorav 14% mettet). I 2012 har fordelingen endret seg litt. Karbohydratene utgjør nå 47% av totalinntaket, hvorav 13% fra sukker. Proteininntaket utgjør 15%, mens fettinntaket utgjør 37%, hvorav 16% fra mettet fett. Husk at dette er målt andelsvis fra det totale energiinntaket, som har sunket, så se alle disse tallene i lys av de absolutte mengdene i avsnittet over.
+
+Tabellen viser en oppsummering av næringsstoffene vi får i oss.\
+![](images/clipboard-3525379886.png)
+
+## Oppsummering
+
+Utviklingen i norsk kosthold er en rapport som utgis hvert år, og brukes for å kartlegge hva vi nordmenn spiser. Jeg lar Helsedirektoratet få siste ord, og her er deres oppsummering av årets rapport:
+
+> I rapporten Utvikling i Norsk kosthold 2013 får man blant annet vite mer om disse utviklingstrekkene:
+> -   Grønnsak- og fruktforbruket øker
+> -   Mindre helmelk, men mer fet ost
+> -   Kjøttforbruket øker
+> -   Fiskeforbruket øker
+> -   Den gunstige utviklingen i kostens fettinnhold har stoppet
+> -   Sukkerforbruket minsker
+> -   Vi bruker mye penger på søtt og lite på fisk
+> -   Saltinntaket bør reduseres
+> -   Mange spedbarn ammes

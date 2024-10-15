@@ -1,0 +1,37 @@
+---
+title: "Stressresponsen"
+author: "Andrea Rørvik Marti"
+date: 2014.01.13
+---
+
+Denne artikkelen er den første i en kort serie som vil omhandle stress, subjektive helseplager og psykosomatikk. Denne første artikkelen omhandler de endringene som skjer i kroppen når vi utsettes for stressende stimuli. Stress er en naturlig og livsnødvendig prosess som vi alle opplever fra tid til annen. Her vil jeg fokusere på hvordan stressresponsen utarter seg rent biologisk, mens senere artikler vil fokusere på faktorer som bidrar til variasjon i stressrespons, samt mulige konsekvenser langvarig stress kan ha på en persons fysiske og psykiske helse.
+
+Artikkelen er basert på review-artikkelen «The time dimension in stress responses: Relevance for survival and health (1).
+
+Stressresponsen påvirker kroppens fysiologiske, endokrine (hormon) og autonome funksjoner, samt immunsystemet og hjernens biokjemi. Stress er en helt naturlig reaksjon som kan anses som kroppens «alarmsystem». Formålet er å gjøre innehaveren av kroppen oppmerksom på en ytre eller indre ubalanse eller abnormalitet. Stressresponsen trigges av en «stimulus», for eksempel en fare som har oppstått i miljøet eller en smerte i en kroppsdel. Visse systematiske endringer vil da inntreffe på ulike tidspunkt. Vi vil merke noen av disse endringene i form av en «fight or flight»-respons, som blant annet utarter seg i form av økt puls, endringer i kroppstemperatur, skjelving osv. Hensikten med stressresponsen er å beskytte oss fra potensiell fare ved å forberede oss på å agere raskt.
+
+## Stressresponsen på 1-2-4
+
+Her følger en oversikt over endringene som skjer i kroppen ved stressrespons i kronologisk rekkefølge.
+
+### 1. Hjerneaktivering
+
+Hjernen blir gjennom sanseinntrykk (syn, hørsel, lukt, smak eller berøring) gjort oppmerksom på en stimulus. Hjernen har i oppgave å holde oversikt over alle de ting som foregår både i vårt ytre og indre miljø, og passe på at alt er i balanse ([homeostase](http://www.friskogfunksjonell.no/homeostase/ "Homeostase")). Det første som skjer er at en stimulus tolkes som et tegn på at noe er i ubalanse, og tiltak må innsettes for å gjenopprette balansen. Dette merkes ved at vi blir mer våkne, og at elektrisk hjerneaktivitet øker. Metabolske endringer forekommer også, samt endringer i blodtilførselen til hjernen. Dette skjer i løpet av sekunder og minutter etter at stimulusen har blitt oppdaget.
+
+### 2. Atferdsaktivering
+
+Plutselige endringer i hjerneaktivering vil automatisk føre til endringer i atferd (men dette vil ikke nødvendigvis være oss bevisst). Vi vil automatisk respondere ved å orientere oss og søke informasjon om stimulusen som er blitt oppdaget. Vi vil forsøke å finne kilden til ubalanse i miljøet, og gradvis vil dette søket ende opp i målbevisst handling for å gjenopprette balansen.
+
+### 3. Psykofysiologisk aktivering
+
+Responsene i adferd skjer samtidig med endringer i autonome og vegetative nerver, både i de sympatiske og parasympatiske nervesystemene. Disse endringene bidrar til opplevelse av følelser (for eksempel frykt) som er en viktig komponent i stress. Slike endringer skjer litt saktere enn atferdsendringer, men allikevel i løpet av sekunder.
+
+### 4. Psykoendokrin aktivering
+
+De neste endringene som skjer er saktere, mer generelle, og påvirker de fleste [cellene](http://www.friskogfunksjonell.no/cellen/ "Cellen") i kroppen. I løpet av få sekunder vil hypofysen begynne å skille ut [hormoner](http://www.friskogfunksjonell.no/hormonsystemet/ "En innføring i hormonsystemet"). Deretter vil sekundære hormoner som for eksempel kortisol, adrenalin og thyroxin skilles ut. Kortisol bidrar hovedsakelig til å regulere opp blodsukker, men har også andre roller under stressresponsen. Adrenalin bidrar til å øke blodtilførsel til muskler og vitale organer, øke frigjøring av energisubstrat, samt øke puls og blodtrykk. Thyroxin (T4) bidrar gjennom sin omdanning til stoffskiftehormonet trijodotyronin (T3) også til oppregulering av [metabolisme](http://www.friskogfunksjonell.no/metabolismen/ "Metabolismen") og blodsirkulasjon, og er trolig delaktig i å «finregulere» effektene av adrenalin og kortisol. Det kan ta cirka 10-15 minutter før disse hormonene når sine høyeste nivåer.
+
+## Helt til slutt
+
+Stressresponsen slik den er lagt frem her representerer hvordan kroppen sannsynligvis vil reagere i møte med en kortvarig, plutselig fremtredende, stressende stimuli. Disse kortvarige endringene i kroppens biologi er helt ufarlige i små mengder, men kan i verste fall føre til langvarig skade om de forekommer for ofte. Det er også viktig å påpeke at variasjon alltid vil forekomme, og en rekke faktorer påvirker hvordan stressresponsen utarter seg. Disse faktorene, og hvordan de påvirker stress vil diskuteres i neste artikkel i denne serien.
+
+1.Eriksen, H. R., & Ursin, H. (1999). The time dimension in stress responses: Relevance for survival and health, *Psychiatry Research*, 85, 39-50.

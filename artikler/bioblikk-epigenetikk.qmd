@@ -1,0 +1,88 @@
+---
+title: "Bioblikk: DNA-metylering og epigenetikk"
+date: 2014.01.23
+---
+
+Epigenetikk er reversible endringer i genuttrykket som ikke skyldes endringer i selve arvestoffet. DNA inneholder oppskriften på alle proteinene kroppen produserer, og denne oppskriften er medfødt. Likevel er det ikke sånn at dette ikke kan påvirkes. I ordets rette forstand betyr epigenetikk «over genene», og i praksis bidrar epigenetiske mekanismer til å regulere hvilke gener som skal uttrykkes og i hvor stor grad. Metylering av DNA er en av de viktigste epigenetiske mekanismene, og i denne artikkelen vil jeg prøve å forklare hvordan dette bidrar til den epigenetiske reguleringen.
+
+*Bioblikk er en spalte som retter fokus på biokjemiske prosesser eller stoffer som er sentrale for helsen men som ikke får stor oppmerksomhet ellers.*
+
+For å få bedre utbytte av denne artikkelen anbefaler jeg at du først leser introduksjonsartikkelen om [enkarbonmetabolismen](bioblikk-enkarbonmetabolismen.qmd "Bioblikk: Enkarbonmetabolismen, en introduksjon") og [metyleringssyklus](bioblikk-metyleringssyklus.qmd "Bioblikk: Metyleringssyklus") for å få en grunnleggende forståelse for hva metylering er for noe og hvordan dette foregår. Kort oppsummert handler metyleringsreaksjoner om overføring av metylgrupper fra et molekyl til et annet. I de forrige artiklene kunne du lese at den primære metyldonoren i kroppen heter S-Adenosylmetionin (SAM), og at denne omdannes til S-Adenosylhomocystein (SAH) og videre til homocystein i løpet av metyleringssyklus. Metylering av makromolekyler som DNA og RNA er viktige reaksjoner, og i denne artikkelen vil jeg først og fremst fokusere på DNA-metylering som en sentral epigenetisk mekanisme.
+
+## DNA og det sentrale dogma
+
+DNA er kort for deoksyribonukleinsyre og består av byggestener som kalles nukleotider. Hvert nukleotid er satt sammen av et sukkermolekyl (deoksyribose), en fosfatgruppe og en base. I DNA finner vi fire ulike baser, to puriner (Adenosin og Guanin, A og G) og to pyrimidiner (Thymidin og Cytidin, T og C). DNA er dobbelttrådet, og de to trådene er bundet sammen med hydrogenbindinger mellom de ulike basene. A binder alltid til T, mens G alltid binder til C.
+
+DNA er arvestoffet vårt, og som nevnt i innledningen finner vi her oppskriften på alle proteinene kroppen vår produserer. For at et protein skal produseres må DNA først leses av og den aktuelle informasjonen videreføres til et mRNA-molekyl (transkripsjon). Dette reguleres blant annet av at transkripsjonsfaktorer binder til starten av et gen (promoterregionen). mRNA-molekylet forlater cellekjernen og fraktes videre til ribosomene, der proteinene produseres etter oppskriften (translasjon). Disse prosessene omtales som det sentrale dogma i molekylærbiologien. Dette kan du lese mer om i artikkelen om [genetikk](http://www.friskogfunksjonell.no/genetiske-og-metabolske-sykdommer-genetikk/ "Genetiske og metabolske sykdommer – genetikk").
+
+Det er rekkefølgen på basene som utgjør oppskriften på proteinene som skal produseres. Tre og tre baser koder nemlig for en aminosyre, og rekkefølgen på aminosyrene avgjør form og funksjon av det ferdige proteinet. Dette kalles den genetiske koden. En annen type RNA, tRNA, sørger for at den riktige aminosyren kobles på det voksende proteinet på riktig sted ved å lese av denne koden. Det ferdige proteinet kan deretter modifiseres videre, noe som gjør at det får den funksjonen det skal, eller brytes ned slik at aminosyrene kan brukes på nytt. Det sentrale dogmaet og kompleksiteten i det er illustrert i figurene under.
+
+## Metylering av DNA
+
+DNA-metyltransferaser kan koble en metylgruppe til C på DNA, og det dannes da 5-metylcytosin. Dette kan bidra til å hindre binding av transkripsjonsfaktorer, og dermed reduseres uttrykket av det aktuelle genet. Dette skjer først og fremst ved såkalte CpG-øyer, hvor vi har C og G ved siden av hverandre. Ettersom disse bindes til hverandre på de to trådene av DNA har vi det samme på begge sider, og C metyleres på begge trådene \[1\]. Vi har flere typer DNA-metyltransferaser, såkalte «de novo» metyltransferaser som metylerer DNA på nye steder og vedlikeholdsmetyltransferaser som sørger for å opprettholde metyleringsmønstre når celler deler seg.
+
+Metylering av DNA påvirkes av cellens metyleringsstatus, som igjen styres av nivåene av SAM og SAH \[2\]. Spesielt er det nivåene av SAH som er avgjørende, ettersom disse effektiv hemmer metyltransferasene \[3\]. For å linke dette til graden av DNA-metylering er det gjort noen studier som har demonstrert at økte nivåer av SAH fører til undermetylering \[4,5\], mens økte nivåer av SAM kan medføre overmetylering \[6\]. Det er også utviklet matematiske modeller som har vist hvordan forholdet mellom SAM og SAH påvirker aktiviteten i DNA-metyltransferasene \[7\].
+
+Epigenetiske mekanismer er reversible, noe som også gjelder for DNA-metylering. Hvordan denne demetyleringsprosessen foregår har ikke vært kjent før helt nylig, og er beskrevet i en review publisert i 2014 \[8\]. DNA demetylering kan foregå passivt dersom vedlikeholdsmetyltransferasene ikke fungerer som de skal. Da vil DNA bare være metylert på den ene tråden når cellen deler seg, og ved videre celledeling vil metyleringsmønsteret gradvis tynnes ut. Demetyleringen kan også foregå aktivt, ved at metylgruppen modifiseres. Først dannes 5-hydroksymetylcytosin, som deretter omdannes videre til 5-formylcytosin og 5-carboksycytosin, og dette er de biokjemiske prosessene som ligger til grunn for at metylgruppen fjernes fra DNA.
+
+## Faktorer som påvirker DNA-metylering
+
+DNA-metylering påvirkes som nevnt av metyleringsstatus. Metylgruppene som brukes i disse reaksjonene kommer enten fra kostholdet eller fra egenproduksjon, og kostholdet har derfor en betydning for DNA-metylering. Proteininntaket er direkte involvert gjennom å tilføre nytt metionin, mens inntaket av de sentrale næringsstoffene [kolin](http://www.friskogfunksjonell.no/bioblikk-andre-bioaktive-stoffer-i-mat-choline/ "Bioblikk: Andre bioaktive stoffer i mat – Choline"), betain, [folat](http://www.friskogfunksjonell.no/folat/ "Folat, vitamin B9"), [B12](http://www.friskogfunksjonell.no/b12/ "Kobalamin, vitamin B12") og [B6](http://www.friskogfunksjonell.no/b6/ "Pyridoksin, vitamin B6") er viktige for reaksjonene i homocysteinmetabolismen og metyleringssyklus \[9\]. Metabolismen spiller en sentral rolle når det kommer til variasjonen i DNA metyleringsmønstre, og da spesielt reguleringen av metyleringssyklus. Hormonene insulin og glukagon regulerer blant annet cystathionine β-syntase, mens kalorirestriksjon oppregulerer GNMT. Disse kobler det totale matinntaket til regulering av metyleringsstatus \[10\].
+
+Nutrigenomikk er et fagfelt som handler om hvordan det vi spiser påvirker genuttrykket (nutrigenetikk er på den andre siden fagfeltet som omhandler hvordan genene våre bestemmer hvordan vi responderer på maten vi spiser). Enkelt og greit vil det vi spiser påvirke genuttrykket, noe som setter kostholdet i sterk sammenheng med enkelte sykdommer. Dette gjør at maten vi spiser kan bidra til endringer i metabolismen, og ikke minst være involvert i utviklingen av mange sykdommer. Dette er oppsummert i en glimrende reviewartikkel fra 2010 \[11\]. Et godt eksempel er inntaket av folat under graviditet, der vi vet at mangel kan føre til nevralrørsdefekter hos barnet \[12\]. Det er også demonstrert at tilstrekkelig inntak av folat påvirker barnets metyleringsstatus. Barn av mødre som fulgte anbefalingene om folattilskudd viste økt metylering, og dermed hemming, av genet som koder for IGF-2, som er sterkt koblet til overvekt og fedme \[13\]. Også kolin er regnet som essensielt for fosterutviklingen \[14\].
+
+Nutrigenetikk og nutrigenomikk er foreløpig unge forskningsfelt, men på lengre sikt kan disse feltene bidra til å forklare hvorfor vi responderer ulikt på lik mat og muliggjøre individuelle kostholdsanbefalinger basert på genene våre. Sammenhengen mellom kosthold, gener og sykdom er kompleks, men kunnskapsgrunnlaget vokser raskt \[15\].
+
+## Nedarving av metyleringsmønstre
+
+Epigenetiske mekanismer endrer som nevnt ikke den genetiske koden vi finner i DNA, men nedarves likevel til neste generasjon. Dette skyldes det faktum at DNA metyleres på begge trådene. Når DNA skal dele seg vil de to trådene splittes fra hverandre, og begge gir opphav til et nytt DNA-molekyl. De nye DNA-molekylene tar da med seg en metylgruppe hver fra de metylerte CpG-øyene, og vedlikeholdsmetyltransferasene sørger for at også det nye DNA-molekylet blir metylert på begge sider. Derfor etableres metyleringsmønstre på DNA allerede tidlig i fosterlivet, og mønsteret du blir født med kan du takke dine foreldre for.
+
+Dette betyr at vår livsstil påvirker genuttrykket i neste generasjon. For eksempel er det vist at i en dyrestudie at høyt inntak av fett kan predisponere for diabetes og metabolsk syndrom i neste generasjon \[16\]. Fra menneskedata vet vi at etterkommere av folk som har vært utsatt for sult er mer disponert for blant annet insulinresistens \[17\].
+
+I tillegg er det også demonstrert at responsen på både kalorirestriksjon og overspising påvirkes av metyleringsmønstre på DNA \[18,19\].
+
+## Oppsummering
+
+Metylering av DNA påvirkes av miljøfaktorer som for eksempel kosthold, og fører til arvelige endringer i genuttrykket. Ettersom DNA metyleres på begge sider av de såkalte GpC-øyene vil disse metyleringsmønstrene også videreføres når DNA replikeres, og dermed også kunne nedarves til neste generasjon.
+
+Nutrigenomikk og nutrigenetikk er forskningsfeltene som henholdsvis undersøker hvordan maten vi spiser påvirker genuttrykket og hvordan genene våre påvirker hvordan vi responderer på maten vi spiser. Thomas har tidligere skrevet en sak om [hvordan vi responderer ulikt på tilførsel av de ulike makronæringsstoffene](http://www.friskogfunksjonell.no/ulik-respons-pa-lik-mat-makronaeringsstoffer/ "Ulik Respons på Lik Mat: Makronæringsstoffer"), som er basert på kunnskap som kommer fra nettopp disse forskningsområdene.
+
+Referanser:
+
+1.  Paulsen M, Ferguson-Smith AC: **DNA methylation in genomic imprinting, development, and disease**. *The Journal of pathology* 2001, **195**(1):97-110.
+
+2.  Williams KT, Schalinske KL: **New insights into the regulation of methyl group and homocysteine metabolism**. *J Nutr* 2007, **137**(2):311-314.
+
+3.  Kerr SJ: **Competing methyltransferase systems**. *The Journal of biological chemistry* 1972, **247**(13):4248-4252.
+
+4.  Caudill MA, Wang JC, Melnyk S, Pogribny IP, Jernigan S, Collins MD, Santos-Guzman J, Swendseid ME, Cogger EA, James SJ: **Intracellular S-adenosylhomocysteine concentrations predict global DNA hypomethylation in tissues of methyl-deficient cystathionine beta-synthase heterozygous mice**. *J Nutr* 2001, **131**(11):2811-2818.
+
+5.  Yi P, Melnyk S, Pogribna M, Pogribny IP, Hine RJ, James SJ: **Increase in plasma homocysteine associated with parallel increases in plasma S-adenosylhomocysteine and lymphocyte DNA hypomethylation**. *The Journal of biological chemistry* 2000, **275**(38):29318-29323.
+
+6.  Zhu X, Mar MH, Song J, Zeisel SH: **Deletion of the Pemt gene increases progenitor cell mitosis, DNA and protein methylation and decreases calretinin expression in embryonic day 17 mouse hippocampus**. *Brain research Developmental brain research* 2004, **149**(2):121-129.
+
+7.  Duncan TM, Reed MC, Nijhout HF: **The relationship between intracellular and plasma levels of folate and metabolites in the methionine cycle: a model**. *Mol Nutr Food Res* 2013, **57**(4):628-636.
+
+8.  Wu H, Zhang Y: **Reversing DNA Methylation: Mechanisms, Genomics, and Biological Functions**. *Cell* 2014, **156**.
+
+9.  Van den Veyver IB: **Genetic effects of methylation diets**. *Annual review of nutrition* 2002, **22**:255-282.
+
+10. Ulrey CL, Liu L, Andrews LG, Tollefsbol TO: **The impact of metabolism on DNA methylation**. *Human molecular genetics* 2005, **14 Spec No 1**:R139-147.
+
+11. Choi SW, Friso S: **Epigenetics: A New Bridge between Nutrition and Health**. *Adv Nutr* 2010, **1**(1):8-16.
+
+12. Bailey LB, Caudill MA: **Folate**. In: *Present Knowledge in Nutrition.* 10 edn. Edited by Erdman JW, Macdonald IA, Zeisel SH: Wiley-Blackwell; 2012.
+
+13. Steegers-Theunissen RP, Obermann-Borst SA, Kremer D, Lindemans J, Siebel C, Steegers EA, Slagboom PE, Heijmans BT: **Periconceptional maternal folic acid use of 400 microg per day is related to increased methylation of the IGF2 gene in the very young child**. *PLoS One* 2009, **4**(11):e7845.
+
+14. Zeisel SH: **Choline: critical role during fetal development and dietary requirements in adults**. *Annual review of nutrition* 2006, **26**:229-250.
+
+15. Choi SW, Claycombe KJ, Martinez JA, Friso S, Schalinske KL: **Nutritional epigenomics: a portal to disease prevention**. *Adv Nutr* 2013, **4**(5):530-532.
+
+16. Ng SF, Lin RC, Laybutt DR, Barres R, Owens JA, Morris MJ: **Chronic high-fat diet in fathers programs beta-cell dysfunction in female rat offspring**. *Nature* 2010, **467**(7318):963-966.
+
+17. Painter RC, Roseboom TJ, Bleker OP: **Prenatal exposure to the Dutch famine and disease in later life: an overview**. *Reproductive toxicology* 2005, **20**(3):345-352.
+
+18. Bouchard L, Rabasa-Lhoret R, Faraj M, Lavoie ME, Mill J, Perusse L, Vohl MC: **Differential epigenomic and transcriptomic responses in subcutaneous adipose tissue between low and high responders to caloric restriction**. *Am J Clin Nutr* 2010, **91**(2):309-320.
+
+19. Jacobsen SC, Brons C, Bork-Jensen J, Ribel-Madsen R, Yang B, Lara E, Hall E, Calvanese V, Nilsson E, Jorgensen SW *et al*: **Effects of short-term high-fat overfeeding on genome-wide DNA methylation in the skeletal muscle of healthy young men**. *Diabetologia* 2012, **55**(12):3341-3349.

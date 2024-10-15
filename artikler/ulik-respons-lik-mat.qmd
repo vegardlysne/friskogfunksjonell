@@ -1,0 +1,77 @@
+---
+title: "Ulik Respons på Lik Mat: Makronæringsstoffer"
+author: "Thomas Olsen"
+date: 2013.10.10
+---
+
+Før du leser denne artikkelen ville jeg tatt en kjapp titt på artiklene Vegard allerede har skrevet om genetikk.
+
+2013 startet med at jeg slo et slag for en individuell tilnærming til kosthold, og mer eller mindre refset alle sider av kostholdsdebatten, som dessverre fremdeles fremstår som unyansert og trangsynt. Enda preges den dessverre av bærplukking, manglende vilje til å forstå motparten(e) og feilaktigfremlegging av resultater. Det glemmes av mange at selv om vi er like, er vi ikke vandrende kopier av hverandre. Vi er individer med ulike preferanser og ulike behov, og de fleste er enige om at en one-size-fits-all filosofi ikke fungerer.
+
+Fedon Lindberg snakket på [LHLs kostholdskonferanse](http://www.friskogfunksjonell.no/kosthold-og-hjertesykdom-hvor-star-vi-i-2013/ "Kosthold og hjertesykdom – hvor står vi i 2013?") i januar om samspillet mellom gener og næringsstoffer. Forskningen på dette er foreløpig bare i startfasen, men det er mye som indikerer at gener påvirker [metabolismen](http://www.friskogfunksjonell.no/metabolismen/ "Metabolismen") av næringsstoffer fra individ til individ. I tur påvirkes også hvordan næringsstoffene vi får i oss påvirker genene våre, da spesielt via [epigenetisk regulering](http://www.friskogfunksjonell.no/genetiske-og-metabolske-sykdommer-genetikk/ "Genetiske og metabolske sykdommer – genetikk").
+
+I denne artikkelen tar jeg utgangspunkt i boka «Nutrigenetic - Applying the Science of Personal Nutrition» som er skrevet av Martin Kohlmeier som tjener til livets opphold ved University of North Carolina (UNC). Forskningen som diskuteres i denne artikkelen vil du finne referanser til der (1). Det er viktig å ha i bakhodet at forskning som involverer genetikk er svært ressurskrevende, og det eksisterer derfor foreløpig ikke overveldende kausal evidens på mange felt.
+
+## Introduksjon
+
+Over millioner av år har genene våre utviklet seg i flerfoldige retninger, til dels grunnet forskjellige ernæringsmessige omstendigheter, og ulike genetiske varianter gjenspeiler fortiden vår. Noen av oss er tilpasset til å drikke store mengder melk uten å plages, mens andre ikke er det likesom noen av oss har problemer med hvete og gluten og andre ikke. Vi har egne, individuelle og unike forutsetninger som ligger til grunn for at vi velger å spise maten vi spiser.
+
+De metabolske prossessene i kroppen vår som omhandler alt fra produksjon av enzymer og hormoner, til celledeling, proteinsyntese, energiproduksjon og metabolisering av næringsstoffer, styres av gener. Spesielt nedbrytningen av næringsstoffer er fullstendig avhengig av enzymer, som igjen er avhengig av ulike kofaktorer og koenzymer for å utføre arbeidet sitt. Uten disse ville nedbytningen og utnyttingen av næringsstoffer stoppet opp. Enzymer, reseptorer og til dels hormoner er proteiner som dannes etter proteinsyntese. Denne prosessen skjer delvis i cellen hvor gener som inneholder oppskriften på proteinene avleses og deretter transkriberes slik at det aktuelle proteinet dannes. Kort fortalt er det den såkalte genetiske koden som avgjør hvilke og i hvilken grad enzymer, reseptorer og enkelte hormoner produseres.
+
+Som nevnt innledningsvis er det ingen av oss som er like. Genetikk varierer fra person til person, og små endringer i genene gir opphav til endringer i oppskriften for de ulike proteinene våre. Dette kan gi store utslag for hvilke proteiner som produseres, i hvor stor grad de produseres og videre hvilken effekt det har på oss og helsen vår. Det samme skjer dersom vi tilsetter en helt annen ingrediens i et måltid enn det som står i oppskriften - funksjonen (smaken) endres.
+
+Effektene av en slik endring (mutasjon) kan føre til alvorlig sykdom eller i verste fall være fatal, men i denne artikkelen skal vi holde oss til hvordan ulike, friske mennesker reagerer på de ulike makronæringstoffene. Dette kan gi pekepinnerpå hvorfor noen reagerer annerledes på visse typer mat enn andre.
+
+## Proteiner og aminosyrer
+
+Noen liker proteinrike matvarer som kjøtt og melk bedre enn andre. Noen velger å bli vegetarianere basert på etiske problemstillinger, mens andre gjør det fordi de rett og slett foretrekker det.
+
+Det foreligger ikke mye data på hvordan vanlige varianter av gener påvirker proteininntak, men en interessant studie peker på at reseptoren serotonergic receptor 2A kan spille en viktig rolle i appetittregulering, og en vanlig variasjon i genet som koder for reseptoren (HTR2A), som ca. 20% av befolkningen har, ser ut til å påvirke proteininntaket (2). Deltakere ble fordelt i gruppe basert på genotyper og deltakerne med en bestemt variant (TT) så ut til å spise mer proteiner og essensielle aminosyrer enn andre, blant annet dobbelt så mye biffkjøtt som mennesker med to andre, vanlige varianter i det samme genet.
+
+## Fett - Mettede fettsyrer
+
+Hovedbudskapet angående av fett ligger på metabolsk nivå. En stor andél mettede fettsyrer ender opp blant andre som den enumettede fettsyren oljesyre som fungerer som en strukturell komponent, modifiserer proteiner, og brukes som energi. Enzymet, elongase tar seg av forlengelsen av mettede fettsyrer slik at disse bygges opp til 18 karboner, mens steaoryl-CoA desaturase (SCD) katalyserer formeringen av en dobbeltbinding som gjør fettsyren enumettet (dette er en omega-9 fettsyre).
+
+Det er kartlagt varianter av genene som koder for enzymene elongase (ELOVL6) og SCD (SCD1). For eksempel vil en vanlig variasjon i SCD1 som koder for SCD påvirker andelen palmitinsyre (mettet fettsyre) som omdannes til sin enumettede halvbror palmitolsyre. Dette er interessant fordi palmitolsyre fungerer som et adipokin som signaliserer status på fettlagrene til andre organer i kroppen. Varianten som diskuteres her gir mindre omdanning  fra palmitinsyre til pamitolsyre, og derfor svekket signalisering og kan dermed påvirke energimetabolisme.
+
+Når det gjelder elongase, har det blitt observert en variant (AA) av ELOVL6 hvor økt enzymaktivitet induserer insulinresistens i muskel- og fettceller. Når dette genet «slås av» i mus med denne varianten forsvinner insulinresistens med overspising. Grunnen til at insulinresistens økes så drastisk er sannsynligvis grunnet økt endogen produksjon av langkjedete mettede fettsyrer fra kortere fettsyrer man har fått i seg fra mat. Når det er sagt finnes det også en annen vanlig variant (GG) som reduserer risikoen for insulinresistens drastisk. Risikoen er over dobbelt så høy for å få insulinresistens hos AA sammenliknet med GG.
+
+## Fett - Umettet fett
+
+Det er mye snakk om umettede fettsyrer, og diverse debatter verserer på nett og i media om både positive og negative effekter av omega-3 (n3) og omega-6-fettsyrer (n6). De enkelte umettede n3- og n6-fettsyrene kan konverteres til andre fettsyrer i samme gruppe. For eksempel kan n3 fettsyren alfa-linolensyre (ALA) konverteres til eikasopentaensyre (EPA) gjennom en rekke steg som reguleres og styres av enzymer. På samme måte kan n6-fettsyren linolsyre (LA) gjennom flere steg konverteres til arakidonsyre (AA). Disse reaksjonene katalyseres av enzymer som kalles desaturaser (danner flere dobbeltbindinger mellom karbonatomene i fettsyrene) og elongaser (forlenger fettsyrene). Disse enzymene virker på begge hovedrguppene av flerumettede fettsyrer, slik at n-3 og n-6-fettsyrer «konkurrerer» om de samme enzymene.
+
+![](images/clipboard-148944833.png)
+
+[Les mer om elongering og desaturering i denne artikkelen.](http://www.friskogfunksjonell.no/langkjedede-og-umettede-fettsyrer/ "Langkjedede og umettede fettsyrer")
+
+De viktigste enzymene som deltar i denne konverteringen er delta-5-desaturase (D5D) og delta-6-desaturase (D6D) som henholdsvis  kodes for av genene FADS1 og 2. Det fins to vanlige varianter av disse to genene (haplotyp D og A). Haplotyp D er assosiert med økt ekspresjon av FADS1 og 2 som er forbundet med økte sirkulerende nivåer av EPA, DHA og AA. Denne varianten er nyttig hos mennesker som inntar mye ALA fra blant annet planteoljer og er avhengig av en effektiv omdanning til EPA og DHA, men moderne mennesker har gjerne et svært høyt inntak av LA som igjen vil gi en svært overaktiv omdannelse til den proinflammatoriske n-6-fettsyren AA. Mennesker med haplotyp A har en langt mindre effektiv omdanning av ALA til EPA og DHA og bør derfor prioritere å få i seg disse fettsyrene fra marine kilder.
+
+Et annet interessant funn som pekes på i boken er at det ikke bare er forskjeller i selve metaboliseringen av flerumettede fettsyrer som spiller inn på helsen vår. For eksempel har man oppdaget en variant (-75A) i APOA1-genet som koder for HDL. Mennesker med denne varianten som spiser mye flerumettede fettsyrer øker HDL-kolesterolet dramatisk sammenliknet med individer med andre vanlige varianter. Med andre ord kan dette si noe om hvorfor noen har bedre effekt på HDL enn andre når man øker inntaket av flerumettet fett.
+
+Nylig fikk Elin Strand, forsker ved [koronarpreventiv forskningsgruppe](https://www.uib.no/rg/g3) ved Universitetet i Bergen, publisert en artikkel (3) fra sin doktorgradsavhandling der hun har sett markant ulik respons på høyt inntak av omega-3. I enkelte subgrupper kan høyt inntak av disse fettsyrene se ut til å være direkte skadelig. Dette underbygger argumentene om at vi responderer ulikt på maten vi spiser og at det som er sunt for meg kanskje ikke er like sunt for deg. Mest av alt bør dette være et varselskudd for de som promoterer et høyt inntak av omega-3-tilskudd.
+
+## Karbohydrater
+
+Det er heftig debattert hvordan karbohydrater påvirker helsen vår. Noen klarer seg ikke uten, mens hos noen gjør kroppen opprør dersom inntaket overstiger en viss grense. Som med proteiner er grunnene til at vi reagerer ulikt på karbohydrater dårlig kartlagt, med unntak av de grunnene som skyldes [medfødte defekter og sykdom](http://www.friskogfunksjonell.no/karbohydratmetabolismen-sykdommer/ "Medfødte sykdommer i karbohydratmetabolismen"). Men, en interessant studie har derimot sett på varianter i genet som koder for amylase i spytt (AMY1). Amylase i spytt har vært satt i sammenheng med en sterk effekt på glukosemetabolisme og insulinrespons . Individer med genetisk lav enzymaktivitet responderer på inntak av stivelse/karbohydrater med høyere blodsukker og høyere insulinkonsentrasjoner enn mennesker med normal enzymaktivitet. Dette betyr at menneser med få kopier av genet erfarer en lite hensiktsmessig respons på inntak av stivelsesrik mat som i tur kan øke risikoen for overvekt.
+
+## Konklusjon
+
+Selv om det er mange svakheter knyttet til denne typen forskning kan den på en annen side hjelpe oss til å en viss grad forstå hvorfor vi reagerer ulikt på maten vi spiser og legge grunnlag for videre forskning på et felt som er i stadig vekst. Funnene understreker også hvor viktig det er å være ydmyk ovenfor hverandre og hverandres behov og preferanser når det kommer til mat.
+
+Svakheter med typen studier som refereres til i boken er at de er ekstremt ressurskrevende og gjør det vanskelig å generalisere ettersom vi alle tross alt er unike. Noen vil kanskje trekke frem små studiepopulasjoner som en svakhet, men når man undersøker effekten av ulike genvarianter så er det ofte tilstrekkelig med små grupper, noe som må sies å være en fordel. Noen felt er bedre utforsket enn andre, og det trengs nok en del mer forskning og mindre ressurskrevende metoder før man kan begynne å snakke om kostråd basert på genotyping.
+
+Helt til slutt vil jeg sitére meg selv:
+
+> Konservative fagfolk, gjerne professorer, er av den gamle skolen, og proklamerer det vi alle har hørt før; mettet fett er farlig og gjør deg syk. På andre siden har vi nærmest revolusjonære knopper som fremmer blomstrende høy-fett kosthold som løsningen. Korn er roten til alt vondt, og man blir syk av karbohydrater, og gjerne også av pasteurisert og homogenisert melk. Felles for dem begge? Begge fremmer sine synspunkt som løsningen på de store folkehelseproblemene både i Norge og den industrialiserte verden og gjerne enda mer ved hjelp av generalisering. Men hva er det man glemmer når man generaliserer? Når man bastant proklamerer det som fungerer for en selv og for en gruppering i en observasjonsstudie eller populasjoner ellers? Midt i det hele blir individet glemt.
+
+*Takk til Vegard Lysne for innspill og diskusjon*
+
+**Referanser**
+
+1.  Kohlmeier M: Nutrigenetics : applying the science of personal nutrition, 1st edn. Oxford ; Waltham, MA: Academic Press; 2013.
+
+2.  Prado-Lima PS, Cruz IB, Schwanke CH, Netto CA, Licinio J: Human food preferences are associated with a 5-HT(2A) serotonergic receptor polymorphism. Molecular psychiatry 2006, 11(10):889-891.
+
+3.  Strand E et al: Dietary intake of n-3 long-chain polyunsaturated fatty acids and risk of myocardial infarction in coronary artery disease patients with or without diabetes mellitus: a prospective cohort study. BMC Medicine 2013, 11:216.
+
+4.  Mandel AL, Breslin PA: High endogenous salivary amylase activity is associated with improved glycemic homeostasis following starch ingestion in adults. The Journal of nutrition 2012, 142(5):853-858.

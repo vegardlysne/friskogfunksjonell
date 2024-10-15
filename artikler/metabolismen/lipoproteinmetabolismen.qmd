@@ -7,3 +7,108 @@ categories:
 ---
 
 [Tilbake til artikkelserien om metabolismen](../../metabolismen.html)
+
+Fettløselige substanser fraktes i liten grad fritt i blodet. Mest av alt fraktes disse substansene inkorporert i lipoproteiner. Vi har ulike typer lipoproteiner, som alle har ulike oppgaver. De mest kjente, LDL og HDL, er ansett som viktige markører for sykdomsrisiko. I denne artikkelen vil du få en innføring i hva de ulike lipoproteinene gjør og hvordan samspillet mellom dem foregår.
+
+![](images/clipboard-931366752.png)
+
+Relevante artikler:
+
+-   [Kolesterolmetabolismen](http://www.friskogfunksjonell.no/kolesterolmetabolismen/ "Kolesterolmetabolismen")
+-   [Fettsyresyntese](http://www.friskogfunksjonell.no/fettsyresyntese/ "Fettsyresyntese")
+
+## De ulike lipoproteinene
+
+Et lipoprotein består av en fettrik kjerne, der vi finner de ulike fettløselige stoffene som skal fraktes rundt i kroppen. Dette er blant annet kolesterol, triglyserider og fettløselige vitaminer. Membranen rundt selve lipoproteinet består av fosfolipider, og i tillegg apoproteiner. Disse apoproteinene er viktige for at de ulike lipoproteinene skal være vannløselige, og ikke minst at de binder til riktig reseptor, og dermed frakte de ulike stoffene til riktig sted. Apoproteinene A, B48 og B100 festes til lipoproteinpartikkelen når de produseres, mens andre apoproteiner som eksempelvis C og E sannsynligvis bindes til lipoproteinene etter at de er kommet ut i blodomløpet.
+
+Vi har fem hovedklasser av lipoproteiner, som klassifiseres etter tettheten. Tettheten bestemmes av sammensetningen av fettstoffer, og måles i g/ml. Jo større andel triglyserider og lavere andel kolesterol, jo lavere tetthet. Her følger en liste over de ulike lipoproteinene og hva som kjennetegner dem.
+
+#### Kylomikroner
+
+Kylomikronene produseres i tarmcellene, og har som oppgave å frakte fettløselige stoffer vi får i oss via kostholdet. De frigjøres via lymfen til blodet for å frakte fettstoffene til målcellene. Etter avlevering av fettstoffene tas den kolesterolrike kylomikronresten opp av leveren, der den brytes ned. Kylomikronene inneholder 80-95% triglyserider, og har derfor veldig lav tetthet (\<0.95g/ml). De er også de største lipoproteinene, med en diameter på 75-1200nm. Det viktigste apoproteinet heter ApoB-48, og i tillegg har kylomikronene også ApoC og ApoE som festes på når de kommer ut i blodbanen.
+
+#### VLDL
+
+VLDL (Very Low Density Lipoprotein) produseres i leveren, og har som hovedoppgave å frakte fettstoffer bort fra leveren, en transport som foregår i blodet. VLDL inneholder apoproteinet apoB-100 og ApoE. Dette proteinet kodes for av det samme genet som ApoB-48 som vi fant i kylomikronene, men proteinet som produseres i tarmen er en forkortet variant (48% av størrelsen til proteinet som produseres i leveren). Også ApoC og ApoE er bundet til VLDL i blodet. VLDL inneholder mest triglyserider (55-80%), og har derfor lav tetthet (0.95-1.006 g/ml). VLDL er en stor partikkel, og diameteren måler 30-80nm.
+
+#### IDL
+
+Etter hvert som VLDL gir fra seg triglyserider, vil tettheten øke. Da går partikkelen over til IDL (Intermediate Density Lipoprotein), der triglyseridinnholdet er omtrent 20-50%. IDL har to skjebner: Omtrent halvparten av IDL vil tas opp av leveren, mens den andre halvparten vil gi fra seg ytterligere triglyserider og bli omdannet til LDL. Som navnet tilsier så ligger tettheten i mellomsjiktet (1.006-1.019 g/ml), og det samme gjelder størrelsen (15-35nm diameter).
+
+#### LDL
+
+LDL (Low density Lipoprotein) er det lipoproteinet som til daglig får mest oppmerksomhet, og på folkemunne omtales de ofte som «det dårlige kolesterolet». LDL inneholder lite triglyserider (5-15%) og en høy andel kolesterol (40-50%), og har derfor høyere tetthet enn de foregående variantene (1.019-1.063 g/ml). Partiklene har en diameter på 18-25nm, og inneholder som de foregående også ApoB-100. De øvrige apoproteinene overføres til andre lipoproteiner etter hvert som triglyseridinnholdet reduseres, så LDL inneholder bare ApoB-100.
+
+Hovedfunksjonen til LDL er å levere kolesterol til perifere vev. Dermed er LDL også delaktig i å regulere [kolesterolsyntesen](http://www.friskogfunksjonell.no/kolesterolmetabolismen/ "Kolesterolmetabolismen"), som i stor grad responderer på de intracellulære nivåene av kolesterol ved regulering av HMG-CoA reduktase, det hastighetsregulerende steget i kolesterolsyntesen. LDL binder til LDL-reseptoren og hele molekylet tas opp i cellen ved endocytose.
+
+#### HDL
+
+HDL (High Density Lipoprotein) produseres i leveren (og tarmen), og starter sitt liv som ApoA-1 bundet til fosfolipider. Etter hvert som det fjernes triglyserider fra VLDL så spaltes det også av membranmateriale, som da binder seg til ApoA-1 og danner ferdige HDL-partikler. Disse har som hovedfunksjon å frakte overflødig kolesterol tilbake til leveren, i det som kalles revers kolesteroltransport. HDL plukker opp kolesterol som er sluppet ut i blodet fra perifert vev f.eks. når celler dør eller kolesterol som frigis fra cellemembraner. LCAT (Lecitin-kolesterol Acyltransferase) er et enzym som finnes i blodet. Dette enzymet aktiveres av ApoA-1, og fører til en esterifisering av kolesterolet. Dette sørger for at konsentrasjonen av fritt kolesterol i HDL reduseres, slik at partikkelen øker kapasiteten for å ta opp overflødig kolesterol fra perifere vev.
+
+Når man snakker om «det gode kolesterolet», så er det HDL det er snakk om. HDL har et høyt innhold av protein, og har derfor høyest tetthet av alle lipoproteinene (1.063-1.21 g/ml). Partikkelen har en diameter på 7,5-20nm, og er dermed også den minste. HDL har apoproteinet ApoA-1, som gjør at det binder til andre reseptorer enn de ApoB-holdige lipoproteinene.
+
+#### Lp(a)
+
+Lipoprotein lille a er et atypisk lipoprotein, og funksjonen er lite kjent. Den skiller seg fra LDL ved at den i tillegg til ApoB-100 inneholder et ekstra apoprotein, Apo(a). Mengden Lp(a) er genetisk bestemt.
+
+Som en liten huskeregel kan du tenke at de triglyseridrike partiklene kylomikron og VLDL først og fremst transporterer triglyserider, mens de mindre partiklene LDL og HDL først og fremst er involvert i kolesteroltransport.
+
+## Overordnet modell
+
+De ulike lipoproteinene samhandler med hverandre slik at transporten av fettløselige stoffer skal fungere som den skal. I dette avsnittet får du et overordnet bilde av hvordan det hele fungerer, og figuren under illustrerer dette samspillet.
+
+![](images/clipboard-4132427186.png)Oversikt over lipoproteinmetabolismen
+
+Kylomikroner og VLDL har som hovedfunksjon å levere triglyserider til målcellene, henholdsvis fra tarmen og leveren (også kalt hhv. eksogen og endogen lipidtransport). Kylomikronene transporteres fra tarmen, via lymfeårene, og tømmes ut i en vene rett under kragebeinet. Etter et fettrikt måltid kan derfor konsentrasjonen av kylomikroner i blodet øke kraftig. Disse partiklene har imidlertid relativt kort halveringstid, så konsentrasjonen synker igjen relativt raskt. VLDL produseres som sagt i leveren for å frakte overskuddsfett bort herfra. Dette fettet kan komme fra kostholdet (ikke alt fraktes med kylomikroner, spesielt kortere fettsyrer kan fraktes rett til leveren), fra kylomikronene eller fra egenproduksjon som følge av høyt inntak av karbohydrater som overskrider kapasiteten for lagring og bruk.
+
+Målcellene som mottar triglyserider fra kylomikroner og VLDL, hovedsakelig muskel og fettceller, har et protein som heter lipoprotein lipase (LPL) i cellemembranen, som hjelper til med å frakte triglyseridene fra lipoproteinene inn i cellen. Da hydrolyseres først triglyseridene til frie fettsyrer og monoacylglyserol, som kan krysse cellemembranen og tas opp til cellen.
+
+Kolesterolrike kylomikronrester tas opp av leveren, mens VLDL blir omdannet til IDL og deretter LDL etter hvert som partikkelen tømmes for fettsyrer. LDL-partikkelen binder til LDL-reseptorene på alle celler, og hele partikkelen tas opp i cellen. Inne i cellen kan kolesterolet brukes til å produsere steroidhormoner eller bidra som strukturelement i cellemembranen. Eventuelt kan kolesterolet esterifiseres og lagres i cellen.
+
+Overflødig kolesterol, som enten kan stamme fra nedbrytning av døde celler eller frigjøring fra cellemembraner, plukkes opp av HDL og fraktes tilbake til leveren. Leveren har HDL-reseptorer som kan ta opp kolesterolestere fra HDL, slik at selve HDL-partikkelen kan fortsette å plukke opp kolesterol fra perifere vev. I leveren kan kolesterolet enten brukes til for eksempel å produsere galle, eller det kan inkorporeres i nye lipoproteinpartikler som deretter sendes ut i blodet. HDL kan også levere kolesterol til annet vev for produksjon av steroidhormoner.
+
+## Samspill mellom de ulike lipoproteinene
+
+Forklaringen over gir en god ramme for å forstå lipoproteinmetabolismen på et overordnet plan, men det finnes noen mekanismer som kompliserer bildet. Det mest åpenbare er genetiske forskjeller som påvirker produksjon av de ulike lipoproteinene, og ikke minst produksjon av reseptorene som sørger for fjerning fra blodet. Familiær hyperkolesterolemi skyldes manglende produksjon av LDL-reseptorer, noe som fører til at LDL-nivåene i blodet stiger voldsomt (manglende kolesterolopptak til cellene vil også øke kolesterolproduksjonen).
+
+Når nivåene av LDL-partikler i blodet øker, så skjer dette enten som følge av økt tilførsel (produksjon) eller redusert fjerning fra blodet. Sistnevnte kan være en konsekvens av at kolesterolinnholdet i cellene er økt, og at de derfor produserer mindre LDL-reseptorer. Opptaket av kolesterol fra LDL til cellene er dermed selvbegrensende. Makrofagene inneholder en annen type reseptorer, scavenger receptors, som ikke har denne selvbegrensende egenskapen. Disse reseptorene binder ikke i stor grad til normale LDL-partikler, men skadede LDL-partikler bindes i stor grad. En slik skade kan f.eks. være oksidering av fettsyrer eller apoproteiner i lipoproteinmembranen, som skjer når partikkelen passerer endotellaget og havner i det subendoteliale laget i blodåreveggen. I utgangspunktet er dette en mekanisme for å fjerne de skadede LDL-partiklene, men når mengden LDL-partikler øker så vil også risikoen for at flere partikler skades øke, og dermed risikerer vi at makrofagene tar opp ekstra mye kolesterol. Da dannes det såkalte skummceller (kolesterolrike makrofager). Dette er starten på den aterosklerotiske prosessen.
+
+Lipoproteinene er i en konstant dynamisk tilstand med utveksling av fettstoffer mellom de ulike partiklene. Kolesterol ester transfer protein (CETP) og fosfolipid transfer protein (PLTP) er to sentrale enzymer i denne sammenhengen. CETP katalyserer en utveksling av triglyserider fra ApoB-holdige partikler til HDL, i bytte mot kolesterol som da fraktes andre veien. Denne prosessen er spesielt aktiv når VLDL-partiklene er ekstra triglyseridrike, altså når transporten av fett ut fra leveren er stor. PLTP sørger for en lignende utveksling, men denne gangen er det fosfolipider fra de ApoB-holdige partiklene som byttes med kolesterol fra HDL. Til sammen sørger disse proteinene for at kolesterolmengden i LDL-partiklene økes (dette kolesterolet blir i partikkelen til den blir fjernet fra blodbanen), og HDL frakten mer triglyserider og fosfolipider tilbake til leveren. Disse lipidene kan tas opp i leveren, og dette resulterer i mindre HDL-partikler som dermed har større kapasitet til å ta opp overflødig kolesterol fra perifert vev.
+
+![](images/clipboard-2256202892.png)
+
+CETP og PLTP
+
+Det er en invers sammenheng mellom nivåene av triglyserider og HDL. Jo høyere triglyseridene er, jo lavere er HDL og omvendt, og dette har flere mulige forklaringer. Den enkle forklaringen er at når triglyseridene er høye så vil CETP være mer aktiv. Dette fører til at HDL tappes for kolesterol. Når triglyseridene er lave reduseres aktiviteten til CETP, noe som gjør at HDL-partiklene holdes mer kolesterolrike.
+
+## Er alle lipoproteiner like aterogene?
+
+Kolesterol er innblandet i [den aterosklerotiske prosessen](http://www.friskogfunksjonell.no/aterosklerose/ "Aterosklerose – Hva og Hvordan"), men er alle lipoproteinene like skumle i denne sammenhengen? Svaret er nei. Det er de minste ApoB-holdige partiklene, altså LDL, som har det største aterogene potensialet. Dette er fordi disse partiklene er små nok til å binde til reseptorene som sørger for opptak til makrofagene. Dette støttes av det faktum at mennesker som mangler LPL har skyhøye triglyserider, men likevel ikke økt risiko for hjertesykdom. Dette skyldes at uten LPL vil ikke fett fjernes fra VLDL eller kylomikronpartiklene, og det vil derfor heller ikke produseres mindre, aterogene partikler.
+
+Også innenfor LDL finnes det ulike subgrupper, og det er holdepunkter for å si at disse har ulikt aterogent potensiale. De minste partiklene viser seg å være mest aterogene, noe som kan skyldes at de lettere passerer blodåreveggen. På grunn av lavere innhold av fett (og fettløselige antioksidanter) er de også i større grad utsatt for oksidering som øker sannsynligheten for at de tas opp av makrofagene og bidrar til produksjonen av skumceller. Alle har en fordeling av de ulike subfraksjonene av LDL, men en forskyvning mot flere små partikler med høy tetthet kan øke risikoen for å utvikle aterosklerose, og kalles derfor for en aterogen fenotype.
+
+Små, tette LDL-partikler kan dannes som en konsekvens av forstyrret lipidmetabolisme. Dersom mengden triglyseridrike partikler (kylomikroner og VLDL) er økt i blodet, så vil aktiviteten til CETP øke. Dette fører til at mer kolesterol overføres fra HDL til VLDL, som igjen over tid fører til at den kommende LDL-partikkelen er mer kolesterolrik og dermed har høyere tetthet. De største VLDL-partiklene har større potensiale for å ta opp kolesterol ved hjelp av CETP, og er dermed mer tilbøyelig til å gi opphav til disse små, aterogene LDL-partiklene.
+
+Når det gjelder HDL er dette motsatt, og de minste partiklene ser ut til å være mest gunstige. Dette er fordi disse har større kapasitet til revers kolesteroltransport.
+
+## Mettet fett og kolesterol
+
+Myndighetene råder oss til å begrense inntaket av mettet fett, med begrunnelse om at høyt inntak av mettet fett bidrar til økte kolesterolnivåer. Dette har en fysiologisk forklaring på cellenivå. Som nevnt lenger oppe så er den intracellulære konsentrasjonen av fritt kolesterol av stor betydning for mengden LDL-reseptorer vi finner på overflaten av cellen. Det viser seg at mettede fettsyrer hemmer esterifiseringen av kolesterol i leveren, noe som fører til at konsentrasjonen av fritt kolesterol øker. Dette nedregulerer mengden LDL-reseptorer, noe som forklarer den kolesteroløkende effekten av disse fettsyrene.
+
+Dette er imidlertid mer komplisert enn som så, ettersom økte intracellulære nivåer av kolesterol også vil nedregulere kolesterolsyntesen. I tillegg har de ulike mettede fettsyrene ulik effekt, slik at det å skjære alle disse fettsyrene over en kam blir litt for enkelt. De fettsyrene som i størst grad øker kolesterolmengden i blodet er de mettede fettsyrene med 12, 14 og 16 karbonatomer.
+
+Dette blir igjen enda mer komplisert om vi skal ta med i beregningen at de ulike lipoproteinpartiklene har ulikt aterogent potensial, og det er ingen automatikk i at det er de farligste partiklene som øker ved høyt inntak av mettet fett. Også de andre næringsstoffene vil være med å påvirke dette samspillet. Et høyt inntak av karbohydrater og påfølgende økt fettsyresyntese i leveren vil for eksempel kunne føre til større og mer triglyseridholdige VLDL-partikler. Hvordan protein påvirker denne sammenhengen vites lite om.
+
+Forstyrret lipidmetabolisme og dermed økt risiko for hjertesykdom påvirkes i stor grad også av andre ting enn kostholdet, deriblant overvekt og metabolsk syndrom.
+
+## Oppsummering
+
+-   Fettløselige stoffer fraktes i blodet inkorporert i lipoproteiner.
+-   Vi har ulike typer lipoproteiner som har ulike oppgaver.
+    -   Kylomikroner og VLDL frakter triglyserider til målcellene.
+    -   LDL transporterer kolesterol til målcellene.
+    -   HDL gjennomfører revers kolesteroltransport tilbake til leveren.
+    -   Lipoproteinmetabolismen er dynamisk, og det er flere enzymer som spiller inn på det komplekse samspillet.
+    -   De ulike lipoproteinene er ikke like aterogene, og de minste LDL-partiklene ser ut til å ha det største aterogene potensialet. Fordelingen mellom de ulike partiklene styres av mange faktorer.
+
+I denne artikkelen har jeg prøvd å gi en innføring i hvordan lipoproteinmetabolismen foregår. Jeg håper det har kommet tydelig frem at dette er et komplekst samspill. Selv om det er hevet over enhver tvil at lipidmetabolismen spiller en sentral rolle når det kommer til risikoen for metabolske sykdommer, og spesielt hjertesykdom, er det mye vi enda ikke vet. Fettmetabolismen i leveren er helt sentral for hvilke lipoproteiner som produseres og i hvilken mengde. Genetiske forskjeller som påvirker de ulike involverte prosessene vil også påvirke hvordan vi responderer på f.eks. kosthold. Gjennomsnittseffekten av en intervensjon i en større populasjon trenger ikke å representere effekten hos hver enkelt. For eksempel trenger ikke rådene om å redusere inntaket av mettet fett å slå positivt ut hos alle, selv om det er godt grunnlag for å si at gjennomsnittseffekten i populasjonen som helhet vil være gunstig om alle fulgte dette rådet. Problemet i denne sammenhengen er at vi per i dag ikke har mulighet til å si noe sikkert om hvem som vil respondere på hvilken måte, og da må rådene baseres på den informasjonen som er tilgjengelig.

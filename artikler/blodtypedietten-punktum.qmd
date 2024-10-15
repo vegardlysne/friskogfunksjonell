@@ -1,0 +1,49 @@
+---
+title: "Punktum for Blodtypedietten?"
+author: "Erik Arnesen"
+date: 2014.03.03
+---
+
+For rundt 10 år siden var boken *Blodtypedietten* en bestselger i Norge. I dag er den tilsynelatende glemt blant folk flest, men det finnes fortsatt «ildsjeler» som sverger til den.
+
+Det finnes flere såkalte blodtypedietter, men den mest kjente er naturopaten Peter D’Adamos diett som kom i bokform på 1990-tallet (på norsk i 1999). Essensen i Peter D’Adamos blodtypediett er at man skal spise i henhold til sin blodtype etter *ABO*-systemet. I bøkene gir han ulike råd for personer med ulike blodtyper; de med blodtype A og O skal f.eks. unngå melk og kornvarer. Ifølge D’Adamo er blodtype O den «opprinnelige» blodtypen, mens personer med blodtype AB derimot er «designet» for et mer moderne kosthold ([nyere forskning](http://link.springer.com/article/10.1007%2Fs00439-008-0530-8) har imidlertid vist at O-genet er en relativt ny mutert variant av A-genet).
+
+I henhold til Blodtypediettens formodninger er personer med blodtype O «jegere», og bør derfor spise mye animalsk protein og unngå hvete, mais eller melkeprodukter. Personer med blodtype A (som omtrent halvparten av den norske befolkning har) tåler derimot ikke kjøtt og meieriprodukter, men bør spise vegetarisk (og bør for øvrig holde seg unna lederstillinger). Blodtype B oppsto etter sigende blant nomader, og personer med denne blodtypen er derfor best tilpasset melkeprodukter, men lite kylling og hvete. AB skal være den nyeste blodtypen, en «mellomting» av blodtype A og B, og er tilpasset et variert kosthold, men ikke blant annet rødt kjøtt og kylling.
+
+## Lite forskning
+
+D’Adamo hevder å ha kurert folk av blant annet aids og brystkreft ved hjelp av denne dietten, men han har ikke publisert noe av «forskningen» sin. I fjor gjorde for første gang noen [et forsøk på en systematisk gjennomgang](http://ajcn.nutrition.org/content/early/2013/05/22/ajcn.113.058693.abstract) av den vitenskapelige litteraturen om blodtypedietter, og fant da ingen dokumentasjon overhodet. Faktisk var det ikke gjennomført en eneste relevant studie av disse diettene, og forskerne konkluderte derfor ikke overraskende med at det var behov for mer forskning for å kunne si noe. Visse blodtyper er riktignok forbundet med økt risiko for enkelte *sykdommer*, og  med ulike *gener* kan reagere ulikt på mat. Men at man bør tilpasse kostholdet etter sin blodtype var det altså ikke belegg for.
+
+Nylig [kom en ny studie i det elektroniske tidsskriftet *PLoS One*](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0084749), som omhandlet sammenhengene mellom ulike blodtypedietter og helse eller blodtyper blant 1455 personer.
+
+Forfatternes sammendrag kan du lese selv:
+
+> **Background**
+>
+> (...) The objective of this study was to determine the association between ‘blood-type’ diets and biomarkers of cardiometabolic health and whether an individual’s ABO genotype modifies any associations.
+>
+> **Methods**
+>
+> Subjects (n = 1,455) were participants of the Toronto Nutrigenomics and Health study. Dietary intake was assessed using a one-month, 196-item food frequency questionnaire and a diet score was calculated to determine relative adherence to each of the four ‘Blood-Type’ diets. ABO blood group was determined by genotyping rs8176719 and rs8176746 in the ABO gene. ANCOVA, with age, sex, ethnicity, and energy intake as covariates, was used to compare cardiometabolic biomarkers across tertiles of each ‘Blood-Type’ diet score.
+>
+> **Results**
+>
+> Adherence to the Type-A diet was associated with lower BMI, waist circumference, blood pressure, serum cholesterol, triglycerides, insulin, HOMA-IR and HOMA-Beta (P\<0.05). Adherence to the Type-AB diet was also associated with lower levels of these biomarkers (P\<0.05), except for BMI and waist circumference. Adherence to the Type-O diet was associated with lower triglycerides (P\<0.0001). Matching the ‘Blood-Type’ diets with the corresponding blood group did not change the effect size of any of these associations. No significant association was found for the Type-B diet.
+>
+> **Conclusions**
+>
+> Adherence to certain ‘Blood-Type’ diets is associated with favorable effects on some cardiometabolic risk factors, but these associations were independent of an individual’s ABO genotype, so the findings do not support the ‘Blood-Type’ diet hypothesis.
+
+Her undersøkte man altså om personer med ulik blodtype responderte forskjellig på ulike typer kosthold. Deltakerne gikk ikke nødvendigvis på en bestemt diett, men kostholdsmønsteret til hver enkelt ble klassifisert i henhold til de fire blodtypediettene. Et kosthold som var i tråd med type A-dietten var rikt på frukt og grønt og hadde veldig lite kjøtt, osv.
+
+Personer med et type A-lignende kosthold hadde lavere BMI og livvidde, blodtrykk, kolesterol, triglyserider, insulin og insulinresistens. De som hadde et mest AB-lignende kosthold hadde også lavere blodtrykk, kolesterol, triglyserider, insulin og insulinresistens, mens personer med type O-kosthold hadde lavere triglyserider.
+
+Deretter så de på om samspillet mellom deltakernes blodtyper og deres korresponderende dietter var relatert til risikoprofilen. *Det var det ikke.* Personer med blodtype O hadde for eksempel *ikke* høyere eller lavere BMI, blodtrykk, kolesterol osv. dersom de hadde et lite type O-aktig kosthold. Blant personer med blodtype AB, var faktisk blodsukkeret *høyere* blant de som spiste mest i tråd med «AB-dietten».
+
+## Helseeffekter ikke relatert til blodtype
+
+Disse funnene tyder altså på at noen blodtypedietter kan være gunstige med tanke på ulike risikofaktorer, men at dette ikke har noe å gjøre med hva slags blodtype en har. De gir derfor ingen støtte til blodtypediett-hypotesen. Forskerne så her bare på korrelasjoner mellom kosthold og risikofaktorer, så de kunne ikke si om risikoprofilen kun skyldtes kostholdet.
+
+Dette var ingen direkte test av blodtypedietter, men den avkrefter i alle fall hypotesen om at folk som spiser «feil» i henhold til blodtype nødvendigvis har dårlig helse. Når noen føler seg bedre etter å ha fulgt Blodtypedietten, er forklaringen sannsynligvis at de bare spiser generelt sunnere.
+
+*Dette innlegget er basert på tidligere innlegg på bloggen [Sunn Skepsis](http://sunnskepsis.wordpress.com "Sunn skepsis").*

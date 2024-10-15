@@ -1,0 +1,67 @@
+---
+title: "Overvekt, fettsyrer og inflammasjon"
+author: "Thomas Olsen"
+date: 2014.02.13
+---
+
+Det snakkes veldig mye om kosthold og inflammasjon om dagen, og kanskje aller mest er det snakk om omega-6 og omega-3, forholdet mellom de to. Det er nylig publisert en reviewartikkel (1) som omhandler hvordan fettsyrer modulererer inflammasjon i overvektige og som jeg vil gjengi og diskutere litt i denne artikkelen. Jeg skal ta raskt for meg hvilke inflammatoriske mekanismer det ofte henvises til når det kommer til fett, og samtidig gå litt overfladisk igjennom studiene som faktisk er gjort i mennesker.  Har vi egentlig nok grunnlag til anbefale noe som helst?
+
+Jeg må si at så mye som dette snakkes om på internett og ellers syns jeg evidensen er ganske så dårlig når det gjelder fettsyrer og inflammasjon. Det kommer tydelig frem av gjennomgangen at studier på mennesker er for dårlig designet, og ikke egner seg til å trekke slutninger fra. Det kan derfor virke som at aktører i kosttilskuddsbransjen hovedsakelig baserer seg på celle/dyrestudier når de snakker om fettsyrer og inflammasjon, og disse lar seg ikke nødvendigvis overføre til å gjelde mennesker helt uten videre. 
+
+## Overvekt og inflammasjon
+
+Overvektige mennesker går gjerne rundt og har en liten, men betydelig grad av inflammasjon eller betennelse i kroppen. Dette kommer blant annet av karakteristiske metabolske forandringer som hyperglykemi, hypertensjon, dyslipidemi og abdominal fedme som alle er assosiert med sirkulerende nivåer av pro-inflammatoriske cytokiner (stoffer som skaper betennelse i kroppen). Disse metabolske endringene korrigeres ofte av vekttap. Det som imidlertid i stedet ser ut til å ha fått hovedfokus når det kommer til inflammasjon, er balansen mellom omega-3 (n-3) og omega-6 (n-6). Både cellestudier og dyrestudier har vist pro-inflammatoriske egenskaper ved både mettet og flerumettet fett (spesielt omega-6). På den andre siden står omega-3, og da spesielt dokosaheksanoensyre (DHA) og eikasopentanoensyre (EPA) som anti-inflammatoriske eller i det minste mindre pro-inflammatoriske. Kliniske data er derimot en mangelvare, og reviewen jeg tar utgangspunkt i her har gått igjennom det meste som finnes av dette.
+
+Overvektige har høyere/lavere sirkulerende nivåer av pro-inflammatoriske/anti-inflammatoriske cytokiner i blodet sammenlignet med slanke og friske individer. Fettceller medierer inflammatoriske responser ved å frigjøre frie fettsyrer og adipocytokiner, spesielt tumor necrosis factor-a (TNFa), interleukin-6 (IL6). Disse og andre aktører rekrutterer makrofager som produserer flere inflammasjonsfaktorer og bidrar til å skape en kronisk betennelsestilstand i kroppen.
+
+## Fettsyrer og inflammasjon - mekanismer
+
+#### Mettede fettsyrer
+
+Både *in vitro* (studier på labben)og *in vivo* (studier i organismer, som oftest mus) studier har blitt gjort for å undersøke den inflammatoriske effekten av mettede fettsyrer, og det har blant annet vært vist en effekt på såkalte «toll-like receptors» (TLR). Når TLR stimuleres av mettede fettsyrer øker enkelte pro-inflammatoriske cytokiner som resulterer i en viss grad av betennelse, og dette har vært satt i sammenheng med insulinresistens. Stimulering av TLR er spesielt sterke ved tilførsel av laurinsyre (C12), palmitinsyre (C16) og stearinsyre (C18). Av disse er det i følge Philippe LeGrande, som foreleste om dette på [LHLs kostholdskonferanse](lhl-konferanse-2013.qmd), laurinsyre og palmitinsyre som er sterkest assosiert med uønskede effekter i menneskestudier. Man spekulerer også i om mettede fettsyrer kan øke reaktive oksygenforbindelser, som også vil kunne bidra til utvikling av insulinresistens.
+
+#### Flerumettede fettsyrer - Omega-6
+
+n-6-fettsyrer blir hyppig trukket frem som pro-inflammatoriske, og både linolensyre (LA) og arakidonsyre (AA) besitter disse egenskapene. n-6-fettsyrer er forløpere til såkalte eikosanoider (signalstoffer som blant annet stimulerer immunrespons) og bortsett fra noen unntak er eikosanoidene som produseres fra AA i utgangspunktet pro-inflammatoriske.
+
+#### Flerumettede fettsyrer - Omega-3
+
+n-3-fettsyrer  blir ofte omtalt som anti-inflammatoriske. Alfa-linolensyre (ALA), EPA og DHA, har vist seg å dempe effektene av inflammasjonsmarkører i fettvev, deriblant TNF-a og IL-6. EPA og DHA nedregulerer også TLR og utøver altså motsatt effekt sammenlignet med mettede fettsyrer, og det kan dermed tenkes at disse demper insulinresistens. Det har også vært foreslått at EPA og DHA direkte motvirker produksjonen eikosanoider fra AA gjennom å konkurrere om de samme enzymene.
+
+## Klinisk effekt
+
+Avsnittene over samsvarer mer eller mindre greit med allmen oppfatning. Mettede fettsyrer er ille, spis mer omega-3 og litt mindre omega-6. Men hva skjer egentlig når man tar forsøkene ut fra petriskålen og mus under svært godt kontrollerte forhold og prøver å overføre til mennesket som gjør som det vil? Det er som nevnt ikke spesielt mange gode studier på dette, og de studiene som er gjort samsvarer nødvendigvis ikke.
+
+#### Korttidseffekt
+
+Gjennomgangen som er gjort trekker frem studier som blant annet viser at både høyt og lavt fettinntak er assosiert med økte nivåer av inflammasjonsmarkører i blodet direkte etter måltidet, og at måltider som kombinerer fett og raffinerte karbohydrater (Big Mac + Cola) gir en akutt inflammatorisk respons i overvektige. Her ser man blant annet en økning i reaktive oksygenforbindelser i tillegg til at IL-6 øker.
+
+I en studie på hvordan ulike former for fettsyrer påvirker inflammasjon, fant man at et måltid rikt på n6-fettsyrer reduserte inflammasjonsmarkørene IL-6 og TNF-a. Dette er ganske oppsiktsvekkende da det faktisk er motsatt av hva man kanskje skulle tro basert på celle og dyrestudier. Senere har man blant annet sett at n3-fettsyrer ikke nødvendigvis har noen kottidseffekt på inflammasjonsmarkører i plasma. Videre har man sett at alle typer høyfett måltider kan øke enkelte inflammasjonsmarkører uavhengig av hvilke type fett som tilføres.
+
+Med andre ord ser man ikke ut til å finne noen klare beviser for hvordan ulike typer fettsyrer (mettede, flerumettede) påvirker betennelsestilstanden i blodet i et korttidsperspektiv (rett etter et måltid). Til tross for dette kan det se ut som at veldig fettrike måltider tenderer mot å øke sirkulerende nivåer av enkelte cytokiner, men evidensen for dette er altså begrenset.
+
+#### Langtidseffekt
+
+Studiene som er  gjennomgått raskt over så på hvordan fettrike måltider påvirker inflammasjonsmarkører i blodet kort tid etter måltidet. Det er nok mer interessant å se hvordan disse måltidene vil påvirke betennelsestilstanden i et lengre perspektiv, spesielt i sammenheng med overvekt og kanskje også vektnedgang. Da med tanke på hvordan man skal legge opp en diett.
+
+Jeg må bare gjenta at man hører mye om det potensielt skadelige effekten av n-6-fettsyrer, dersom dette inntas i høye doser. Forfatterne påpeker at det ikke finnes spesielt mye som støtter denne hypotesen om at LA og AA er pro-inflammatoriske i en frisk populasjon. På den andre siden vil nivåene av inflammasjonsmarkører være høyere i overvektige, men litteraturen er sprikende også her. Et høyt inntak av flerumettede fettsyrer fra planteoljer har blant annet vært vist å senke plasma C-reaktivt protein (CRP) og andre cytokiner. Med andre ord finner man også her frem til andre resultater enn man skulle tro ved inntak av n6-fettsyrer. De samme effektene er funnet ved tilskudd av n3-fettsyrer.
+
+## **Hva med** kalorirestriksjon?
+
+Når det kommer til kalorirestriksjon, har dietter lavt på både karbohydrater og fett (uspesifisert sammensetning) vist nedgang i inflammasjonsmarkører. Denne effekten kan muligens potensieres ved tilskudd av n3-fettsyrer. Man bør derfor kanskje skille mellom fettinntak ved vektnedgang sammenlignet med vektvedlikehold. Her er det også verdt å nevne at et hypokalorisk kosthold, som igjen vil føre til vektnedgang over tid generelt sett vil senke graden av inflammasjon i kroppen, slik at dette ikke nødvendigvis er et resultat av hvilken type fett man spiser.
+
+[Les mer om kalorirestriksjon relatert til risikoen for kreft](kalorirestriksjon-kreft.qmd).
+
+## Konklusjon
+
+Dette betyr mer eller mindre at evidensen som danner grunnlaget for anbefalinger om n-6 og n-3-fettsyrer som sirkulerer på internett, ratioer og så videre er rimelig veik og ikke kan festes lit til. Spesielt ikke når det gjelder inflammasjon. Man kan nokså trygt si at fettet vi som mennesker spiser sannsynligvis oppfører seg annerledes sammenlignet med diverse dyr og en celle i en laboratorieskål. Kanskje også at n3-fettsyrer ser ut til å ha en positiv effekt i rasjonelle doser i betennelsesøyemed. Men man ser også at svært fettrike måltider, uavhengig av type vil skape en viss utskillelse av inflammasjonsmarkører fra fettvev i blodet.
+
+Noen vil kanskje si at utgangspunktet for denne gjennomgangen er overvektige mennesker, som har en høyere grad av inflammasjon enn normalvektige. På den andre siden kan det nok la seg gjøre å overføre disse resultatene til normalvektige som har lavere sirkulerende nivåer av inflammasjonsmarkører i blodet, og sannsynligvis vil kunne spise mer fett uavhengig av kilde før disse nivåene øker. Kort fortalt - dersom inflammasjonsmarkører etter n6-inntak ikke øker i overvektige, gjør det sannsynligvis heller ikke det i normalvektige.
+
+[Vi responderer alle ulikt på det vi spiser](ulik-respons-lik-mat.qmd), og det kan se ut til at effektene av de ulike fettsyrene vil variere alt ettersom hvilket utgangspunkt man har. Både det genetiske utgangspunktet, og ikke minst hvorvidt man vil ned, opp eller vedlikeholde vekten er faktorer som unektelig har noe å si på sluttresultatet.
+
+*Referanser*
+
+1.  Teng et al, *Modulation of obersity-induced inflammation by dietary fats: mechanisms and clinical evidence*, 2014.
+
+*Takk til Vegard Lysne for innspill og diskusjon*

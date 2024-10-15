@@ -1,0 +1,50 @@
+---
+title: "Open Access"
+date: 2014.03.17
+---
+
+[Tilbake til kildekritikk, vitenskap og tankefeil](../../kildekritikk.qmd "Kildekritikk, vitenskap og tankefeil")
+
+Man kan finne masse informasjon på internett helt gratis. Fordelen med dette er at det er raskt og effektivt, men samtidig har man ingen garanti for at kvaliteten på det man leser er god. Hvem som helst kan nemlig publisere hva som helst på internett, og derfor er det viktig å være ekstra [kildekritisk](kildekritikk-god-kilde.qmd "Kildekritikk – hva er en god kilde?") når man benytter seg av blogger og lignende som informasjonskilde. Disse gjennomgår nemlig ikke den samme kvalitetskontrollen som inngår i [publikasjonsprosessen](publikasjonsprosessen.qmd "Publikasjonsprosessen") vitenskapelige artikler må gjennom før de publiseres.
+
+## Forskning publiseres i tidsskrifter
+
+Forskning ligger til grunn for utviklingen i kunnskapsgrunnlaget vi baserer oss på, og denne gjøres tilgjengelig gjennom vitenskapelige artikler. Tradisjonelt sett publiseres disse i vitenskapelige tidsskrift der man må betale for å få tilgang. Med mindre man er tilknyttet en utdanningsinstitusjon som betaler for tilgang, vil de fleste bare ha tilgang til sammendragene, som er en kort gjennomgang av hva artikkelen omhandler. De siste årene har imidlertid en del forskning blitt publisert såkalt open access, der fulltekstene også blir tilgjengelig på internett, helt uten begrensninger.
+
+## Forskning koster penger
+
+Det er ingen hemmelighet at det koster penger å gjennomføre forskning. For det første så er det en enorm mengde arbeidstimer som legges ned, og forskerne skal som andre folk også tjene til livets opphold. I tillegg koster det penger å gjennomføre analyser og andre prosesser relatert til selve forskningen.
+
+Når forskningen skal publiseres i et tidsskrift så er dette også en prosess som koster penger. Artiklene skal først leses gjennom og vurderes av de som driver tidsskriftet, og mange artikler forkastes allerede her. De artiklene som kommer gjennom dette nåløyet sendes videre til fagfellevurdering, som kort fortalt betyr at eksperter innen det aktuelle temaet leser gjennom artikkelen kritisk og kommer med sine kommentarer. Denne delen av prosessen er basert på frivillig arbeid, men en veldig viktig kvalitetskontroll. Når artikkelen så er klar for å publiseres, så skal den gjøres tilgjengelig for publikum, noe som heller ikke er gratis.
+
+## Hva er open access?
+
+Ved den tradisjonelle måten å publisere på er det leseren som dekker kostnaden ved publisering. Dette skjer ved at den enkelte abonnerer på tidsskriftet, eventuelt betaler for tilgang til enkelte artikler. Ved åpen tilgang flyttes denne økonomiske byrden bort fra leseren, slik at alle får tilgang på artiklene gratis. En viktig problemstilling blir da hvem som skal finansiere dette, og normalt sett flyttes dette ansvaret over på forfatteren eller hans/hennes sponsorer.
+
+Publiserer man i et lukket tidsskrift er det som regel tidsskriftet som eier rettighetene til artikkelen. Ved åpen tilgang er det imidlertid vanlig at forfatteren selv innehar eierskap og rettigheter til det han/hun har skrevet, noe som blant annet gir rettigheter til å bruke eget materiale igjen ved senere anledning. I tillegg er det vist at artikler som publiseres på denne måten blir lest av flere enn artikler man må betale for.
+
+[Les mer om open access her](http://www.phdontrack.net/share-and-publish/open-access/)
+
+Det finnes to hovedkategorier av åpen tilgang, grønn og gull. Ved det som kalles Green open access publiserer forfatteren i et hvilket som helst tidsskrift, for så å arkivere en kopi av artikkelen med gratis tilgang et annet sted. Dette kan for eksempel være i regi av egen forskningsinstitusjon eller et sentralt sted som [PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/), og krever godkjenning fra tidsskriftet man originalt publiserte i. Alternativt kan forskningsartikkelen publiseres i fagfellevurderte åpne tidsskrift der alt blir fritt tilgjengelig med en gang, noe som kalles Gold open access.
+
+Det finnes også to typer åpen tilgang-tidsskrifter. Noen tidsskrifter baserer seg utelukkende på åpen tilgang, og alt publiseres på denne måten. Andre tidsskrift publiserer i utgangspunktet på gamlemåten, men gir forfatterne mulighet til å betale en avgift for å gjøre artikkelen åpent tilgjengelig. For å finne tidsskrifter som praktiserer åpen tilgang kan du søke hos [Directory of Open Access Journals](http://doaj.org/).
+
+## Debatt om åpen tilgang
+
+Det er mange meninger om hvorvidt åpen tilgang er en bra ting. University of Oxford holdt i 2012 en debatt om åpen publisering. Debatten kan anbefales for de som interesserer seg for disse temaene.
+
+[Se debatten her](http://www.podcasts.ox.ac.uk/evolution-science-open-publishing-debate-2012-video)
+
+Alison Mitchell representerer [Nature Publishing Group](http://www.nature.com/), som er ansvarlig for en lang rekke tidsskrifter, hvorav flere av disse tilbyr åpen tilgang. Mye av det de publiserer gjøres likevel på gamlemåten, der man må betale for tilgang. Hun diskuterer blant annet problemstillingen rundt finansiering av selv publiseringsprosessen, og NPGs holdning er at åpen tilgang absolutt har noe for seg, men kanskje først og fremst for de tidsskriftene har mange forfattere sammenlignet med lesere. For tidsskrifter som har mange lesere og færre publikasjoner mener hun det kanskje er mer fornuftig å fordele kostnadene på leserne.
+
+Alicia Wise representerer [Elsevier](https://www.elsevier.com/), en publiseringsgruppe som er svært positiv til åpen tilgang, men ikke på bekostning av kvalitet. Hun trekker frem at det per i dag ikke er midler til at all forskning kan publiseres på denne måten, selv om det finnes en rekke organisasjoner som går inn for å finansiere forskning som skal publiseres åpent.
+
+Robert Kiley kommer fra [Wellcome Trust](http://www.wellcome.ac.uk/index.htm),en uavhengig stiftelse som finansierer forskning med krav om at sluttproduktet skal publiseres i åpne tidsskrift. Grunnen til at de innførte dette kravet er fordi de ikke ønsker å bruke masse penger på å finansiere forskning som folk igjen må betale for å få tilgang til. Han understreker at ikke engang de største universitetsbibliotekene har mulighet til å betale for tilgang til alle de ulike tidsskriftene, og derfor mener de at åpen tilgang er veien å gå.
+
+Men åpen tilgang er ikke bare en dans på roser. Robert Winston fremhever at et stort problem med vitenskapelige artikler er at for folk flest er de uforståelige. Åpen tilgang vil derfor etter hans mening ikke nødvendigvis løse noen problemer.
+
+## Min mening
+
+Jeg er tilhenger av at forskning skal være åpent tilgjengelig. Når det settes av enorme summer til det som er den beste formen for kunnskapsutvikling, skulle det også bare mangle at allmennheten får tilgang på denne kunnskapen. Som nevnt i innledningen har vitenskapelige publikasjoner en helt egen form for kvalitetskontroll gjennom fagfellevurdering, og selv om mye forskning av lav kvalitet slipper gjennom denne prosessen er det uendelig mye bedre enn det som er tilfellet for blogger, aviser og andre medier.
+
+Et problem med vitenskapelige artikler er imidlertid at de for de aller fleste er svært lite lesevennlige. Det kreves faktisk en del forhåndskunnskaper og ikke minst trening for å dra noe nevenyttig ut av en forskningsartikkel, noe vi har vært inne på i andre artikler i denne serien.  Likevel synes jeg åpen tilgang er fornuftig, for alternativet er at man må hente ut informasjon basert på overskrifter og abstract, noe som svært ofte gir veldig mangelfull informasjon.

@@ -1,0 +1,50 @@
+---
+title: "Parkinsons"
+author: "Andrea Rørvik Marti"
+date: 2013.12.02
+---
+
+Parkinsons sykdom er en nevrodegenerativ sykdom som rammer 1% av den vestlige verdens befolkning over 60 år. Til tross for at det ikke finnes noen kur mot Parkinsons, er dette en av de sykdommene vi vet mest om både når det kommer til fysiologi og behandling.  I denne artikkelen vil jeg gå igjennom både de motoriske og kognitive problemene som kommer av Parkinsons sykdom, og hypoteser om hvorfor og hvordan disse oppstår. Helt til slutt vil de vanligste behandlingsmetodene bli diskutert.
+
+## Patofysiologi
+
+Parkinsons er en vanskelig sykdom fordi den er heterogen (symptomene varierer fra person til person) og fordi det er vanskelig å antyde hvilke symptomer som skyldes sykdommen og hvilke som skyldes behandlingen. Likevel er det noen fellestrekk ved sykdommen, og i kontrast til andre nevrodegenerative sykdommer som er vanskelige å diagnostisere og behandle, har man ved Parkinsons en relativt god idé om hva det er som foregår i hjernen. Her ser man celledød i et helt spesifikt område i hjernen som kalles for substantia nigra pars compacta. Dette området inneholder et stort antall dopaminergiske celler, og celledød her fører derfor til lavere tilførsel av dopamin til ulike deler av hjernen. Parkinsons er en progressiv sykdom, og man ser derfor mer og mer utbredt død av dopaminceller ettersom sykdommen utvikler seg. Ettersom ytterligere nedbryting forekommer og sykdommen utvikler seg, vil man også se flere og flere symptomer.
+
+## Motoriske symptomer
+
+De motoriske symptomene ved Parkinsons er de som viser seg først, og dermed også de som er mest velkjente. Helt generelt kan man si at motorisk funksjon hos Parkinsonpasienter karakterieser av manglende flyt i bevegelser (1). De er ofte stive, og dette er fordi evnen til å kontrollere musklene reduseres, hvilket fører til at extensor- og flexor-muskler trekkes sammen og slappes av samtidig. Det mest karakteristiske symptomet er likevel kanskje det som på engelsk kalles for «resting tremor» - skjelving som forekommer når pasienten hviler, men ikke når han/hun utfører frivillig bevegelse eller ved søvn. I tillegg til disse symptomene kan man også se redusert hurtighet i bevegelse, problemer med å utføre eller starte opp en ny bevegelse, og vanskeligheter med å uttrykke følelser gjennom ansiktet. Men ser også problemer med gange, samt kroppsholdning, hvilket kan gjøre pasienten mer utsatt for fall.
+
+## Kognitive symptomer
+
+Kognitive symptomer forekommer tidlig i utviklingen av Parkinsons-sykdom, og sannsynligvis før de motoriske symptomene manifesterer seg (2). Dessverre er det per dags dato vanskelig å diagnostisere Parkinsons kun med utgangspunkt i kognitive symptomer, og det er derfor en mulighet for at behandling startes for sent hos en stor andel pasienter. De kognitive symptomene varierer fra pasient til pasient, men minner i stor grad om den typen problemer man ser hos pasienter med skade på frontallappen i hjernen. Dette inkluderer problemer med det som kalles for «utøvende kontroll», som omhandler ting som å fokusere, skifte fokus, multitasking, starte opp en ny handling, avslutte en påbegynt handling, planlegging og så videre. I tillegg ser man problemer knyttet til visuell og romlig prosessering, humør, språk, læring og hukommelse.
+
+## Behandling av Parkinsons sykdom
+
+Parkinsons sykdom diagnostiseres delvis ved at pasienten opplever bedring av symptomene etter tilførsel av en medisin som kalles for L-Dopa (3). L-Dopa er en dopamin-agonist som øker mengden dopamin i hjernen, ikke bare der hvor det er for lite, men også der mengden er tilstrekkelig. Derfor er også behandling av Parkinsons assosiert med visse kognitive symptomer, deriblant en økning av spontane handlinger, og redusert inhibisjon. Dette kan i visse tilfeller føre til problemer knyttet til gambling, rusmisbruk og promiskuitet. Det er gjort en hel del studier som forsøker å finne ut hvilke symptomer L-Dopa lindrer, og hvilke det forårsaker. Det er uansett ingen tvil om at fordelene utveier ulempene ved bruk av medisinen.
+
+Hvis man ser bort ifra bivirkningene er det derimot andre betenkeligheter med L-Dopa. For det første må medisinen gis i store doser fordi en stor andel av medisinen ikke krysser blod-hjerne barrieren, og dermed aldri når hjernen. For det andre utvikler pasienten sakte men sikkert toleranse for L-Dopa, og behøver stadig større doser for å få ønsket effekt. En pasient som har brukt L-Dopa i 10 år kan i visse tilfeller måtte sette så mye som 20 sprøyter om dagen for å kunne fungere tilnærmet normalt. På et eller annet tidspunkt vil L-Dopaen begynne å ha så liten effekt at pasienten må gå lengre perioder med avvenning hvor vedkommende sannsynligvis vil være fullstendig hjelpeløs, noe som har en stor negativ effekt på vedkommendes livskvalitet. I disse tilfellene, hvor L-Dopa ikke lenger fungerer, vil pasienten kunne få innvilget behandling med det som kalles for Deep Brain Stimulation (DBS).
+
+DBS består av en elektrode som opereres inn i hjernen til pasienten, og som kobles til ledninger som føres under huden og ned til en sender/mottaker som plasseres under huden i pasientens bryst (4). Pasienten bruker så en fjernkontroll til å kontrollere hvor sterke og ofte elektriske impulser skal sendes til området. Det som skjer er at celler som ikke får stimuli på grunn av lav dopamintilførsel stimuleres mekanisk ved hjelp av elektriske impulser. Videoen nedenfor viser den dramatiske effekten denne behandlingen kan ha på en pasient, og man ser uten tvil at dette er et inngrep som vil ha en ekstremt stor betydning for vedkommendes livskvalitet og daglige funksjon. Man skal derimot ikke glemme at det er stor risiko knyttet til selve inngrepet, og det er derfor strengt regulert hvem som skal tibys denne behandlingen.Man må kunne dokumentere at L-Dopa ikke langer har signifikant effekt på funksjon, og man kan ikke ha demensliknende symptomer fordi man da ikke vil oppfylle kravene for informert samtykke.
+
+## Helt til slutt
+
+Det er mye vi vet om Parkinsons, men det er allikevel mye vi ikke vet. Selv om behandlingsmetodene vi har i dag fungerer greit, er de langt ifra optimale, og behandler kun symptomer på sykdommen. Det virkelige gjennombruddet i Parkinsons-forskningen vil komme hvis vi en dag kan finne ut hva det er som forårsaker nedbrytingen vi ser i sykdommen, og hvordan vi kan reversere eller stanse nedbrytingen. Ser man videoen ovenfor kan det virke som om kampen mot Parkinsons i stor grad er vunnet, men det er viktig å huske på at sykdommen forårsaker en hel rekke med symptomer, hvorav bare noen få forbedres av behandling. Derfor sier vi fortsatt at Parkinsons er en ikke-kurerbar sykdom. Den vil til syvende og sist føre til at pasienten dør. Vi er fortsatt langt unna å finne en kur for Parkinsons, men kan enn så lenge si oss delvis fornøyde med hva vi vet og kan så langt.
+
+Oppsummering
+
+-   Parkinsons sykdom skyldes hovedsakelig nedbryting av dopaminergiske hjerneceller i substantia nigra pars compacta
+-   Karakteriseres ved skjelving, samt redusert flyt i bevegelser
+-   Fører til kognitive problemer som manifesteres ulikt hos ulike pasienter
+-   Behandles hovedsakelig med L-Dopa, en dopamin-agonist
+-   Som siste utvei benyttes Deep Brain Stimulation som behandlingsform
+-   Behandlingene lindrer kun symptomer, og reverserer ikke sykdommen
+
+Kilder
+
+1.  Wichmann, T., Smith, Y. & Vitek, J. L. (2008). Pathophysiology of Parkinson’s disease. I S. Factor & W. Weiner (Eds.), *Parkinson’s Disease: Diagnosis and Clinical Management*. New York: Demos Medical Publishing.
+
+2.  Kehagia, A. A., Barker, R. A. & Robbins, T. W. (2010). Neuropsychological and clinical heterogeneity of cognitive impairment and dementia in patients with Parkinson’s disease. *The Lancet Neurology*, 9, 1200-1213.
+
+3.  Simuni, T., & Hurtig, H. (2008). Levadopa: a pharmacological miracle four decades later. I S. Factor & W. Weiner (Eds.), *Parkinson’s Disease: Diagnosis and Clinical Management*. New York: Demos Medical Publishing.
+
+4.  Kalia, S. K., Sankar, T. & Lozano, A. M. (2013). Deep brain stimulation for Parkinson’s disease and other movement disorders. *Current Opinion in Neurology*, 26, 374-380.

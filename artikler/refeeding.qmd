@@ -1,0 +1,42 @@
+---
+title: "Reernæringssyndrom"
+date: 2014.02.06
+---
+
+Sult og underernæring kan være svært alvorlig, og det som åpenbart er førsteprioritet i en slik situasjon er å få i personen mat. Men i noen tilfeller er ikke dette fullstendig uproblematisk, og denne problemstillingen ble for første gang oppdaget etter andre verdenskrig, da utsultede krigsfanger fikk tilgang på mat. Man skulle jo tro at dette var en positiv ting, men som en konsekvens av dette var det mange som døde. Dette fenomenet er i dag kjent som reernæringssyndrom, og her får du en liten oversikt over hva dette dreier seg om.
+
+I en tidligere artikkel har jeg forklart hva [homeostase](http://www.friskogfunksjonell.no/homeostase/ "Homeostase") er og hvorfor det er viktig. Kort fortalt handler homeostase om stabilitet, og det å opprettholde miljøet inni kroppen stabilt er viktig for at vi i det hele tatt skal kunne fungere. Store avvik fra homeostase kan være farlig og i verste fall dødelig. Å opprettholde konsentrasjonen av de ulike elektrolyttene i blodet og inni cellene er et eksempel på homeostase, og i forbindelse med reernæringssyndrom er dette det mest sentrale.
+
+## Natrium og kalium
+
+Elektrolytter er viktige, blant annet for å regulere væskebalansen i de ulike rommene inni kroppen. Her vil jeg først og fremst fokusere på [natrium](http://www.friskogfunksjonell.no/natrium-og-klor/ "Natrium og klor"), vår viktigste ekstracellulære elektrolytt, og [kalium](http://www.friskogfunksjonell.no/kalium/ "Kalium"), vår viktigste intracellulære elektrolytt. Disse har flere viktige oppgaver. Natrium spiller en sentral rolle i opprettholdelsen av blodvolumet, mens kalium blant annet er veldig viktig for å opprettholde membranpotensiale. Sistnevnte er spesielt kritisk for hjertemuskelen, og forstyrrelser i kaliumhomeostasen kan gå hardt utover hjertet, både ved økte og reduserte nivåer.
+
+Når et ion fraktes over en cellemembran er det letteste å gå fra den siden med høy konsentrasjon og over til den siden med lavere konsentrasjon. Etter dette skulle altså natrium flytte seg fra blodet og inn i cellen, mens kaliumet gikk motsatt vei, og nettopp dette skjer hele tiden. Men, for å opprettholde homeostase der natrium først og fremst befinner seg i blodet og kalium inni cellene, har vi en kanal som heter natrium-kalium-pumpen (N/K-pumpen). Denne pumper natrium ut av cellen og kalium inn, og på denne måten opprettholdes nivåene slik de skal være. N/K-pumpen er energikrevende og stimuleres blant annet av insulin, noe som er viktige detaljer.
+
+![](images/clipboard-179456903.png)
+
+[Nyrene](http://www.friskogfunksjonell.no/nyre-3/ "Nyrene del 3 – Elektrolyttstatus og andre funksjoner") spiller en svært viktig rolle i å holde blodnivåene av elektrolytter der de skal være. Alt blodet filtreres gjennom nyrene mange ganger daglig, og overskudd av stoffer skilles effektivt ut. Derfor er høye nivåer av elektrolytter og andre ting først og fremst en konsekvens av [redusert nyrefunksjon](http://www.friskogfunksjonell.no/nyre-4/ "Nyrene del 4 – nyresykdom").
+
+## Alvorlig sult og underernæring
+
+Dersom vi over tid spiser for lite så vil dette gå utover kroppens funksjoner. Mennesket er en overlevelsesmaskin, og når tilgangen på energi er liten vil de viktigste funksjonene prioriteres først. Altså vil for eksempel det å opprettholde hjerne-, hjerte- og lungefunksjon samt de viktige funksjonene til andre organer som lever og nyrer prioriteres. Andre funksjoner som ikke er like kritiske for den kortsiktige overlevelsen vil nedprioriteres. Dette gjelder for eksempel immunforsvaret, og mange har nok merket at man lettere blir småsyk i perioder der man spiser mindre enn vanlig.  Celledeling vil også gå saktere, noe som spesielt går utover de cellene som fornyer seg ofte, som cellene i tarmene. Dette er årsaken til at mange i ettertid av en periode med underernæring kan oppleve nye intoleranser mot mat de egentlig tålte godt, grunnet at tarmen er brutt ned. Det er også grunnen til at man i sykehus alltid etterstreber å få noe mat i tarm selv om pasienten er avhengig av intravenøs tilførsel av næring (parenteral ernæring).
+
+N/K-pumpen er energikrevende, og ved langvarig underernæring kan funksjonen reduseres. Dette fører til at natrium fraktes inn i cellene og kalium ut i blodet. Siden nyrene effektivt skiller ut kaliumoverskuddet, vil dette totalt sett gi et tap av kalium, mens natriumutskillelsen vil bremses for å spare på de lave nivåene som nå finnes i blodet. Nyrene gjør bare jobben sin.
+
+Underernæring kan ramme alle, men det er selvfølgelig noen som er mer utsatt enn andre. Sult og liten tilgang på mat er et åpenbart eksempel, og ikke så vanlig i vår del av verden. Ekstreme slankekurer og spiseforstyrrelser øke risikoen for underernæring. I tillegg kan sykdom føre til underernæring, først og fremst ved å påvirke hvor mye vi orker og klarer å spise. Forekomsten av underernæring blant pasienter på sykehus og sykehjem er høy, og ofte kan det også være helt umulig å se på en person hvorvidt denne er underernært eller ikke, da dette også kan ramme overvektige.
+
+## Reernæring
+
+Denne artikkelen skulle ikke handle om underernæring, men hva som kan skje når underernærte personer skal begynne å spise igjen. En underernært person tærer på lagret energi, og vi lagrer først og fremst energi i form av fettvev. En person i denne situasjonen drives demret omtrent utelukkende av fettforbrenning. Insulinnivåene vil da være lave, ettersom insulin først og fremst skilles ut når blodsukkeret øker ved tilførsel av mat.
+
+Når den alvorlig underernærte personen får i seg mat igjen skjer det flere ting. For det første øker blodsukkeret, noe som stimulerer insulinutskillelsen. Personen får da en rask omstilling fra fettforbrenning til glukoseforbrenning, og nedbrytningen av glukose er avhengig av tiamin (vitamin B1), som er et vannløselig vitamin. Etter lengre tids underernæring eller sult er det ikke sikkert nivåene av tiamin er tilstrekkelige til at glukosenedbrytningen går som den skal, da lagrene for dette vitaminet bare varer 4-10 dager.
+
+En annen svært viktig faktor er at N/K-pumpen nå plutselig får tilgang på energi og ikke minst blir stimulert av insulin. Natrium som har lagret seg inni cellene blir da pumpet ut i blodet, noe som gjør at blodvolumet øker siden natriumet trekker til seg vann. Dette kan forårsake ødemer. Kalium blir samtidig pumpet inn i cellene, slik at blodkonsentrasjonen av kalium synker. Det er først og fremst de reduserte nivåene av kalium som gir høy risiko for hjertesvikt.
+
+Jeg har ikke gått nærmere inn på andre elektrolytter i denne artikkelen da det ville gjort den unødvendig komplisert, men fosfat- og magnesiumnivåene i blodet synker også ved reernæring. Dette bidrar til symptomene for reernæringssyndrom som inkluderer nevropati/forvirring og muskelplager. Men først og fremst er det altså hjertet man er bekymret for, da det er mest kritisk.
+
+## Hva kan man gjøre?
+
+Grunnen til at reernæringssyndrom ikke er noe man hører så mye om er rett og slett at man er klar over risikoen. Derfor kan legene overvåke elektrolyttnivåene når pasienten reernæres, og korrigere fortløpende for å unngå store forstyrrelser.
+
+Av denne grunn er det viktig at reernæring av alvorlig underernærte foregår under kontrollerte forhold. Dersom du kjenner til noen som kan være i faresonen, for eksempel på grunn av langvarig spiseforstyrrelse, er det derfor viktig at eventuelle velmente forsøk på å få personen til å spise igjen gjøres i samråd med helsepersonell, slik at risikoen for reernæringssyndrom kan vurderes.

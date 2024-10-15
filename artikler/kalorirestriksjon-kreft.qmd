@@ -1,0 +1,81 @@
+---
+title: "Kan kalorirestriksjon bidra til å forebygge kreft?"
+date: 2013.09.30
+categories:
+  - kosthold
+  - kreft
+---
+
+Kalorirestriksjon (20-40% lavere energiinntak) er en veldig utbredt strategi for å oppnå vekttap. Kan dette samtidig bidra til å forebygge kreftsykdom? Det finnes mye data på at dette kan være tilfelle, men hvilke mekanismer ligger i såfall til grunn? I denne artikkelen tar jeg en titt på litteraturen på dette området og ser hva den sier.
+
+Dette innlegget vil være basert på to reviewartikler. Den ene ble publisert i 2010(1), mens den andre kom ut tidligere i år (2). Jeg vil også understreke at alt som er skrevet her gjelder forebygging av kreftsykdom, og ikke behandling av etablert sykdom. Har man allerede fått kreft er dette en sak mellom den det gjelder og ansvarlig lege.
+
+At det er en sammenheng mellom livsstil og kreft er det ingen tvil om. Epidemiologiske data viser at når folk flytter fra et område til et annet, så går det ikke lang tid før de også tilhører risikoprofilen i det aktuelle området. Man ser også endringer i risikoprofilen etter hvert som kosthold og livsstil i et område endres. Dette kan innebære redusert risiko for noen krefttyper mens risikoen for andre krefttyper øker.
+
+En kostfaktor som har fått mye oppmerksomhet er totalt energiinntak, og sammenhengen mellom kalorirestriksjon og kreftrisiko er veldig spennende.
+
+## Kalorirestriksjon og kreftrisiko
+
+I dyremodeller har man tidligere observert at kalorirestriksjon forebygger diabetes, nevrodegenerasjon og kreft. Observasjonsstudier har vist at kalorirestriksjon er assosiert med reduserte inflammatoriske og endokrine markører for brystkreftrisiko hos kvinner, og epidemiologiske data indikerer at kalorirestriksjon er assosiert med lavere dødelighet fra kroniske sykdommer og å leve lenger.
+
+Kraftig kalorirestriksjon kan ofte følges av mangel på enkelte næringsstoffer, rett og slett fordi det totale energiinntaket blir for lavt. Selv om data fra andre verdenskrig, der tilgangen på mat var lav, viser redusert kreftrisiko i noen populasjoner, så er det også eksempler på at risikoen økte i andre områder der tilgangen på mat var spesielt dårlig. I studier på gnagere viser kalorirestriksjon seg konsekvent å redusere risikoen for kreft, men her skal det nevnes at disse rottene får dekket alle behov for næringsstoffer, og at diettene ofte henvises til som kalorirestriksjon uten feilernæring.
+
+Det foregår nå studier på kalorirestriksjon hos mennesker, og foreløpige rapporter viser at man ser de samme endringene i risikomarkører som man har observert i dyremodellene. Tidligere studier har sett på ulike former for kalorirestriksjon, eksempelvis total kalorirestriksjon eller å redusere inntaket av karbohydrater to dager i uken, og dette har vist seg å kunne redusere brystkreftrisikoen i høyrisikogrupper.
+
+Sammenhengen mellom kalorirestriksjon og redusert risiko for enkelte kreftformer ser dermed ut til å være konsistent mellom dyremodeller og forsøk på mennesker. Det som gjenstår å finne ut er hvilke mekanismer som ligger til grunn.
+
+## Overvekt og kreft
+
+En åpenbar kandidat for assosiasjonen mellom kalorirestriksjon og redusert kreftrisiko er at kalorirestriksjon kan bidra til å forebygge overvekt. Det er en klar sammenheng mellom det å være overvektig og å ha økt risiko for en rekke kreftformer. Akkumulering av fettvev er assosiert med økt grad av inflammasjon, oksidativt stress, insulinresistens og hormonelle endringer, som alle er involvert i patogenesen til mange kreftformer. Spesielt interessant er kanskje korrelasjonen mellom overvekt og sirkulerende insulinnivåer, ettersom forhøyet insulin påvirker mange mekanismer som kan fremme utviklingen av kreftsvulster. Deriblant gjennom å binde direkte til kreftcellene, ved å øke tilgjengeligheten av fritt, bioaktivt kjønnshormon og ved å øke aktiviteten til vekstfaktoren IGF-1 som er innvolvert i vekst av kreftceller. I denne sammenheng bør også fysisk aktivitet nevnes, ettersom dette også har en viktig påvirkning på insulinsensitivitet og dermed sirkulerende insulinnivåer.
+
+I tillegg til den indirekte effekten gjennom å øke insulinnivåene er fettvevet også en kilde til androgene steroidhormoner, og produserer en del forbindelser som også påvirker cellevekst, som IL-6, IGF-1 og leptin. Fettcellene produserer også vaskulær endotelial vekstfaktor (VEGF), som er viktig for angiogenese (nydanning av blodårer som er viktig for vekst av kreftsvulster). Figuren under (1) viser sammenhengen mellom energioverskudd, overvekt og endringer i disse faktorene.
+
+![](images/clipboard-309288999.png)
+
+Vekttap, enten via fedmekirurgi eller kalorirestriksjon, viser en tydelig risikoreduksjon for mange krefttyper. Dette virker sannsynligvis gjennom å påvirke alle de nevnte metabolske faktorene som er assosiert med overvekt.
+
+Kalorirestriksjon kan fungere på mange nivåer, og det er observert mange tilpasninger som skjer ved en slik kostintervensjon. For det første så påvirker energiinntaket produksjon og utskillelse av hormoner direkte for å regulere energimetabolismen. I energioverskudd vil vi ha en overvekt av anabole hormoner som insulin, mens energiunderskudd vil føre til at katabole hormoner som glukagon dominere. Også sulthormoner som ghrelin og leptin reguleres direkte av maten vi spiser, mens produksjonen av cytokiner og adipokiner påvirkes gjennom kostholdets effekt på fettvevet.
+
+Adiponektin er et av adipokinene, og produksjonen øker når fettmassen reduseres. Adiponektin øker insulinsensitiviteten, og kan dermed redusere sirkulerende insulinnivåer. I tillegg er adiponektin anti-inflammatorisk, noe som også kan redusere kreftrisikoen. Leptin er et annet adipokin, som produseres i økende grad når fettmassen øker. Økte nivåer av leptin, som sett ved overvekt, kan gjennom mange prosesser være med å bidra til utviklingen av kreft. Sammenhengen mellom adipokiner og risikoen for kreft er foreløpig usikker.
+
+Figuren under (2) viser en oversikt over hvordan kalorirestriksjon er tenkt å påvirke kreftrisiko.
+
+![](images/clipboard-1924467709.png)
+
+## Insulinlignende vekstfaktor 1
+
+Forhøyet nivå av insulinlignende vekstfaktor 1 (IGF-1) er en etablert risikofaktor for en rekke krefttyper. Hyperinsulinemi påvirker produksjonen av IGF-1 direkte, i tillegg til å øke aktiviteten til vekstfaktoren. Insulin reduserer nemlig produksjonen av IGF-bindende proteiner (IGFBP) i leveren, noe som øker andelen fritt IGF-1 som er mer bioaktivt.
+
+Kalorirestriksjon har vist seg å redusere nivåene av IGF-1, og dette er satt i sammenheng med redusert risiko for kreft. I dyremodeller har man reversert den beskyttende effekten av kalorirestriksjon ved å injisere IGF-1. Dyr som mangler veksthormon, som regulerer produksjonen av IGF-1, har lavere, mens dyr med overproduksjon av veksthormon har en markant økt forekomst av kreft. Epidemiologiske studier viser en sammenheng mellom sirkulerende IGF-1 og risiko for kreft. Disse dataene tilsier at nivåene av IGF-1 er viktig for utviklingen av mange krefttyper.
+
+IGF-1 påvirkes direkte av kostholdet, og studier på faste har sett at dette gir en markant reduksjon i de sirkulerende nivåene hos mennesker. Dette styres i stor grad av reduserte insulinnivåer, som reduserer produksjonen av IGF-1 og øker produksjonen av IGFBP. Det samme gjelder ved langvarig kalorirestriksjon, men ikke dersom proteininntaket holdes høyt. Det ser ut som om proteininntaket er en sentral brikke i produksjonen av IGF-1, og dersom man reduserer proteininntaket så resulterer dette i reduserte nivåer av vekstfaktoren. Vegetarianere med et moderat proteininntak har også signifikant lavere nivåer av IGF-1 enn ikke-vegetarianere.
+
+## Kalorirestriksjon, aldringsprosessen og kreft
+
+Kalorirestriksjon har i mange dyremodeller vist seg å være assosiert med lenger levetid, og mekanismene som ligger til grunn for dette kan også være involvert i assosiasjonen mellom kalorirestriksjon og redusert kreftrisiko. Det må imidlertid også nevnes at noen av disse studiene har møtt kritikk for ikke å ta hensyn til andre ting enn kalorirestriksjonen som kan ligge til grunn for observasjonene. Som et eksempel så blir dette diskutert i en artikkel i Nature (3), hvor de ikke fant den samme effekten. De nevner at i andre studier har kostholdet i seg selv vært veldig usunt og at dette i seg selv kan forklare resultatene. Vi må likevel ikke glemme at også epidemiologiske data på mennesker indikerer en sammenheng mellom kalorirestriksjon og å leve lenger.
+
+Etter hvert som vi blir eldre så vil vi også i større grad utvikle mutasjoner i DNA som kan føre til kreft. Kalorirestriksjon har vist seg å kunne begrense disse mutasjonene. Mekanistiske studier har identifisert signalveier som påvirkes av kalorirestriksjon, som er direkte knyttet til mutasjoner i DNA gjennom å regulere forsvaret mot oksidativt stress og reparasjonsmekanismer for skadet DNA. En av disse signalveiene er mTOR, som er med å regulere cellevekst og celledeling. Nedregulert aktivitet i denne og andre signalveier, som kan oppnås ved kalorirestriksjon, er forbundet med redusert oksidativt stress og aldringsrelaterte mutasjoner i DNA i disse mekanistiske studiene.
+
+Også insulin og IGF-1 ser ut til å være involvert i aldringsprosessen, og reduserte nivåer er assosiert med lengre levetid. I tillegg er dette assosiert med lavere forekomst av aldersrelaterte krefttilfeller hos mus. Insulin og IGF-1 regulerer signalveier som igjen påvirker mTOR, og effekten kan være mediert gjennom dette. Lav tilgang på energisubstrat har også en direkte hemmende effekt på mTOR, og dette kan være en direkte effekt av kalorirestriksjon.
+
+## Inflammasjon
+
+Inflammasjon er en annen etablert risikofaktor for kreft, og inflammasjon i ulike deler av kroppen har vist seg å øke risikoen for spesifikke krefttyper. Inflammatoriske tarmsykdommer gir eksempelvis økt risiko for tarmkreft, mens betennelser i bukspyttkjertelen (pankreatitt) øker risiko for kreft her. Kalorirestriksjon reduserer systemisk inflammasjon (blant annet gjennom endret produksjon av pro- og antiinflammatoriske adipokiner og cytokiner), og det er økende evidens for at nettopp dette er viktig for risikoreduksjonen som observeres ved kalorirestriksjon.
+
+## Oppsummering
+
+Dyremodeller og epidemiologiske data indikerer at kalorirestriksjon øker levetiden og reduserer risikoen for en rekke krefttyper. Det er mange ulike mekanismer som kan være involvert, og det er lite sannsynlig at en mekanisme alene er ansvarlig for risikoreduksjonen som observeres.
+
+Kalorirestriksjon påvirker mange prosesser relatert til kreftprosessen, som energimetabolismen, hormonproduksjon, inflammasjon og oksidativt stress. Den sterkeste sammenhengen mellom kalorirestriksjon og kreftrisiko ligger sannsynligvis i forebygging og behandling av overvekt og de metabolske fordelene som følge av dette.
+
+Det er ingen tvil om at det er en sammenheng mellom livsstil og risiko for kreft, og det er mange gode grunner til å følge rådene om å unngå overvekt, kanskje gjennom kalorirestriksjon og å være fysisk aktiv. Jeg vil helt til slutt igjen understreke at det som er diskutert i denne artikkelen gjelder i forebygging av kreft, ikke under behandling av etablert kreftsykdom.
+
+*Tusen takk til Klinisk Ernæringsfysiolog Mari Helene Kårstad for kvalitetssjekk og gode tips.*
+
+Referanser
+
+1.  Longo VD, Fontana L: **Calorie restriction and cancer prevention: metabolic and molecular mechanisms**. *Trends in pharmacological sciences* 2010, **31**(2):89-98
+
+2.  Hursting SD, Dunlap SM, Ford NA, Hursting MJ, Lashinger LM: **Calorie restriction and cancer prevention: a mechanistic perspective**. *Cancer & Metabolism2013*, **1**:10
+
+3.  Mattison JA, Roth GS, Beasley TM, Tilmont EM, Handy AM, Herbert RL, Longo DL, Allison DB, Young JE, Bryant M *et al*: **Impact of caloric restriction on health and survival in rhesus monkeys from the NIA study**. *Nature* 2012, **489**(7415):318-321.

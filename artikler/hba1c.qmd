@@ -1,0 +1,27 @@
+---
+title: "Hva er HbA1c/langtidsblodsukker?"
+author: "Eirik Wilberg Rebnord"
+date: 2013.10.07
+categories:
+  - diabetes
+---
+
+Man hører ofte at det snakkes om HbA1c eller «langtidsblodsukkeret». Hva betyr det egentlig? I denne artikkelen får du en kort innføring i dette begrepet og hvorfor det benyttes.
+
+Livsstilssykdom og spesifikt diabetes har blitt vanligere og vanligere. Personer med diabetes har nedsatt evne til å regulere glukosenivået i blodet, og høye blodsukkerverdier over tid disponerer for alvorlige hjerte-, nyre-, øye- og nevrologiske komplikasjoner. Hvis man har diabetes, er det mulig å påvirke risikoen for å bli rammet av komplikasjoner gjennom  god blodsukkerkontroll. Dette kan oppnås med blant annet livsstilsendringer som kosthold og fysisk aktivitet eller ved hjelp av medisiner.
+
+Senkes blodsukkeret for mye kan man få hypoglykemi, også kalt føling, og har man for høyt blodsukker over tid, kan man utvikle diabetisk ketoacidose. Dette er to svært alvorlige tilstander. Det er altså viktig å «passe på» at blodsukkernivået holder seg mest mulig optimalt, og for å vite hvor det ligger må man måle det.
+
+I praksis gjøres dette ved at pasienter stikker seg i fingeren, og måler kapillært blodsukker ved hjelp av en teststrimmel og et blodsukkerapparat. Dette gir et mål av glukosekonsentrasjonen i blodet, men sier bare noe om hvordan det var akkurat der og da.
+
+## Hvordan er blodsukkeret over tid?
+
+Hos fastlegen eller på sykehus, har man i tillegg mulighet til å måle HbA1c, som også blir kalt langtidsblodsukkeret. Denne blodprøven kan si noe om hvordan blodsukkeret har vært 8-12 uker tilbake i tid og brukes derfor til å vurdere effekt av behandling (medisiner, livsstilsendring). HbA1c brukes også til å diagnostisere diabetes og en verdi over eller lik 6.5 % har nå blitt innført som et diagnosekriterium for diabetes.
+
+Hva betyr egentlig HbA1c?  La oss først se litt på navnet som er en forkortelse for glykosylert hemoglobin A1c. Glykosylert, forteller oss at en glykosyleringsreaksjon er involvert. Kort fortalt, betyr det at et glukosemolekyl binder seg til et annet molekyl.  I vårt tilfelle er molekylet et protein og nærmere bestemt hemoglobinet i de røde blodcellene. Det finnes forskjellige typer hemoglobin og den aller vanligste er type A (utgjør over 95 % av en voksen persons hemoglobin). 1c kommer av at det til vanlig er mange posisjoner på hemoglobinet som glykosyleres og det er  posisjonen 1c som forskere oppdaget at egnet seg til å beskrive glukosenivåene i blodet over tid hos diabetikere. Figuren under viser de ulike toppene, og det er altså A1c-toppen som er interessant i denne sammenhengen.
+
+![](images/clipboard-3655217062.png)
+
+Glykosyleringen av posisjon 1c på hemoblobin A er en ikke-enzymatisk og ikke-reversibel reaksjon på konsentrasjonen plasma glukose. Det vil si at hemoglobinet i en rød blodcelle, som vanligvis lever ca. 120 dager, vil påvirkes av glukosekonsentrasjonen i blodet gjennom hele cellens levetid. Er det mye glukose i blodet, får en større andel av 1c-posisjonene hektet på seg et glukosemolekyl og dette blir sittende der ut den røde blodcellenes levetid. Det er dette man kan måle og det er denne egenskapen ved HbA1c som gjør den gunstig i behandling og oppfølging av diabetikere.
+
+Neste gang du hører om langtidsblodsukker eller HbA1c, så er det altså dette det er snakk om!

@@ -1,0 +1,120 @@
+---
+title: "Bioblikk: Metyleringssyklus"
+date: 2014.01.20
+---
+
+*Bioblikk er en spalte som retter fokus på biokjemiske prosesser eller stoffer som er sentrale for helsen men som ikke får stor oppmerksomhet ellers.*
+
+Metyleringsreaksjoner er sentrale prosesser i kroppen, involvert i syntese og modifikasjon av en rekke ulike molekyler, deriblant regulering av genene våre. For å forstå disse reaksjonene og hvordan de påvirker oss, er det nyttig å vite litt om det som kalles metyleringssyklus. I denne artikkelen vil jeg beskrive prosessene involvert i metyleringssyklus og hvordan disse reguleres.
+
+For å få bedre utbytte av denne artikkelen anbefaler jeg at du først leser introduksjonsartikkelen til [enkarbonmetabolismen](bioblikk-enkarbonmetabolismen.qmd "Bioblikk: Enkarbonmetabolismen, en introduksjon"). Denne vil gi deg et overordnet innsyn i hvilke metabolske prosesser som er involvert i dette metabolske puslespillet. I tillegg kan det være nyttig å lese gjennom artikkelen om [kolinmetabolismen](bioblikk-kolin.qmd "Bioblikk: Andre bioaktive stoffer i mat – Choline").
+
+## Metyleringsreaksjoner
+
+Metyleringsreaksjoner er kort fortalt et begrep som beskriver overføring av enkarbonenheter, nærmere bestemt metylgrupper, fra en metyldonor til en metylakseptor. Disse reaksjonene katalyseres av ulike metyltransferaser, og er involvert i en lang rekke prosesser i kroppen, både i syntesen av nye molekyler som eksempelvis kreatin og kolin, men også i bearbeiding av ferdige molekyler som proteiner og DNA.
+
+Den primære metyldonoren i kroppen er en aktivert form for aminosyren metionin som har fått navnet S-Adenosylmetionin (SAM) \[1\]. SAM produseres ved kobling av en adenosylgruppe som kommer fra energimolekylet ATP, ved hjelp av metionin adenosyltransferase (MAT) \[2\]. Under metyleringsreaksjonen, når SAM gir fra seg en metylgruppe, blir det dannet S-adenosylhomocystein (SAH) \[3\]. SAH er en effektiv hemmer av de fleste metyleringsreaksjoner \[4\], så for å opprettholde kapasiteten til å drive disse reaksjonene må SAH fjernes. Dette skjer i en reversibel reaksjon ved hjelp av enzymet SAH hydrolase (SAHH), som fjerner adenosylgruppen og gjør at vi sitter igjen med aminosyren homocystein \[5\]. Overordnet kalles dette metyleringssyklus, og er illustrert i figur 1.
+
+![](images/clipboard-1826600413.png)
+
+**Figur 1.** Oversikt over de sentrale reaksjonene i metyleringssyklus. Metionin aktiveres til den universelle metyldonoren SAM ved hjelp av Metionin Adenosyltransferase (MAT). Deretter brukes SAM som metyldonor i en lang rekke metyleringsreaksjoner katalysert av ulike metyltransferaser (MT). Produktet SAH omdannes til homocystein ved hjelp av enzymet SAH Hydrolase (SAHH).
+
+Metyleringsreaksjoner er viktige prosesser, og cellenes evne til å drive disse kan refereres til som metyleringskapasitet, metyleringspotensiale eller metyleringsstatus. Det er ofte vanlig å benytte forholdet mellom SAM og SAH som en indikator på dette \[6\].
+
+## Homocysteinmetabolismen
+
+Det endelige produktet i metyleringssyklus er altså homocystein, som dannes i en reversibel hydrolytisk reaksjon katalysert av SAH hydrolase. I utgangspunktet går denne reaksjonen i favør av SAH-syntese, men ettersom vi har flere metabolske veier som sørger for fjerning av homocystein, drives reaksjonen mot produksjon av homocystein \[7\].
+
+Homocystein har to metabolske skjebner, som begge er knyttet til faktorer i kostholdet. Den første skjebnen er remetylering til metionin, noe som kan skje via to forskjellige metabolske veier. Den ene er koblet til b-vitaminene [folat](http://www.friskogfunksjonell.no/folat/ "Folat, vitamin B9") og [B12](http://www.friskogfunksjonell.no/b12/ "Kobalamin, vitamin B12") (Metionin Syntase, MS), mens den andre er koblet til kolinmetabolismen (Betain-Homocystein Metyltransferase, BHMT) \[8,9\]. Inntaket av folat \[10\] og kolin \[11\] er derfor av betydning. Den andre metabolske skjebnen er en irreversibel nedbrytning gjennom transsulfureringsveien, som er avhengig av [vitamin B6](http://www.friskogfunksjonell.no/b6/ "Pyridoksin, vitamin B6"). Transsulfureringsveien leder til produksjon av aminosyren cystein, som er den begrensende faktoren i produksjonen av vår viktigste intracellulære antioksidant, glutation \[12\]. Andre næringsstoffer som [jern](http://www.friskogfunksjonell.no/jern/ "Jern"), [sink](http://www.friskogfunksjonell.no/sink/ "Sink") og [vitamin B2](http://www.friskogfunksjonell.no/riboflavin/ "Riboflavin, vitamin B2") inngår også som kofaktorer for sentrale enzymer i homocysteinmetabolismen. Disse metabolske veiene er oppsummert i figur 2.
+
+![](images/clipboard-193646445.png)
+
+**Figur 2.** Homocystein kan metaboliseres på tre ulike måter. Remetylering til metionin skjer enten gjennom Betain-Homocystein Metyltransferase (BHMT), som er knyttet til kolinmetabolismen, eller gjennom Metionin Syntase (MS), som er koblet til folatmetabolismen. Irreversibel nedbrytning gjennom transsulfureringsveien gir til slutt cystein, som er en viktig bestanddel i antioksidanten glutation.
+
+Reguleringen av disse metabolske veiene er sentral fordi de legger til rette for nydanning av SAM, men også fordi de regulerer nivåene av homocystein og dermed også av SAH \[13\].
+
+## Regulering av metyleringssyklus og homocysteinmetabolismen
+
+Å opprettholde metyleringskapasitet er viktig for å kontrollere de mange metyleringsreaksjonene vi finner i kroppen. Derfor er de viktigste enzymene i dette metabolske nettverket av reaksjoner nøye regulert.
+
+SAM er et sentralt molekyl som bidrar til å regulere homocysteinmetabolismen \[14\]. Økte nivåer av SAM nedregulerer nemlig begge remetyleringsveiene, slik at produksjonen av nytt SAM bremses. BHMT-reaksjonen hemmes direkte ved binding av SAM \[15\], mens hemmingen av metionin syntase er indirekte ved at enzymet som produserer metyldonoren metyltetrahydrofolat (mTHF),  Metylentetrahydrofolat reduktase (MTHFR), hemmes \[16\]. I tillegg til dette øker SAM nedbrytningen av homocystein gjennom å aktivere transsulfureringsveien \[17\]. På denne måten reguleres nivåene av SAM og SAH, slik at metyleringskapasiteten opprettholdes.
+
+Men det stopper ikke der. Glycin N-Metyltransferase (GNMT) er et viktig enzym som bruker SAM til å metylere aminosyren glycin til sarkosin \[18\]. Sarkosin i seg selv har ingen fysiologisk funksjon, og overskudd skilles ut i urinen. På denne måten kan vi kvitte oss med overflødige metylgrupper gjennom produksjon og utskillelse av sarkosin \[19\]. GNMT nedreguleres av mTHF, og produksjonen av mTHF er som allerede nevnt regulert av SAM. Når SAM øker vil vi altså produsere mindre mTHF, og dermed aktiveres GNMT slik at vi blir kvitt overflødig SAM. Motsatt vil reduserte nivåer av SAM øke produksjonen av mTHF, som igjen vil hemme GNMT og dermed spare SAM til de mer viktige metyleringsreaksjonene. Disse mekanismene er oppsummert i figur 3, der de røde pilene representerer nedregulering og den grønne pilen representerer oppregulering.
+
+![](images/clipboard-3264341011.png)
+
+**Figur 3.** Reguleringen av metyleringssyklus er kompleks. SAM spiller en viktig rolle ved å hemme de to remetyleringsveiene. BHMT hemmes direkte ved binding av SAM, mens MS hemmes indirekte ved at SAM hemmer enzymet Metylentetrahydrofolat Reduktase (MTHFR) som produserer metyldonoren mTHF. SAM aktiverer også det første enzymet i transsulfureringsveien, Cystathionine Beta-Syntase (CBS). mTHF hemmer Glycin N-metyltransferase, som er et enzym som har som funksjon å bruke opp overflødige metylgrupper.
+
+Oksidativt og reduktivt stress er også involvert i reguleringen av metyleringssyklus. Økt oksidativt stress vil hemme remetyleringsveiene \[20,21\]og aktivere transsulfureringsveien \[12\], noe som er viktig for å produsere mer glutation. Reduktivt stress virker i motsatt retning.
+
+Gjennom disse mekanismene reguleres metyleringssyklus og homocysteinmetabolismen for å tilpasse seg behovet for metylering, og ikke minst kan vi dermed også tilpasse oss et variabelt inntak av metylgrupper fra kostholdet i form av metionin og kolin.
+
+## Forstyrrelser i metyleringssyklus og sykdom
+
+Forstyrrelser i reguleringen av metyleringssyklus og/eller homocysteinmetabolismen kan føre til en opphopning av homocystein i blodet. Dette kan skyldes genetiske forhold som mutasjoner i sentrale enzymer, eller mangler på sentrale næringsstoffer som folat, B12, B6, kolin eller protein.
+
+Forhøyede nivåer av homocystein, hyperhomocysteinemi, er etablert som en uavhengig risikofaktor for hjertesykdom \[22\]. Til tross for dette har det å redusere nivåene av homocystein foreløpig ikke vært suksessfulle i forebyggingen av disse sykdommene \[23\]. En reviewartikkel fra 2013 understreker at forhøyede homocysteinnivåer først og fremst er en markør for underliggende patologiske mekanismer, og at det å finne ut hva som har forårsaket forstyrrelsen i utgangspunktet er sentralt for å kunne behandle den enkelte pasient \[24\]. I tillegg til hjertesykdom er hyperhomocysteinemi satt i sammenheng med en rekke andre lidelser som eksempelvis nevralrørsdefekter \[25\], insulinresistens \[26\], beinskjørhet \[27\], og Alzheimers/demens \[28\].
+
+## Oppsummering og konklusjon
+
+Metyleringsreaksjoner er sentrale prosesser som innebærer overføring av metylgrupper mellom ulike molekyler. Dette er viktig for produksjon og modifikasjon av en rekke molekyler. Den primære metyldonoren heter SAM, og produseres fra aminosyren metionin. Gjennom metyleringsreaksjonene får vi til slutt dannet homocystein, og forhøyede nivåer av denne er en risikofaktor for hjertesykdom og en rekke andre tilstander. Metyleringssyklus og homocysteinmetabolismen er nøye regulert, og forstyrrelser kan skyldes genetiske eller miljømessige faktorer som kosthold eller oksidativt/reduktivt stress.
+
+Denne artikkelen er ment å gi deg et litt mer detaljert innsyn i hvordan metyleringsreaksjoner foregår og hvordan de reguleres. Den er ikke ment å kunne si noe om hvordan du kan påvirke dette gjennom for eksempel kosthold, utover det å unngå mangler på de sentrale næringsstoffene. Dette oppnår du fint ved å [spise variert](http://www.friskogfunksjonell.no/hvorfor-bor-du-spise-variert/ "Hvorfor bør du spise variert?"). I neste artikkel kommer jeg nærmere inn på metylering av DNA og hvilken betydning dette har for genuttrykket.
+
+**Referanser:**
+
+1.  Chiang PK, Gordon RK, Tal J, Zeng GC, Doctor BP, Pardhasaradhi K, McCann PP: **S-Adenosylmethionine and methylation**. *FASEB J* 1996, **10**(4):471-480.
+
+2.  Kotb M, Geller AM: **Methionine adenosyltransferase: structure and function**. *Pharmacology & therapeutics* 1993, **59**(2):125-143.
+
+3.  Cantoni GL, Scarano E: **The Formation of S-Adenosylhomocysteine in Enzymatic Transmethylation Reactions**. *Journal of the American Chemical Society* 1954, **76**(18):4744-4744.
+
+4.  Kerr SJ: **Competing methyltransferase systems**. *The Journal of biological chemistry* 1972, **247**(13):4248-4252.
+
+5.  De La Haba G, Cantoni GL: **The enzymatic synthesis of S-adenosyl-L-homocysteine from adenosine and homocysteine**. *The Journal of biological chemistry* 1959, **234**(3):603-608.
+
+6.  Williams KT, Schalinske KL: **New insights into the regulation of methyl group and homocysteine metabolism**. *J Nutr* 2007, **137**(2):311-314.
+
+7.  Turner MA, Yang X, Yin D, Kuczera K, Borchardt RT, Howell PL: **Structure and function of S-adenosylhomocysteine hydrolase**. *Cell biochemistry and biophysics* 2000, **33**(2):101-125.
+
+8.  Pajares MA, Perez-Sala D: **Betaine homocysteine S-methyltransferase: just a regulator of homocysteine metabolism?** *Cellular and molecular life sciences : CMLS* 2006, **63**(23):2792-2803.
+
+9.  Matthews RG, Sheppard C, Goulding C: **Methylenetetrahydrofolate reductase and methionine synthase: biochemistry and molecular biology**. *European journal of pediatrics* 1998, **157 Suppl 2**:S54-59.
+
+10. Salbaum JM, Kappen C: **Genetic and epigenomic footprints of folate**. *Progress in molecular biology and translational science* 2012, **108**:129-158.
+
+11. Corbin KD, Zeisel SH: **The nutrigenetics and nutrigenomics of the dietary requirement for choline**. *Progress in molecular biology and translational science* 2012, **108**:159-177.
+
+12. Mosharov E, Cranford MR, Banerjee R: **The quantitatively important relationship between homocysteine metabolism and glutathione synthesis by the transsulfuration pathway and its regulation by redox changes**. *Biochemistry* 2000, **39**(42):13005-13011.
+
+13. Finkelstein JD, Martin JJ: **Methionine metabolism in mammals. Distribution of homocysteine between competing pathways**. *The Journal of biological chemistry* 1984, **259**(15):9508-9513.
+
+14. Finkelstein JD: **Methionine metabolism in mammals**. *The Journal of nutritional biochemistry* 1990, **1**(5):228-237.
+
+15. Finkelstein JD, Martin JJ: **Inactivation of betaine-homocysteine methyltransferase by adenosylmethionine and adenosylethionine**. *Biochemical and biophysical research communications* 1984, **118**(1):14-19.
+
+16. Kutzbach C, Stokstad EL: **Feedback inhibition of methylene-tetrahydrofolate reductase in rat liver by S-adenosylmethionine**. *Biochimica et biophysica acta* 1967, **139**(1):217-220.
+
+17. Pey AL, Majtan T, Sanchez-Ruiz JM, Kraus JP: **Human cystathionine beta-synthase (CBS) contains two classes of binding sites for S-adenosylmethionine (SAM): complex regulation of CBS activity and stability by SAM**. *The Biochemical journal* 2013, **449**(1):109-121.
+
+18. Ogawa H, Gomi T, Takusagawa F, Fujioka M: **Structure, function and physiological role of glycine N-methyltransferase**. *The international journal of biochemistry & cell biology* 1998, **30**(1):13-26.
+
+19. Luka Z, Mudd SH, Wagner C: **Glycine N-methyltransferase and regulation of S-adenosylmethionine levels**. *The Journal of biological chemistry* 2009, **284**(34):22507-22511.
+
+20. Olteanu H, Banerjee R: **Redundancy in the pathway for redox regulation of mammalian methionine synthase: reductive activation by the dual flavoprotein, novel reductase 1**. *The Journal of biological chemistry* 2003, **278**(40):38310-38314.
+
+21. Castro C, Millian NS, Garrow TA: **Liver betaine-homocysteine S-methyltransferase activity undergoes a redox switch at the active site zinc**. *Archives of biochemistry and biophysics* 2008, **472**(1):26-33.
+
+22. Refsum H, Ueland PM, Nygard O, Vollset SE: **Homocysteine and cardiovascular disease**. *Annual review of medicine* 1998, **49**:31-62.
+
+23. Marti-Carvajal AJ, Sola I, Lathyris D, Salanti G: **Homocysteine lowering interventions for preventing cardiovascular events**. *Cochrane Database Syst Rev* 2009(4):CD006612.
+
+24. Joseph J, Loscalzo J: **Methoxistasis: integrating the roles of homocysteine and folic Acid in cardiovascular pathobiology**. *Nutrients* 2013, **5**(8):3235-3256.
+
+25. Mills JL, McPartlin JM, Kirke PN, Lee YJ, Conley MR, Weir DG, Scott JM: **Homocysteine metabolism in pregnancies complicated by neural-tube defects**. *Lancet* 1995, **345**(8943):149-151.
+
+26. Meigs JB, Jacques PF, Selhub J, Singer DE, Nathan DM, Rifai N, D'Agostino RB, Sr., Wilson PW, Framingham Offspring S: **Fasting plasma homocysteine levels in the insulin resistance syndrome: the Framingham offspring study**. *Diabetes care* 2001, **24**(8):1403-1410.
+
+27. Cashman KD: **Homocysteine and osteoporotic fracture risk: a potential role for B vitamins**. *Nutrition reviews* 2005, **63**(1):29-36.
+
+28. Seshadri S, Beiser A, Selhub J, Jacques PF, Rosenberg IH, D'Agostino RB, Wilson PW, Wolf PA: **Plasma homocysteine as a risk factor for dementia and Alzheimer's disease**. *N Engl J Med* 2002, **346**(7):476-483.

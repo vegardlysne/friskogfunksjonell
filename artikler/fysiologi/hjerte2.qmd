@@ -8,3 +8,94 @@ categories:
 ---
 
 [Tilbake til artikkelserien om menneskets fysiologi](../../fysiologi.html)
+
+I den [første artikkelen om hjertet](hjerte1.qmd "Hjertet Del 1") tok jeg for meg grunnleggende anatomi og fysiologi, hjertets aksjonspotensial og hjertesyklusen. I denne artikkelen skal jeg se litt mer på hvilket energisubstrat hjertet bruker og hvordan oksygen forbrukes i hjertemuskelen. I tillegg skal jeg innom hjertets ytelse og arbeidskapasitet, og vi får du et lite gjensyn med hjertesyklusen (dog fremstilt litt annerledes). Til slutt tar jeg for meg hvordan hjertets aktivitetsnivå reguleres.
+
+## Hjertets oksygenforbruk
+
+Som all skjelettmuskulatur er hjertet avhengig av energi for å kunne arbeide og trekke seg sammen. Omtrent 70-90% av denne energien kommer fra [nedbrytning av fett](http://www.friskogfunksjonell.no/fettsyrenedbrytning/ "Fettsyrenedbrytning – β-oksidasjon"), mens de resterende 10-30% kommer fra andre næringsstoffer, og da spesielt [glukose](http://www.friskogfunksjonell.no/glukosemetabolismen/ "Glukosemetabolismen") og laktat (melkesyre). Oksygen- og energiforbruket når hjertet trekker seg sammen er direkte relatert til den skraverte området på figuren under. Dette skraverte området består av "external work output" (EW) og "potential energy" (PE). EW, som vi kommer tilbake til litt senere i artikkelen, betegner først og fremst energien som omformes til arbeid når hjertet presser blodet fra lavtrykks-årer til de store høytrykks-arteriene når ventrikkelen kontraherer. PE betegner det ytterligere arbeidet som kan gjennomføres ved ventrikkelkontraksjon dersom den tømmes fullstendig ved hver sammentrekning.
+
+![](images/clipboard-2632188670.png)
+
+Oksygenopptaket har vært vist å ha et tilnærmet proporsjonalt forhold til spenningen som forekommer i hjertet under kontraksjon. Fordi spenningen er høy når det systoliske trykket er høyt forbrukes det følgelig mer energi og oksygen. I tillegg forbrukes det mye mer energi/oksygen ved normalt systolisk trykk når ventrikkelen er dilatert (utvidet). Dette skjer fordi spenningen i hjertemuskelen under kontraksjon er proporsjonal med trykk\*ventrikkeldiameter. Dette blir spesielt viktig ved hjertesvikt da hjertet i slike tilfeller dilateres, og paradoksalt nok vil behovet for energi øke selv om hjertet svikter.
+
+Ved kontraksjon av hjertemuskelen blir mesteparten av energien som forbrukes omgjort til varme og en mye mindre andel går med til såkalt work output (WO) eller ytelse. Balansen mellom WO og totalt energiforbruk kalles "effektiviteten til hjertemuskelkontraksjonen", og ligger maksimalt på rundt 20-25% i et normalt hjerte. Ved hjertesvikt kan dette synke til så lite som 5-10%.
+
+## Hjertets ytelse
+
+WO pr. slag er mengden energi hjertet konverterer til arbeid under hvert hjerteslag mens blodet pumpes rundt i kroppen. WO pr. minutt er mengden energi hjertet konverterer til arbeid i løpet av ett minutt; eller med andre ord hjertets ytelse pr. slag\*hjertefrekvens.
+
+WO kan primært sett deles opp i to. Den første delen er EW, og som nevnt tidligere betegner EW energien som omformes til arbeid når hjertet presser blodet fra lavtrykks-årer til de store høytrykks-arteriene når ventrikkelen kontraherer. Den andre delen betegner en liten andel energi som benyttes til å akselerere blodet gjennom aorta- og pulmonalklaffen. Venstre ventrikkel har over 80% høyere EW enn høyre ventrikkel, grunnet den store forskjellen i systolisk trykk mellom de to.
+
+## Grafisk analyse av ventrikulær pumping
+
+Figuren over gir en fin oversikt over pumpemekanismene i venstre ventrikkel. De viktigste komponentene i diagrammet er kurvene som er beskrevet som diastolisk trykk og systolisk trykk. Den diastoliske trykk-kurven bestemmes av økende blodfylling under diastolen som måles rett før kontraksjonen oppstår, som er det endediastoliske trykket i ventrikkelen. Den systoliske trykk-kurven bestemmes ved å måle det systoliske trykket ved ventrikulær kontraksjon.
+
+Det diastoliske trykket øker ikke nevneverdig før volumet på ventrikkelen i hvile overstiger 150 ml. Inntil denne grensen er nådd kan altså blodet flyte fra atriet til ventrikkelen med letthet. Deretter øker det diastioliske trykket raskt ettersom det fibrøse vevet i hjertet ikke kan strekkes ytterligere, og perikardet mer eller mindre fylles fullstendig. Ved ventrikulær kontraksjon vil det systoliske trykket øke selv ved lavt ventrikulært volum og øker når volumet er mellom 150 og 170 ml. Deretter vil trykket under noen omstendigheter synke, som du kan se av den systoliske trykk-kurven i figuren over. Dette skjer fordi aktin- og myosinfilamentene i hjertemuskelen trekkes så langt fra hverandre at muskelfiberkontraksjonen bli suboptimal. Som dere også vil se av figuren er det systoliske trykket i venstre ventrikkel mellom 250-300 mm/Hg, men dette vil selvsagt variere fra individ til individ. Det normale systoliske trykket i høyre ventrikkel er derimot mye lavere, og ligger rundt 60-80 mm/Hg.
+
+## Volum-trykk i hjertesyklusen
+
+I forrige del så vi på hvordan hjertesyklusen fremstiller de ulike trykkforandringene i aorta, venstre ventrikkel og venstre atrie. Under kan du se en mer detaljert fremstilling av trykket i den venstre ventrikkelen i de ulike fasene av hjertesyklusen.
+
+![](images/clipboard-2567998394.png)
+
+#### Fase 1, Ventrikkelfyllingsfasen
+
+Denne fasen i diagrammet under begynner med et ventrikulært volum på rundt 50 ml og et diastolisk trykk på 2-3 mm/Hg. Mengden blod som er igjen etter den foregående kontraksjonen, 50 ml, kalles som vi husker endesystolisk volum (ESV). Mens venøst blod flyter fra venstre atrium til venstre ventrikkel øker volumet til rundt 120 ml, altså endediastolisk volum (EDV). I diagrammet under vil du se fase 1 som linjen trukket mellom punkt A og B.
+
+#### Fase 2, Isovolumetrisk kontraksjonfase
+
+Under isovolumetrisk kontraksjon, endres ikke ventrikkelvolumet ettersom alle klaffene er lukket. Trykket øker derimot til rundt 80 mm/Hg, tilsvarende trykket i aorta. Dette vil dere kunne se på punkt C i diagrammet.
+
+#### Fase 3, Ejeksjonsfasen
+
+Under ejeksjon øker det systoliske trykket grunnet selve kontraksjonen i ventrikkelen. På samme tid synker volumet ettersom aortaklaffen er åpnet og blodet flyter dermed ut av ventrikkelen, inn i aorta og videre ut i kroppen. Dette vil du se av linjen som trukket mellom punkt C og D i diagrammet.
+
+#### Fase 4, Isovolumetrisk avslapningsfase
+
+Etter ejeksjonsperioden (punkt D) lukkes aortaklaffen og det ventrikulære trykket faller til diastolisk nivå. Linjen er trukket mellom D og A og trykket synker selv om volumet holdes konstant. Volumet/trykket returnerer dermed til sitt opprinnelige punkt med ESV på rundt 50 ml og et trykk på 2-3 mm/Hg.
+
+Det skraverte området i denne figuren representerer også EW (som omtalt tidligere), altså hjertets ytelse under kontraksjonssyklusen. Når hjertet pumper store mengder blod rundt i kroppen som for eksempel under fysisk aktivitet, vil EW-området i diagrammet naturligvis dekke en mye større overflate. Det vil si, linjen mellom punkt A og B blir mye lenger ettersom ventrikkelen fylles med mye mer blod enn ellers, linjen mellom B og C blir lenger (i høyderetningen) fordi trykklet øker, og linjen mellom C og D blir lenger fordi hjertet kontraherer kraftigere og blir enda mindre enn normalt når det trekker seg sammen.
+
+## Preload og Afterload
+
+Når vi snakker om de kontraktile egenskapene til muskler som arbeider er det viktig å vurdere spenningen i muskelen når den begynner å kontrahere. Dette kalles preload. I tillegg er det viktig å vurdere motstanden hvorpå muskelen utøver sin kraft. Dette kalles afterload. Når det gjelder kontraksjon av hjertemuskelen snakker vi om preload i relasjon til endediastolisk trykk, når ventriklene er fylt opp.  Afterload i sammenheng med hjertet er trykket ventrikkelen utgjør på aorta, og tilsvarer det systoliske trykket i den første figuren i artikkelen (Fase 3). Afterload i denne sammenhengen må ikke forveksles med motstanden som utgjøres av det perifere sirkulasjonssystemet heller enn det systoliske trykket.
+
+Viktigheten av preload/afterload i klinikken er at flere ulike tilstander/sykdommer i hjertet påvirker trykket under ventrikkelfylling (preload) og trykket ventrikkelen jobber mot (afterload).
+
+## Regulering av pumpefunksjonen
+
+I hvile pumper hjertet 4-6 liter blod i minuttet, mens det under intens trening kan pumpe opp til hele 42 liter pr. minutt. Pumpefunksjonen til hjertet reguleres i hovedsak av to mekanismer
+
+1. ved hjelp av indre reguleringsmekanismer som responderer på endringer i blodstrømmen til hjertet
+
+2. ved hjelp av det autonome nervesystemet som regulerer hjertefrekvens og styrken på selve kontraksjonen.
+
+#### Indre regulering av pumpefunksjonen - Frank-Starlings mekanisme
+
+I de fleste tilfeller bestemmes hjertets minuttvolum (mengden blod hjertet pumper i løpet av ett minutt) av i hvilken grad blod tilbakeføre til hjertet via venesystemet. Dette kalles venøs retur, som betegner at blodet fra de ulike perifere vevene pumpes tilbake til hjertet via venesystemet og tømmes i høyre atrium før det igjen pumpes ut i sirkulasjonen. Denne indre egenskapen til å tilpasse seg økt venøs tilførsel av blod kalles Frank-Starlings mekanisme. Grunnprinsippet for denne mekanismen er at jo mer strekk som påføres hjertet grunnet økende fylling, jo kraftigere er kontraksjonen og desto mer blod pumpes ut gjennom aorta og til sirkulasjonen.
+
+Når en økende andel blod tilbakeføres til ventriklene øker strekken på selve hjertemuskelen. Følgelig skapes det en kraftigere kontraksjon fordi aktinet og myosinet i hjertemuskelen blir bragt til en mer optimal grad av overlapp som legger forholdene til rette for en enda sterkere og mer effektiv kontraskjon. Kort sagt, mer blod gir økt strekk og kraftigere kontraksjon.
+
+#### Sympatisk og parasympatisk nerveregulering av pumpefunksjonen
+
+Hjertet er rikt innervert av både det parasympatiske og det sympatiske nervesystemet. Disse nervesystemene er også med på å regulere hjertets pumpefunksjon. Ved sympatisk stimulering kan hjertets minuttvolum øke med mer enn 100%. På den andre siden vil parasympatisk stimulering forårsake et dramatisk fall i minuttvolum, helt ned mot null.
+
+- Sympatisk regulering av pumpefunksjonen
+    - Sterk sympatisk regulering kan øke hjertefrekvensen i unge voksne fra rundt 70 slag i minuttet til 180-250 slag i minuttet hos unge voksne. I tillegg vil sympatisk regulering kunne fordoble konstraksjonskraften, og dermed øke mengden blod som pumpes ut av hjertet ved å øke ejeksjonstrykket. Samspillet mellom Frank-Starlings mekanisme og økt stimulering ved hjelp av det sympatiske nervesystemet vil dermed kunne to/tre-doble hjertets minuttvolum. I motsetning vil hemming av det sympatiske nervesystemet redusere kontraksjonsstyrken og hjertefrekvensen.
+- Parasympatisk regulering av pumpefunksjonen
+    - Kraftig stimulering av det parasympatiske nervesystemet kan få hjertet til å stoppe å slå fullstendig i noen få sekunder. Heldigvis vil hjertet begynne å slå igjen raskt for egen akkord, men sterk aktivitet i det parasympatiske nervesystemet (vagusnervene primært) kan senke hjertefrekvensen med 20-30%. De parasympatiske nervefibrene innerverer i all hovedsak atriene og ikke ventriklene hvor den kraftigste kontraksjonen inntreffer. Dette forklarer hvorfor det parasympatiske nervesystemet i størst grad kun reduserer hjertefrekvens og ikke styrken på selve kontrasksjonen. Man skal derimot ikke kimse av redusert hjertefrekvens, og en liten negativ påvirkning på kontraksjonskraften, som kan senke hjertets minuttvolum med så mye som 50%.
+
+![](images/clipboard-376713898.png)
+
+## Effekten av kalsium og kalium på pumpefunksjonen
+
+I forrige artikkel skrev jeg litt om hjertets aksjonpotensial og hvilke mineraler som er involvert i dette. Både [kalsium](http://www.friskogfunksjonell.no/kalsium/ "Kalsium") og [kalium](http://www.friskogfunksjonell.no/kalium/ "Kalium") er essensielle for kontraksjon av hjertemuskelen, slik at man dermed skulle tro at konsentrasjonen av disse to ionene i ekstracellulærvæsken vil påvirke hjertets pumpefunksjon.
+
+#### Kalium
+
+Økt kalium i ekstracellulærvæsken dilaterer hjertet og senker hjertefrekvensen. Store kvanta kan også blokkere strømledningen fra atriet til ventriklene via AV-knuten. En liten økning av kaliumnivåer i blodet er nok til å indusere svakhet og dramatisk redusert hjertefrekvens som ubehandlet fører til død. Disse konsekvensene oppstår delvis fordi økte nivåer av kalium i blodet reduserer hvilemembranspotensialet til hjertemuskelcellene. Videre vil dette føre til en delvis depolarisering av cellemembranen som gjør den mer positiv. Når membranpotensialet synker, synker også styrke på aksjonspotensialene som følgelig fører til en svakere kontraksjon.
+
+#### Kalsium
+
+Økte nivåer av ekstracellulært kalsium gir nesten helt motsatte effekter av økte kaliumnivåer, og fører nærmest til spastiske kontraksjoner i hjertet, mye fordi at det har en direkte effekt på hjertets evne til å kontrahere som forklart i forrige artikkel. På samme måten kan hypokalsemi gi flere av de samme symptomene som hyperkalemi. Normalt sett er dette ett ikke-problem ettersom kalsiumhomeostasen i kroppen blir nøye regulert både ved opptak og [nyrenes utskillelse](http://www.friskogfunksjonell.no/nyre-3/ "Nyrene del 3 – Elektrolyttstatus og andre funksjoner").

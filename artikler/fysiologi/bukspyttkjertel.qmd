@@ -7,3 +7,87 @@ categories:
 ---
 
 [Tilbake til artikkelserien om menneskets fysiologi](../../fysiologi.html)
+
+Bukspyttkjertelen (pankreas) er en liten kjertel som befinner seg like under magesekken. Den har primært to funksjonsområder, henholdsvis i fordøyelsen og som et endokrint organ som produserer de kjente hormonene insulin og glukagon. Disse oppgavene utføres av bukspyttkjertelens ulike celler. I denne artikkelen vil jeg ta for meg den generelle oppbyggingen av bukspyttkjertelen, de ulike funksjonene og litt om sykdommer relatert til denne kjertelen.
+
+![](images/clipboard-2903454337.png)
+
+## Oppbygging
+
+Bukspyttkjertelen består av to deler, den eksokrine og den endokrine. Den eksokrine bukspyttkjertelen består av acinarceller, som har som oppgave å produsere bukspytt. Disse er satt sammen til små, blæreaktige strukturer som kalles acini. Bukspyttet som produseres i acini fraktes deretter gjennom et kanalsystem som til slutt slår seg sammen med gallegangen og tømmes ut i tolvfingertarmen (duodenum). Dette kanalsystemet er kledd med epitelceller. Åpningen, duadenal papilla, er omgitt av Oddis Sfinkter, som er en muskel som regulerer utslipp av bukspytt og galle. Figuren under viser hvordan bukspyttkjertelen er koblet til tynntarmen.
+
+![](images/clipboard-1564532555.png)
+
+De endokrine cellene ligger samlet i små klumper som kalles langerhans øyer, og her finner vi både α-, β- og δ-celler. Det er også minst en til endokrin celletype, som har fått navnet PP-celler siden de produserer pankreatisk polypeptid. De endokrine cellene skiller sine produkter direkte ut i blodet.
+
+![](images/clipboard-2037461598.png)
+
+## Bukspytt og fordøyelse
+
+For at vi skal kunne absorbere næringsstoffene i maten vi spiser, må vi først bryte maten ned til de små bestanddelene som vi er i stand til å ta opp. Her spiller bukspyttet en sentral rolle, da det inneholder viktige enzymer i denne prosessen. I tillegg inneholder bukspyttet også bikarbonat, som bidrar til å nøytralisere det ekstremt sure innholdet som tømmes ut fra magesekken.
+
+Natriumbikarbonat og vann sekreres hovedsakelig fra epitelcellene i pankreasgangen. Bikarbonatet produseres her som følge av at karbondioksid fra blodet diffunderer over i epitelcellene, hvor de går sammen med vann og danner karbonsyre, H~2~CO~3~. Denne karbonsyren vil med ett dissosiere til hydrogenatomer og bikarbonat, HCO~3~^-^. Hydrogenatomet fraktes tilbake til blodet i bytte mot natrium, og inne i epitelcellen kobles natriumet til bikarbonatet før natriumbikarbonat, NaHCO~3~, skilles ut i pankreasgangen. Transporten av CO~2~ og natrium fra blodet til bukspyttkjertelen trekker også med seg væske. Figuren under viser hvordan denne utvekslingen foregår.
+
+![](images/clipboard-3408650945.png)
+
+De tre hovednæringsstoffene protein, karbohydrat og fett må som sagt brytes ned til sine respektive bestanddeler, henholdsvis aminosyrer, monosakkarider og fettsyrer. Bukspyttkjertelen produserer flere enzymer som er viktige i denne prosessen. For proteinnedbrytningen er det trypsin, kymotrypsin og karboksypolypeptidase som er de viktigste. De to første splitter proteiner fra kosten opp i mindre peptider, før polypeptidasen tar over og splitter de enkelte aminosyrene fra hverandre. Disse enzymene skilles ut som inaktive proenzymer (trypsinogen, kymotrypsinogen og prokarboksypolypeptidase). Dersom dette ikke hadde vært tilfelle ville disse begynt å fordøye bukspyttkjertelens egne proteiner, noe som selvfølgelig ikke er ønskelig. Dette unngår vi ved at de samme cellene som skiller ut trypsinogen også skiller ut trypsinhemmere. Derfor aktiveres enzymene først når de kommer ut i tarmen. Først aktiveres trypsinogen ved hjelp av tarmenzymet enterokinase, før aktivt trypsin bidrar til å aktivere de andre enzymene.
+
+Karbohydratfordøyelsen skjer først og fremst ved hjelp av amylaser, som spalter opp glukosekjedene vi finner i stivelse. Vi produserer amylase i spyttet, noe som gjør at karbohydratfordøyelsen starter i det vi spiser maten. Hoveddelen av karbohydratfordøyelsen skjer imidlertid i tynntarmen ved hjelp av pankreatisk amylase fra bukspyttet. Denne amylasen spalter karbohydratene til vi står igjen med disakkarider, som deretter bearbeides videre av egne disakkaridaser i tarmveggen.
+
+Fett kommer i kostholdet hovedsakelig som triglyserider, og for at vi skal kunne absorbere dette må fettsyrene spaltes fra glyserolmolekylet. Dette er en jobb for lipasene, og pankreatisk lipase er det viktigste av disse. Bukspyttet inneholder også fosfolipase, som spalter fettsyrer fra fosfolipider, i tillegg til kolesterol esterase som bryter ned kolesterolestere fra kostholdet.
+
+Utkillelsen av bukspytt stimuleres både av signaler fra vagusnerven og hormonelt. De viktigste hormonene er kolecystokinin og sekretin, som skilles ut av tarmcellene når vi spiser mat. De viktigste faktorene er oppsummert i figuren under.
+
+![](images/clipboard-1889513983.png)
+
+## Bukspyttkjertelens hormoner
+
+Bukspyttkjertelen produserer også hormoner, i de endokrine cellene i langerhans øyer. De to viktigste i denne sammenhengen er insulin og glukagon, som er sentrale hormoner i [energimetabolismen](http://www.friskogfunksjonell.no/metabolismen/ "Metabolismen"). Disse skilles først og fremst ut som respons på endringer i blodsukkeret, og hovedfunksjonen er nettopp å regulere blodsukkeret.
+
+Insulin produseres i β-cellene og stimulerer cellenes opptak av glukose ved å øke mengden glukosetransportører, samtidig som cellenes lagring og forbruk av glukose oppreguleres. På denne måten sørger insulin for at blodsukkeret synker. På motsatt side finner vi glukagon, som produseres i α-cellene. Glukagon øker frigjøringen av glukose og dermed sørger for at blodsukkeret stiger dersom det er lavt. Samspillet mellom disse hormonene er viktig for å regulere blodsukkeret slik at det verken blir for lavt eller høyt, noe som er spesielt viktig for at hjernen skal få jevn tilgang på glukose. Diabetes type 1 er en autoimmun sykdom som rammer β-cellene. Da blir insulinproduksjonen mangelfull eller fullstendig fraværende, noe som i første rekke gir utfordringer med å regulere blodsukkeret.
+
+Insulin og glukagon er også involvert i mange andre prosesser, deriblant metabolismen av fett og protein. Insulin promoterer [fettsyresyntese](http://www.friskogfunksjonell.no/fettsyresyntese/ "Fettsyresyntese") og fettlagring. Samtidig reduseres bruken av fett som energikilde, for å prioritere å bruke opp overflødig glukose. Disse effektene medieres gjennom å øke opptaket av glukose og omdanning til fettsyrer i leveren, å hemme fettfrigjøring fra fettvev ved å hemme hormonsensitiv lipase (HSL) og ved å øke glukoseopptaket i fettceller, noe som gir opphav til glycerol til triglyseridsyntese. Glukagon har motsatte effekter, og øker fettsyrefrigjøringen ved å stimulere HSL. Samspillet mellom disse hormonene er altså også involvert i regulering av fettstoffer i blodet.
+
+Insulin stimulerer også proteinsyntese, og er derfor ofte omtalt som et anabolt hormon. Dette er ikke fullstendig kartlagt, men vi vet at insulin øker opptaket av aminosyrer til muskelvev og øker translasjon av mRNA som er oppskriften på proteiner samtidig som hormonet har en hemmende effekt på proteinnedbrytning. Glukagon på sin side øker nedbrytningen av protein for å gi substrat til [glukoneogenesen](http://www.friskogfunksjonell.no/glukosemetabolismen/ "Glukosemetabolismen").
+
+## Sykdommer i bukspyttkjertelen
+
+Den vanligste formen for sykdom i bukspyttkjertelen er betennelse, pankreatitt. Denne kan være akutt eller kronisk. Med kunnskaper om bukspyttkjertelens oppgaver kan vi også forstå hva konsekvensene av dette blir. Her vil jeg holde meg til konsekvensene av hindret eksokrin funksjon, altså det som rammer utskillelsen av fordøyelsesenzymer. Når fordøyelsesenzymene ikke kommer ut i tarmen så vil dette åpenbart gå utover fordøyelsesfunksjonen, og dette kan resultere i at næringsstoffene ikke blir tatt opp i tarmen og dermed finnes i avføringen. Et typisk symptom kan være fettdiaré (steatoré). Når amylase/lipase/trypsinogen begynner å hope seg opp (produksjonen kan også øke som følge av betennelsen), absorberes disse i bukhulen og kan måles i blodet. Dette er derfor inkludert i diagnosekriteriene for pankreatitt. Trypsin kan også aktiveres og begynne å fordøye selve bukspyttkjertelen.
+
+Akutt pankreatitt kan komme som en konsekvens av traume eller kreft. Den vanligste årsaken er imidlertid gallestein, ettersom denne kan sette seg fast i det felles utløpet og dermed blokkere utskillelsen av bukspytt. 20% av tilfellene er såkalt idiopatisk, noe som betyr at vi ikke kjenner til hva som forårsaket pankreatitten. Symptomer på akutt pankreatitt er kvalme, oppkast og magesmerterter i området rett under ribbeina. Disse smertene kan stråle til ryggen, og øker gjerne i perioden etter måltid.
+
+Akutt pankreatitt er forbundet med en systemisk inflammasjonsrespons (SIRS). Dette skyldes blant annet at manglende aktivitet i tarmen fører til redusert barrierefunksjon, noe som øker den systemiske inflammasjonen. Tidligere var det vanlig å praktisere tarm- og pankreashvile ved akutt pankreatitt, men dette har man nå gått bort fra ettersom mat i tarmen er viktig for å opprettholde denne funksjonen og dermed redusere SIRS. For videre informasjon om denne inflammasjonsresponsen kan en artikkel av Stephen A. McClave anbefales (3). Dersom alvorlighetsgraden er varierende, som at den akutte pankreatitten kommer og går, kalles det residiverende pankreatitt. Den akutte pankreatitten kan være forbigående, eller utvikle seg videre til kronisk pankreatitt, som kjennetegnes ved varige endringer i bukspyttkjertelens funksjon.
+
+De absolutt viktigste årsakene til kronisk pankreatitt er høyt alkoholinntak og røyking. Hyperlipidemi øker risikoen for pankreatitt ettersom høye nivåer av triglyserider har en toksisk effekt på bukspyttkjertelen. Tilstander som er forbundet med økte lipidnivåer er overvekt og diabetes. Kronisk pankreatitt er forbundet med dårlig ernæringsstatus både som følge av malabsorbsjon og at kvalme/smerter gjør det vanskelig å spise nok. Over tid kan også den endokrine delen rammes. Etterhvert som den kroniske pankreatitten utvikler seg vil det dannes bindevev inne i bukspyttkjertelen, såkalt fibrose. Da reduseres evnen til å produsere fordøyelsesenzymer. Dette er forbundet med redusert smerte, og pasienten føler seg typisk friskere når dette inntreffer, men dette er et tegn på at sykdommen har blitt verre.
+
+For pasienter med kronisk pankreatitt blir karbohydrater en viktig energikilde, da dette næringsstoffet tolereres best. Likevel er det også viktig å ikke kutte for mye i fettinntaket, da dette også er en viktig energikilde. Det er vanlig å gi fordøyelsesenzymer til måltid for å hjelpe til med å fordøye maten. I perioder med akutt pankreatitt er det anbefalt å unngå tilskudd av probiotika.
+
+## Oppsummering
+
+-   Bukspyttkjertelen har både en eksokrin og endokrin funksjon.
+
+-   Bukspyttet produseres i acini og tømmes ut i tolvfingertarmen for å hjelpe til med å nøytralisere det sure mageinnholdet og fordøye næringsstoffene.
+
+-   De viktigste hormonene som produseres i bukspyttkjertelen er insulin og glukagon, som er viktige i energimetabolismen og spesielt for å regulere blodsukkeret.
+
+-   Pankreatitt er en betennelsestilstand i bukspyttkjertelen som kjennetegnes ved kvalme, oppkast og smerter i magen som også kan stråle til ryggen.
+
+-   Pankreatitt kan være akutt (som oftest forbigående) eller kronisk (varig skade).
+
+-   Ved pankreatitt vil betennelsen øke produksjonen av fordøyelsesenzymer, som kan bli tatt opp i bukhulen og detekteres i blodet. Disse kan også begynne å fordøye selve kjertelen.
+
+-   De viktigste risikofaktorene for kronisk pankreatitt er høyt alkoholinntak og røyking. Akutt pankreatitt kan blant annet skyldes gallestein, kreft, traume eller være idiopatisk.
+
+-   Karbohydrater blir en viktig energikilde ved pankreatitt, ettersom det er dette som fordøyes og tolereres best.
+
+-   Pasienter med pankreatitt kan ha behov for å ta fordøyelsesenzymer til måltid for å klare å fordøye maten.
+
+Denne artikkelen er først og fremst basert på lærebøker i fysiologi (1) og ernæring (2).
+
+Referanser:
+
+1.  Guyton A, Hall J: **Textbook of Medical Physiology**, 12 edn: Saunders/Elsevier; 2011.
+
+2.  Erdman JW, Macdonald IA, Zeisel SH (eds.): **Present Knowledge in Nutrition**, 10 edn: Wiley-Blackwell; 2012.
+
+3.  McClave SA: **Drivers of oxidative stress in acute pancreatitis: the role of nutrition therapy**. *JPEN Journal of parenteral and enteral nutrition* 2012, **36**(1):24-35.

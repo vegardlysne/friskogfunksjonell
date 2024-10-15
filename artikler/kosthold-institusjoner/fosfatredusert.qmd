@@ -1,0 +1,40 @@
+---
+title: "Fosfatredusert kost"
+author: "Ingvild Thun"
+date: 2013.11.11
+---
+
+Tilbake til [kosthold i helseinstitusjoner](../../kosthold-institusjoner.qmd "Kosthold i helseinstitusjoner").
+
+Maten vi spiser inneholder makronæringsstoffene karbohydrat, protein og fett, men også viktige mikronæringsstoffer i form av vitaminer, mineraler og sporstoffer. Mineraler er grunnstoffer som kroppen trenger mye av daglig (over 100mg), og fosfor er et slikt mineral. Likevel er det noen som har behov for å begrense inntaket grunnet problemer med å regulere nivåene, og disse trenger fosfatredusert kost.
+
+Fosfor er et essensielt element for hver eneste celle i kroppen vår, og er det mineralet vi har nest mest av i kroppen; 25 % av den totale mineralmengden i kroppen. Det er spesielt viktig for beinmineraliseringen da det utgjør en stor andel av skjelett og tenner, og 80 % av fosforet er altså bundet til kalsium i bein. Andre viktige områder er i plasmamebraner i form av fosfolipider samt energiproduksjon og – lagring. 
+
+[Fosfor](http://www.friskogfunksjonell.no/fosfor/ "Fosfor") finnes i ulike former, og i matvarer er det i form av uorganisk fosfat, derav fosfatredusertkost.
+
+## Målgruppe
+
+Så hvem trenger et kosthold med begrensede mengder fosfat? Dette gjelder personer med forhøyede fosfatverdier i blodet (hyperfosfatemi), særlig pasienter med kronisk [nyresykdom](http://www.friskogfunksjonell.no/nyre-4/ "Nyrene del 4 – nyresykdom"), som går i dialyse. Dialyse er en prosess hvor blodet blir renset i en maskin, som da gjør den jobben nyrene ikke er i stand til; å skille ut giftige stoffer som hoper seg opp. Målet med denne kosten er å normalisere fosfatverdiene.
+
+Derimot er et fosfatredusert kosthold sjelden tilstrekkelig for å normalisere fosfatkonsentrasjonen i blodet under dialyse. For å få bukt med dette er det ofte nødvendig med medikamenter i form av fosfatbindere sammen med måltider, og disse foreskrives av en lege.
+
+## Matvarevalg
+
+Matvarer med høyt innhold av fosfat er melk og meieriprodukter, egg (hovedsakelig eggeplommen) samt fjærkre, kjøtt, fisk, sjømat, innmat, nøtter og frø. Enkelte matvarer må begrenses og noen utelates fullstendig. Derimot er mange av disse matvarene veldig vanlige i et vestlig kosthold, og man skal være forsiktig med å eliminere eller begrense for mye hvis de er viktige proteinkilder i kosten. Mat som bør utelates helt er skalldyr, lever og innmat. Prosesserte kjøtt- og osteprodukter inneholder mer fosfat enn mer naturlige produkter.
+
+## Utfordringer
+
+Et åpenbart problem er å begrense fosfatinntaket ved samtidig høyt proteinbehov. Et viktig poeng er at fosfatreduksjonen ikke skal gå på bekostning av anbefalt proteininntak. Matvarene som må begrenses er i tillegg ofte rike på andre viktige næringsstoffer enn protein, spesielt gjelder det for melkeprodukter og [kalsium](http://www.friskogfunksjonell.no/kalsium/ "Kalsium"). For å dekke kalsiumbehovet bør man ta tilskudd, eventuelt bruk av kalsiumholdige fosfatbindere. For optimal absorpsjon og nyttiggjørelse av kalsium bør også inntaket av [vitamin D](http://www.friskogfunksjonell.no/d-vitamin/ "D-vitamin") sikres.
+
+## Råd for fosfatrestriksjon
+
+-   Inntil 1 lite glass **melk** eller 1 liten **yoghurt** daglig anbefales
+-   Inntil 1 **osteskive** daglig
+    -   Faste oster eller kremost anbefales
+    -   Unngå smelteost, tubeost, og magre oster
+-   Inntil 2 **egg** i uken
+-   Unngå alle typer **nøtter**
+-   Unngå **lever** og **innmat**
+    -   Litt leverpostei innimellom er greit
+-   Unngå skalldyr og fisk med **mye ben**
+-   Spesielt sardiner, sild og ansjos

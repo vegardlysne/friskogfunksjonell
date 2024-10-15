@@ -1,0 +1,23 @@
+---
+title: "Proteinrik kost"
+author: "Ingvild Thun"
+date: 2014.02.10
+---
+
+Tilbake til [kosthold i helseinstitusjoner](../../kosthold-institusjoner.qmd "Kosthold i helseinstitusjoner").
+
+Nyrepasienter i dialyse, både i hemodialyse og peritonealdialyse, taper mye protein og væske under prosessen med å rense blodet for avfallsstoffer. Proteinrik kost ved nyresykdom kalles ofte *dialysekost*, og i denne artikkelen får du et innblikk i hvordan dette kostholdet ser ut.
+
+## Målgruppe
+
+Pasienter med nyresykdom som gjennomgår hemodialyse eller peritonealdialyse. Målet er å sikre tilstrekkelig mengder proteiner, energi og vannløselige vitaminer, samt å erstatte tapet som går ut i dialysevæsken.
+
+## Matvarevalg
+
+Proteininntaket bør være opp mot 1,4g/kg/dag ved hemodialyse og 1,5g/kg/dag ved peritonealdialyse, og proteinene som inntas skal helst være av høy biologisk kvalitet. Dette finner man i egg, fisk, kjøtt, fjærkre og meieriprodukter. Proteinmengden fordeles utover dagens måltider.
+
+Til sammenligning er et normalt proteinbehov omlag 1g/kg kroppsvekt, så disse pasientene har på grunn av økte tap altså høyere behov.
+
+## Utfordringer
+
+Hva er så **utfordringene** med dialysekost? Det er viktig å huske på at en pasient kan få i seg betydelige mengder *glukose*, og dermed ekstra energi, fra dialysevæsken. Dette må derfor tas med i energiberegningen. Behovet for dialysat med høy glukosekonsentrasjon *kan* reduseres, hvis man begrenser pasientens salt- og væskeinntak. Ofte må pasienter med nyresykdom også begrense inntaket av [*fosfat*](http://www.friskogfunksjonell.no/fosfatredusert-kost/ "Fosfatredusert kost")*,* som ofte finnes i proteinrike matvarer. Denne kombinasjonen kan gjøre det svært utfordrende å få i seg tilstrekkelig med protein og andre næringsstoffer. Nedsatt appetitt, kvalme og mangelfullt næringsinntak kan være utfordringer for en nyresyk pasient under dialysebehandling.

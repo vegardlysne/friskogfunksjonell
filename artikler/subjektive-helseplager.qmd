@@ -1,0 +1,51 @@
+---
+title: "Subjektive helseplager"
+author: "Andrea Rørvik Marti"
+date: 2014.01.30
+---
+
+Fra tid til annen opplever vi alle det man kan kalle for subjektive helseplager. Dette er plager som oppstår uten at man kan finne noen åpenbar organisk årsak, og som ikke kan måles objektivt eller oppdages på spesifikke medisinske tester. De er selvrapportert, varierer i styrke og varighet, og er ekstremt vanlige. Hos noen kan subjektive helseplager bli så voldsomme at de medfører langvarig sykefravær og sterkt nedsatt livskvalitet. Denne artikkelen er ment som en innføring i prevalens og klassifisering av subjektive helseplager. Mot slutten vil jeg også gå inn på konsekvensene av helseplager for helsevesenet, samt diskutere hvorvidt subjektive helseplager kan sies å forårsakes av å leve i et industrialisert samfunn.
+
+Subjektive helseplager oppleves av så å si alle mennesker i mange ulike kulturer, og kan derfor anses som helt normalt. Det er en utfordring både å forsøke å forklare hva som forårsaker slike helseplager, og ikke minst hva som gjør at de for noen kan utvikle seg til å bli uutholdelige.
+
+## Hva er subjektive helseplager?
+
+Subjektive helseplager er selvrapporterte plager som ikke har noen objektiv eller klar organisk årsak. Typisk grupperer vi subjektive helseplager inn i fem ulike kategorier. Den første kategorien kalles for muskel- og skjelettsmerter, og omfatter blant annet ryggsmerter, skuldersmerter, hodepine og migrene. Den andre kategorien kalles for «pseudonevrologiske» plager, og omfatter søvnproblemer, tretthet, svimmelhet, og angst. Den tredje kategorien kalles for gastrointestinale plager, og innenfor denne finner vi for eksempel magesmerter som ved [irritabel tarm](http://www.friskogfunksjonell.no/irritabel-tarm-hvordan-behandles-det/ "Irritabel tarm – hvordan behandles det?"), [oppblåsthet, diaré og forstoppelse](http://www.friskogfunksjonell.no/diare-forstoppelse-og-gass-hva-kan-du-gjore/ "Diaré, forstoppelse og gass – hva kan du gjøre?"). Den fjerde kategorien omfattes av betegnelsen «allergier» og inkluderer pustevansker, eksem, og astma. Innenfor den femte kategorien finner vi forkjølelsessymptomer og hosting.
+
+## Hvor vanlig er subjektive helseplager?
+
+Subjektive helseplager er ekstremt vanlig. En undersøkelse gjort på et representativt utvalg (1240 deltakere) av den norske befolkningen fant ut at hele 96% av de spurte hadde opplevd én eller flere av en rekke opplistede helseplager i løpet av de siste 30 dager (1). Det vanligste var muskel- og skjelettsmerter, som ble rapportert hos 80% av respondentene. 65% rapporterte pseudonevrologiske plager, mens 60% rapporterte gastrointestinale problemer. 54% rapporterte forkjølelse, og 34% rapporterte allergier. Det er altså langt vanligere å oppleve helseplager fra tid til annen enn å ikke oppleve dem!
+
+## Hvorfor er subjektive helseplager så utbredt?
+
+En naturlig tanke er at subjektive helseplager er utbredt på grunn av det samfunnet og tiden vi lever i. Vi utsettes for mye stress og press i arbeidsliv, studier og i hverdagen, og har ikke tilstrekkelig tid til å slappe av like mye som man kunne før i tiden. Ofte hører vi at «alt var bedre før». Fra alternative kanter kan man også høre spekulasjoner i at helseplager kan skyldes ting som tilsetningsstoffer i mat, genmodifiserte matvarer, mobilstråling, eller andre «moderne» materialer.
+
+Dessverre kan vi ikke reise tilbake i tid for å undersøke hvordan forekomsten av subjektive helseplager var i gamle dager, men det vi derimot kan gjøre er å undersøke forekomsten i menneskegrupper som lever på tradisjonelle måter, isolert fra alt som kan kalles moderne. Det er nettopp dette en gruppe fra Universitetet i Bergen har gjort. I 2004 målte de forekomsten av subjektive helseplager hos 120 medlemmer av urbefolkningen på Filipinene, sammenliknet med 101 Filipinere som lever under mer vestlig-liknende forhold, og nordmennene fra den tidligere omtalte studien (2). I 2007 fulgte de også opp med å se på forekomsten hos 320 medlemmer av Masaai-folket i Afrika (3). Det viste seg at urfolkene i begge studiene hadde høyere forekomst av subjektive helseplager totalt enn hos den norske befolkningen. Mønsteret av forekomst av de ulike typene helseplager (muskel- og skjelettplager, pseudonevrologiske plager osv) var mye det samme, men de ble rapportert i høyere grad hos urfolk enn hos nordmenn. V kan derfor konkludere med at subjektive helseplager sannsynligvis ikke forekommer som et resultat av å leve i et moderne, industrialisert samfunn. Kanskje subjektive helseplager rett og slett er en menneskelig normaltilstand?
+
+## Plager, ikke (nødvendigvis) symptomer
+
+Når man merker smerte eller ubehag i kroppen er det naturlig å søke etter en årsak. Vi tolker ubehaget som et symptom på at noe er feil. Dette er ikke så rart, da plager veldig ofte kan være nettopp symptomer på underliggende sykdom. Men det som er spesielt med subjektive helseplager er at man svært ofte ikke klarer å finne noen årsak. For de aller fleste av oss er ikke dette et stort problem, da en kortvarig hodepine eller forbigående oppblåsthet er noen man kan leve med uten nevneverdig nedsatt funksjon. Men for noen det ikke fullt så enkelt. For veldig mange kan nemlig helseplagene bli så store og mangfoldige at det går utover den daglige funksjonen.
+
+## Subjektive helseplager og sykefravær
+
+De nyeste tallene på årsaker til sykefravær er dessverre ikke tilgjengelige for allmennheten, men vi vet at i 1996 var over halvparten av alle sykemeldinger skrevet ut kun på grunnlag av pasientens subjektive plager uten at legen klarte finne noen organisk årsak til problemene (1). Faktisk var hele 45% av langtidssykemedling, nesten 33% av permanent trygdestønad, og 45% av rehabiliteringskostnader skrevet ut kun for muskel- og skjelettsmerter. Et nyere estimat (fra 2008) angående korsryggsmerter (som går innunder kategorien muskel- og skjelettplager) anslår at slike smerter alene koster det norske samfunnet hele 15 milliarder kroner årlig (4).
+
+Subjektive helseplager er altså ikke bare problematisk for den enkelte som rammes, men er også et gigantisk folkehelseproblem. Det interessante er at vi ikke har noen biologiske markører for disse plagene, og at de tilsynelatende forekommer i større eller mindre grad hos alle i befolkningen. Det finnes heller ikke noe klart mål for når de går over fra å være tolererbare til når de blir uutholdelige. Siden det tilsynelatende ikke finnes noen klar organisk årsak til disse plagene, og også på grunn av at disse plagene ofte forekommer sammen hos dem som er verst rammet, er det nå et voksende konsensus om at psykologi spiller en rolle. I neste artikkel vil jeg beskrive og forklare en helhetlig modell som kan binde sammen de konseptene jeg har trukket frem i denne artikkelserien: [Stressresponsen](http://www.friskogfunksjonell.no/stressresponsen/ "Stressresponsen"), [variasjon i håndtering og opplevelse av stress](http://www.friskogfunksjonell.no/stressresponsen-faktorer/ "Dette påvirker håndtering og opplevelse av stress"), og i dag - subjektive helseplager.
+
+## Oppsummering
+
+-   Subjektive helseplager er selvrapporterte plager som ikke har noen åpenbar organisk årsak
+-   96% av den norske befolkningen rapporterer forekomst av minst én subjektiv helseplage i løpet av siste 30 dager
+-   Subjektive helseplager er ikke et resultat av vårt moderne levesett. De ser ut til å være en naturlig del av livet til alle mennesker
+-   For noen mennesker blir subjektive helseplager så store at de fører til sterkt nedsatt funksjon og livskvalitet
+-   Subjektive helseplager er et alvorlig folkehelseproblem
+
+Referanser:
+
+1.  Ihlebæk, C., Eriksen, H. R. & Ursin, H. (2002). Prevalence of subjective health complaints (SHC) in Norway. *Scandinavian Journal of Public Health*, 30, 20-29.
+
+2.  Eriksen, H. R., Hellsnes, B., Staff, P. & Ursin, H. (2004). Are subjective health complaints a result of modern civilization? *International Journal of Behavioural Medicine*, 11, 122-125.
+
+3.  Wilhelmsen, I., Mulindi, S., Sankok, D., Wilhelmsen, A. B., Eriksen, H. R., & Ursin, H. (2007). Subjective health complaints are more prevalent in Maasais than in Norwegians. *Nordic Journal of Psychiatry*, 61, 304-309.
+
+4.  Soldal, D. M., 2008. Epidemiologi ved korsryggsmerter, *Norsk Epidemiologi*, 18, 107-110.

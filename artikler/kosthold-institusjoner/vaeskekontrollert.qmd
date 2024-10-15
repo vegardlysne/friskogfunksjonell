@@ -1,0 +1,26 @@
+---
+title: "Væskekontrollert kost"
+author: "Ingvild Thun"
+date: 2014.02.17
+---
+
+Tilbake til [kosthold i helseinstitusjoner](../../kosthold-institusjoner.qmd).
+
+For mye væske i kroppen gir økt belastning på organene, spesielt [nyrene](../metabolismen/nyre2.qmd), som må filtrere den, og [hjertet](../metabolismen/hjerte1.qmd), som må pumpe alt blod gjennom kroppen. Personer som gjennomgår dialyse, behandling for nyresvikt, kan trenge væskebegrensning for å unngå for stor belastning på nyrene. Ellers vil leger ved sykehus forordne væskebegrensning når det er behov av andre årsaker, for eksempel hjertesvikt.
+
+## Matvarevalg
+
+Væskekontrollert kost brukes i kombinasjon med [natriumredusert](natriumredusert.qmd) kost hos dialysepasienter, ascites- (væskeopphopning i buken) og hjertesviktpasienter for å hindre eller begrense væskeansamling. Et kosthold med mye salt, og dermed [natrium](../naringsstoffer/natrium-klor.qmd), gir økt tørste og holder igjen vann i kroppen. Det siste gjelder spesielt pasienter med en eller annen grad av nyresvikt, da utskillelsen av natrium rammes.
+
+## Utfordringer
+
+Det kan være en stor utfordring å redusere væskeinntaket i seg selv, avhengig av hvor mye man er vant til å innta. Det er viktig at natrium også reduseres, da mye salt gir økt tørste og byr på større utfordringer med væskebegrensing.
+
+## Praktiske råd for væskekontroll
+
+-   Dialysepasienter: væskeinntak bør være svarende til urinutskillelse pluss 800-1000ml per døgn
+-   **All** væske må registreres: vann, kaffe, brus, juice, te, melk osv
+-   Redusere på salte matvarer som ofte fører til økt tørste
+-   Mat med høyt væskeinnhold som suppe, vannmelon, agurk, yoghurt, sorbet/iskrem, gele og næringsdrikker må telle i regnskapet
+-   Spar drikke til mellom måltidene
+-   Å suge på isbiter, spise syrlige matvarer eller tygge sukkerfri tyggegummi kan lindre tørste (ikke med mye søtsmak som stimulerer tørste)

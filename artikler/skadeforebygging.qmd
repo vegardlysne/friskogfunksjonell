@@ -1,0 +1,73 @@
+---
+title: "Forebygging av skader"
+author: "Torbjørn Lysne"
+date: 2014.02.20
+---
+
+Trening er stor business, og flere treningsformer har kommet på markedet i løpet av de siste årene. En fysisk aktiv livsstil er for mange blitt en sentral del av hverdagen, enten drivkreftene bak treningen er å skulle konkurrere i idrett, holde sin egen fysiske form ved like, estetisk begrunnet eller sosialt samvær. Fordelene med å holde seg fysisk aktiv er udiskutable, men en fordel har som regel også en bakdel. I denne sammenhengen snakker jeg om risikoen for skader. Her skal jeg se på årsakene til at skader oppstår og hva du kan gjøre for å forebygge disse.
+
+## Skadetyper
+
+En idrettsskade kan defineres en skade som er oppstått i forbindelse med idrett/fysisk aktivitet. Vanligst er det man kaller *bløtdelsskader*, skader som rammer de bløte delene av bevegelsesapparatet (brusk, muskler, sener og leddbånd). *Skjelettskader* er den andre skadetypen, men ved fysisk aktivitet er forekomsten av disse betraktelig lavere enn bløtdelsskadene. Denne typen skader er også som oftest umulig å forebygge.
+
+Bløtdelsskadene kan vi igjen dele inn i *akutte skader* og *belastningsskader* etter hvordan skaden oppstår. Mens de akutte skadene oppstår plutselig og med et klart traume, kommer belastningsskadene gradvis over tid. Alle bløtdelsvev har en evne til å tåle en viss belastning uten at skader oppstår, men dersom denne overstiges vil det oppstå skade på vevet. En akutt skade oppstår dersom én enkelt belastning er nok til å overstige tåleevnen til vevet, mens belastningsskader oppstår ved gjentakende belastninger som sammen fører til skade på vevet over tid.
+
+## Treningsbelastning og –tilpasning
+
+Cellene i kroppen har en egen evne til alltid å tilpasse seg belastningen de blir utsatt for, og all trening tar sikte på å vedlikeholde eller forbedre egenskapene i kroppen. For å klare dette må du belaste kroppen like hardt eller hardere enn den tidligere har blitt utsatt for. Dersom du belaster kroppen mindre enn tidligere vil kroppen tilpasse seg den nye, roligere livsstilen, som igjen betyr dårligere fysisk form. Motsatt vil en økning i belastningen føre til en bedre fysisk form.
+
+Når du trener bryter du ned cellene i kroppen din. Grunnet cellenes gode tilpasningsevne vil de hele tiden prøve å tilpasse seg den belastningen som påføres. Under en treningsøkt vil du bryte kroppen ned til et lavere prestasjonsnivå (det vil si at du ikke vil prestere bedre på den samme treningen rett etter du er ferdig med økten). Når kroppen derimot har fått restituert seg lenge nok vil du komme over i en overkompensasjonsfase der prestasjonsnivået ditt er høyere enn utgangsnivået før treningen (se figur 1 under). Totalbelastningen på treningen bestemmer hvor lang tid du bruker på å restituere deg til du er over i overkompensasjonsfasen. Dersom man trener en tilsvarende økt i denne fasen legger du til rette for å bygge kroppens egenskaper stadig sterkere.
+
+![](images/clipboard-3284450620.png)
+
+Figur 1. Den adaptive tilpasningen til treningsbelastning.
+
+Akutte skader er ofte vanskelig å forutse og skjer ofte i kontaktidretter og trening med høy intensitet. Belastningsskader er vanligere ved aktiviteter med mye repetitive bevegelser og ofte høy treningsmengde (løping, sykling, langrenn, kastidretter, tennis o.l.).
+
+Figur 2 nedenfor viser to tilsvarende grafer som den over. På hver av de svarte firkantene har personene gjort en treningsøkt med påfølgende nedbryting av kroppen. Forskjellen på person A og person B er at A trener en ny økt i overkompensasjonsfasen og dermed hele tiden øker sin prestasjonsevne, mens person B ikke har restituert seg nok og dermed bryter kroppen ytterligere ned og prestasjonsevnen synker (i denne perioden). Selv om A har trent færre økter enn B, vil A kunne prestere bedre enn B på grafenes endepunkt dersom utgangsnivået var likt (gitt at alle andre faktorer er like). Poenget er at A totalt sett bygger seg opp mens B bryter seg ned. Belastningen B påfører kroppen gjør at kroppen ikke får nok restitusjonstid og det kan i denne perioden lettere påføres en belastningsskade.
+
+![](images/clipboard-851525247.png)
+
+Figur 2.
+
+Det skal sies at treningen som person A og B gjør ikke er ensbetydende med at A vil prestere bedre enn B over lang tid, da B’s treningsmodell er noe mange idrettsutøvere gjør for å få trent mest mulig. Etter en tid vil B ta en lengre restitusjonsperiode der kroppen får tid til å absorbere all treningen som har blitt påført kroppen. Treningsmodellen til B vil være mer utsatt for belastningsskader, men for mange idrettsutøvere vil det være en nødvendighet å balansere på grensen av hva kroppen tåler for å få fremgang og nå toppen.
+
+På generell basis kan vi si at risikoen for belastningsskader øker når treningsbelastningen øker. «For *mye*, for *ofte*, for *fort* – og for lite *hvile*» er et kjent begrep som beskriver at treningsbelastningen blir større enn tiden vevet bruker på å tilpasse seg de nye egenskapene.
+
+## Risikofaktorer
+
+Årsakene til en belastningsskade er som oftest sammensatt av både indre og ytre faktorer. Indre årsaker som alder, bevegelighet, kroppsbygning og tidligere skader er viktig å tenke på dersom man ønsker å unngå skader. Ytre faktorer kan man ikke alltid gjøre noe med, men de er viktig å ha hensyn til for å forebygge skader. Eksempler på ytre faktorer er hardt eller glatt underlag, høy/lav friksjon på underlag, ujevnt underlag, vær og temperatur og skovalg/annet utstyr. Det er altså ikke bare én årsak til at skader oppstår, og det er mye å ta hensyn til for å unngå uønskede utfall.
+
+## Prinsipper for forebygging av skader
+
+Til slutt vil jeg gi noen generelle tips du bør tenke på før du trener for å gjøre ditt for å unngå skade.
+
+#### Oppvarming
+
+Gjennomfør alltid en oppvarming tilhørende aktiviteten du skal gjennomføre. Forberedelse til aktivitet er viktig for å forberede muskler og ledd på høyere intensitet. Skal du ha høy intensitet på treningen kreves det mer oppvarming enn ved lavere intensitet.
+
+#### Progresjon
+
+For rask progresjon er kanskje den største risikofaktoren for skade. Som tidligere nevnt må du belaste kroppen mer enn den tidligere er vandt til for å få fremgang rent fysisk, men her må du være lur og ikke øke belastningen «for mye, for ofte og for fort».
+
+#### Restitusjon
+
+Dette prinsippet henger sammen med progresjon, men det brukes her som et eget punkt for å poengtere viktigheten med hvile. På forrige punkt er det snakk om å tenke gjennom alt du gjør av trening, men foruten treningen belaster du også kroppen i andre daglige aktiviteter. Totalbelastningen på kroppen kan være stor selv på treningsfrie dager! Kroppen må rett og slett få tid til å bygge seg opp igjen.
+
+#### Ta hensyn til ytre faktorer
+
+Hvis det er mulig bør du ta hensyn til de ytre faktorene før en treningsøkt. Kle deg etter været og bruk fornuftige sko. Gode sko kan være avgjørende for å forebygge «unødvendige» skader.
+
+#### Teknikk
+
+På enkelte treningsfronter er teknikken avgjørende for å unngå feil belastning på muskler og ledd. Er du usikker på teknikken din – ta kontakt med noen som kan det før det er for sent!
+
+#### Behandling
+
+For de som driver mer seriøst med idretten er det ikke alltid tid til å vente på at småvondter går over av seg selv. For dere er det selvfølgelig lurt å oppsøke behandling hos fagpersoner for å forebygge skade. Det kan også være lurt å jobbe med egenbehandlinger med for eksempel en foam/rumble roller.
+
+#### Lytt til kroppen
+
+Det siste prinsippet i forebygging av skader er å lytte til kroppen. Du får hele tiden signaler fra kroppen som du må tolke fortløpende. Bruk sunn fornuft og stopp før du går på en smell. Husk at det er du som kjenner kroppen din best – ingen andre!
+
+**Har du noen andre tips for å forebygge skader, skriv de gjerne i kommentarfeltet!**

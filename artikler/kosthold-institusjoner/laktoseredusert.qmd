@@ -1,0 +1,58 @@
+---
+title: "Laktoseredusert kost"
+author: "Ingvild Thun"
+date: 2013.12.05
+---
+
+Tilbake til [kosthold i helseinstitusjoner](../../kosthold-institusjoner.qmd "Kosthold i helseinstitusjoner").
+
+Noen mennesker har problemer med inntaket av melkesukkeret laktose. Dette kan være en primær tilstand, der mangelfull produksjon av laktase, enzymet som bryter ned laktose, er årsaken til problemet. Det kan også være en sekundær tilstand, der årsaken til enzymmangelen er andre skader eller sykdommer tilknyttet tarmen, som for eksempel [cøliaki](http://www.friskogfunksjonell.no/coliaki/ "Cøliaki"). Her følger en innføring i laktosefri kost.
+
+\[caption id="attachment_5542" align="aligncenter" width="576"\]![Melk](http://www.friskogfunksjonell.no/wp-content/uploads/2013/11/Melk-1024x682.jpg "Laktose"){alt="Melk"} Bilde: Colourbox\[/caption\]
+
+Laktoseredusert kost inngår i serien [kosthold i helseinstitusjoner](http://www.friskogfunksjonell.no/kosthold-i-helseinstitusjoner/ "Kosthold i helseinstitusjoner").
+
+## Hva er laktose?
+
+Laktose, melkesukker, er en sukkerart som finnes i melk og melkeprodukter. Enzymet *laktase* spalter disakkaridet laktose til monosakkaridene glukose og galaktose i tynntarm, og det er dette enzymet som enten er fraværende eller fungerer dårlig, hos personer med laktoseintoleranse. Laktasenivået er størst de første to årene av livet, og synker deretter i overgangen til et mer voksent kosthold. I Skandinavia er forekomsten av *primær* (medfødt) laktoseintoleranse 2-5 %, mens i Sentral-Europa er den 15 %, Sør-Europa på 50 % og hele 70-90 % i store deler av Asia og Afrika. Vi skandinaver er altså godt tilpasset inntak av melk, men dette er altså ikke tilfellet for de aller fleste, men en *genmutasjon* som har gjort at vi har overlevd begrensede vilkår for blant annet dyrking av jord.
+
+Ved laktoseintoleranse passerer laktose ufordøyd gjennom tynntarmen og videre til tykktarmen. Spises mer laktose enn det som tåles, kan det gi luftsmerter og diare.
+
+**Laktoseintoleranse er ikke det samme som melkeallergi!**
+
+## Målgruppe
+
+Kosten benyttes av personer med primær laktoseintoleranse, men også for de som lider av *sekundær* (midlertidig) laktoseintoleranse. Sekundær intoleranse kommer som følge av sykdommer/infeksjoner/skader i tarmen, for eksempel ubehandlet cøliaki eller strålebehandling mot buken.
+
+Laktose er en stor kilde til galaktose, og [medfødte sykdommer i galaktosemetabolismen](http://www.friskogfunksjonell.no/karbohydratmetabolismen-sykdommer/ "Medfødte sykdommer i karbohydratmetabolismen") kan gjøre at man blir avhengig av å spise laktosefritt.
+
+## Matvarevalg
+
+Laktose er et melkesukker, og følgelig vil det finnes i alle melk- og melkeprodukter, men mengden vil variere.
+
+|  |  |  |
+|------------------|--------------------------|----------------------------|
+| **Mindre enn 0,5 g laktose/100g** | **0,6-3g laktose/100g** | **Mer enn 3g laktose/100g** |
+| Margarin, myk og flytende | Kremost | Søt melk |
+| Laktoseredusert lettmelk | Fetaost | Brunost |
+| Laktosefri yoghurt | Gamalost | Prim |
+| Laktosefri kremfløte | Mozarella | Iskrem |
+| Laktosefri lettrømme | Snøfrisk | Syrnede meieriprodukter |
+| Laktosefri lettmelk | Kremfløte | Syrnet melk |
+| Laktosefri matfløte | Smør, hard margarin | Rømme |
+| Faste guloster som Norvegia, Jarlsberg, nøkkelost | Pølser | Cottage cheese |
+| Brie, camembert | Servelat | Creme fraiche |
+| Smørbar magerost | Salami | Yoghurt |
+| Normanna | Leverpostei | Mat/kaffefløte |
+| Roquefort | Brød med melk/yoghurt | Blandede produkter der melk/melkepulver står tidlig på innholdsdeklarasjonen |
+|  | Kjøttkaker | Risgrøt med melk |
+|  | Fiskegrateng | Vaniljesaus/hvit saus |
+|  | Blandede produkter der melk/melkepulver står sent på innholdsdeklarasjonen | Vafler/pannekaker med vanlig melk |
+
+Matvarene i kolonnen helt til høyre bør unngås i et laktoseredusert kosthold. Man kan benytte seg av *laktosereduserte* eller *laktosefrie* produkter. Forskjellen på disse er som navnet tilsier, at den reduserte utgaven inneholder litt laktose for de som tåler det, mens den laktosefrie er for de med nulltoleranse. I laktoseredusert melk er laktosen spaltet slik at den kan fordøyes uten enzymet laktase, og den er litt søtere enn vanlig melk. Syrnede meieriprodukter tåles ofte bedre enn søte, noen bruker dette i moderate mengder. Gulost inneholder nesten ikke laktose og kan derfor brukes normalt. Dette er på grunn av at ostene lagres og *modnes*, en prosess hvor blant annet bakterier fermenterer laktosen i osten til melkesyre.
+
+Et sykehus som skal servere et måltid til en med laktoseintoleranse, må passe på at matvarer som brukes inneholder mindre enn 3 g laktose per 100g, og hele måltidet bør inneholde mindre enn 5g laktose. Dersom en pasient har behov for laktose*fri* kost, bør kun matvarer med mindre enn 0,5 g laktose per 100 g benyttes.
+
+## Utfordringer
+
+Hvis man benytter seg av laktosereduserte/laktosefrie produkter, trenger det ikke være noen utfordringer med et slikt kosthold. For personer som unngår eller begrenser meieriprodukter derimot, mister man den beste kilden til kalsium i norsk kosthold, samt mange andre viktige næringsstoffer.

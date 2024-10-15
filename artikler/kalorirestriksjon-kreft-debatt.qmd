@@ -1,0 +1,92 @@
+---
+title: "Ikke ilegg kreftpasienter kostrestriksjoner"
+date: 2013.10.03
+categories:
+  - kosthold
+  - kreft
+---
+
+Det er med stor interesse jeg har fulgt de siste ukenes debatt vedrørende kosthold og kreft. Bør kreftpasienter rådes til å spise mindre sukker og stivelse, eller er dette råd vi ikke har grunnlag for å komme med. Kan disse rådene til og med slå negativt ut? Gjelder de samme tingene for kreftsyke som for friske, eller er det andre hensyn som blir mer fremtredende?
+
+## Full debatt
+
+Først ut var indremedisiner Fedon Lindberg og brystkreftpasient Lisbeth Pettersen med et debattinnlegg i Dagens Medisin, der det hevdes at [norske kreftleger ikke bryr seg om å gi kostholdsråd](http://www.dagensmedisin.no/nyheter/--kreftleger-bryr-seg-ikke-om-kostholdsrad/). Han fikk tilsvar fra norsk onkologisk forening, som på sin side hevder at rådene Lindberg og Pettersen snakker om ikke har godt grunnlag, og de [avviser derfor kreftdietten](http://www.dagensmedisin.no/nyheter/kreftleger-avviser-kreftdiett/). Dagens medisin har i kjølvannet av dette bedt de to partene [begrunne sine råd](http://www.dagensmedisin.no/nyheter/dette-strides-de-om-i-sukkerdebatten/), noe både [Lindberg](http://www.dagensmedisin.no/nyheter/slik-argumenterer-lindberg/) og [Kreftforeningen](http://www.dagensmedisin.no/nyheter/slik-argumenterer-kreftforeningen/) har gjort.
+
+Debatten fortsatte så på NRK sin ytringsside, og først ut var Lindberg med kronikken [Kreftceller elsker sukker](http://www.nrk.no/ytring/kreftceller-elsker-sukker-1.11259578). Denne kronikken fikk to tilsvar, først fra blogger Gunnar Tjomlid som mener vi bør fortelle pasienter at [en kakebit ikke mater kreften](http://www.nrk.no/ytring/en-kakebit-mater-ikke-kreften-1.11266853). Deretter var det professor Rune Blomhoff sin tur, som mener at kreftleger [ikke bør fraråde pasientene å spise sukker](http://www.nrk.no/ytring/kreftleger-bor-ikke-frarade-sukker-1.11270427). Det foreløpig siste innlegget i debatten kommer igjen fra Lindberg, med tittelen «[En kakebit mater ikke kreften, men det gjør mye sukker og stivelse](http://www.nrk.no/ytring/sammenheng-mellom-sukker-og-kreft-1.11272650)».
+
+Midt i denne debatten står kreftpasientene, og med disse motstridende rådene som florerer er det ikke godt å vite hva man skal tro på. Jeg ønske at det ble satt et klart skille mellom det som gjelder i forebygging av kreft og det som gjelder under behandling av etablert kreftsykdom, for her er det nemlig ulike spilleregler som gjelder.
+
+## Kreft og livsstil
+
+Kreft er et samlebegrep for en lang rekke sykdommer som kjennetegnes av ukontrollert cellevekst. Sykdommen skyldes at en celle først får forandret sine arveegenskaper (initiering), men det er ikke dermed gitt at cellen blir en kreftcelle, da vi også har mange reparasjonssystemer som fanger opp de fleste slike endringer. Dersom denne cellen deler seg (promosjon) blir det ødelagte arvestoffet uttrykt, noe som gjør at cellen endrer seg og lurer seg unna de normale kontrollsystemene for cellevekst. Dette kan til slutt gå sammen og danne en kreftsvulst (progresjon). Blant tingene som skiller kreftceller fra friske celler finner vi at de produserer sine egne vekstfaktorer, de responderer ikke på signaler som skal hemme cellevekst eller fremme celledød, de produserer egne blodårer for å få tilgang på næring og de deler seg uendelig.
+
+Det er en klar sammenheng mellom livsstil og utvikling av kreft, det er det ingen som benekter. Maten vi spiser inneholder over 25 000 bioaktive komponenter, og over 500 av disse er på en eller annen måte satt i sammenheng med kreft, både positivt og negativt (1). Spesielt sterk er kanskje [sammenhengen mellom overvekt og risikoen for en rekke kreftformer](http://www.friskogfunksjonell.no/kalorirestriksjon-kreft/ "Kan kalorirestriksjon bidra til å forebygge kreft?"). Råd om kosthold og fysisk aktivitet spiller en rolle i forebyggingen av dette. Dyremodeller viser en konsekvent sammenheng mellom kalorirestriksjon og redusert kreftrisiko, og dette ser man også igjen i epidemiologiske data på mennesker.
+
+Det å forebygge overvekt ser altså ut til å være et viktig fokusområde for å forebygge kreftsykdom. Å redusere inntaket av karbohydrater kan være en effektiv strategi i så måte, men samtidig må vi være klar på at dette ikke vil passe for alle. Med tanke på forebygging av kreft er det også problematisk å snakke om reduksjon av karbohydrater uten å ta hensyn til hvilke typer karbohydrater som kuttes. Kostholdets innhold av fiber er for eksempel av betydning for noen kreftformer. Dette faller likevel utenfor de siste dagers debatt, all den tid det ikke er snakk om forebygging, men behandling av allerede etablert kreftsykdom.
+
+## Hva med behandling?
+
+Når sykdom først er et faktum så gjelder ikke nødvendigvis de samme spillereglene som for friske. De fleste kreftpasienter (det finnes unntak) har allerede tapt en del vekt ved diagnosetidspunktet, og mange er i det vi kan kalle ernæringsmessig risiko. Det å gjenopprette ernæringsstatus er derfor en viktig del av behandlingen, da dette spiller en viktig rolle for prognosen. Det viktigste i denne sammenhengen er å oppnå tilstrekkelig inntak av energi og protein.
+
+Dårlig ernæring under kreftbehandling vil medføre redusert allmenntilstand, tap av muskelmasse, redusert immunforsvar, økt infeksjonstendens og redusert sårtilheling. Atrofi av tarmceller er en vanlig konsekvens av utilstrekkelig energiinntak, og dette bidrar til ytterligere forverring av tilstanden. Tilstrekkelig ernæring vil på sin side bidra til å opprettholde immunforsvaret, øke/opprettholde toleransen for behandling, gjenoppbygging av skadet vev og bedring av allmenntilstanden.
+
+Både faktorer ved sykdommen og behandlingen har en innvirkning på appetitten og dermed matinntaket. Typisk vil dette føre til redusert matlyst, noe som fører til at det er vanskelig å dekke behovene for energi og protein. Konsekvensene av dette er at kroppen må hente energi fra eget vev. Friske personer vil ved energiunderskudd først og fremst hente energi fra fettvevet, men ved kreftsykdom vil dette i stor grad gå utover fettfri masse, altså muskelmassen. Dette skyldes økt behov for aminosyrer til å produsere glukose, som er kreftcellenes primære brennstoff, men også at aminosyrene brukes til vekst av selve kreftsvulsten (2).
+
+Tap av muskelmasse vil ha en negativ innvirkning på hvor godt man tåler behandling som cellegift, og kan dermed medføre dosereduksjon eller utsettelse av behandling. Dette gir dårligere prognose. I tillegg har tap av muskelmasse selvfølgelig også en negativ effekt på funksjonsnivået i hverdagen. I denne sammenhengen er ikke det kakestykket med sukker et problem, snarere tvert imot!
+
+## Kreft kakeksi
+
+Muskeltapet som foregår ved kreftsykdom kalles kreft kakeksi, og er en konsekvens av metabolske endringer som følge av selve kreftsykdommen (3). Hypermetabolisme er en følge av at kreftsvulsten i seg selv krever energi, og i tillegg øker energiforbruket som følge av systemisk inflammasjon. Når kreftsykdommen i tillegg bidrar til redusert matinntak så er det påfølgende muskeltapet vanskelig å forhindre. Grunnet metabolske endringer så vil ikke en kreftpasient i lik grad som friske gå over til fettforbrenning, noe som gjør at energiunderskuddet først og fremst vil gå utover den fettfrie massen.
+
+Kakeksi er assosiert med redusert fysisk funksjonsnivå samt redusert toleranse for behandling og dermed dårligere prognose. Den siste konsensusdefinisjonen av tilstanden er:
+
+> *Multifaktorielt syndrom definert ved pågående tap av skjelettmuskulatur, med eller uten tap av fettmasse, som ikke kan reverseres fullstendig med konvensjonell ernæringsmessig støtte og medfører tiltagende funksjonssvekkelse (3).*
+
+Kakeksi deles inn i tre stadier, prekakeksi, kakeksi og refraktær kakeksi, og overgangen mellom disse er glidende. Utviklingen av kakeksi avhenger i stor grad av hvilken kreftsykdom pasienten har, graden av systemisk inflammasjon og ikke minst ernæringsstatus.
+
+Det finnes ingen gode biomarkører for å identifisere prekakeksi, men dette defineres som et begynnende vekttap og tegn til metabolske forandringer. Diagnostiske kriterier for å stille selve kakeksidiagnosen er et ufrivillig vekttap på over 5% av kroppsvekten, eller vekttap på over 2% hos pasienter som allerede er undervektige eller viser tegn til tap av muskelmasse (sarkopeni). Når pasientene ikke lenger responderer på tiltak for å bremse eller reversere muskel- og vekttapet kalles det refraktær kakeksi, og dette er forbundet med svært redusert funksjonsnivå og kort forventet levetid.
+
+Kakeksien kommer altså som en konsekvens av selve kreftsykdommen, og er en viktig faktor for hvorfor kostråd ved forebygging og behandling av kreft bør skilles fra hverandre i denne debatten.
+
+## Unødvendige kostråd
+
+Kostråd til pasientgrupper bør være forankret i god vitenskap. Når vi vet konsekvensene av energiunderskudd hos kreftpasienter bør spesielt råd som begrenser matutvalget ha god støtte bak seg, da de i utgangspunktet kan gjøre mer skade enn nytte.
+
+Det er godt etablert at under behandling av kreftsykdom så er all mat bedre enn ingen mat, også tomme kalorier som sukker og raffinert mel. Dersom kake og brus er alt pasienten orker tanken på å få i seg, er dette mye bedre enn alternativet. Hvis pasienten da har fått råd om å begrense inntaket av sukker, vil dette kunne føre til at pasienten lar vær å spise. Om pasienten likevel velger å spise kake kan det gi dårlig samvittighet, da det siste pasienten ønsker er å gjøre ting som forverrer sykdommen. Denne dårlige samvittigheten er selvfølgelig totalt unødvendig da det ikke finnes grunnlag for å komme med disse anbefalingene i utgangspunktet. Fra studier vet vi også at karbohydratrike matvarer som desserter, frukt, pasta, kornblandinger og lyst brød er betydelige energikilder i denne pasientgruppen (4).
+
+Vi vet at kreftceller har et stort forbruk av glukose, og dette vil vi alltid ha i blodet. Ved å kutte ut inntaket av karbohydrater så vil vi altså ikke kunne hindre kreftcellenes tilgang på glukose. For å opprettholde blodsukkeret må leveren produsere mer glukose, hovedsakelig fra aminosyrer. Denne økte produksjonen fører til økt nedbrytning av muskelvev (kakeksi), spesielt dersom inntaket av protein er utilstrekkelig. Dette er svært uheldig da den fettfrie massen er med å påvirke evnen til å tåle behandlingen, og ikke minst fordi den er viktig for funksjon i hverdagen.
+
+## Kostråd i teori og praksis
+
+Det er mange hensyn å ta når det gjelder behandling av kreftpasienter, men når det kommer til kosthold så er det desidert viktigste å tilrettelegge slik at man best mulig kan dekke behovene for energi og protein. Råd som i hovedsak baserer seg på restriksjoner vil i denne sammenhengen kunne slå mer negativt enn positivt ut.
+
+Selv om det i teorien kan høres fint ut å kutte ned på kreftcellenes primære energikilde og heller dekke behovene med de øvrige næringsstoffene, er det ikke gitt at dette fungerer i praksis. Vi vil alltid ha glukose tilgjengelig i form av blodsukker, og kreftceller har et større uttrykk av glukosetransportører enn friske celler, og får derfor tilgang på glukose enten vi vil det eller ikke (5,6). Ettersom kreftceller baserer seg på anaerob fermentering av glukose dannes det også mye melkesyre, som gir substrat til ytterligere glukoseproduksjon i leveren.
+
+Som nevnt vil kreftpasienter ofte ha store problemer med å få i seg nok energi, og da vil det å legge restriksjoner i kostholdet heller bidra til å gjøre dette enda vanskeligere. Fedon Lindberg uttaler at man kan erstatte sukker med alternativer som sukrin og stevia, men med tanke på energiinntaket så er ikke nødvendigvis det å benytte kalorifrie alternativer et godt valg i perioder der det er vanskelig å få i seg nok energi.
+
+For å optimalisere matinntaket kan det være nødvendig med medikamenter for å behandle kvalme, forstoppelse, diaré eller malabsorbsjon. Når dette er tatt hånd om kan tilrettelegging av kostholdet til den enkelte pasient gjøre det lettere å dekke behovene. Her er det viktig å ta utgangspunkt i pasientens egne preferanser, da det er lettere å oppnå tilstrekkelig inntak med mat man ønsker å spise.
+
+Beriking av maten for å gjøre den mest mulig rik på energi og protein er et vanlig tiltak. Dette kan gjøres ved spesiallagde berikningsprodukter, eller ved vanlige matvarer som smør, olje, fløte og egg. For noen kan [flytende mat](http://www.friskogfunksjonell.no/konsistenstilpasset-kost/ "Konsistenstilpasset kost") være lettere å få i seg mer av, mens det å drikke mye vann kan bidra til å redusere energiinntaket. Et tiltak som har vist seg å være spesielt nyttig hos pasienter med langtkommen kreft er å tilby flere mellommåltider og snacks, samt begrense inntaket av energiløs drikke som vann til fordel for væske som også bidrar med energi (4).[\
+](file:///C:/Users/Vegard/Documents/Vegard/Frisk%20og%20Funksjonell/Artikler/Uferdige/Ferdig/kreft,%20kosthold,%20behandling%20skikkelig.docx#_ENREF_4 "Hutton, 2006 #451")
+
+Avslutningsvis vil jeg igjen understreke at den viktigste ernæringsrelaterte problemstillingen ved kreftsykdom er å tilrettelegge for at pasienten får i seg nok energi og protein. Dette vil bidra til å forebygge vekt- og muskeltap, noe som øker tåleevnen for behandling og gir bedre funksjonsnivå og prognose. Hvordan denne problemstillingen angripes vil variere fra pasient til pasient, avhengig av hvordan den aktuelle pasienten er påvirket av sykdom og behandling.
+
+**Generelle råd som legger begrensninger på matutvalget bør etter min mening unngås, da dette kan ha flere negative enn positive innvirkninger på sykdomsforløpet.**
+
+*Gode innspill fra masterstudent i human ernæring Thomas Olsen, masterstudent i klinisk ernæring Lina Hanitz og klinisk ernæringsfysiolog Mari Helene Kårstad settes stor pris på.*
+
+#### Har du innspill til denne debatten, kom gjerne med disse i kommentarfeltet!
+
+Referanser:
+
+1.  Nicastro H and Milner JA: **Cancer.** In: Present Knowledge in Nutrition, 10th ed. Erdman JWK, MacDonald I, and Zeisel SH, editors 2012.
+
+2.  Mahan L, Escott-Stump S, Raymond J: **Krause's Food and the Nutrition Care Process**, 13 edn: Saunders/Elsevier; 2012.
+
+3.  Fearon K, Strasser F, Anker SD, Bosaeus I, Bruera E, Fainsinger RL, Jatoi A, Loprinzi C, MacDonald N, Mantovani G *et al*: **Definition and classification of cancer cachexia: an international consensus**. *The lancet oncology* 2011, **12**(5):489-495.
+
+4.  Hutton JL, Martin L, Field CJ, Wismer WV, Bruera ED, Watanabe SM, Baracos VE: **Dietary patterns in patients with advanced cancer: implications for anorexia-cachexia therapy**. *Am J Clin Nutr* 2006, **84**(5):1163-1170.
+
+5.  Ganapathy V, Thangaraju M, Prasad PD: **Nutrient transporters in cancer: relevance to Warburg hypothesis and beyond**. *Pharmacology & therapeutics* 2009, **121**(1):29-40.
+
+6.  Szablewski L: **Expression of glucose transporters in cancers**. *Biochimica et biophysica acta* 2013, **1835**(2):164-169.

@@ -1,0 +1,33 @@
+---
+title: "Hjernescanning som verktøy i ernæringsforskning"
+author: "Andrea Rørvik Marti"
+date: 2013.10.24
+---
+
+Den siste tiden virker det som om visse ernæringsforskere har fått øynene opp for en populær metode for å måle hjerneaktivitet kjent som fMRI (functional magnetic resonance imaging). fMRI-studier kan ofte skilte med fine fargerike bilder av hjerner, kompliserte statistiske metoder og drøye overfortolkninger av svært diffuse data. Misforstå meg rett; jeg sier ikke at fMRI ikke kan være nyttig i studiet av hjerneprosesser, men man skal være svært forsiktig med hvordan man tolker resultatene.
+
+## Hjerneaktivitet etter måltid
+
+La meg ta et eksempel fra en helt ny studie som kom ut i forrige måned i The American Journal of Clinical Nutrition (1). I denne studien inntok overvektige og sykelig overvektige menn et måltid med enten høy eller lav glykemisk indeks (GI), og hjerneaktiviteten deres ble deretter målt 4 timer senere. Ingen måling ble gjort før måltidet, så den eneste sammenlikningen man kunne gjøre var av hjerneaktivitet hos lav- og høy-GI-gruppene etter 4 timer. Resultatene viste at mennene i høy-GI-gruppen hadde høyere hjerneaktivitet blant annet i et hjerneområde kalt Nucleus Accumbens, som er involvert i lyst på ulike forsterkende substanser (litt om forsterkere, og dette områdets rolle i avhengighet diskuterer jeg i artikkelen min om [sukkeravhengighet](http://www.friskogfunksjonell.no/sukkeravhengighet/ "Nei, du er ikke avhengig av sukker")).
+
+![](images/clipboard-3786390149.png) fMRI-bildene fra Lennerz og kolleger(1)
+
+Forskerne mener at man utifra disse dataene kan anta at mat med høy GI skaper mer "cravings" etter mat, og de spekulerer også i hvorvidt denne hjerneresponsen kan bidra til at inntak av mat med høy GI fører til høyere matinntak senere på dag. Nå kan det nevnes at høy-GI-gruppen rapporterte om større sultfølelse i ettertid av måltidet, men det er en lang vei fra denne observasjonen til å kunne si at den målte hjerneaktiviteten hadde noe med dette å gjøre. Mange andre forklaringsmodeller kan ligge til grunn.
+
+Ved første øyekast, og uten bakgrunnskunnskap om bruk av fMRI for måling av hjerneaktivitet, kan nok disse resultatene virke overbevisende. Og dette er kun en av mange studier som nylig har kommet ut som påpeker denne sammenhengen mellom inntak eller syn av visse typer mat (gjerne søte, fete, eller på andre måter usunne matretter) og økt aktivering i Nucleus Accumbens. Dessverre er det mange problemer med denne typen direkte generalisering fra hjernebilder i fMRI-studier til konklusjoner om disse bildenes betydning. Sammen med høy-lav-GI-studien ble det publisert en redaksjonell artikkel som kritiserte studien på samme bakgrunn som det jeg vil bruke her. Mye av de argumentene jeg kommer med her bygger på den artikkelen (2).
+
+## Hva er fMRI?
+
+fMRI er en metode for indirekte måling av det man antar er hjerneaktivitet. Det fMRI egentlig måler er endringer i blodgjennomstrømning og oksygentilførsel til ulike hjerneområder. Vi antar at dette samsvarer med aktivitet i en eller annen form. Dette kan fortelle oss noe om hjernens respons til ulike typer stimuli. Det vanligste er kanskje visuell fremvisning av film eller bilder. I den aktuelle studien, derimot, har forskerne brukt mat som stimuli, og de ønsker å se på endringene i hjerneaktivitet som følge av inntaket. GI sier noe om en matvares evne til å øke blodsukkeret, og selv om måltidets totale sammensetning og innhold av karbohydrater vil være overordnet, vil høyglykemiske matvarer jevnt over gi en hurtigere stigning i blodsukkeret. Det er derfor ikke overraskende i det hele tatt at denne typen mat har en annen effekt i hjernen enn mat med lav GI. Det å si noe om hvilken effekt dette har utover den rent fysiologiske blir nærmest umulig når man har en slik konfunderende faktor.
+
+Det er flere problemer med bruk av fMRI. I denne studien så man på hjerneaktivitet 4 timer etter et måltid. De effektene man ser etter såpass lang tid vil ikke være umiddelbare effekter av matinntaket. Selv når man sammenlikner en høy- og en lav-GI-gruppe, kan man ikke si at hjerneaktivitet 4 timer etter gjenspeiler ulikheter i faktisk hjernetilstand som et resultat av måltidet. Hvordan er denne aktiviteten forskjellig fra den 3 eller 5 timer etter måltidet? Vi vet kun noe om hjernens tilstand i ett eneste gitt tidspunkt etter matinntaket. Det gir ikke noe helhetlig bilde av hvilken effekt inntaket har hatt. Om ulikhetene reflekterer noe annet enn hjernens naturlige behov for glukose gjenstår å se. I tillegg ligger Nucleus Accumbens langt inne i hjernen, og det er kun i de siste årene man har kunnet få fMRI-bilder av denne strukturen. Det er nærliggende å tro at bilder av denne strukturen vil ha en enda lavere nøyaktighet enn bilder fra strukturer som ligger nærmere kraniet, og som dermed er lettere å få gode bilder med høy oppløsning av.
+
+## Konklusjon
+
+Jeg mener ikke å si her at fMRI ikke har en plass i psykologisk vitenskap, men jeg mener man skal være ekstremt forsiktig med tolkning. Vi vet så lite om hjernen og hvordan den fungerer at vi ikke enda kan se på et scannet bilde av endringer i blodomløp i hjernen og derfra trekke konklusjoner om hva disse betyr. Ulike typer mat har uten tvil ulik effekt på hjernens fysiologi. Hvorvidt disse ulike effektene kan ha en innvirkning på ting som cravings eller subjektiv lyst på mat kan vi ikke si noe om. Bare fordi vi har et fargerikt bilde av en hjerne betyr ikke at vi ha noen som helst anelse om hva det bildet betyr. De kan kanskje virke fint og imponerende, men dessverre bærer de altfor ofte med seg altfor lite informasjon. Jeg vil derfor anbefale alle og enhver å være skeptiske til påstander som baserer seg på "bevis" fra fMRI-studier!
+
+Referanser:
+
+1.  Lennerz BS, Alsop DC, Holsen LM, Stern E, Rojas R, Ebbeling CB, Goldstein JM, Ludwig DS: **Effects of dietary glycemic index on brain regions related to reward and craving in men**. *Am J Clin Nutr* 2013, **98**(3):641-647.
+
+2.  Macdonald IA, Francis ST, Gowland PA, Hardman CA, Halford JC: **Brain activation in relation to specific dietary components: what does fMRI measure and how should one interpret cravings for certain foods?** *Am J Clin Nutr* 2013, **98**(3):633-634.

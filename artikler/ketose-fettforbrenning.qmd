@@ -1,0 +1,53 @@
+---
+title: "Ketose - optimal fettforbrenning?"
+date: 2013.11.18
+categories:
+  - ketose
+  - lavkarbo
+---
+
+I enkelte miljøer hevdes det ofte at det å være i ketose er et tegn på at kroppen er i optimal modus for fettforbrenning. Dette brukes som et argument for at ketogene dietter, der energien hovedsakelig kommer fra fett, er det mest optimale for å gå ned i vekt. Men er dette egentlig tilfelle rent biokjemisk? Dette vil jeg drøfte i dette blogginnlegget.
+
+## Produksjon av ketonlegemer
+
+Jeg har tidligere skrevet om hvordan ketonlegemer produseres og forbrennes ([ketonmetabolismen](http://www.friskogfunksjonell.no/ketonmetabolismen/ "Ketonmetabolismen")), så en fullstendig repetisjon er ikke nødvendig. Kort fortalt produseres ketonlegemer fra [nedbrytning av fett](http://www.friskogfunksjonell.no/fettsyrenedbrytning/ "Fettsyrenedbrytning – β-oksidasjon"). Endeproduktet fra fettsyrenedbrytning heter acetyl-CoA. Dette molekylet kan enten metaboliseres videre i [sitronsyresyklusen](http://www.friskogfunksjonell.no/sitronsyresyklusen/ "Sitronsyresyklusen") og [elektrontransportkjeden](http://www.friskogfunksjonell.no/elektrontransportkjeden/ "Elektrontransportkjeden") for å produsere energi, eller kobles sammen med et annet Acetyl-CoA-molekyl og danne ketonlegemer.
+
+Leveren bruker i liten grad fett som energi, så fettsyrene som brytes ned her vil i stor grad brukes til å produsere ketonlegemer. Disse er vannløselige, og fraktes i blodet til målcellene, der de brytes ned igjen til acetyl-CoA og metaboliseres for å frigjøre energi. En stor del av kroppens fettsyrenedbrytning foregår i leveren og omdannes til ketonlegemer, men ettersom disse raskt absorberes av målcellene vil konsentrasjonen i blodet normalt holde seg lav.
+
+## Oksaloacetat som begrensende faktor
+
+Acetyl-CoA er substrat for sitronsyresyklusen, som produserer de elektronbærende molekylene NADH og FADH2. Disse går inn i elektrontransportkjeden og frigjør energi til nyproduksjon av kroppens primære energimolekyl adenosintrifosfat (ATP). Bildet under viser en skjematisk oversikt over sitronsyresyklusen. Legg merke til antallet karbonatomer i de ulike forbindelsene. Acetyl-CoA består av to karbonatomer, og i løpet av en runde i sitronsyresyklusen forsvinner to karbonatomer i form av CO2.
+
+![](images/clipboard-93327752.png)Sitronsyresyklusen, med oversikt over antall karbonatomer og metabolisme av oksaloacetat.
+
+For at Acetyl-CoA skal gå inn i sitronsyresyklusen, må det kobles til oksaloacetat. Det er altså mengden oksaloacetat som er av betydning for hvor mye Acetyl-CoA som kan metaboliseres denne veien. Ettersom to karbonatomer kommer inn og like mange forsvinner for hver runde i syklusen, så får vi ikke en økning i mengden metabolitter som som følge av fettsyrenedbrytning.
+
+Oksaloacetat kan produseres fra pyruvat, som er endeproduktet i [glykolysen](http://www.friskogfunksjonell.no/glukosemetabolismen/ "Glukosemetabolismen"). Eventuelt kan vi produsere oksaloacetat ved nedbrytning av glukogene aminosyrer, men først og fremst kommer dette fra nedbrytning av glukose. Tilstrekkelig aktivitet i glykolysen er altså nødvendig for at vi skal kunne utnytte energien fra Acetyl-CoA fullt ut.
+
+## Ketose og ketogene dietter
+
+Når mengden ketonlegemer i blodet øker så sier vi at vi er i ketose. Ketogene dietter er kosthold som tar sikte på nettopp dette, ved å begrense inntaket av karbohydrater. Som nevnt over vil et begrenset inntak av karbohydrater være en begrensende faktor for produksjonen av oksaloacetat, og dermed begrenser vi også kapasiteten for å forbrenne ketoner. Et lavt inntak av karbohydrater vil også medføre lavere insulinnivåer, noe som øker frigjøringen av fettsyrer fra fettvevet. Disse fettsyrene fraktes til leveren hvor de brytes ned, og dermed øker produksjonen av Acetyl-CoA. Figuren under viser hvordan ketlegemene fraktes mellom blodet og cellene .
+
+![](images/clipboard-3538563879.png) Ketonlegemene diffunderer fra blodet og over i cellene. Når mengden oksaloacetat reduseres, vil mindre ketoner tas opp av cellen, og konsentrasjonene i blodet øker.
+
+Grunnen til at konsentrasjonen av ketonlegemer i blodet øker som følge av dette er todelt. For det første har vi en økt produksjon av ketonlegemer i leveren, og dermed også en økt eksport av disse til blodet. Redusert aktivitet i glykolysen og dermed redusert produksjon av oksaloacetat i målcellene gjør at tilførselen av Acetyl-CoA overgår kapasiteten for å metabolisere det videre, noe som gjør at konsentrasjonen av Acetyl-CoA inni målcellene øker. Som en konsekvens av dette vil opptaket av ketonlegemer fra blodet til målcellene reduseres, og da øker konsentrasjonene i blodet.
+
+Når konsentrasjonen av ketonlegemer i blodet øker, så vil vi også etter hvert skille disse ut gjennom urinen, og vi kan påvise økte nivåer av ketonlegemer både i blod og urin. Dette kalles altså å være i ketose. Noe vil også skilles ut via pusten som aceton.
+
+## Kostindusert og sultindusert ketose
+
+Kostindusert ketose kan oppnås ved å spise tilstrekkelig lite karbohydrater, grunnet mekanismene nevnt over. Siden vi har en del celler som er avhengig av glukose som energikilde, og at kroppen derfor prioriterer å opprettholde blodsukkeret, vil leveren sette i gang egenproduksjon av glukose gjennom glukoneogenesen. En forløper for nydanning av glukose er glycerol fra nedbrytning av triglyserider, mens en annen er oksaloacetat. Ved økt aktivitet i glukoneogenesen vil vi altså tappe nivåene av oksaloacetat, noe som ytterligere reduserer kapasiteten for å metabolisere Acetyl-CoA. Denne mekanismen er illustrert med piler i figuren under.
+
+![](images/clipboard-4151652542.png)
+
+Når glukoneogenesen fører til tapping av oksaloacetat får vi en opphopning av Acetyl-CoA og ketoner inne i cellen, og dermed en økning av ketonkonsentrasjonen i blodet.
+
+Ved sult vil vi rimelig raskt komme inn i en kraftig ketose. Glykogenlagrene i leveren vil tømmes, mens glukoneogenesen vil stå på for å produsere glukose til de cellene som trenger det. Nedbrytningen av fett vil være høy som følge av at kroppen har et høyt energibehov, og dette medfører en kraftig økning i produksjonen av ketonlegemer.
+
+## Målbar ketose i blod og urin – optimal fettforbrenning?
+
+Tilbake til påstanden fra starten av innlegget. Betyr ketose at fettforbrenningen er optimal? Fra et biokjemisk standpunkt stemmer ikke dette, da ketose er et tegn på at fettsyrenedbrytningen er større enn vi har kapasitet til å metabolisere videre. Ketonlegemene vi måler i blod og urin er et tegn på at vi overskrider denne kapasiteten, og vi henter altså ikke ut så mye energi fra fettsyrene som vi kunne gjort, og energi går tapt ved å skille den ut i urinen og noe ved pusten.
+
+Det er ikke dermed sagt at å være i ketose er negativt. Dette kan for eksempel bidra til å øke mengden fett som forlater kroppen, noe som gjør at en slik diett kan være effektivt for vektnedgang. At lavkarbodietter i studier viser seg å gi en spontan reduksjon i energiinntaket støtter opp om dette. Det er også indikasjoner på at ketonlegemene i seg selv kan ha gunstige effekter, deriblant virke oppkvikkende. Dette gir mening evolusjonært, da opphopning av ketonlegemer er et tegn på redusert tilgang på mat og det å være våken og tenke klart er en fordel for å fremskaffe mat. At ketogene dietter viser en viss suksess hos medisinresistente epileptikere er et annet tegn på at ketonlegemer kan ha gunstige effekter.
+
+Alt i alt er det absolutt en plass for ketogene dietter i visse tilfeller, selv om påstanden om optimal fettforbrenning ikke nødvendigvis kan sies å være korrekt rent biokjemisk. Jeg vil personlig ikke anbefale disse diettene på generelt grunnlag, men i mange tilfeller er det heller ikke spesielt mange argumenter for å fraråde det dersom man ønsker å spise slik. Friske personer kan overleve og klare seg fint på et bredt spekter av ulike kosthold, og så lenge man dekker behovene for de ulike [næringsstoffene](http://www.friskogfunksjonell.no/naeringsstoffene/ "Artikkelserie om Næringsstoffene") er jeg av den mening at folk selv bør kunne bestemme hvordan de vil spise. Når det gjelder kostholdsanbefalinger til syke personer, bør dette vurderes i hvert enkelt tilfelle i samråd med behandlende lege.

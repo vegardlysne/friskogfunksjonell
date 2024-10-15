@@ -1,0 +1,51 @@
+---
+title: "Overvekt og gener"
+author: "Thomas Olsen"
+date: 2014.02.03
+---
+
+Genetikk og predisposisjon for overvekt og fedme er et kontroversielt felt og blir støtt og stadig nevnt i samme ordelag. Bastante treningsnarkomane mener gjerne det blir for enkelt å skylde på genetikk, mens overvektige personer blir stadig mer motløs etter mange års prøving og feiling. For disse blir det gjerne plutselig veldig enkelt å støtte seg på at man er arvelig belastet og samtidig fordømme far og mor som tross alt dermed er ansvarlig for at du havnet i denne smørja.
+
+Perspektivet bør nok nyanséres mer enn som så, da det sjeldent er kun én faktor som gjør at vi havner i en gitt situasjon. I denne artikkelen skal jeg se nærmere på hvilke gener som de siste årene har blitt assosiert med overvekt/fedme. Målet med artikkelen er å kaste lys over at kroppene og fysiologien vår faktisk varierer, og at ikke alle har samme utgangspunkt. Dette skal jeg gjøre ved å gi en kortfattet oversikt over noen få kartlagte gener som kan spille en rolle i utviklingen av overvekt og livsstilssykdommer.
+
+Når det er sagt, vet vi foreløpig lite om hvilke konsekvenser ulike, vanlige varianter av disse genene har å si for kroppsvekt og kroppssammensetning. Jeg skal altså ikke snakke om mutasjoner her som kan gi kraftig forandrede egenskaper.
+
+Ta for øvrig en titt på Vegards flotte artikkel om [genetikk](http://www.friskogfunksjonell.no/genetiske-og-metabolske-sykdommer-genetikk/ "Genetiske og metabolske sykdommer – genetikk") dersom du ikke har vært innom disse begrepene før.
+
+[Metabolismen](http://www.friskogfunksjonell.no/metabolismen/ "Metabolismen") av næringsstoffer i kroppen vår er i utgangspunktet svært godt kontrollert. Perifere og nevrale signaler som angår metthet og næringsstatus integreres i hypotalamus i hjernen. Videre kan hypotalamus direkte sanse næringsstoffer og kontrollere forbruket av disse. Gode eksempler er regulering av blodsukker samt fettmetabolisme. Til tross for denne i utgangspunktet gode kontrollen på metabolismen av næringsstoffer, har inaktivitet og ekstrem tilgjengelighet på alle typer matvarer ført til at flere og flere av oss blir overvektige. Derfor er genetikk og også epigenetikk blitt svært aktuelle i forskningen som foregår på predisposisjon for overvekt, og dermed vil man altså undersøke om noen er mer utsatt enn andre.
+
+## Noen gener som er assosiert med overvekt/fedme
+
+Vi vet langt i fra nok om genetikk til å påvise noen årsakssammenheng mellom overvekt, fedme og genetikk. Likevel, har rundt 40 gener til nå blitt avdekket og assosiert med sykelig overvekt, fedme og BMI. Blant disse finner vi *FTO, MC4R* og *TMEM18* som tre av de sterkeste (1).*FTO* koder først og fremst for et protein som [demetylerer DNA](http://www.friskogfunksjonell.no/bioblikk-dna-metylering-og-epigenetikk/ "Bioblikk: DNA-metylering og epigenetikk"), og lav/ingen aktivitet fører blant annet til veksthemming uten at man vet hvilke mekanismer som er involvert. En review som tok for seg dette genet i 2012 (2), påpeker blant annet at økt ekspresjon er assosiert med økt risiko for overvekt/fedme. Genet påvirker i utgangspunktet energiinntak, metthet og insulinsensitivitet i mennesker. Alle er faktorer som trygt kan assosieres med overvekt/fedme. Varianter (polymorfismer og SNPer) av genet er assosiert med total mengde kroppsfett og fettnedbrytning. Det vil si at ulike varianter av genet med påfølgende varierende aktivitet vil kunne påvirke mengden fettvev, apetitt og grad av insulinresistens i mennesket.
+
+*MC4R* spiller hovedsakelig en rolle i apetittregulering hvorpå aktivering øker metthet og energiforbruk. *MC4R* koder for en reseptor som uttrykkes i deler av hjernen som styrer apetitt, også kalt melanokortin-systemet. Reaksjonen som initieres når melanokortinsystemet aktiveres påvirker blant annet energihomeostase og en rekke kognitive aktiviteter. En variant som antas å forekomme i 27% av alle hvite européere har vært satt i sammenheng med fedme, småspising og sult i såkalte GWA studier (genome-wide association studies) (3).
+
+Når det gjelder *TMEM18*, vet vi foreløpig lite annet enn at dette genet er sterkt assosiert med overvekt og fedme. Lavt uttrykk av dette genet fører blant annet til at nydannede fettceller modnes tregere. I tillegg har det nylig blitt påvist at en polymorfisme i *FTO,* i umiddelbar nærhet av *TMEM18,* erassosiert med diabetes type 2 (4). Mer spesifikt fant forskerne at varianter i *FTO* og *TMEM18* disponerte for diabetes type 2 uavhengig av BMI. Det vil si at disse variantene muligens promoterer hittil ukjente mekanismer som risikofaktorer for diabetes type 2.
+
+## Veien videre
+
+I praksis vet vi ikke enda hva disse genvariantene har å si annet enn at de er assosiert med overvekt, risikofaktorer for overvekt/fedme, et atferdsmønster som promoterer overvekt/fedme, og/eller diabetes type 2. Mennesker er dyr som mer enn noe annet påvirkes av miljøfaktorer og til en viss grad hvordan man lar seg påvirke av disse. Det betyr at de fleste av oss kan styre hvordan vi lar oss påvirke om vi skulle havne i en situasjon hvor vi ble overvektige eller fikk en livsstilssykdom.
+
+Det skal også nevnes at i de fleste av artiklene jeg har referert til her, hevdes det at man ikke med noen form for sikkerhet kan vite hvor mye en eventuell variant av et gen påvirker graden av overvekt eller fedme. Det betyr med andre ord at man ikke uforbeholdent kan hvile seg på unnskyldningen om "dårlige gener", ettersom man rett og slett ikke vet hvor stor "skade" disse ulike variantene gjør.
+
+Et annet viktig moment er at man sjeldent kan isolere èn faktor og tilskrive den all effekt. Vi vet fra ernæringsepidemiologisk og eksperimentell forskning at det er en mengde faktorer som interagerer og påvirker hverandre i ulik grad. For å ta et eksempel fra dagens artikkel, har det blant annet blitt diskutert i en review at de samme variantene av *FTO* har blitt funnet i både slanke og overvektige mennesker (5). Resten kan du regne ut selv. Et lite hint - om du har den ene eller den andre varianten av *FTO* betyr med andre ord ganske lite i en kontekst hvor du spiser hypo/iso-kalorisk og er fysisk aktiv.
+
+Samtidig er det viktig å ta med i vurderingen at langt fra alle genene som spiller en rolle i overvekt, fedme og livsstilssykdommer er kartlagt, og man må ta høyde for at arv kan spille en langt større rolle enn det som til nå antas at den gjør.
+
+## Konklusjon
+
+Det er altså ikke bare å hevde at alle har likt utgangspunkt når det gjelder vektnedgang, endring av kroppskomposisjon eller forebygging av livsstilssykdommer. Vi er alle ulike og har ulike forutsetninger, og det kan se ut til at noen kanskje vil støte på større utfordringer enn andre når man skal ned i vekt, eller når man skal prøve å vedlikeholde den. Likevel tyder mye på at arbeidet i stor grad ligger i ens egne hender når man befinner seg i en tilstand man må eller bør forbedre.
+
+*Takk til Bente Øvrebø, masterstudent i fedme ved NTNU for inspill og diskusjon*
+
+**Referanser**
+
+1.  Winter Y et al. *Genetic Determinants of  Obesity and Related Vascular Diseases,* Vitamins and Hormones, 2013.
+
+2.  Jacobsson JA et al. *The impact of intronic single nucleotide polymorphisms and ethnic diversity for studies on the obesity gene FTO*, Obesity Reviews, 2012.
+
+3.  Horstmann A et al. *Common Genetic Variation near MC4R Has a Sex-Specific Impact on Human Brain Structure and Eating Behavior,* PLoS ONE, 2013
+
+4.  Kalnina I et al. *Polymorphisms in FTO and near TMEM18 associate with type 2 diabetes and predispose to younger age at diagnosis of diabetes,* Gene, 2013
+
+5.  Choquet H and Meyre D, *Genetics of Obesity: What have we Learned?,* Current Genomics, 2011
