@@ -6,11 +6,7 @@ date: 2013.12.05
 
 Tilbake til [kosthold i helseinstitusjoner](../../kosthold-institusjoner.qmd "Kosthold i helseinstitusjoner").
 
-Noen mennesker har problemer med inntaket av melkesukkeret laktose. Dette kan være en primær tilstand, der mangelfull produksjon av laktase, enzymet som bryter ned laktose, er årsaken til problemet. Det kan også være en sekundær tilstand, der årsaken til enzymmangelen er andre skader eller sykdommer tilknyttet tarmen, som for eksempel [cøliaki](http://www.friskogfunksjonell.no/coliaki/ "Cøliaki"). Her følger en innføring i laktosefri kost.
-
-\[caption id="attachment_5542" align="aligncenter" width="576"\]![Melk](http://www.friskogfunksjonell.no/wp-content/uploads/2013/11/Melk-1024x682.jpg "Laktose"){alt="Melk"} Bilde: Colourbox\[/caption\]
-
-Laktoseredusert kost inngår i serien [kosthold i helseinstitusjoner](http://www.friskogfunksjonell.no/kosthold-i-helseinstitusjoner/ "Kosthold i helseinstitusjoner").
+Noen mennesker har problemer med inntaket av melkesukkeret laktose. Dette kan være en primær tilstand, der mangelfull produksjon av laktase, enzymet som bryter ned laktose, er årsaken til problemet. Det kan også være en sekundær tilstand, der årsaken til enzymmangelen er andre skader eller sykdommer tilknyttet tarmen, som for eksempel [cøliaki](../coliaki.qmd). Her følger en innføring i laktosefri kost.
 
 ## Hva er laktose?
 
