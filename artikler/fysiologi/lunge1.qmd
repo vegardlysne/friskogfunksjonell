@@ -1,5 +1,5 @@
 ---
-title: "Alkohol"
+title: "Lungene del 1 – ventilasjon og gassutveksling"
 author: "Andreas Wahl Blomkvist"
 date: "2015.01.29"
 categories: 
