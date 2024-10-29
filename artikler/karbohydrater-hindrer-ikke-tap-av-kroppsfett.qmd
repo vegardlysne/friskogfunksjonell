@@ -1,7 +1,7 @@
 ---
 title: "Høykarbodiett hindrer ikke tap av kroppsfett"
 author: "Erik Arnesen"
-2015.09.01
+date: 2015.09.01
 ---
 
 Det er lite tvil om at [lavkarbodietter "virker"](https://sunnskepsis.wordpress.com/2014/09/03/ned-i-vekt-velg-den-dietten-du-klarer-a-folge/) - i [slankingens historie](https://sunnskepsis.wordpress.com/2013/04/18/boktips-calories-and-corsets-av-louise-foxcroft/) ser det faktisk som om lavkarbo har vært "normen" for å gå ned i vekt i flere hundre år. Spørsmålet er om de virker slik tilhengerne og selgerne av dem påstår.

@@ -3,7 +3,7 @@
 .RData
 .Ruserdata
 
-/.quarto/
-/_site/
+.quarto/
+_site/
 *.xml
 *.sql
