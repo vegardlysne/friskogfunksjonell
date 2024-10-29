@@ -1,6 +1,6 @@
 ---
 title: "Helsebevisste individer - en forstyrrende faktor i forskningen?"
-date: 2012.19.17
+date: 2012.09.17
 ---
 
 Innen forskning på kosthold skiller vi mellom observasjonsstudier og eksperimenter. Observasjonsstudier kan finne assosiasjoner mellom ulike fenomener (A og B), men kan ikke si noe om at det ene fører til det andre. Målet med eksperimentelle studier er å avdekke disse årsakssammenhengene, altså om A fører til B eller motsatt. Dette trenger ikke å være tilfelle, og ofte trenger vi enda en bokstav for å forklare sammenhengen, nemlig C, konfunderende faktorer. Det å være helsebevisst er et eksempel på en slik faktor som ofte påvirker resultatene av slike studier, og her skal jeg prøve å forklare hvorfor.

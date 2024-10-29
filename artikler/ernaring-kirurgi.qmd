@@ -1,10 +1,10 @@
 ---
 title: "Ernæring ved Kirurgi"
 author:
-  - Jorun Birgitta Bø
-  - Karina Karlsen
-  - Ida Guttormsen
-  - Lise Haug Labahå
+  - "Jorun Birgitta Bø"
+  - "Karina Karlsen"
+  - "Ida Guttormsen"
+  - "Lise Haug Labahå"
 date: 2017.06.19
 ---
 

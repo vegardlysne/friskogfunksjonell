@@ -1,9 +1,9 @@
 ---
 title: "Glukose kan regulere cellens biologi og genuttrykk"
 author: 
-  - Cecilie Ness
-  - Gulla Formo
-  - Kjersti Gjems Vangberg
+  - "Cecilie Ness"
+  - "Gulla Formo"
+  - "Kjersti Gjems Vangberg"
 date: 2017.07.24
 ---
 

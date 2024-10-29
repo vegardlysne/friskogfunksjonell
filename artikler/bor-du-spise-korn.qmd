@@ -1,10 +1,10 @@
 ---
 title: "Bør du egentlig spise korn?"
 author: 
-  - Camilla Bettum
-  - Ida Marie Holm
-  - Maia Verhaug
-  - Vilde Bråten
+  - "Camilla Bettum"
+  - "Ida Marie Holm"
+  - "Maia Verhaug"
+  - "Vilde Bråten"
 date: 2020.09.28
 ---
 
@@ -73,8 +73,11 @@ Livsstilssykdommene vi har omtalt er blant de største årsakene til dårlig hel
 
 7.  Van Horn L, McCoin M, Kris-Etherton PM, Burke F, Carson JA, Champagne CM, et al. The evidence for dietary prevention and treatment of cardiovascular disease. J Am Diet Assoc. 2008;108(2):287-331.
 
-8.  Mejborn H, Biltoft-Jensen A, E. T, Tetens I. Fuldkorn - Definition og vidensgrundlag for anbefaling af fuldkornsindtag i Danmark.\
-    : Fødevareinstituttet, Danmarks Tekniske Universitet; 2008.
+8.  
+
+    Mejborn H, Biltoft-Jensen A, E. T, Tetens I. Fuldkorn - Definition og vidensgrundlag for anbefaling af fuldkornsindtag i Danmark.\\
+
+    :   Fødevareinstituttet, Danmarks Tekniske Universitet; 2008.
 
 9.  Nordic nutrition recommendations : NNR 2004 : integrating nutrition and physical activity. 4th ed. ed. Copenhagen: Nordic Council of Ministers; 2004.
 
