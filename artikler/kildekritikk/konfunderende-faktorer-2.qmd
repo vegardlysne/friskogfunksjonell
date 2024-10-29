@@ -1,0 +1,39 @@
+---
+title: "Mer om konfunderende faktorer"
+author: "Thomas Olsen"
+date: 2015.03.02
+---
+
+[Tilbake til kildekritikk, vitenskap og tankefeil](../../kildekritikk.qmd "Kildekritikk, vitenskap og tankefeil")
+
+*For omtrent et år siden skrev jeg en sak om [konfunderende faktorer](konfunderende-faktorer.qmd). Dette er et svært viktig tema å være bevisst på innenfor epidemiologi, spesielt nå som de aller fleste har en mening og gjerne uttaler om forskning og helse. Derfor har jeg valgt å skrive en ny sak om dette.*
+
+## Eksponering og respons
+
+I vitenskapelig forskning ønsker man ofte å studere sammenhengen mellom to variabler. Disse variablene karakteriseres ofte som forklarings- og responsvariabler, eller eksponerings- og utfallsvariabler. Enkelt forklart representerer disse variablene sammenhengen man vil studere, og et klassisk eksempel er røyking (eksponering) og sammenhengen med lungekreft (utfall) i en prospektiv kohortstudie av en gitt populasjon. Når man skal gjennomføre slike studier samles det ikke bare inn informasjon om variablene, men også alt fra demografiske data (alder, kjønn og sosioøkonomisk status) til informasjon om livsstilsvaner (kosthold, fysisk aktivitet) samt biomarkører fra urin, avføring og blod. Dette gjøres delvis for at studier skal kunne brukes til ulike formål, men også fordi nevnte faktorer kan påvirke det vi ønsker å undersøke.
+
+## Konfunderende faktorer
+
+Sistnevnte poeng bringer oss inn på konfunderende faktorer. Definisjonene varierer ofte fra fagbok til fagbok og foreleser til foreleser. Enkelt forklart er en konfunderende faktor en variabel som er assosiert med både eksponerings- og utfallsvariabelen man studerer og som kan forstyrre den observerte sammenhengen mellom disse. For å gå tilbake til nevnte eksempel om røyking og lungekreft påpekte tobakksindustrien at den observerte sammenhengen ikke nødvendigvis var kausal. De mente at andre livsstilsfaktorer, og spesielt forurensning av luften, var en konfunderende faktor som var en mer sannsynlig årsak til utvikling av lungekreft. Dette fordi det tidligere var blitt observert at røykere gjerne bodde i forurensede områder. Dermed, siden det ikke ble kontrollert for dette i tidlige studier, kunne man ikke påvise kausal link mellom røyking og lungekreft fordi forurensning var assosiert med både røykevaner og lungekreft. Dersom røykerne i større grad enn ikke-røykerne er utsatt for forurensning, og forurensingen er med å forårsake lungekreft, vil dette kunne føre til at røykerne har høyere forekomst av lungekreft – uten at røyken er involvert.
+
+![](images/clipboard-1162801585.png)
+
+Et annet eksempel er når man vurderer på sammenhengen mellom fettsyrestatus i blod (eksponering) og utvikling av hjertesykdom (utfall). Her finnes en rekke potensielle konfunderende faktorer knyttet til kosthold. Den mest nærliggende konfunderende variabelen i en slik studie vil kanskje være fettinntak i kosten. En annen aktuell variabel, som ble utelatt i tidlige studier på denne sammenhengen var derimot sukkerinntak som i senere tid har vist seg å være assosiert med både fettsyrestatus og sykdom.
+
+## Hvordan identifisere dem?
+
+Å identifisere kjente konfunderende faktorer er helt nødvendig for å styrke en studie sin validitet – altså i hvilken grad studien måler det den faktisk forsøker å måle. Det sier seg selv at dersom det ikke foreligger data om forurensning eller kosthold blir det vanskelig å påvise en presis sammenheng mellom variablene vi har tatt for oss i eksemplene over. Når en studie skal settes til live er det derfor svært viktig at forskere og studiepersonell samler inn informasjon om konfunderende faktorer. Det krever selvsagt et bredt kunnskapsgrunnlag og god oversikt, som i noen tilfeller kan strekke seg over flere fagfelt.
+
+Med andre ord holder det ikke bare å samle inn demografisk informasjon, men også livsstilsvaner, kostholdsvaner, biomarkører, informasjon om mental helse, graviditet og, i den senere tid, også genetisk predisposisjon. Disse er alle faktorer som kan forstyrre sammenhengen vi prøver å studere. Det sier seg selv at dette svært ofte er begrenset til ressurstilgang, og krever nøye planlegging og organisering av den aktuelle studien. Av forskeren vil det også kreves en viss dristighet, og man kan eksempelvis gå frem ved å samle inn informasjon om variabler som ikke nødvendigvis på nåværende tidspunkt er satt i direkte sammenheng med eksponerings- og utfallsvariabelen. Dette blant annet for at validiteten til studien skal kunne tåle tidens tann.
+
+## Hvordan jobbe rundt dem?
+
+Når man utfører en studie etableres det både inklusjons- og eksklusjonskriterier for å sikre så representative funn som mulig. Sikre eksklusjonskriterier kan eksempelvis være med på å eliminere effekten av konfunderende faktorer. Man kan eksempelvis anta at (mis)bruk av tunge psykiske medikamenter er assosiert med et ensidig kosthold med mye junk food samt bivirkninger i hjerte- og karsystemet. Dermed vil deltakere som innledningsvis er plukket ut til å delta i en studie ekskluderes på bakgrunn av informasjon som fremkommer om medikamentbruk.
+
+En annen måte å unngå påvirkning av konfunderende faktorer er å ”justere” eller ”kontrollere” for de i statistiske analyser, eller å stratifisere studieutvalget. I statistikken kan det avdekkes konfundering ved at risikoestimater blir mindre når vi justerer. Når det gjelder stratifisering kan man med utgangspunkt i sammenhengen mellom røyking og lungekreft dele studieutvalget i grupper basert på om de bor under forurensede forhold. Deretter kan man både sammenligne forekomsten av lungekreft mellom gruppene, men også utelukkende studere menneskene som bodde i normale omgivelser. Det er imidlertid viktig å være klar over at selv om man har justert for en variabel, så betyr ikke dette at man har fjernet hele effekten av denne. Det er ikke dagens statistiske metoder tilstrekkelig til.
+
+I klinisk kontrollerte studier som undersøker effekten av ulike intervensjoner, randomiseres deltakerne ofte i grupper. Dette gjøres blant annet for å få en jevn fordeling av konfunderende faktorer i de ulike intervensjonsgruppene for å unngå at en eventuell effekt blir påvirket av disse. Det kan fortsatt forekomme skjevhet i fordelingen, men dette tilskrives da tilfeldigheter fremfor systematiske feil i utarbeidelsen av studiets design og protokoll.
+
+## Avslutningsvis
+
+Tilstedeværelsen av assosiasjoner mellom en konfunderende faktor og både eksponerings- og utfallsvariabelen, kan vrenge resultatene i retning av en falsk sammenheng dersom man ikke tar hensyn til disse. I kontekst av sykdom kan det føre til at man etterstreber en eliminasjon av eksponeringsvariabelen på feil grunnlag. Altså var det egentlig den konfunderende faktoren som gjorde at man så en sammenheng, og man vil i realiteten ikke komme nærmere i kampen for å forebygge eller behandle den aktuelle sykdommen.

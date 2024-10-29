@@ -1,6 +1,7 @@
 ---
 title: "Er dype knebøy farlig for korsryggen?"
 author: "Mari Kalland Knapstad"
+date: 2014.06.09
 ---
 
 I forrige innlegg skrev jeg om dype [knebøy og risiko for kneskade](kneboy.qmd "Hvorfor du bør ta dype knebøy"). I utgangspunktet mener jeg at det er best å ta dype knebøy, men at du da må ha forutsetningene for dette på plass. I denne artikkelen skal jeg se på hva som skjer med nedre del av ryggraden under dype knebøy.

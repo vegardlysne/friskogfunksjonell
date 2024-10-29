@@ -1,0 +1,33 @@
+---
+title: "Er mange måltider bedre for vekta?"
+author: "Erik Arnesen"
+date: 2015.03.09
+---
+
+Er det viktig å spise mange små måltider for å holde vekta eller gå ned i vekt? [Flere](http://aje.oxfordjournals.org/content/158/1/85.full) [studier](http://www.ncbi.nlm.nih.gov/pubmed/12439650) har vist en sammenheng mellom flere måltider og lavere vekt - en sammenheng som antas å skyldes blant annet et mer stabilt blodsukker, [metthetsregulering](http://www.ncbi.nlm.nih.gov/pubmed/10625522?dopt=Abstract), eller at det holder forbrenningen i gang. På den annen side har det nå blitt populært å følge ulike varianter av ["periodisk faste"](https://sunnskepsis.wordpress.com/2014/01/11/gir-periodisk-faste-storre-vekttap/ "Gir periodisk faste større vekttap?") for å gå ned i vekt. At våre forfedre ofte kunne spise bare ett måltid om dagen, eller måtte gå flere dager i strekk uten mat, er et av argumentene til tilhengerne av dette måltidsmønsteret.
+
+## Er tre eller flere måltider bedre for vekta?
+
+De fleste eksperimentelle studier av dette har hatt få deltakere, slik at resultatene har vært sprikende. [I en ny studie](http://nutritionreviews.oxfordjournals.org/content/73/2/69) som er rapportert i *Nutrition Reviews* har Schoenfield, Aragon og Krieger gjennomgått og gjort en metaanalyse av 15 randomiserte kontrollerte studier som var publisert frem til november 2013 som sammenliknet effekten av å spise maks tre måltider per dag med tre eller flere måltider. Studiene hadde en varighet på alt fra to uker til ett år, og involverte stort sett overvektige og stillesittende personer.
+
+Oppsummeringen av studiene viste at antall måltider ikke var forbundet med høyere eller lavere vekt - hvert ekstra måltid per dag var i snitt forbundet med en vektendring på bare 0,03 kilo.
+
+![](images/clipboard-1174676245.png)
+
+Endring i kroppsvekt (kilo) ved ulik måltidsfrekvens
+
+## Gunstig for fettprosenten?
+
+Måltidshyppighet var derimot signifikant forbundet med endring av total fettmasse - hvert ekstra måltid var forbundet med i snitt 1/4 kilo mindre kroppsfett, uavhengig av totalt kaloriinntak. Dette resultatet var imidlertid uforholdsmessig påvirket av én enkelt studie av 12 boksere som spiste enten ett eller seks måltider per dag. Når den ble utelatt fra analysen, var sammenhengen mellom antall måltider og tap av kroppsfett (uttrykt som kilo og fettprosent) ikke lenger signifikant. Som Schoenfield og medarbeidere skriver:
+
+> ... the totality of findings indicate that the significant impact of meal frequency on measures of fat loss is a false positive rather than a true effect and can be attributed to undue weighting of a single study.
+
+Siden dette var den eneste studien med idrettsutøvere, kan man foreløpig bare spekulere i om hyppigere måltider er mer gunstig for dem som er i mye fysisk aktivitet.
+
+Fem eller flere måltider per dag var forbundet med større tap av kroppsfett og vedlikehold av fettfri kroppsmasse enn 1-2 måltider per dag, men sammenhengen var ikke statistisk signifikant. I stedet kunne endringene forklares utelukkende med endret kaloriinntak.
+
+## **Andre faktorer kan spille en rolle**
+
+Denne metaanalysen kunne ikke svare på om *sammensetningen* av måltidene kan ha betydning for effekten av måltidshyppigheten. I en studie [av Arciero og medarbeidere](http://onlinelibrary.wiley.com/doi/10.1002/oby.20296/abstract) mistet deltakerne som spiste seks *proteinrike* måltider (totalt 35 % av energiinntaket fra protein) mer magefett, og vedlikeholdt mer fettfri kroppsmasse enn de som spiste tre måltider per dag. Å spre proteininntaket utover dagen [antas å være bedre for proteinsyntesen](http://www.ncbi.nlm.nih.gov/pubmed/25355192) enn å ha hele proteininntaket i kun ett måltid, men Schoenfield og medarbeidere bemerker at dette ikke er entydig vist.
+
+Denne metaanalysen så heller ikke på hvorvidt måltidsfrekvensen påvirker blodsukkerregulering, appetitt eller andre faktorer som kan tenkes å påvirke vekt eller kroppssammensetning.

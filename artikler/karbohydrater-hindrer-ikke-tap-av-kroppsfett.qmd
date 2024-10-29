@@ -1,0 +1,69 @@
+---
+title: "Høykarbodiett hindrer ikke tap av kroppsfett"
+author: "Erik Arnesen"
+2015.09.01
+---
+
+Det er lite tvil om at [lavkarbodietter "virker"](https://sunnskepsis.wordpress.com/2014/09/03/ned-i-vekt-velg-den-dietten-du-klarer-a-folge/) - i [slankingens historie](https://sunnskepsis.wordpress.com/2013/04/18/boktips-calories-and-corsets-av-louise-foxcroft/) ser det faktisk som om lavkarbo har vært "normen" for å gå ned i vekt i flere hundre år. Spørsmålet er om de virker slik tilhengerne og selgerne av dem påstår.
+
+(Dette innlegget ble først publisert på bloggen [Sunn Skepsis](http://sunnskepsis.wordpress.com))
+
+## En kalori er stort sett en kalori
+
+En av de vanligste påstandene - som særlig journalist og forfatter Gary Taubes har stått i bresjen for - har vært at karbohydrater er fedmefremmende ettersom de stimulerer utskillelse av insulin, som er en viktig del av reguleringen av fettlagringen (insulin har for øvrig mange andre funksjoner, men konstant høye insulinnivåer i blodet er unektelig skadelig).
+
+Insulin utskilles etter inntak av karbohydrater og protein, og bidrar til å hemme frigjøringen av fett fra fettcellene etter et måltid. Dette skulle angivelig være forklaringen på hvorfor mange lykkes med å slanke seg under lavkarbodietter; så lenge man spiste lite karbohydrater og mye fett (som ikke stimulerer insulin i seg selv) ville man forbrenne mer fett. Noen påsto til og med at man kunne [spise så mange kalorier man ville](http://live.smashthefat.com/why-i-didnt-get-fat/) så lenge man holdt insulinnivåene nede. Insulinet "låste inn" fettet, ble det sagt.
+
+Det er riktig at kroppen forbrenner en større andel fett når den har lite tilgang på karbohydrater, men resulterer det i en *metabolsk fordel*? [En oversiktsartikkel fra 2005](http://www.ncbi.nlm.nih.gov/pubmed/15867892) (som jeg [skrev om her](https://sunnskepsis.wordpress.com/2015/06/28/d-vitamin-ernaering-i-media-morsmelk-og-vekt-ukens-lesetips/)) avviste denne påstanden - som også verserte på 1970-tallet - ved å vise til at endringer av kostens karbohydratinnhold ikke påvirker energiforbruket signifikant.
+
+Det som ifølge forskerne skal være den mest kontrollerte og direkte testen av denne hypotesen [ble publisert i Cell Metabolism tidligere denne måneden.](http://www.cell.com/cell-metabolism/fulltext/S1550-4131(15)00350-2)
+
+Den beviser ikke hvilken kostholdssammensetning som er best når en skal gå ned i vekt, men den forkaster hypotesen om at lavere insulinutskillelse som følge av inntak av er nødvendig for å miste kroppsfett.
+
+Presisjonen er en klar styrke i studien, men studien involverte bare 19 personer som fulgte hver diett i bare seks dager.
+
+(19 personer er ikke mange, men dette var en såkalt [crossover-studie](https://en.wikipedia.org/wiki/Crossover_study), hvor de samme pasientene fulgte hver diett i tilfeldig rekkefølge. Dette reduserer behovet for antall deltakere.)
+
+På begge dietter spiste deltakerne 30 % færre kalorier enn dagsbehovet, og byttet på å kutte ned på fettet og karbohydratene. Hovedresultatet var at tapet av kroppsfett var 68 prosent høyere etter den fettreduserte dietten enn etter den karbohydratreduserte - hhv. 89 og 53 gram per dag i snitt. Dette skjedde altså selv om lavkarbo-dietten klart reduserte insulinutskillelsen og økte den relative fettforbrenningen i cellene.
+
+Derav tittelen på artikkelen i Cell Metabolism: "[Calorie for Calorie, Dietary Fat Restriction Results in More Body Fat Loss than Carbohydrate Restriction in People with Obesity](http://www.cell.com/cell-metabolism/fulltext/S1550-4131(15)00350-2)"
+
+Selv om mange studier viser at lavkarbodietter i praksis kan være mer fordelaktige på vekta opptil ett år sammenliknet med mer balanserte dietter, kan ikke slike studier bevise hvilken mekanisme som ligger bak dette. Slike studier tester dessuten strengt talt bare effekten av å få *råd* om å følge en diett, ikke om dietten faktisk følges.
+
+For å komme unna dette problemet ble deltakerne (gjennomsnittlig alder på 35 år og BMI på 36) i den nye studien innesperret i et såkalt [metabolsk kammer](http://www.ncbi.nlm.nih.gov/pubmed/6650455), eller respirasjonskammer, hvor det totale energiforbruket registreres objektivt. Her bodde de i 2 perioder á 2 uker, med en 2-4 ukers pause i mellom.
+
+## Karbohydratredusert og ekstremt fettfattig diett
+
+I begynnelsen av hver periode fikk de en diett med 50 % karbohydrater, 35 % fett og 15 % protein og omtrent like mange kalorier som de forbrente. Deretter fikk de dietter med 30 % færre kalorier, hvorav én var utelukkende fettredusert (totalt ca. 8 % fett og 71 % - eller ca. 350 gram - karbohydrater) og den andre var utelukkende karbohydratredusert (ca. 29 % karbohydrater og 50 % fett). Proteininntaket var med andre ord likt (ca. 100 gram per dag). Fiberinntaket var ca. 5 gram høyere på den fettreduserte dietten, mens inntaket av sukkerarter var hele 133 gram høyere.
+
+En diett med 29 % karbohydrater er langt ifra noen ekstrem lavkarbodiett, men de valgte å ikke redusere det ytterligere ettersom de da måtte ha økt fett- og proteininntaket for å få kaloriene til å gå opp. Det ville ha ført til problemer med å vite om resultatene skyldtes karbohydratreduksjon i seg selv, eller økt fett- og proteininntak.
+
+Som forventet ble den daglige insulinutskillelsen redusert under lavkarbodietten (med 22 prosent), mens den ikke endret seg under lavfettdietten. Fastende insulinnivåer gikk imidlertid ned omtrent like mye.
+
+## Høyere fettforbrenning, men lavere totalt energiforbruk med lavkarbodiett
+
+Under de respektive diettene målte de [balansen mellom karbondioksidproduksjon og oksygen](https://snl.no/respirasjonskvotient)forbruk hos deltakerne, noe som igjen sier noe om hva kroppen primært bruker som energikilde av karbohydrater og fettsyrer. Ikke uventet økte fettforbrenningen under lavkarbodietten og karbohydratforbrenningen gikk ned. Høykarbo/lavfett-dietten påvirker derimot fett- og karbohydratforbrenningen lite. Selv ved denne ekstreme restriksjonen av fettinntaket, gikk altså fettforbrenningen ikke ned, noe som er overraskende.
+
+Selv om fettforbrenningen økte på lavkarbodietten, gikk det totale energiforbruket signifikant ned, med ca. 98 kalorier per dag. Dette skjedde ikke under lavfettdietten. Det netto kaloriunderskuddet ble med andre ord noe større under lavfettdietten, hvor den negative fettbalansen var på rundt 840 kalorier per dag, noe som tilsvarer 89 gram kroppsfett per dag.
+
+Forfatternes oppsummering av hovedfunnene er illustrert i deres grafiske oppsummering under.
+
+![](images/clipboard-2771862163.png)Referanse: Hall Kevin D, Bemis T, Brychta R, Chen Kong Y, Courville A, et al. (2015) Calorie for Calorie, Dietary Fat Restriction Results in More Body Fat Loss than Carbohydrate Restriction in People with Obesity. Cell Metabolism.\[/caption\]
+
+Hvilken betydning hadde dette på vekta og kroppssammensetningen? Gjennomsnittlig vekttap var ca. 1/2 kilo høyere av lavkarbo- vs. lavfettdietten. Men tapet av kroppsfett (summen av fettinntak minus fettoksidasjon) etter seks dager var ca. 200 gram høyere med lavfettdietten. Dette var ikke nok til å gi utslag på fettprosenten når den ble målt med [røntgen (DXA),](https://en.wikipedia.org/wiki/Dual-energy_X-ray_absorptiometry) som har sine feilkilder. Hvor på kroppen fettet ble tatt fra ble ikke rapportert.
+
+Mekanismen bak denne knappe fordelen ved lavfettdietten, og hvorfor energiforbruket bare ble signifikant redusert på lavkarbodietten, må man undersøke nærmere. Én tanke jeg fikk da jeg først leste artikkelen var at det kanskje har noe med energitettheten i diettene å gjøre, som ble redusert med nesten 40 prosent på lavfettdietten. Den måtte dermed ha et større volum med mat enn lavkarbodietten, og kanskje er det en faktor som kan påvirke energibalansen ettersom det gir mer "fysiologisk" metthet? Under lavkarbodietten var konsentrasjonene av *ghrelin*, et appetitthormon som er forbundet med bl.a. [redusert energiforbruk](http://press.endocrine.org/doi/10.1210/jc.2004-0613?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed), signifikant høyere.
+
+En annen mulig forklaring kan være at [fett krever mindre energi](http://www.ncbi.nlm.nih.gov/pubmed/15466943) å omsette etter inntak, men forskjellen er svært liten og det forklarer nok heller ikke hvorfor det i hovedsak var energiforbruket under søvn som var forskjellig mellom diettene.
+
+Førsteforfatter Hall og kollegaer har i løpet av de senere årene utviklet en modell for å beregne forventet tap av kroppsvekt og -fett over tid ved ulike kaloriinntak; jeg har [omtalt denne her tidligere](https://sunnskepsis.wordpress.com/2014/05/16/kaloriinntak-og-forventet-vektnedgang-en-myte-for-fall/). I den nye studien fant de at denne modellen predikerte resultatene som ble observert bra. Vekttapet var noe høyere på lavfettdietten enn forventet, noe forfatterne mener skyldes væsketap.
+
+> In agreement with our model simulations, we found that only the reduced carbohydrate diet led to significant changes in metabolic fuel selection, with sustained reductions of carbohydrate oxidation and increased fat oxidation. Remarkably, fat oxidation on the reduced-fat diet remained unchanged and resulted in a greater rate of body fat loss compared to the reduced carbohydrate diet, despite being equivalent in calories.
+
+På bakgrunn av den nye studien simulerte de også effekten av en 6 måneders diett med enten fett- eller karbohydratrestriksjon, og estimerte da at lavfettdietten ville gi et tre kilo større tap av kroppsfett dersom den ble fulgt til punkt og prikke og kaloriinntaket var det samme som på lavkarbodietten.
+
+Forfatterne påpeker at dette eksperimentet ikke kan overføres stort til det virkelige liv, på grunn av den kunstige settingen. Lavfettdietten som ble brukt her er sannsynligvis vanskeligst å implementere. Med bare 8 prosent av energiinntaket fra fett - eller 17 gram, mindre enn to spiseeskjer olje - kan jeg på stående (sittende, for å være ærlig) fot ikke se for meg hvordan den kan være fullverdig på lang sikt.
+
+Studien tyder på at forskjellen på hvor mye kroppsfett man mister av å redusere karbohydrat- vs. fettinntaket er underordnet betydningen av kalorirestriksjon. Men den sier ingenting om hva slags diett som er enklest å følge eller best å leve med, noe [som trolig betyr mest](https://sunnskepsis.wordpress.com/2014/09/03/ned-i-vekt-velg-den-dietten-du-klarer-a-folge/) når alt kommer til alt.
+
+*PS! Mens denne studien var svært kortvarig, har Kevin Hall (leder av studien) nylig fullført en lignende studie av metabolske tilpasninger til en svært karbohydratfattig (ketogen) diett som varte i 2 x 4 uker. Se studieprotokollen her: [Study of the Effect of a Very-Low-Carbohydrate Diet on Energy Expenditure](https://clinicaltrials.gov/ct2/show/NCT01967563). Formålet med studien var å: "determine 24hr energy expenditure, respiratory quotient, and sleeping energy expenditure following a 4-week eucaloric ketogenic diet as compared to 4 weeks of consuming an energy-balanced standard diet."*

@@ -1,0 +1,70 @@
+---
+title: "Kompresjonsklær og markedsføring"
+author: "Andreas Wahl Blomkvist"
+date: 2015.08.25
+---
+
+Kompresjonsklær, som den kjente 2XU kompresjonstightsen, har gradvis blitt mote i treningsbransjen. Utover det estetiske har markedsføringen av disse produktene fremmet en rekke treningsrelaterte påstander. Formålet med denne artikkelen er å vurdere noen av disse med utgangspunkt i to oversiktsstudier (1, 2), samt noe tilleggslitteratur. Dette er ikke ment som en fullstendig gjennomgang av litteraturen på kompresjonstights, ei heller en vurdering av alle helsepåstander relatert til kompresjonsklær.
+
+## **Treningspåstander**
+
+Følgende treningspåstander kan leses utfra [2XU sin produsentside](http://www.2xu.com/men-s-compression-tights-ma1967b.html) og produktpakningene:
+
+> 1.  Bedre oksygenering av blod for raskere restitusjon
+>
+> 2.  Raskere muskeloppvarming før øvelse
+>
+> 3.  Redusert muskelutmattelse gjennom redusert muskeloscillasjon (repeterende sammentrekninger og avspenninger)
+>
+> 4.  Redusert muskelømhet
+>
+> 5.  Redusert langtids overbelastningsskade
+>
+> 6.  Mer kraft
+>
+> 7.  Økt propriosepsjon (evnen til å føle kroppens posisjon)
+
+Produsenten oppgir ingen åpenlyse referanser for disse påstandene på deres nettside, og det er ingen referanser på produktpakkene.
+
+## Overblikk
+
+Før vi ser på hver enkelt påstand kan følgende hovedlinjer trekkes fram fra oversiktsstudiene:
+
+-   Forskningen er metodologisk begrenset og resultatene spriker (3)
+-   Ytelse ser ikke ut til å være påvirket av kompresjonsklær
+-   Det er muligens en effekt av kompresjon på restitusjon etter intens trening
+-   Det er en kritisk mangel på korrelasjon mellom resultater og målt kompresjonstrykk
+
+## Vurdering av hver påstand
+
+1\. påstand er feil. Oksygenering av blod foregår i [lungene](http://www.friskogfunksjonell.no/lunge-1/), og det er ingen grunn til å tro at kompresjonstights skal kunne øke denne prosessen. Studier som sammenligner oksygenopptak med og uten kompresjonsklær viser generelt ingen forskjell i oksygenopptak.
+
+2\. påstand avhenger av hva vi definerer som «muskeloppvarming». Temperaturmessig blir huden et par grader varmere ved bruk av kompresjon, men det er ingen endring i kroppstemperatur sammenlignet med kontroll. Det kan antas at temperaturen på huden kan korte ned tiden for å varme opp muskelvevet, men det er uvisst om dette kan oversettes til noen fordeler.
+
+3\. påstand er feil. Kontrollerte studier har generelt ikke vist en bedre eller dårligere ytelse ved bruk av kompresjon, inklusivt ved løping og sykling til utmattelse.
+
+4\. påstand relateres til opplevd muskelømhet etter trening. Studiene som forsøker å måle dette er motstridende og ikke blindet. En nyere meta-analyse (4) tyder på en moderat senkende effekt i opplevd muskelømhet av kompresjonsklær brukt etter, eller under og etter, intens trening. Det har også vært observert en hensiktsmessig effekt på mer objektive mål i enkelte studier (som kraft og styrke i restitusjonsfasen og melkesyrenivåene). Disse funnene må tolkes med forsiktighet da andre studier ikke har vist en slik forskjell, og at deres overførbarhet til treningsindusert muskelskade er begrenset.
+
+5\. påstand relateres til overbelastningskader over lengre tid. Observasjonsstudier vil kunne oppdage en assosiasjon på en enkel måte, mens intervensjonsstudier kan avklare en eventuelt årsakssammenheng. Dessverre nevnes ingen slike studier i oversiktsstudiene, og et søk, riktignok begrenset, fant ingen dokumentasjon for denne påstanden.
+
+6\. påstand er feil. Det er ingen overbevisende evidens for økt kraft ved bruk av kompresjonsklær sammenlignet med kontroll.
+
+7\. påstand kan stemme. Kompresjon av huden kan gi økt bevissthet om posisjonen til ekstremiteten det gjelder. Effekten er liten, av usikker relevans for funksjon og gjelder ikke da leddet er posisjonert ved maksimalt eller submaksimalt utslag (5).
+
+## Konklusjon
+
+De påståtte fordelene med bruk av kompresjonsklær har liten støtte i vitenskapelig litteratur, og bærer derfor preg av unyansert markedsføring. Produsenten oppgir ingen referanser, og det antas derfor at påstandene er basert på ønsketenkning eller kreativ lesing av et utvalg av studier. Den mest lovende utviklingen er bruk av kompresjonsklær etter (og evt. under) intens trening.
+
+Til slutt bør det nevnes at Beliard og medarbeidere (2) forsøkte å finne en sammenheng mellom resultater og graden av kompresjon (målt med trykkmåling). En slik sammenheng var ikke mulig å finne. Dette undergraver hele prinsippet bak kompresjonsklær, og inntil videre er kanskje en slik manglende korrelasjon, mellom effekt og kompresjonstrykk, grunn nok til å tvile på samtlige påstander ovenfor. Som forbehold nevnes det at det er andre mulige forklaringer til manglende korrelasjon som kan tillate en mer entusiastisk tolkning.
+
+**Referanser**
+
+1.  MacRae et al. *Compression garments and exercise: garment considerations, physiology and performance.* Sports Med 2011;41(10):815-843
+
+2.  Beliard et al. *Compression garments and exercise: no influence of pressure applied*. J Sports Sci Med. 2015 Mar;14(1):75-83
+
+3.  For å gi en smakebit av denne heterogeniteten: bruk av ulike kompresjonsklær gir forskjellig kompresjonstrykk som også endres avhengig av størrelse og formen på individet. Måleteknikker for trykket varierer, og mange studier er små, mangler kontrollgruppe og er industrifinansierte.
+
+4.  Hill J et al. *Compression garments and recovery from exercise-induced muscle damage: a meta-analysis.* Br J Sports Med. 2014 Sep;48(18):1340-6
+
+5.  Dette gir mening da større leddutslag gir økt frekvens av nerveimpulser fra proprioseptive reseptorer relatert til leddposisjon

@@ -7,3 +7,77 @@ categories:
 ---
 
 [Tilbake til artikkelserien om metabolismen](../../metabolismen.html)
+
+Eikosanoider er signalmolekyler som produseres inni cellene ved oksidering av lange, flerumettede fettsyrer. De er blant de mest potente regulatoriske molekylene for cellulær funksjon vi kjenner, og syntetiseres av nesten alle cellene i kroppen. De virker hovedsakelig som lokale hormoner i mikromiljøet til cellene, og har ofte forskjellig effekt på ulike vev. I denne artikkelen, som er en del av [metabolismeserien](../../metabolismen.html), får du en introduksjon i de biokjemiske prosessene disse molekylene er involvert i, og i de grå boksene finner du ernæringsmessige og praktiske bemerkninger.
+
+## Hvor kommer eikosanoidene fra?
+
+Forløperen til de fleste eikosanoider er arakidonsyre (AA, 20:4n-6), en flerumettet omega-6-fettsyre med 20 karbonatomer og fire dobbeltbindinger. Kroppen kan ikke lage omega-6-fettsyrer, og vi må derfor ha denne fettsyren fra kosten enten direkte eller indirekte via linolensyre (LA, 18:2n-6), en kortere omega-6 fettsyre. Andre eikosanoider kommer fra omega-6-fettsyren dihomo-gammalinolensyre (20:3n-6) og fra omega-3 fettsyrene eikosapentaensyre (EPA, 20:5n-3). En relatert gruppe molekyler (dokosatriener), og kjemisk sett en type eikosanoider, kommer fra dokosaheksaensyre (DHA, 22:6n-3) og EPA. Sentrale biokjemiske prosesser som omhandler syntese av de [langkjedede og umettede fettsyrene](langkjedede-flerumettede.qmd) er omtalt i egen artikkel.
+
+Som andre langkjedede fettsyrer er ikke AA vannløselig og cellenes kilde til denne fettsyren er derfor cellemembranens fosfolipider. Ved en spesifikk stimuli av cellen, for eksempel binding av histamin på en membranreseptor, vil det membranbundne enzymet fosfolipase A2 bryte den midterste bindingen (binding nummer 2, derfor A2) på fosfolipidet. Dette frigir AA. En annen mulighet er aktivering av fosfolipase C som frigir diacylglycerol, som via andre lipase enzymer kan gi AA (figur 1).
+
+![](images/clipboard-2426896987.png)
+
+**Figur 1.** Frigjøring av arakidonsyre (AA) fra cellemembranen © Mark’s basic medical biochemistry
+
+## De tre biokjemiske reaksjonsveiene
+
+Når AA blir sluppet fri fra cellemembranen vil enzymene som den spesifikke cellen har tilgjengelig bestemme hvilket produkt som skal bli syntetisert. Dette forklarer hvorfor ulike celler, som har forskjellig uttrykk av enzymer, produserer ulike eikosanoider. Hovedsakelig er det tre metabolske retninger AA kan ta: (1) via cyklooksygenase (COX), som danner prostaglandiner og tromboxaner, (2) via lipoxygenase (LOX), som danner leukotriener og lipoxiner, og (3) via cytokrom P450-systemet som danner epoxider (figur 2). De biokjemiske prosessene i disse tre reaksjonsveiene, med hovedvekt på den første og viktigste, følger.
+
+![](images/clipboard-1015005698.png)**Figur 2.** © Mark’s basic medical biochemistry
+
+## 1. Cycklooksygenase
+
+COX katalyserer dannelsen av en 5-karbonring med et tillegg av fire oksygenatomer på AA. Vi har flere isoformer av COX. COX-1 er den vanligste, og er ansvarlig for normal produksjon av prostaglandiner (PG) og tromboxaner (TX). COX-2 er en isoform som er avhengig av stimuli, som for eksempel inflammasjon. Reaksjonen katalysert av COX gir et relativt ustabilt molekyl som reduseres av enzymet peroksidase til **PGH~2~** – en endoperoksid. **PG** står for **prostaglandin**, og bokstaven som følger beskriver den spesifikke ringstrukturen til 5-karbonringen. Tallet til slutt beskriver antallet dobbeltbindinger i karbonkjeden og forteller oss hvilken fettsyre som var utgangspunktet.
+
+Den neste reaksjonen som følger er vevsspesifikk og utføres av ulike isomeraseenzymer. PGH~2~ kan bli redusert til **PGE~2~** eller **PGD**~2~ av henholdsvis PGE syntase og PGD syntase. Begge disse PG gir vasodilatasjon og økt permeabilitet i det vaskulære vev. Fra PGE~2~, eller direkte fra PGH~2~ via et annet enzym, kan cellene også danne PGF~2~a (alfa fordi hydroksylgruppen på karbon 9 er under planet til ringen – alfa-posisjon). Til slutt, PGH~2~ kan bli konvertert til **PGI~2~** av PGI syntase. PGI~2~ har i motsetning til andre prostaglandiner to ringstrukturer og kalles derfor **prostacyclin**.
+
+**Tromboxaner (TX)** blir også syntetisert via COX, og har, til forskjell fra PG, en 6-karbonring som inkluderer et oksygenatom. Det vanligste molekylet i denne gruppen er tromboxan **(TXA~2~)** som syntetiseres fra PGH~2~ via TXA syntase (se figur 3 for en oppsummering av reaksjonene, og de grå boksene for funksjonen til PG og TX).
+
+![](images/clipboard-2526754989.png) **Figur 3.** © Mark’s basic medical biochemistry
+
+> #### TXA~2~, prostacyclin og Aspirin sin funksjon i det vaskulære vevet
+>
+> Hvilke eikosanoider som produseres er avhengig av enzymene i cellen det gjelder. Prostacyclin (PGI~2~) dannes i endotelcellene som utgjør den indre veggen i blodårene. Blant dets mange funksjoner signaliserer dette molekylet vasodilatasjon (ved å hemme kontraksjon av glatte muskelceller som omgir blodårene) og hemmer sammenklebning av blodplater. På den andre side har blodplatene høy konsentrasjon av TXA syntase som da gir TXA~2~, hvilket har en den motsatte virkning: stimulere kontraksjon av blodårer og aggregering av blodplater. Balansen mellom TXA~2~ og PGI~2~ har derfor betydning i koagulasjon og for diameteren av blodåren.
+>
+> Virkestoffet i Aspirin, *acetylsalisylsyre*, inaktiverer COX og hemmer derfor dannelse av PG og TX. Endotelcellene, som har det cellulære apparatet som er nødvendig, kan overkomme dette ved å syntetisere nye COX enzymer. Blodplater kan ikke dette, og som et resultat vil forholdet mellom PGI~2~ og TXA~2~ være i favør av PGI~2~. Dette gir en viktig effekt på koagulasjon og blodårene sin diameter som utnyttes i terapi. Aspirin virker profylaktisk mot hjerteinfarkt og større doserer ved et akutt infarkt  like effektivt som trombolysebehandling alene.
+
+Både PG og TX blir inaktiveres raskt lokalt. For PG gjøres dette ved å oksidere hydroksylgruppen på karbon 15 (som er kritisk for deres biologiske effekt), mens TXA~2~ er inaktivert ved å bryte opp karbonringen. Deres halveringstid varierer fra sekunder til minutter.
+
+#### Andre forløpere for prostaglandiner og tromboxaner
+
+PG og TX fra AA har alle tallet 2 i sine navn fordi de har alle to dobbeltbindinger i sin karbonkjede, og de fleste PG og TX tilhører denne serien. Likevel finnes det i små mengder PG og TX med en og tre dobbeltbindinger, henholdsvis 1-serie og 3-serie PG. Utgangspunktet er dihomo-gammalinolensyre for 1-serien og eikosapentaensyre (EPA) for 3-serien. Disse seriene danner PG designert med henholdsvis 1 og 3 (for eksempel PGE~1~ og PGE~3~). Konsentrasjonen og balansen mellom de forskjellige eikosanoidene regulerer ulike organer og fysiologiske prosesser, spesielt den inflammatoriske.
+
+COX er også ansvarlig for produksjon av resolviner – en annen klasse molekyler som teknisk sett kan klassifiseres som eikosanoider. Disse produseres fra EPA og DHA, og har antiinflammatoriske egenskaper. Resolviner virker ved å hemme produksjon og transport av inflammatoriske celler.
+
+## 2. Lipoxygenase
+
+AA kan være substrat for LOX som katalyserer inkorporeringen av oksygenmolekyler på et av karbonatomene som utgjør de fire dobbeltbindingene. Dette flytter plassen til en av dobbeltbindingene. LOX virker enten på karbon 5, 12 eller 15, og kalles derfor 5-LOX, 12-LOX eller 15-LOX. Hvilken type enzym er bestemt av cellen og vevet det gjelder. For eksempel er det hovedsakelig 5-lipoxygenase i leukocytter (de hvite blodcellene). Dette enzymet gir 5-hydroperoksieikosatetraenksyre (5-HPETE) som er hovedsubstratet for en rekke signalmolekyler som kalles **leukotriener** (LT, leuko fordi de produseres hovedsakelig av leukocytter), eksempelvis LTA~4~, LTB~4~, LTC~4~, LTD~4~ og LTE~4~.  Noen av disse (LTC~4~, LTD~4~ og LTE~4~) gir en kraftig kontraksjon blodårer og bronkier, og øker permeabiliteten i blodårene. LTB~4~ og 5-HPETE virker kjemotaktisk, det vil si at de tiltrekker seg de hvite blodcellene.
+
+Utover dette kan 12-LOX virke på 5-HPETE og danne **lipoxiner** (for eksempel LXA~4~ og LXB~4~). Disse har ofte omvendt effekt av leukotriener som å hemme kjemotaksis og hindre binding av hvite blodceller til blodåreveggen. De virker derfor anti-inflammatorisk.
+
+## 3. Cytokrom P450
+
+Cytokrom P450 er en stor heterogen gruppe monooxygenaseenzymer som kan konvertere AA til epoxider, noen typer HETEs og diol-former av disse (diHETEs). Disse enzymene er også essensielle i detoksifiseringsprosessene i blant annet lever og tarmslimhinne. Eikosanoider som stammer fra denne reaksjonsveien har forskjellige funksjoner på flere vevstyper i kroppen, og kunnskapen om disse er i dag begrenset.
+
+> #### Eikosanoider, inflammasjon og medisin
+>
+> Som nevnt vil forskjellige eikosanoider gi ulike effekter på et vev sammenlignet med et annet. For eksempel spiller eikosanoider en viktig rolle i inflammasjon, og et molekyl kan stimulere inflammasjon et sted, mens den hemmer inflammasjon et annet sted. Disse lokale effektene kompliseres også av at de virker synkront med hverandre. Likevel kan det grovt sies at eikosanoider som stammer fra omega-6 fettsyrene, som AA, promoterer inflammasjon, mens de fra omega-3, som EPA og DHA, er mye mindre proinflammatoriske. Kosten vår påvirker fordelingen av forløper-fettsyrene i cellemembranen, samt gir substrat for de forskjellige typene PG og TX (1, 2 og 3-serie). Det er derfor ingen tvil at vi kan påvirke disse prosessene via endringer i kosten. Derimot er fettmetabolismen i leveren svært kompleks, og det er derfor ikke bare kostholdet som er av betydning. [Kostintervensjoner gjort med omega-6- og omega-3-fettsyrer kan imidlertid ikke vise til entydige konklusjoner hos verken frisk eller syk befolkning.](../fett-inflammasjon.qmd)
+>
+> Med medisin kan vi også påvirke den inflammatoriske respons. Legemidler som glukokortikoider virker delvis igjennom økt uttrykk av proteiner som hemmer fosfolipase A2 og delvis ved å hemme transkripsjon og translasjon av COX-2. COX-1 er den normale versjonen av cycklooxygenase enzymet og er å finne i omtrent alle vev. COX-2 er en isoform av COX enzymet som syntetiseres av celler involvert i inflammasjon. Glukokortikoider vil derfor både minske mengden AA tilgjengelig for syntese av proinflammatoriske eikosanoider og hemme COX-2 i vevet som er betent.
+>
+> Ikke-steroidale antiinflammatoriske medikamenter (NSAID) som *ibuprofen* (virkestoffet i Ibux) virker som reversible hemmere av COX og virker derfor anti-inflammatorisk. De fleste NSAID hemmer både COX-1 og COX-2, og siden COX-1 isoformen har viktige fysiologiske funksjoner (utover inflammasjon), blant annet i ventrikkelslimhinnen, er beklageligvis en betydelig del av bivirkningene innrapportert fra helsepersonell forårsaket av nettopp dette. Eldre mennesker er spesielt sårbare overfor NSAID og kan ved lengre bruk eller store doser utvikle, blant annet, blødende magesår.
+
+## Effekt på målcellen
+
+Hovedsakelig virker eikosanoider ved å binde til spesifikke reseptorer på cellemembranen til målcellen. Denne målcellen kan være den samme cellen som syntetiserer signalmolekylet (autokrin signalering), en celle like ved (parakrin signalering) eller, mer sjeldent, langt unna (endokrin signalering). Ofte vil reseptoren være en såkalt G-protein reseptor som kan aktivere adenylsyklase, og gi en økning i cAMP konsentrasjonen (som er en sekundær budbringer for cellen). Eikosanoider kan også gi en økning av kalsiumkonsentrasjonen i cellen. Utover dette kan de virke ved å modulere andre enzymers respons.
+
+## Oppsummering
+
+Eikosanoider utgjør en mangfoldig gruppe av signalmolekyler som regulerer cellulær funksjon omtrent overalt i kroppen på ulike måter. Blant annet deltar de i den inflammatoriske responsen og regulering av det vaskulære vev. De syntetiseres ved oksidering av lange flerumettede fettsyrer. Eikosanoidene kommer i forskjellige varianter, som prostaglandiner, tromboxaner, leukotriener og lipoxiner. Utgangspunktet for de fleste eikosanoider er arakidonsyre, men også andre fettsyrer som dihomogammalinolensyre og eikosapentaensyre kan være forløpere.
+
+Eikosanoider virker via modulering eller direkte aktivering av cellemembranreseptorer. Funksjonelt er de ulike gruppene eikosanoider vanskelig å generalisere, men i den inflammatoriske respons er de fleste prostaglandiner (fra serie-2) og leukotriener pro-inflammatoriske. Lipoxiner og resolviner har anti-inflammatoriske egenskaper, mens prostaglandiner fra omega-3 generelt er mindre inflammatoriske enn de fra omega-6.
+
+**Litteratur:**
+Lieberman M, Marks AD. Mark’s basic medical biochemistry – a clinical approach. LWW 2012\
+Kumar V et al. Robbin’s and Cotran Pathologic basis of disease. 8th edition. Saunders 2009

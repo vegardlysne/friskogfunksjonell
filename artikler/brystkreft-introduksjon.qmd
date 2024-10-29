@@ -1,0 +1,68 @@
+---
+title: "En introduksjon til brystkreft"
+author: "Fredrik Smenes Eika"
+date: 2015.04.16
+---
+
+Brystkreft er en sykdom som skaper mye bekymring og det er den hyppigst forekommende kreftformen blant kvinner i dag. De fleste av oss kjenner, eller har hørt om, noen som er rammet av sykdommen. Men hva er egentlig brystkreft? Hvordan stilles diagnosen, hva er symptomene og hvordan behandles det? I denne artikkelen ønsker jeg å belyse litt av basiskunnskapen om brystkreft.
+
+## Brystets anatomi og fysiologi
+
+![](images/clipboard-3956645284.png)http://commons.wikimedia.org/wiki/File:Breast_anatomy_normal_scheme.png
+
+Brystkjertelen består av rundt 20 melkekjertler (lobi) som holdes sammen av bindevev. Hver lobus produserer melk som passerer ut igjennom melkegangene før det kommer ut av brystvorten ved stimulering under graviditet/amming. Denne inndelingen av kjertler og melkeganger er sentral for klassifiseringen av brystkreft
+
+Brystene er hormonsensitive og fører til endringer i størrelse, komposisjon og evne til melkeproduksjon både i puberteten, under graviditet og i overgangsalderen. Hormoner er også delaktig i kreftutvikling, og fluktuerende og høye østrogennivåer er en risikofaktor for brystkreft.
+
+## Relasjon til kreft
+
+Kreft er en gruppe genetiske sykdommer som oppstår på bakgrunn av endringer i genuttrykket, enten via direkte forandringer i den genetiske koden eller indirekte via epigenetisk endring. [Epigenetikk](http://www.friskogfunksjonell.no/genetiske-og-metabolske-sykdommer-genetikk/ "Genetiske og metabolske sykdommer – genetikk") er endringer i genuttrykket uten at det har skjedd en endring av DNA-sekvensen. Du kan lese mer om kreft i «[En introduksjon til kreftgåten](http://www.friskogfunksjonell.no/en-introduksjon-til-kreftgaten/ "En introduksjon til kreftgåten")» her.
+
+Brystkreft oppstår i 90% av tilfellene sporadisk, som vil si at kun 10% er arvelig. Brystkreft kan sees hos begge kjønn, men kun 1% av all brystkreft forekommer hos menn.
+
+Som tidligere nevnt skilles det mellom kjertler og melkekanaler. Dersom kreften sitter i selve kanalen (Eng: duct) snakker man om et «ductalt carcinom» (DC), og dersom den sitter i kjertelen kalles det et «lobulært carcinom» (LC).  Begge disse kan være lokalisert i selve strukturen uten å ha invadert vevet rundt, og kalles da «in situ» (såkalt DCIS og LCIS), eller de kan ha begynt å invadere omkringliggende vev, og kalles da «invasivt carcinom». Hvilken undergruppe brystkreft man har påvirker hvor tidlig kreften blir oppdaget, klassisk spredningsmønster, behandling og prognose.
+
+![](images/clipboard-1030751734.png)
+
+DCIS påvises typisk som mikroforkalkninger (hvite ansamlinger) ved mammografiscanning og er som oftest ikke palpabel. Ca.15% av svulstene oppdaget ved mammografi representerer DCIS. Behandlingen er kirurgi og lokal strålebehandling.
+
+LCIS, derimot, oppdages vanligvis tilfeldig i en vevsprøve gjort på en annen indikasjon. Den observeres hyppig i begge brystene hos fertile kvinner. Disse pasientene har en livslang risiko for utvikling av brystkreft, som er 7-12 ganger høyere enn i den generelle befolkningen. Behandling er regelmessig kontroll, eventuelt fjerning av påviste forandringer.
+
+Invasive carcinomer finnes i flere undertyper og avhengig av molekylær undergruppe vil prognosen variere fra fremragende til dårlig. Andre parametere som påvirker prognosen er alder, tumorstørrelse, lymfeknutespredning, mikroskopisk vurdering og hva slags reseptorer kreften uttrykker.
+
+## Symptomer på sykdom i brystet
+
+Tanken om kreft kan raskt komme dersom brystene skulle endre seg på en eller annen måte, men det er heldigvis sjeldent at kreft er årsaken. Det hyppigste symptomet i brystet som gjør at mange oppsøker lege, er nettopp en følbar kul i brystet. En følbar kul er ikke synonymt med kreft og kan komme av mange årsaker, men bør likevel tas alvorlig. Alder er en viktig risikofaktor, og det er økt grunn for bekymring hos eldre/middelaldrende enn yngre kvinner. Hos yngre kvinner vil en kul oftest representere tett kjertelvev, fibroadenomer eller såkalte fibrocystiske forandringer, hvor det ikke er økt sjanse for kreft.
+
+Det nest hyppigste symptomet er unormal/uventet sekresjon fra brystvorten. Dette kan sees ved kreft, men også sees ved graviditet, betennelsestilstander i brystet og forskjellige godartede forandringer. Smerter i brystene er en sjeldnere årsak til legebesøk, men kan sees ved betennelsestilstander i brystet, under graviditet og i siste halvdel av menstruasjonssyklusen. Rødme, sår og eksemliknende tilstand av brystvorten er urovekkende, og kan ses i «Paget’s sykdom». Ved denne tilstanden ligger det ofte et invasivt carcinom dypere i brystet. Videre kan forstørrede lymfeknuter i armhulen være et symptom, da dette er en hyppig spredningsrute for brystkreft.
+
+## Diagnose, behandling og prognose
+
+«Trippeltesten» er grunnlaget for utredning av kreftmistanke. Denne innebærer følgende: En klinisk undersøkelse, bildediagnostikk (mammografi og/eller ultralyd) og en vevsprøve fra det mistenkelige område. Dersom alle komponentene i trippeltesten er «positive» for kreft skal det behandles. Dersom alle tre er «negative» kan man la kulen bli værende, og dersom det er uoverensstemmelse mellom de tre elementene anbefales det å fjerne forandringen eller gjenta testene. En mistenksom mammografi, eller en følbar kul i brystet, er med andre ord ikke diagnostisk for kreft.
+
+Ubehandlet er gjennomsnittlig overlevelse for brystkreft mindre enn tre år og den kan spre seg raskt via lymfe til knokler, lever og lunger. Brystkreft behandles primært med kirurgi ved å fjerne mistenkt område og eventuelle lymfeknuter. Normalt forsøkes det å bevare brystet, men i mer alvorlige tilfeller må hele brystet fjernes, eventuelt sammen med lymfeknuter i armhulen. Det finnes i dag gode teknikker for rekonstruksjon av det opererte området. 95% av pasientene vil også tilbys påfølgende strålebehandling.
+
+Rundt 75% av pasienter har en «hormonreseptor positiv» brystkreft, hvor ytterligere medisinsk behandling tilbys. Medisinen «Tamoxifen», og liknende stoffer, vil være i stand til å blokkere denne reseptoren og hemme kreftutvikling. 15-20% er også positive for vekstfaktorreseptoren HER2 og kan behandles med medisinen «Trastuzumab». En viktig del av diagnostikken er derfor å undersøke om disse reseptorene er tilstede, da disse krefttypene ofte responderer bedre på behandling.
+
+Prognosen for brystkreft er avhengig av hvor langt kreften har spredd seg når den blir oppdaget. Pasienter uten spredning til armhulen har en gjennomsnittlig 10-årsoverlevelse på over 80%. Med andre ord vil over 80% av pasientene leve i minimum 10 år etter diagnose ble stilt, dersom pasienten får riktig behandling. Kvinner med spredning til armhulen har en tiårsoverlevelse på 30-70%. Kreft kan også komme tilbake selv om den er behandlet. Metastaser kan oppstå hos enkelte pasienter mer en 20 år etter den primære behandling.
+
+## Risikofaktorer
+
+Genetikk spiller en viktig rolle og risikoen er opp mot fire ganger høyere dersom mor/søster er eller har vært syk. Økt alder og det å være kvinne er viktige risikofaktorer for brystkreft. Andre risikofaktorer er tidlig første menstruasjon, sen overgangsalder, fødsel etter fylte 35 år og hormonsubstitusjonspreparater i overgangsalderen. Alkohol, overvekt og fysisk inaktivitet øker også risikoen. Samtidig er det nedsatt risiko hos de som har hatt flere svangerskap og de som holder seg fysisk aktive.
+
+> #### Arvelig brystkreft
+>
+> De fleste tilfeller av brystkreft er sporadiske, men rundt 10% er arvelige. De hyppigste genene involvert i arvelig brystkreft er BRCA1 og BRCA2. Disse genene er involvert i reparering av DNA-skade i cellene og når produktene av disse genene ikke fungerer vil vi miste denne repareringsevnen og dermed bli disponert for kreft. Brystkreft er som hovedgruppe en sykdom tilhørende middelaldrene/eldre kvinner, men kan i disse tilfellene sees hos langt yngre. Man skal være observant på dette dersom familiemedlemmer har fått diagnosen brystkreft eller eggstokk kreft i ung alder. Mutasjoner i andre gener som TP53, CHEK2, PTEN, STK11, AMT øker også risikoen for brystkreft, men kvantitativt har disse en mindre betydning.
+
+## Oppsummering
+
+Brystkreft er den vanligste kreftformen blant kvinner i dag og viktige risikofaktorer som genetikk, kjønn, alder, overvekt og antall barnefødsler er verdt å merke seg. Symptomene på brystkreft kan variere og en kul i brystet er ikke synonymt med kreft, men er likevel det vanligste symptomet. Tidlig diagnose i form av trippeltesten er essensielt for å kunne tilby den rammede målrettet og livreddende behandling. Til tross for at brystkreft er en farlig sykdom er 10-årsoverlevelsen relativt høy, dersom pasienten får riktig behandling.
+
+**Kilder\
+***Patologi, FADL’s forlag 2.Udgave. Kap.13 Mammapatologi*\
+*Basisbogen i medicin og kirurgi. 5.udgave. Munksgaard. Kap.14 Mammasygdomme.*\
+[*https://kreftforeningen.no/om-kreft/kreftformer/brystkreft/\
+*](https://kreftforeningen.no/om-kreft/kreftformer/brystkreft/)[*http://www.kreftregisteret.no/no/Generelt/Fakta-om-kreft-test/\
+*](http://www.kreftregisteret.no/no/Generelt/Fakta-om-kreft-test/)[*http://emedicine.medscape.com/article/1947145-overview#aw2aab6b2b4*](http://emedicine.medscape.com/article/1947145-overview#aw2aab6b2b4)
+
+Oppdatering 31/5-15: Første avsnitt under "Diagnose, behandling og prognose" manglet og har blitt lagt til.

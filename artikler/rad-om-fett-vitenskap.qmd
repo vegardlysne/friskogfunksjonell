@@ -1,0 +1,95 @@
+---
+title: "Råd om fett, ikke basert på vitenskap?"
+author: "Erik Arnesen"
+date: 2015.02.23
+---
+
+***Fravær av randomiserte studier utelukker ikke at anbefalinger bør gis.***
+
+En studie publisert i i BMJ Open av Zoe Harcombe og medarbeidere fikk mye oppmerksomhet i forrige uke. Forfatterne mente at deres funn viste at de offisielle anbefalingene som har blitt gitt om fett i kosten ikke har vitenskapelig støtte. [Forskning.no skrev:](http://forskning.no/2015/02/burde-aldri-ha-gitt-kostradene-om-fett)
+
+> Kostrådene – som ble introdusert for 220 millioner amerikanske og 56 millioner britiske borgere – manglet støtte i såkalte randomiserte kontrollerte studier – RCT-studier. Denne typen studie anses som den beste forskningsmetoden for å undersøke effekten av et tiltak.
+
+Harcombe (som har skrevet flere slankebøker og [selger sin egen diett](http://www.theharcombedietshop.com/)) og medarbeidere ville se på grunnlaget som forelå før de første offisielle anbefalingene for fett kom ut i USA og Storbritannia, i hhv. 1977 og 1983.
+
+For å gjøre dette lette de kun etter randomiserte, kliniske studier (RCT) som undersøkte forholdet mellom fett i kostholdet og dødelighet. De utelot dermed kostholdsintervensjoner hvor mange komponenter ble endret.
+
+Til slutt sto de igjen med seks studier. Ingen av disse studiene undersøkte effekten av rådene om å spise høyst 30 prosent av energiinntaket fra fett, eller 10 prosent av energiinntaket fra mettet fett (med unntak av én studie jeg [har skrevet mer om her](https://sunnskepsis.wordpress.com/2013/02/11/omega-6-og-hjertesykdom-igjen-ma-kostradene-skrives-om/), hvor intervensjonen var å spise mye mer flerumettet fett enn det som var anbefalt, i form av saflorolje og datidens margarin). Allikevel valgte Harcombe og medarbeidere å bruke dette som en "test" av de offisielle anbefalingene.
+
+Samlet sett viste studiene en total dødelighet på 30,2 % i intervensjonsgruppene og 29,8 % i kontrollgruppene - en forskjell som ikke var statistisk signifikant. De fant heller ingen effekt på hjertedødelighet. Effekt på hendelser (f.eks. nye hjerteinfarkt) ble ikke rapportert.
+
+På grunn av resultatene fra disse intervensjonsstudiene (som for øvrig bare involverte menn), burde rådene om fett aldri vært gitt, mener altså forfatterne.
+
+## **Begrenset forståelse av "evidens"**
+
+**"Fat guidelines lacked any solid scientific evidence, study concludes"**, [skrev The Guardian](http://www.theguardian.com/lifeandstyle/2015/feb/10/fat-guidelines-lacked-any-solid-scientific-evidence-study-concludes?CMP=EMCNEWEML6619I2) etter at studien kom ut.
+
+Men hva menes egentlig med "*solid, vitenskapelig evidens*"? Gjelder det bare randomiserte, kontrollerte studier?
+
+"RCTs provide **the best** evidence", skriver  i alle fall Harcombe & co. (min utheving), med referanse til en [eldre artikkel](http://www.bmj.com/content/321/7256/255) hvor forfatteren påpeker:
+
+> Limited randomised controlled trials need other forms of evidence to be appraised and considered.
+
+Og:
+
+> ... the weight given to each bit of evidence should be determined by a detailed appraisal of the characteristics of that evidence
+
+Observasjonsstudier (som det finnes mye av innen ernæringsforskning) kan være problematiske for å fastslå sanne årsaker til sykdom. Observasjonsstudier fastslår sammenhenger eller *korrelasjoner* mellom en eksponering og hyppigheten av sykdom i grupper av mennesker.
+
+Randomiserte kontrollerte studier er ganske riktig den strengeste måten å bestemme hvorvidt et årsak-virkning-forhold eksisterer mellom en intervensjon og et utfall. Fordelen med randomiserte kontrollerte studier er at fordelingen av potensielt [konfunderende faktorer](http://en.wikipedia.org/wiki/Confounding) mellom gruppene er tilfeldig ("random"), slik at man kan være trygg på at en eventuell effekt skyldes behandlingen man gir, ikke andre, "forstyrrende" elementer.
+
+Så ja, randomiserte kontrollerte studier er den studietypen som er mest egnet til å fastslå kausale (årsaksbestemte) sammenhenger ("A fører til B"). Men at en studie er en randomisert kontrollert studie er ikke i seg selv et *kvalitetsstempel,* eller det samme som "absolutt bevis".
+
+Dette er én av **seks vanlige misoppfatninger om forskning** som epidemiolog Kenneth Rothman nylig skrev [om i en artikkel](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4061362/) i Journal of General Internal Medicine. Artikkelen bør leses i sin helhet, men jeg skal ta med den første misoppfatningen han nevner: "Det finnes et hierarki med studietyper, hvor randomiserte studier gir høyest validitet, etterfulgt av kohortstudier og case-kontroll-studier".
+
+Rothman skriver:
+
+> Randomized trials, though often considered the “gold standard” of study types, are not perfect, even in concept. Furthermore, the premise that the comparative validity of study results can be inferred from the type of study is wrong.
+
+Han påpeker at randomiserte studier ikke alltid tar hensyn til om deltakerne etterlever intervensjonen. Hvis de ikke følger rådene de får, vil selvsagt effekten av rådene bli underestimert.
+
+Slik er det ofte med randomiserte kostholdsstudier – de ser på effekten av det **å gi råd om** å endre kosthold, ikke av kostholdet som sådan (mer om dette under). [Som Rahul Bahl skriver](http://openheart.bmj.com/content/2/1/e000229.full) i den reflekterte lederkommentaren til studien av Harcombe et al.:
+
+> Even with a causal connection, **we might expect RCTs to produce negative results** because actual human behaviour over long periods of time is unlikely to be altered by individual sessions of dietary advice.
+
+## **Etterlevelsen av livsstilsråd er avgjørende**
+
+Selv om ingen randomiserte, kontrollerte studier slår fast at det å røyke øker risikoen for f.eks. lungekreft, aksepterer de fleste at slike studier ikke er nødvendige gitt alt det andre vi vet om røyking. Ingen vil i dag heller bestride at det å be røykere om å slutte å røyke er et fornuftig og viktig råd. Men hva sier randomiserte kontrollerte studier om effekten av *røykeslutt*?
+
+Disse studiene, som til sammen involverte over 20 000 deltakere og varte i opptil 20 år, har heller ikke "bevist" at røykeslutt gir statistisk signifikant mindre død eller lungekreft. I én av disse studiene viste det seg at dødeligheten av *andre* krefttyper var *over dobbelt så høy* blant de som fikk råd om røykeslutt!
+
+En annen fant faktisk at antallet lungekreftdødsfall faktisk var *15 prosent* *høyere* i røykesluttgruppen.
+
+Til tross for disse skuffende resultatene er det ingen som går ut i media og proklamerer at "røykeslutt er unødvendig", "røykeslutt er farlig" eller "myndighetenes røykeråd er feil". Alle forstår at disse studiene ikke var gode tester av hypotesen om at røyking er skadelig, og at resultatene ikke gir grunn til å ignorere blant annet de mange observasjonsstudiene som viser det. **Når det gjelder mettet fett er dette tydeligvis mye vanskeligere for mange å forstå.**
+
+Et nyere eksempel er studien [Women's Health Initiative](http://www.ncbi.nlm.nih.gov/pubmed/16467234), som av mange (spesielt [lavkarbo-promotører](http://ernaringoghelse.no/les_mer_1/fett_og_kolesterol/)) tolkes som et endelig bevis på at kostrådene ikke "virker". WHI var en stor og langvarig, randomisert studie, hvor over 48 000 kvinner ble fulgt i ca. 8 år i gjennomsnitt.
+
+Kvinnene i intervensjonsgruppen fikk råd om å redusere fettinntaket fra i snitt 35 til 20 prosent av energiinntaket, samt å spise mer frukt og grønt og kornprodukter. Disse kvinnene gikk ned mer i vekt enn kontrollgruppen i løpet av det første året, men forekomsten av hjerteinfarkt eller hjerneslag var til syvende og sist ikke signifikant forskjellig mellom gruppene. Betyr det at rådene de fikk var feil?
+
+En rekke artikler om denne studien har blitt publisert, og flere av dem påpeker at [nesten ingen av kvinnene som deltok](http://www.ccjm.org/index.php?id=107953&cHash=010515&tx_ttnews%5Btt_news%5D=360705) fulgte rådene de fikk. Dermed kan vi ikke vite om den manglende effekten skyldtes at kosthold-hjerte-hypotesen var feil; den var ikke mulig å teste.
+
+Det er usikkert hvor mye fett kvinnene i intervensjonsgruppen faktisk spiste (selvrapportert inntak var 28 % på slutten av studien). Ettersom det ikke var noen [forskjeller i LDL/HDL-kolesterol eller triglyseridnivåer](http://ajcn.nutrition.org/content/91/4/829.full) mellom gruppene mot slutten, var fettinntaket trolig nokså likt. Kontrollgruppen reduserte også fettinntaket, slik at differansen ble mindre beskjeden enn hva man hadde tenkt. [Én studie fant dessuten at intervensjonsgruppen underrapporterte energiinntaket](http://aje.oxfordjournals.org/content/167/10/1247.abstract) mer enn kontrollgruppen.
+
+Kvinnene som rapporterte å redusere inntaket av mettet fett og transfett mest, og som fulgte de generelle kostholdsrådene, [så imidlertid ut til å ha](http://www.ncbi.nlm.nih.gov/pubmed/21613562) en lavere risiko for hjertesykdom.
+
+### Vanskelig å vise effekt på dødelighet
+
+I tillegg til at etterlevelse kan være et problem, er det også verdt å nevne at Harcombe et al. i sin analyse kun vurderte effekt på dødelighet, noe som generelt er vanskelig å påvise i mange kliniske studier. Dette har med studienes "*power*" (statistisk styrke) å gjøre: Som regel må man ha svært mange deltakere og langvarige studier for å kunne dokumentere forskjeller i dødelighet, ettersom det krever mange dødsfall for å oppnå statistisk signifikans.
+
+Harcombe et al. har for eksempel med [en studie som ble utført](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(68)90746-0/abstract) på sykehus i London på 60-tallet med 400 menn som nylig hadde hatt hjerteinfarkt. Intervensjonsgruppen skulle spise mindre mettet fett, og ble gitt tilskudd av soyaolje. Til slutt var det ingen signifikant forskjell i antall nye hjerteinfarkt mellom gruppene.
+
+Forfatterne av denne studien beregnet imidlertid at for å finne en signifikant forskjell med bare 400 deltakere, måtte forskjellen ha vært usannsynlige 50 proseny. Dersom den reelle forskjellen hadde vært 25 prosent, måtte de ha hatt *fire ganger så mange* deltakere for å ha nok statistisk styrke til å kunne påvise dette. Studien kunne dermed bare bevise at den eventuelle effekten var mindre enn 50 prosent færre nye hjerteinfarkt.
+
+Harcombe og medarbeidere nevner ikke at flere av studiene de analyserte fant signifikant [mindre *hjerte- og kar-hendelser*](http://onlinelibrary.wiley.com/doi/10.1002/14651858.CD002137.pub3/abstract) i gruppene som fikk fettmodifiserte dietter eller kostholdsråd som involverte et lavere inntak av mettet fett. I [Los Angeles Veterans-studien](http://circ.ahajournals.org/content/40/1S2/II-1.abstract "Dayton et al., 1969") var det for eksempel ca. 30 % færre større og dødelige hjerte-kar-hendelser etter 8,5 år hos gruppen som spiste mindre mettet fett og mer flerumettet fett sammenliknet med kontrollgruppen. Totaldødeligheten var ikke signifikant forskjellig på grunn av flere kreftdødsfall i intervensjonsgruppen. I Paul Lerens femårige Oslo-studie fikk 16,5 % av mennene i intervensjonsgruppen et nytt hjerteinfarkt i løpet av studien, mot 26,2 % av mennene i kontrollgruppen. [Etter 11 år](http://circ.ahajournals.org/content/42/5/935) var denne forskjellen fortsatt statistisk signifikant, men det ble ikke påvist effekt på total dødelighet.
+
+## Anbefalinger basert på andre kilder til evidens
+
+De tidligste anbefalingene om fett var i liten grad basert på randomiserte kliniske studier med dødelighet som endepunkt, men på blant annet kliniske studier av effekten på kolesterolverdier og hjerte-kar-hendelser som endepunkt. LDL-kolesterol og total:HDL-kolesterolratioen reduseres [når de vanligste mettede fettsyrene byttes ut](http://dx.doi.org/10.1017/S0029665113003364 "Sanders, 2013") med en- eller flerumettet fett. Dette er viktige risikofaktorer, hvor det ser ut til at "jo mindre, jo bedre". Genvarianter som gir høyere LDL-kolesterol [er kausalt forbundet med](http://www.sciencedirect.com/science/article/pii/S0140673612603122) høyere risiko for hjerteinfarkt, og livslange lave LDL-kolesterolnivåer reduserer trolig risiko for hjertesykdom [uavhengig av hvordan nivåene senkes](http://content.onlinejacc.org/article.aspx?articleid=1379036 "Ference et al., 2012"). Følgelig kan mye av nedgangen i hjerte- og karsykdom de siste tiårene [forklares med](http://eurheartj.oxfordjournals.org/content/25/6/484 "Evaluating the impact of population and high-risk strategies for the primary prevention of cardiovascular disease") lavere kolesterolnivåer i befolkningen, slik også en [ny modellstudie fra England](http://bmjopen.bmj.com/content/5/1/e006070.full "Guzman-Castillo et al.") viser.
+
+I Skandinavia kom formelle råd om å begrense fettinntaket til 25-35 % av energiinntaket i 1968 - dette målet ble nådd innen 1990. En ekspertkomité ledet av ernæringsprofessor Ragnar Nicolaysen mente allerede i 1960 at det var indikert at fett var forbundet med iskemisk hjertesykdom. Heller ikke Nicolaysen-komiteen hadde kontrollerte studier med harde endepunkter å støtte seg til, men tok utgangspunkt i befolkningsstudier, dyrestudier (med bl.a. kaniner og aper) og i utviklingen av fettinntaket siden 1900.
+
+De erkjente at "siden det er tale om indisier og ikke beviser, er det naturlig at de bedømmes forskjellig", men mente likevel å vite nok til å foreslå en ernæringspolitikk for å modifisere fettinntaket:
+
+![](images/clipboard-1397664131.png) Fra R. Nicolaysen m.fl. Betenkning om forholdet mellom fett og hjerte-kar-sykdom (utgitt 1963)
+
+Det er ikke praktisk  mulig å gjøre randomiserte kontrollerte studier av alle spørsmål, og randomiserte kontrollerte studier har også feilkilder. **Det finnes ikke f.eks. heller ingen randomiserte kontrollerte studier om inntak av transfett og risiko for hjerteinfarkt, eller sukker og utvikling av fedme, m.m**. **Men om randomiserte kontrollerte studier ikke eksisterer eller støtter en hypotese, skal man da la være å handle?**

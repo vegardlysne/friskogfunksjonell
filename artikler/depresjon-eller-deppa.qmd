@@ -1,0 +1,33 @@
+---
+title: "Klinisk depresjon eller bare litt deppa?"
+author: "Fredrik Smenes Eika"
+date: 2016.02.10
+---
+
+Depresjon er et omdiskutert tema. Aviser, nettsteder og ukeblader omtaler tilstanden i forskjellig form, fra seriøse fagartikler til mer useriøse varianter, som for eksempel: «6 ting du aldri skal si til noen med depresjon» (1). Sykdommen er relativt hyppig, med en prevalens på omtrent 1-2% for menn og 2-4% for kvinner i industrialiserte land. Ca. 10% av befolkningen i vestlige samfunn vil oppleve en eller flere depresjoner i løpet av livet (2). De klassiske symptomene på depresjon er relativt innlysende, og ord som «deprimert» og «deppa» er en del av dagligtalen. Det kan derfor til tider gå noe inflasjon i begrepet. Men når lider man egentlig av depresjon, sett fra et helsefaglig ståsted? Denne artikkelen har som hensikt å tydeliggjøre hva som skiller en depresjon fra en normaltilstand preget av tristhet.
+
+I Skandinavia bruker helsepersonell diagnosekriterier satt av Verdens Helseorganisasjon (ICD-10) for å stille diagnosen klinisk depresjon (3). Disse angir hvilke og hvor mange symptomer som skal være tilstede før diagnosen kan settes. Kriteriene graderer også lidelsen som mild, moderat eller alvorlig, og det er opp til lege eller psykolog å vurdere alvorlighetsgraden av hvert symptom. Således er det en subjektiv vurdering hvorvidt hvert symptom når en viss «klinisk terskel», noe som gir stort rom for feiltolkning. Dette illustreres i en Amerikansk studie der en gruppe pasienter med diagnosen depresjon ble re-evaluert i henhold til de samme diagnosekriteriene, hvor kun 38,4% av deltagerne ble vurdert til å møte kriteriene for tilstanden andre gangen de ble utredet (4). Klinisk erfaring spiller således en vesentlig rolle i diagnostisk øyemed.
+
+De tre kjernesymptomene på depresjon er (a) nedstemthet, (b) nedsatt lyst eller interesse og (c) energitomhet eller økt trettbarhet. Man skal fremvise to av disse tre kjernesymptomene, samtidig som de skal overgå en «klinisk terskel». Et annet viktig tegn på depresjon (til tross for at det ikke er et krav) er fravær av reaktivitet, at normalt gledelige aktiviteter ikke får den deprimerte ut av sin depressive grunnstemning. I forlengelsen av de nevnte symptomene kan personen fremvise en rekke følgesymptomer som inngår i diagnosekriteriene. Dette kan være urimelig selvklandring, sterk følelse av mindreverd eller skyldfølelse. Bevegelsesmønsteret kan også være preget, og redusert ansiktsmimikk, treg tale og langsomt kroppsspråk er ikke uvanlig. Kognitive symptomer som redusert hukommelse, dårlig konsentrasjon og redusert planleggingsevne eller handlekraft ses også hyppig. Dette er blant hovedårsakene til at personer som lider av depresjon kan ha problemer med å utføre sine arbeidsoppgaver. Når man legger til somatiske plager som søvnproblemer, manglende appetitt og vekttap har man totalt sett et omfattende symptombilde som for den deprimerte kan være svært hemmende (2).
+
+Ifølge diagnosekriteriene skal symptomene på depresjon være til stede i over 14 dager. Dette er et viktig veiskille mellom dagligdagse «depresjonssymptomer» og en faktisk depresjon. Basert på antallet symptomer graderes tilstanden, noe som har behandlingsmessige og prognostiske konsekvenser. Avhengig av grad kan behandlingen innebære ulike varianter av strukturert psykologisk behandling. Medisinsk behandling er indisert ved moderat og alvorlig depresjon, mens såkalt elektrokonvulsiv behandling (tidligere kjent som elektrosjokkterapi) kan være indisert ved svært alvorlige varianter eller der ingen behandling har hatt ønsket effekt (2). Det er også avgjørende at somatiske årsaker til den depressive episoden utelukkes (for eksempel hjernesvulst), da dette krever en helt annen type behandling.
+
+Det finnes også noen atypiske former for depresjon som det kan være verdt å merke seg. Man snakker om «melankoli» når kroppslige symptomer, som søvnforstyrrelse, manglende appetitt og hemmet motorikk, er særlig fremtredende, og om «agitert» depresjon når pasienten fremviser rastløshet, indre uro eller vedvarende romstering. I ekstreme tilfeller kan personer med depresjon gå inn i en psykotisk tilstand hvor de opplever vrangforestillinger av nihilistisk karakter, for eksempel en følelse av at ens tarmer råtner eller forsvinner. Personer med psykotisk depresjon kan også oppleve vrangforestillinger som gjenspeiler depresjonen (stemningskongruente vrangforestillinger), som ofte dreier seg om skyld og straff.
+
+Med et slikt symptombilde er det kanskje ingen overraskelse at over halvparten av selvmordsofre har en klinisk depresjon i forveien (2, 5). Sett fra et klinisk perspektiv er det viktig for behandleren å utforske om vedkommende har selvmordstanker og en interessant myte i klinisk sammenheng er at dialog omkring selvmordstanker kan utløse et selvmord ved å «få personen til å tenke på det». Det er i realiteten høyere sannsynlighet for at vedkommende utfører et selvmord om de holder disse tankene for seg selv uten å få delt de med andre (2, 5).
+
+## Oppsummering
+
+Det er normalt for alle at humøret svinger. En dag er formidabel, den neste tungsindig og mørk. Følelsene man har på de tunge dagene kan minne om depresjonssymptomer. Her er det viktig å ha det følelsesmessige spekteret i mente. Normale følelser som tristhet, håpløshet og pessimisme er tilstedeværende hos alle i varierende grad.  Det er først når en erfaren lege eller psykolog vurderer symptomene som tilstrekkelig avvikende vi kan snakke om en depresjon. Samtidig skal de nødvendige diagnostiske kriteriene oppfylles, herunder varighet over to uker, tilstedeværelse av et tilstrekkelig antall kjernesymptomer og følgesymptomer. Til slutt skal somatiske årsaker til de depressive symptomene utelukkes.
+
+[Kilder:]{.underline}
+
+1.   <http://buzzit.no/6-ting-du-aldri-skal-si-til-noen-med-depresjon>
+
+2.  Poul Videbech, FADL’s forlag, Psykiatri, en lærebog om voksnes psykiske sygdomme. 5.udgave 2014
+
+3.  <http://www.who.int/classifications/icd/en/GRNBOOK.pdf>
+
+4.  Clinician-identified depression in community settings: concordance with structures-interview diagnoses. <http://www.karger.com/Article/Abstract/345968>
+
+5.  Assessment of suicide risk in people with depression, University of Oxford’s Centre for Suicide Research. <http://cebmh.warne.ox.ac.uk/csr/clinicalguide/docs/Assessment-of-suicide-risk--clinical-guide.pdf>

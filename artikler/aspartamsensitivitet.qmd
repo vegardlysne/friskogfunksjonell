@@ -1,0 +1,70 @@
+---
+title: "Aspartamsensitivitet  – fiksjon eller fakta?"
+date: 2015.03.30
+categories: 
+  - Søtstoffer
+---
+
+Aspartam er et kunstig søtstoff som i stor grad brukes i blant annet kalorifrie drikkevarer. Søtstoffet har vært en del omdiskutert, spesielt i sosiale medier, og mange har hevdet at det kan være direkte skadelig. I tillegg er det mange som mener å oppleve negative bivirkninger når de inntar aspartam, et fenomen som har blitt omtalt som aspartamsensitivitet. For noen dager siden ble det publisert en studie som har undersøkt dette nærmere (1).
+
+## Først av alt, er aspartam farlig?
+
+Jeg har tidligere skrevet en artikkel om [søtstoffer](sotstoffer.qmd "Søtstoffer") hvor jeg omtalte det europeiske mattilsynets (EFSA) risikovurdering av aspartam (2), sist oppdatert på slutten av 2013. Konklusjonen, i det som er den mest omfattende risikovurderingen for noe tilsetningsstoff per dags dato, var at aspartam i de dosene vi eksponeres for ikke er forbundet med risiko.
+
+Les også: [Aspartam, en søt kontrovers?](aspartam-sot-kontrovers.qmd "Aspartam, en søt kontrovers?")
+
+Så har vi de studiene som sier det motsatte, kanskje oftest i form av lettbrus som settes i sammenheng med overvekt og metabolske forstyrrelser. Disse får mye spalteplass i media, og ingen røyk uten ild, eller?
+
+I en nylig systematisk oversiktsstudie og metaanalyse ble linken mellom kunstige søtstoffer og mål knyttet til kroppsvekt og –sammensetning undersøkt i henholdsvis observasjonsstudier og intervensjonsstudier (3). Konklusjonen var klar. I observasjonsstudier, der forskerne ikke aktivt har påvirket deltakerne, finnes det en assosiasjon mellom inntak av kunstig søtning og overvekt. Det som imidlertid var mest interessant med denne analysen, var at når forskerne analyserte intervensjonsstudiene så fant de det stikk motsatte. I de studiene der forskerne gikk aktivt inn og fikk deltakerne til å bytte fra sukkersøtet drikke til kunstig søtet drikke, fant de en positiv effekt på de samme målene.
+
+Men hvordan kan dette henge sammen? Den mest nærliggende forklaringen er det som kalles revers kausalitet. Dette betyr at det er resultatet som påvirker eksponeringen, ikke motsatt. De som er overvektige ønsker å slanke seg, og velger derfor lettbrusen. Dette fører til at når man ser på dette observasjonelt, så finner man en sammenheng mellom det å drikke lettbrus og det å være overvektig. Dette er en ting du alltid skal ha i bakhodet når du leser resultater fra observasjonsstudier, for det kan snu hele konklusjonen på hodet.
+
+Per i dag tilsier altså evidensen at med tanke på kroppsvekt og –sammensetning, er lettbrus et bedre valg enn sukkerbrus, og de som jobber med atferdsendring bør derfor anbefale et slikt bytte der det er relevant. Men, som nevnt i en redaksjonell artikkel som fulgte metaanalysen over så må vi samtidig være åpen for at fremtidig forskning kan avdekke negative konsekvenser som vi per i dag ikke vet noe om (4). For eksempel ble det publisert en artikkel som fant en mulig negativ effekt på tarmfloraen etter inntak av kunstige søtstoffer, mer spesifikt sakkarin (5). Nylig er det også gjennomført en studie i cellekulturer og i rotter som foreslår at aspartam kan ha en effekt på angiogenesen, nydanning av blodårer, som er en mekanisme involvert i mange sykdommer på godt og vondt (6). Dette er funn som bør reproduseres og undersøkes nærmere før det er mulig å trekke noen konklusjoner.
+
+## Subjektive helseplager – nocebo og systematiske tankefeil?
+
+Det eksisterer drøssevis av anekdotiske fortellinger om mennesker som har opplevd subjektive helseplager etter å ha inntatt aspartam. Problemet med denne typen fortellinger er at de vanskelig kan brukes som direkte bevis på at det faktisk er søtstoffet som forårsaker plagene. De færreste av oss inntar aspartam isolert sett, slik at det kan være flere andre faktorer i kostholdet som spiller inn. I tillegg til dette kan plager rett og slett oppstå fordi vi forventer det. I denne sammenhengen snakker vi om noceboeffekten, placeboeffektens onde tvillingbror. Dersom vi er overbevist om at aspartam gjør at vi får vondt i hodet, så kan dette i seg selv være nok til å utløse nettopp slike symptomer dersom vi tror vi inntar aspartam(holdig drikke).
+
+Og ikke nok med det. På grunn av vår selektive hukommelse, samt vår iboende trang til å konstant lete etter sammenhenger og forklaringer på det vi opplever, kan vi også finne på å koble opplevde symptomer tilbake til det vi anser kan være årsaken – for eksempel den lettbrusen vi drakk. På samme måte er vi også veldig flinke til å ignorere alle gangene vi får i oss søtstoffet uten at noe spesielt skjer. Slike systematiske tankefeil er noe som rammer oss alle, hele tiden, og det å være klar over dem kan hjelpe oss med ikke å trekke forhastede konklusjoner. Dette er også grunnen til at vi har utviklet [den vitenskapelige metode](kildekritikk/vitenskapelig-metode.qmd "Den vitenskapelige metode"), som er et verktøy for å begrense slike menneskelige feilkilder.
+
+**Les mer om vitenskap og systematiske tankefeil i artikkelserien om [kildekritikk, vitenskap og tankefeil](../kildekritikk.qmd "Kildekritikk, vitenskap og tankefeil").**
+
+Det at det eksisterer slike historier og overbevisninger kan selvfølgelig ikke ignoreres, men i seg selv gir de altså ingen fasit, da det er mange potensielle forklarende faktorer i spill. Dette var bakgrunnen for at en forskergruppe i England valgte å sette i gang en studie for å undersøke dette mer systematisk. La oss se nærmere på denne studien!
+
+## Aspartam gav ikke symptomer
+
+I den nylig publiserte studien (se grå boks for hvordan den ble gjennomført) ønsket forskerne å undersøke om selverklært aspartamsensitive personer opplevde symptomer som følge av inntak av aspartam.
+
+> #### Gjennomføring av studien
+>
+> 48 personer med selverklært aspartamsensitivitet ble sammenlignet med 48 ikke-sensitive kontroller basert på kjønn og alder. Personer med allergier ble ekskludert. Deltakerne ble i fastende tilstand servert en energibar som enten inneholdt 100mg aspartam, tilsvarende det vi finner i en boks med lettbrus, eller ikke (placebo). På forhånd hadde forskerne gitt disse barene til 40 friske frivillige for å undersøke om det var mulig å smake forskjell, men det var det ikke. Etter å ha fått den første energibaren, ble personene kalt tilbake minimum en uke senere for å få den andre. På denne måten fikk alle deltakerne prøve begge barene, slik at de også ble sin egen kontroll.
+>
+> Før de fikk energibaren fylte deltakerne ut et spørreskjema som skulle vurdere psykologisk tilstand. I en periode på fire timer etter å ha spist energibaren ble deltakerne ti ganger bedt om å vurdere sin egen opplevelse av 14 symptomer (hodepine, humørsvingninger, følelse av varme, kvalme, trøtthet, svimmelhet, nesetetthet, synsforstyrrelser, tikling, oppblåsthet, sult, tørste, gladhet og opphisselse) fra 0-100 (visuell analog skala). Blodprøver ble tatt før oppstart og etter 4 timer, mens urinprøver ble samlet inn før oppstart samt etter 4, 12 og 24 timer.
+>
+> I tillegg til dette var det planlagt en oppfølgingsstudie for å vurdere en eventuell noceboeffekt, der 25 sensitive og 25 ikke-sensitive personer ville få servert to placebobarer. Dette skulle bare utføres dersom det ble funnet en forskjell i hovedeksperimentet. Siden dette ikke var tilfelle ble ikke denne delen gjennomført.
+
+I denne studien fant de ingen forskjell i symptomer basert på hvorvidt personene spiste aspartam- eller placebobaren. Derimot fant de at de selverklærte aspartamsensitive jevnt over rapporterte flere symptomer, samme hva de spiste, sammenlignet med kontrollgruppen. De fant også at de aspartamsensitive jevnt over rapporterte om mer symptomer ved første besøk enn de gjorde ved besøk nummer to, uavhengig av når de faktisk fikk aspartam.
+
+De fant heller ingen forskjell mellom gruppene på noen av de biokjemiske parametrene etter å ha inntatt aspartam. Et hyppig diskusjonstema er det at aspartam inneholder metanol, det ble ikke funnet målbare mengder metanol i blodet etter inntak av aspartam.
+
+En svakhet som påpekes i forfatternes diskusjon er at de som er undersøkt ikke nødvendigvis er et representativt utvalg. Det påpekes at det å rekruttere 48 personer tok hele 2,5 år, mye mer enn forventet, rett og slett fordi det var vanskelig å få med de som hadde størst frykt. Et annet moment er at studien bare har undersøkt akutte effekter, slik at eventuelle kroniske effekter ikke kan utelukkes.
+
+## Konklusjoner?
+
+Om jeg skal driste meg til å trekke noen konklusjoner basert på denne studien så er det nærliggende å tro at det er andre faktorer enn aspartam i seg selv som forårsaker symptomer hos de som hevder å være aspartamsensitive. Samtidig er det ingen tvil om at symptomene de opplever er reelle, og uavhengig av hva de skyldes så er det ingenting i veien med å styre unna aspartam dersom de selv opplever at det hjelper.
+
+Vann er helsemessig alltid den beste tørstedrikk, men ut fra hva vi vet om aspartam så vil jeg definitivt fortsatt mene at dette er et bedre alternativ enn sukkersøtet drikke. Og der har jeg litteraturen i ryggen, enn så lenge.
+
+Referanser
+
+1.  Sathyapalan T, Thatcher NJ, Hammersley R, Rigby AS, Pechlivanis A, Gooderham NJ, Holmes E, le Roux CW, Atkin SL, Courts F: **Aspartame sensitivity? A double blind randomised crossover study**. *PLoS One* 2015, **10**(3):e0116212.
+
+2.  EFSA ANS Panel (EFSA Panel on Food Additives and Nutrient Sources added to Food), 2013. **Scientific Opinion on the re-evaluation of aspartame (E 951) as a food additive.**EFSA Journal 2013;11(12):3496, 263 pp. doi:10.2903/j.efsa.2013.3496
+
+3.  Miller PE, Perez V: **Low-calorie sweeteners and body weight and composition: a meta-analysis of randomized controlled trials and prospective cohort studies**. *Am J Clin Nutr* 2014, **100**(3):765-777.
+
+4.  Hill JO: **What do you say when your patients ask whether low-calorie sweeteners help with weight management?** *Am J Clin Nutr* 2014, **100**(3):739-740.
+
+5.  Suez J, Korem T, Zeevi D, Zilberman-Schapira G, Thaiss CA, Maza O, Israeli D, Zmora N, Gilad S, Weinberger A *et al*: **Artificial sweeteners induce glucose intolerance by altering the gut microbiota**. *Nature* 2014.
+
+6.  Yesildal F, Aydin F, Deveci S, Tekin S, Aydin I, Mammadov R, Fermanli O, Avcu F, Acikel C, Ozgurtas T: **Aspartame induces angiogenesis in vitro and in vivo models**. *Human & experimental toxicology* 2015, **34**(3):260-265.

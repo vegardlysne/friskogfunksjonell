@@ -1,0 +1,57 @@
+---
+title: "Ernæring ved Kirurgi"
+author:
+  - Jorun Birgitta Bø
+  - Karina Karlsen
+  - Ida Guttormsen
+  - Lise Haug Labahå
+date: 2017.06.19
+---
+
+Artikkelen er skrevet av studenter i klinisk ernæring ved Universitetet i Oslo.
+
+#### Fortsatt henger vi fast i gammel praksis til tross for nye retningslinjer.
+
+Underernæring utgjør et stort problem på norske sykehus. Opptil 50% av innlagte pasienter er underernærte (1). En studie gjennomført på kirurgiske pasienter ved gastrointestinal- og ortopedisk avdeling viste at 40% av pasientene var underernærte allerede før innleggelse (2). Dette kan ha store konsekvenser for pasienten perioperativt, altså i tiden før og etter operasjon.
+
+## Tradisjonell praksis
+
+Ved flere sykehus i Norge brukes fortsatt tradisjonell praksis, der pasienter før kirurgi faster i 12 timer, gjerne fra midnatt. Denne praksisen begrunnes i fare for aspirasjon av mageinnhold over i lungene. Likevel er det ingen dokumentasjon for at tradisjonell faste fra midnatt reduserer risikoen for aspirasjon (3). Det oppleves at helsepersonell er usikre på rutinene ved ernæringsbehandling i tiden rundt operasjon. I frykt for å gjøre noe galt, og i mangel på klare retningslinjer, velger helsepersonell å la pasientene faste lenge. I stedet burde ernæring tilbys aktivt, spesielt ved utsatt operasjon. Dersom man har fastet i 12 timer, for så å få utsatt operasjonen, er det viktig at ikke fasteperioden forlenges og forlenges.
+
+## Uheldige konsekvenser
+
+Langvarig faste før kirurgi kan få uheldige konsekvenser for en allerede underernært pasient (4). Glykogenlagrene tømmes, pasienten blir katabol og risiko for postoperativ (etter operasjon) insulinresistens øker.
+
+Konsekvensene av underernæring hos kirurgiske pasienter er mange. Blant annet gir det økt risiko for infeksjoner, redusert sårtilheling, økt forekomst av liggesår, økt rekonvalesenstid, bakteriell overvekst i tarmsystemet og unormale tap av næringsstoffer via avføring (1, 5).
+
+## Gjeldende retningslinjer
+
+Ifølge ESPENs retningslinjer for kirurgi kan klar drikke inntas inntil to timer før operasjon, og inntak av fast føde inntil seks timer før operasjon(4). Ikke mange er klar over dette. Retningslinjene forklarer at faste fra midnatt er unødvendig for de fleste pasienter(4).
+
+Anbefalingene fra ESPEN bygger på kunnskapsbaserte oppsummeringer sammenfattet til konkrete retningslinjer av en gruppe kirurgiske avdelinger og universiteter i fem ulike land. Retningslinjene kalles ERAS (Enhanced recovery after surgery), og tar sikte på bedre den perioperative behandlingen (under operasjon). Ernæring er en viktig del av disse retningslinjene, og å unngå faste er en nøkkelkomponent (4).
+
+Det finnes ernæringsprodukter utviklet spesielt for tiden rundt operasjon. En klar karbohydrat-drikke kan tilbys pasienter kvelden før og deretter 2 – 3 timer før operasjon. Denne vil kunne redusere preoperativ (før operasjon) tørste, sult, uro og stress hos pasienten, samtidig som glykogenlagre vil fylles opp. Pasienten vil da være i en mer anabol tilstand postoperativt, og dermed kunne ha større nytte av den postoperative ernæringen. I tillegg vil postoperativ insulinresistens forebygges og skjelettmuskulaturen vil i større grad bevares (4).
+
+Mat bør tilbys innen de første timene etter operasjon. Det er derfor viktig at personalet har fokus på å oppmuntre pasienten til å spise. Det skal ikke gå mer enn 24 timer før pasienten får spist.
+
+## ERAS gjelder for ulike pasientgrupper
+
+ERAS ble utviklet i forbindelse med tykktarmskirurgi, men er nå overført til å gjelde alle store operasjoner. Flere pasientgrupper har vist å ha nytte av disse retningslinjene, blant annet innenfor bariatrisk-, gynekologisk-, onkologisk-, ortopedisk- og gastrointestinal kirurgi. De har også vist å være både trygt og fordelaktige for eldre. Unntak fra disse retningslinjene er pasienter ved akuttkirurgi eller de med kjent forsinket magesekktømming eller gastroøsofageal refluks (4).
+
+## Fordeler
+
+Tilstrekkelig ernæring i tiden rundt operasjon er spesielt viktig for å forebygge underernæring og sikre god ernæringsstatus hos pasienten. Dette vil redusere risiko for komplikasjoner postoperativt, øke sårtilheling og redusere rekonvalesensperioden. I tillegg vil uro og stress hos pasienten kunne reduseres. Gjennom redusert liggetid og færre reinleggelser av pasienter vil ERAS også være kostnadsbesparende (4).
+
+Det er et stort behov for å øke fokuset på ernæringsarbeidet ved operasjon blant helsepersonell. ERAS retningslinjene har vitenskapelig dokumentasjon og bør derfor i større grad implementeres i rutinene på sykehus rundt om i landet. I sykehusets travle arbeidshverdag, med mange retningslinjer og rutiner, kan dette være vanskelig. Det er viktig å skape økt bevissthet rundt disse retningslinjene og hvilken stor nytteverdi de har for pasienten.
+
+**Referanser**
+
+1.  Nasjonal faglige retningslinje for forebygging og behandling av underernering. Oslo: Helsedirektoratet, 2013.
+
+2.  Bruun LI, Bosaeus I, Bergstad I, Nygaard K. Prevalence of malnutrition in surgical patients: evaluation of nutritional support and documentation. Clinical nutrition (Edinburgh, Scotland) 1999;18(3):141-7. doi: 10.1054/clnu.1999.0006.
+
+3.  KC, Ljungqvist O, Von Meyenfeldt M, Revhaug A, Dejong CH, Lassen K, Nygren J, Hausel J, Soop M, Andersen J, et al. Enhanced recovery after surgery: a consensus review of clinical care for patients undergoing colonic resection. Clinical nutrition (Edinburgh, Scotland) 2005;24(3):466-77. doi: 10.1016/j.clnu.2005.02.002.
+
+4.  A, Braga M, Carli F, Higashiguchi T, Hubner M, Klek S, Laviano A, Ljungqvist O, Lobo DN, Martindale R, et al. ESPEN guideline: Clinical nutrition in surgery. Clinical nutrition (Edinburgh, Scotland) 2017;36(3):623-50. doi: 10.1016/j.clnu.2017.02.013.
+
+5.  Fairfield KM, Askari R. Overview of perioperative nutritional support. UpToDate. <https://www.uptodate.com/contents/overview-of-perioperative-nutritional-support> (Lest 29/05 2017).

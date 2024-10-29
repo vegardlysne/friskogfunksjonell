@@ -1,0 +1,45 @@
+---
+title: "Trening og nyttårsforsetter"
+author: "Eivind Eliasson"
+date: 2015.01.02
+---
+
+Når det nye året setter inn er det mange av oss som har mål om å spise sunnere, komme i gang med trening, slutte å røyke og så videre. Like vanlig er det at det blir med ønsket om endring. Når det kommer til trening så er «too much, too soon» en gjentagende feil. Er man dårlig trent kan plutselig motivasjon føre til at man kjører på med alt man greier og går lei ganske fort. Å starte med 4x4-intervaller eller et av Arnolds byggeprogram er dessverre ikke uvanlig. Ikke at det er noe galt med noen av treningsformene, de er bare tilpasset personer med et langt bedre treningsgrunnlag. Det mange ikke vet er at man kan få like god og kanskje bedre fremgang på en langt mer motiverende måte, med langt mindre og lettere trening enn man tror.
+
+Forskeren Ulrik Wisløff viste at man får omtrent like god fremgang for kondisjon ved å kjøre 1x4 minutt intervall som 4x4 minutters intervaller om man er utrent/lite trent (1). Såklart må man etter hvert som man kommer i bedre form endre variabler og øke intensitet/frekvens/volum for å få større fremgang, men de første ukene så vil faktisk 1x4 minutter med høy intensitet en til 2 ganger i uka gi god fremgang. Etter noen uker må man kanskje kjøre 2x4 eller kjøre 1x4 3 ganger i uka for å oppnå merkbar fremgang fra økt til økt. Etter noen måneder kjører man kanskje 4x4 en dag i uka og 2 økter rolig langkjøring.
+
+Når det kommer til styrketrening så holder faktisk ett sett pr muskelgruppe for overkroppen og 3 sett for underkroppen (2) for de med lite treningsgrunnlag.
+
+Så med denne kunnskapen i bakhodet, hvordan kan vi nå nyttårsforsettet om å komme i bedre form på en enklere og mer motiverende måte? Jeg skisserer et par opplegg nedenfor om du vil forbedre kondis og styrke.
+
+## Hjemmetrening:
+
+-   Armhevinger på knærne eller tærne. Når du greier 10 repetisjoner så kan du enten bytte fra knærne til tærne eller ha tærne på en krakk, evt ha en ryggsekk på ryggen med noen tunge bøker i til du nok en gang greier 10 repetisjoner, da kan du begynne med to sett i stedet for ett.
+-   Spensthopp hvor du startet på huk med hendene i bakken, 3 ganger 10 repetisjoner
+-   1x4 minutter intervall: Finn deg en strekning hvor du kan gå, sykle, jogge, gå på ski, evt svømme i basseng i minst 4 minutter med høy intensitet. Du bør ha minst 180 i puls når du er ferdig, høyere jo yngre du er (grovt skisse er 220-alder vil være makspuls, du bør oppnå rundt 90% av dette). Du kan ta pulsen når draget er ferdig, så tar du pulsen igjen ett minutt senere. F.eks tell pulsen i 15 sek, gang med 4, ta så pulsen igjen etter 45 sek. Om antall slag har gått ned med 50 eller mer begynner du å bli klar for hardere trening og kan prøve deg på 2x4 neste gang.
+
+## Trening med tilgang til vekter og mer avansert utstyr.
+
+-   [Markløft](markloft.qmd)- 1x5. Start med stangen på kasser, evt 40 kg (letteste vekt du kan få riktig høyde pga diameter på skiver) om du mestrer øvelsen.
+-   Benkpress ett sett med en vekt du ikke greier 10 ganger, løft denne så mange ganger du greier med god teknikk og øk vekten når du greier 10 ganger.
+-   Facepulls eller sittende roing. Ett sett med en vekt du klarer 10 ganger, løft denne så mange ganger du greier med god teknikk, øk vekta når du greier 10 ganger.
+-   Knebøy 3x5, start med stangen, gå ned til parallell dybde eller bruk en kasse som du setter deg ned på. Prøv å øke belastningen for hver økt.
+
+*OBS: Få noen som kan øvelsene til å sjekke om teknikken din er god, spesielt markløft og knebøy som ikke utføres riktig kan medføre risiko for skader i korsryggen og knærne.*
+
+## Mindre enn du tror!
+
+Utgangspunktet for denne artikkelen er at mange går i fellen og starter for hardt når de setter i gang med trening. Jeg ønsket å opplyse om at det svært ofte er mindre som skal til enn man skulle tro, og at dette til og med kan gi bedre fremgang enn å gå for hardt ut. Er du nybegynner eller skal starte opp igjen etter et lengre treningsavbrekk kan det være nok å sikte på to treningsøkter i uken, med utgangspunkt i øvelsene skissert over.
+
+Tidligere saker om nyttårsforsetter fra Frisk og Funksjonell kan du lese her:
+
+-   [5 overkommelige nyttårsforsetter](nyttarsforsetter.qmd "5 overkommelige nyttårsforsetter")
+-   [Møt 2013 med forbedret helse - kosthold](bedre-helse-2013-kosthold.qmd "Møt 2013 med forbedret helse – kosthold")
+-   [Møt 2013 med forbedret helse - trening](bedre-helse-2013-trening.qmd "Møt 2013 med forbedret helse – Trening")
+-   [Diett eller livsstilsendring?](diett-livsstilsendring.qmd "Diett eller livsstilsendring?")
+
+## Godt nyttår og lykke til!
+
+1.  <http://forskning.no/forebyggende-helse-menneskekroppen-trening/2010/12/la-julesvetten-renne>.
+
+2.  <http://forskning.no/helse-menneskekroppen/2008/02/tren-mindre-fa-samme-resultat>

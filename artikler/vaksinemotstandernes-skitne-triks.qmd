@@ -1,0 +1,35 @@
+---
+title: "Vaksinemotstandernes skitne triks"
+author: "Andreas Wahl Blomkvist"
+date: 2015.01.05
+---
+
+Gunnar Vidnes har skrevet [en rørende kronikk](http://www.nrk.no/ytring/sysken-som-manglar-1.12081789) på NRK ytring som fikk kommentarfeltet til å blusse opp i vaksinedebatten (1). Han har helt rett i det han sier – barnesykdommer *er* farlige og vaksiner har vært redningen. Likevel diskuteres det på fullt alvor i 2014 hvorvidt barnevaksiner er nødvendige. Dette kommer nok delvis fra at folk har ”glemt” hvordan det var å leve i kamp mot bakterier som *corynebacterium diphtheriae* (årsaken til difteri)*, bordetella pertussis* (kikhoste) eller virus som meslingvirus og rubellavirus (røde hunder).
+
+Det er mangeårig hardt vitenskapelig arbeid som ligger bak forståelsen av disse sykdommene og deretter til en effektiv forebygging. Nytteverdien av vaksiner er godt dokumentert, men likevel greier den konspiratoriske vaksinemotstandsbevegelsen å rekruttere mennesker til sine rekker. Hvordan gjør de det? Svaret er mangfoldig, men en av de er en bevisst misbruk av statistikk, og som en medisinstudent som har brukt utallige timer i debatt med denne bevegelsen ønsker jeg å gjøre folk oppmerksom på en av teknikkene som brukes til å lure foreldrene til å ikke vaksinere sine barn.
+
+Vedlagt følger en graf fra en typisk propagandanettside som viser antallet *dødsfall* av meslinger per 100,000 innbyggere per år i USA fra 1900 til 1984. La oss for øyeblikket anta at tallene stemmer. Vaksinen ble introdusert i 1963 og fra grafen så ser det ut som vaksinen ikke hadde noe påvirkning på sykdommen. ”Aha!” sier vaksinemotstanderne, vaksinen har ingen effekt.
+
+Man trenger litt epidemiologisk viten for å forstå lureriet som foregår på disse nettsidene.
+
+Vaksiner er ikke en behandling for noen som *har sykdommen* (og dermed vil ikke redde disse fra å dø), men et tiltak som hindrer at sykdommen oppstår. I epidemiologi kalles dette for *primær prevensjon* og dette vil i det lengre løp også påvirke antallet dødsfall, men det vil primært ha en umiddelbar effekt på sykdomsbyrden.
+
+Vi må altså se på *antallet nye tilfeller* av sykdommen relatert til vaksinetidspunktet (dette er hva som kalles *insidensen*). Vedlagt følger en graf fra Center of Disease Control and Prevention (CDC) om antallet nye sykdomstilfeller årlig relatert til vaksinen (2). Her ser vi den kolossale effekten vaksinasjon hadde på sykdomsbyrden. Over 400 000 mennesker fikk meslinger årlig før 1963. Dette antallet falt mer enn 98% bare noen få år etter vaksinen ble innført. Slik informasjon deles naturligvis ikke ut fra antivaksinebevegelsen.
+
+![](images/clipboard-3880613198.png)
+
+Meslinger er heldigvis ikke en sykdom der den rammede typisk dør, og som første graf viser er det få som dør av den, spesielt med moderne medisinsk behandling. Det er likevel en sykdom som kan gå hardt utover individet. Lungebetennelse og hjernebetennelse er kjente komplikasjoner som vi ser langt hyppigere enn dødsfall, og de er i seg selv belastende og kan føre til livslange komplikasjoner.
+
+Med litt kunnskap innenfor epidemiologi så er det altså lett å vise hvor effektive barnevaksinene i virkeligheten er. Folk som generelt benekter dette blir derfor nødt til å hevde at organisasjoner som CDC, verdens helseorganisasjon (WHO) og diverse institutter verden over forfalsker denne statistikken, og det er her konspirasjonsteoriene kommer til overflaten som ”siste utvei”.
+
+Eksempelet over er bare én av mange metoder som brukes av vaksinemotstanderne. CDC har en [nettside](http://www.cdc.gov/vaccines/vac-gen/6mishome.htm) som forklarer andre feiloppfatninger, og det finnes god informasjon fra diverse ekspertorganisasjoner (2).Relevant informasjon for Norge kan finnes på [Folkehelseinstittutet (FHI) sine nettsider](http://www.fhi.no/tema/vaksiner-og-vaksinasjon%20) (3).
+
+Vi på Frisk og Funksjonell ønsker å bidra til bevisstgjøring om misvisiningene som stadig lurer godtroende mennesker, og dermed dempe unna propagandaen fra vaksinemotstanderne. På en slik måte kan vi redde liv og fortsette å leve uten sykdommene som en gang var en grotesk del av hverdagen – slik som Vidnes sin hjerteskjærende historie bekrefter (1).
+
+**Referanser**
+
+1.  Vidnes G. *Sysken som manglar.* NRK ytring 2014. <http://www.nrk.no/ytring/sysken-som-manglar-1.12081789> (15.12.2014)
+
+2.  CDC. *Some Common Misconceptions About Vaccination and How to Respond to Them*. CDC 2011. <http://www.cdc.gov/vaccines/vac-gen/6mishome.htm> (14.12.2014)
+
+3.  FHI. *Vaksiner og vaksinasjon*. Folkehelseinstituttet. <http://www.fhi.no/tema/vaksiner-og-vaksinasjon> (15.12.2014)

@@ -1,0 +1,107 @@
+---
+title: "Bør du egentlig spise korn?"
+author: 
+  - Camilla Bettum
+  - Ida Marie Holm
+  - Maia Verhaug
+  - Vilde Bråten
+date: 2020.09.28
+---
+
+Artikkelen er skrevet av studenter i klinisk ernæring ved Universitetet i Oslo.
+
+”Du må kutte ut brød og andre kornprodukter” er et velkjent og sannsynligvis velment råd man kan få for ulike plager om man besøker diverse forum, kommentarfelt og også visse behandlere. Det framholdes som løsningen på alt fra magevondt til fedme og diabetes, og i dag er kornet bannlyst av mange – dessverre. Det er nemlig få holdepunkter for at kornprodukter faktisk er involvert de fleste av de plagene som mange hevder. I denne bloggposten skal vi se at fullkornsprodukter derimot kan ha svært positive helseeffekter. Derfor vil vi sette fokus på noe av forskningen som viser de store helsefordelene man kan oppnå ved å spise fullkorn hver dag.
+
+### Når kan korn være et problem?
+
+Noen opplever at korn kan skape fordøyelsesproblemer. Ofte knyttes dette til gluten, som er proteiner i hvete, spelt, bygg og rug. For ca. 1 % av befolkningen som har cøliaki er dette helt reelt og alvorlig. Den eneste behandlingen er å unngå gluten. De fleste cøliakere kan heldigvis spise glutenfrie havregryn og andre glutenfrie korn. For personer som ikke har cøliaki, men allikevel opplever mageplager, så handler dette gjerne om irritabel tarm (IBS). Ifølge helsenorge.no gjelder dette mellom 8 – 25 % av den voksne befolkningen. For denne gruppen kan det være aktuelt å moderere inntaket av korn og/eller unngå hvete, rug og bygg, som har et høyt innhold av fermenterbare karbohydrater (såkalte FODMAPs). Det vil imidlertid sjelden være verken nødvendig eller hensiktsmessig å kutte ut korn fullstendig. FODMAPs er ikke skadelige for IBS-pasienter, selv om for høyt inntak selvfølgelig kan oppleves svært ubehagelig.
+
+### Alternative helsepåstander om korn
+
+Andre helsepåstander om korn er mindre vitenskapelig fundert. Det er for eksempel idéen om antinæringsstoffer som binder mikronæringsstoffene i kornet, slik at vi ikke får tatt dem opp i tarmen. Det er riktig at det eksisterer slike forbindelser i kornprodukter, men kornvarene inneholder generelt sett mer mikronæringsstoffer enn disse stoffene klarer å binde opp. I tillegg vil anti-næringsstoffene til en viss grad brytes ned ved tilberedning. Det vil si at det er mindre av disse stoffene for eksempel i ferdigbakt brød, den formen mange av oss inntar korn i, sammenlignet med ubearbeidet korn og mel. Det blir dermed misvisende å påstå at vi ikke får næringsmessig utbytte av kornprodukter. Et av disse anti-næringsstoffene, lektiner, får gjerne separat omtale som en uønsket komponent i plantemat. Lektiner kan potensielt tilskrives noen helseeffekter, men disse vet vi foreløpig for lite om og de kan like gjerne være positive som negative (1).
+
+Kornprodukter, kanskje spesielt brød, pasta og bakervarer, knyttes av mange til uønsket vektoppgang. Ofte er det insulin som får skylden ettersom det skilles ut etter et karbohydratholdig måltid og hemmer forbrenning av fettsyrer. Blant annet en helt ny og spennende kontrollert studie (foreløpig kun i pre-print) er kanskje siste spikeren i kisten for hypotesen om at høyt insulinnivå forhindrer vekttap (2). Effekten av fullkorn på insulin kommer vi også tilbake til senere i artikkelen. Det er mange grunner til at det å unngå kornprodukter kan bidra til vekttap, men det handler ikke om kornet i seg selv. Faktisk ser fullkorn ut til å kunne bidra til å forebygge fedme og overvekt (3).
+
+### Hva er fullkorn?
+
+Kornet består i hovedsak av skall, kjerne og kime. De forskjellige delene inneholder ulike næringsstoffer og utgjør i varierende grad kornets vekt og størrelse. Kjernen er størst og inneholder mesteparten av kornets stivelse, i tillegg til noe protein. Skallet består av cellulose, en type kostfiber. De ulike kornsortene bidrar også med andre typer fiber. Rett under skallet finner vi også viktige proteiner, vitaminer og mineraler. Kimen er den minste bestanddelen og inneholder en del umettet fett.
+
+![](images/clipboard-209810860.png)
+
+Fullkorn defineres som et intakt korn eller frø, og i bearbeidede fullkornsprodukter er innholdet av skall, kime og kjerne tilsvarende forholdet i det hele kornet. Når hele korn/fullkorn males til mel, får vi det som kalles sammalt mel. Sammenlignet med fint mel, inneholder sammalt mel mer fiber, protein og umettet fett, i tillegg til essensielle vitaminer og mineraler. Spesielt de spesifikke fibertypene i fullkorn knyttes opp mot mange av de positive helseeffektene. Hvete er den vanligste kornsorten, men det finnes mange andre: spelt, rug, bygg, havre, ris, mais, hirse, sorghum og teff.
+
+### Effekter knyttet til tarmen (og kreft)
+
+De nye, systematiske kunnskapsoppsummeringene fra Word Cancer Research Fund ble publisert i 2018. Rapporten oppsummerer sannsynlig dokumentasjon for at fullkorn, både som en del av fiberrike matvarer og som en isolert matvare, reduserer risikoen for utvikling av kreft i tykk- og endetarm. De vannbindende- og geldannende egenskapene til fiber øker tarminnholdet og viskositeten til den fekale massen. Passasjetiden til tarminnholdet går raskere, og eksponeringen av karsinogene stoffer mot tarmveggens slimhinner reduseres. Fiber har i tillegg ladning, altså en evne til å binde ulike stoffer. Denne egenskapen ved fiber beskytter ytterligere mot tarmkreft ved å binde karsinogene stoffer. Altså er det flere mekanismer som gir redusert eksponering av disse substansene mot tarmepitelet, samt raskere passasje av tarminnholdet og slik reduserer risikoen for utvikling av blant annet kreft i tykk- og endetarm. I tillegg til denne mekanismen kan også fiber fungere kreftforebyggende ved at det binder fytokjemikalier (biologisk aktive planteforbindelser) og antioksidanter. Det antas at fullkorn har lignende mekanismer for kreftforebygging som frukt og grønnsaker. Hovedsakelig er det fytokjemikalier som gir en beskyttende effekt ved å redusere oksidativt stress og inflammasjon, og dermed reduserer risiko for kreftutvikling (4, 5).
+
+### Effekter knyttet til hjerte- og karsykdom
+
+Systematiske kunnskapsoppsummeringer har konkludert med at det er en sannsynlig årsakssammenheng mellom fullkorn og fiber og hjerte-og karsykdom (HKS; 6). Flere studier har vist at høyt fiberinntak reduserer dødeligheten av hjerte-og karsykdom, og har en gunstig effekt på totalkolesterol, LDL-kolesterol og triglyserider, som er uavhengige risikofaktorer for HKS (7). Andre studier og kunnskapsoppsummeringer har også konkludert med at det er en relativt sterk omvendt sammenheng mellom inntak av fullkorn og HKS (8-10). En metaanalyse av prospektive kohortstudier fant at et høyt inntak av fullkornsvarer, tilsvarende 3,7 porsjoner, var assosiert med 21% lavere forekomst av HKS. Liknende estimater ble funnet for hjertesykdom, hjerneslag og dødelig HKS (11). Fullkorn påvirker flere sentrale risikofaktorer for HKS. Blant annet kan løselig fiber, mer spesifikt betaglukan, som det er spesielt mye av i bygg og havre, øke produksjonen av gallesyrer og dermed redusere nivåene av LDL-kolesterol, i tillegg til å ha en gunstig effekt på LDL-reseptorene. Høyt innhold av fiber i kosten er også assosiert med lavere kroppsmasseindeks, lavere blodtrykk og lavere nivåer av triglyserider (7).
+
+### Effekter knyttet til diabetes
+
+Flere observasjonsstudier viser en sammenheng mellom fullkorn og risiko for å utvikle diabetes type 2 (DT2; 12, 13). En helt ny kunnskapsoppsummering fra 2019 viser at for hver ekstra porsjon à 30 g fullkorn daglig reduseres den relative risikoen for DT2 med 13 %. Hver ekstra porsjon med kostfiber fra korn à 10 g fiber daglig ga 25 % lavere risiko (14). Et lignende dose-responsforhold er vist i en annen meta-analyse hvor inntak av 3 porsjoner fullkornsprodukter (tilsvarende 45 g fullkorn) ga 20 % lavere risiko for DT2 sammenlignet med kun 0,5 porsjon (tilsvarende 7,5 g fullkorn) (15). Hovedteorien for hvorfor fullkorn kan beskytte mot DT2 er via å påvirke kostholdets glykemiske belastning og dermed nivåene av blodglukose og insulin, som igjen er risikofaktorer for DT2. Forskningsresultatene om effekten av kosthold med lav glykemisk indeks spriker noe (3). Det er likevel en del som tyder på at fullkorn har en gunstig effekt på blodsukker- og insulinnivåer. Flere observasjonsstudier har vist at fullkorn kan forbedre insulinresistens hos friske individer samt bedre glykemisk kontroll både hos friske og pasienter med DT2 (16-18). Man har også sett forbedret insulinsensitivitet hos individer med fedme samt bedre betacellefunksjon hos individer med pre-diabetes ved inntak av fullkorn (19, 20). Overvekt og fedme er andre faktorer som knyttes til risiko for DT2, som nevnt foreligger det noe evidens for at fullkorn bidrar positiv også med tanke på vektregulering. Noe forskning tyder imidlertid på at kvaliteten på fullkornsproduktene ikke er likegyldig. Ubehandlet fullkorn ser ut til å ha en gunstigere effekt på blodsukkeret enn mer prosesserte produkter (21).
+
+### Jo mer, jo bedre
+
+En metaanalyse av 45 prospektive befolkningsstudier fra 2016, konkluderte med at det skal små endringer i inntak av fullkorn til for at man ser en positiv effekt på helsen. Tre porsjoner fullkorn mer hver dag var forbundet med lavere risiko for å dø tidlig av hjerte-og karsykdom, kreft, diabetes, luftveissykdommer og infeksjonssykdommer. Det var størst reduksjon i risiko fra dem som ikke spiste fullkorn i det hele tatt, og opp til de som spiste 50 gram per dag. Lavest risiko hos dem som spiste sju porsjoner per dag. Jo høyere inntak, jo mer beskyttelse (22). Forskerne i denne studien påpekte at disse effektene kun gjaldt fullkorn, og ikke hvitt mel og fine kornprodukter.
+
+### Utfordringer med forskningen
+
+Forskningen på fullkorn består i stor grad av observasjonsstudier. En svakhet ved dette er at man ikke kan påvise årsakssammenheng. Når det kommer til studier på fullkorn spesielt har en utfordring vært at man ikke bruker entydige standarder for å definere fullkorn og grovhetsgrad (23). I flere studier er fullkorn definert som varer som inneholder kun 25 % fullkorn eller mer. Dette kan kanskje forklare en del av de sprikende resultatene. En annen svakhet er at det i forskningen sjelden skilles mellom ulike korntyper. I tillegg til observasjonsstudiene finnes det også RCTer samt større meta-analyser og kunnskapsoppsummeringer. Vi har referert til flere slike i denne artikkelen, men en del av RCTene har riktignok få deltakere. Totalt sett finnes det svært mange studier på helseeffekter av fullkorn som til sammen gir et relativt sterkt bevisbilde. Studiene inkluderer til sammen flere hundre tusen personer, alt fra friske helsepersonell (f.eks. Nurses’ Health Study), folk med ulik etnisk opprinnelse (f.eks. MESA-studien) og dessuten individer med livsstilstilstander som fedme og diabetes. Resultatene er dermed i stor grad overførbare. Etter hvert kommer det nok også noen svar om helseeffekter av fullkorn via påvirkning av mikrobiota. Vi vet at det er koblinger mellom mikrobiota og fiberinntak, som jo fullkorn bidrar stort til, men det er et relativt nytt forskningsfelt hvor man enn så lenge har flere spørsmål enn svar.
+
+### Spis fullkorn!
+
+Livsstilssykdommene vi har omtalt er blant de største årsakene til dårlig helse i Norge i dag. Hvis man er opptatt av å forebygge sykdom er det sterkt vitenskapelig grunnlag for at det lønner seg å inkludere fullkorn i kostholdet sitt. Helsedirektoratets kostråd, som bygger på systematiske kunnskapsoppsummeringer, anbefaler et inntak av grove kornproduktene tilsvarende 70-90 gram sammalt mel eller fullkorn per dag. Et eksempel på anbefalingen er f. eks. én tallerken grov kornblanding eller havregrøt, og to skiver ekstra grovt brød. Så konklusjonen blir: ta deg en (fullkorns)bolle med god samvittighet!
+
+**Referanser**
+
+1.  Panacer K, Whorwell PJ. Dietary Lectin exclusion: The next big food trend? World J Gastroenterol. 2019;25(24):2973-6.
+
+2.  Hall KD, Guo J, Courville AB, Boring J, Brychta R, Chen KY, et al. A plant-based, low-fat diet decreases ad libitum energy intake compared to an animal-based, ketogenic diet: An inpatient randomized controlled trial. 2020.
+
+3.  Kostråd for å fremme folkehelsen og forebygge kroniske sykdommer : metodologi og vitenskapelig kunnskapsbidrag. Oslo: Helsedirektoratet; 2011.
+
+4.  Continuous Update Project Expert Report 2018. Recommendations and public health and policy implications.: World Cancer Research Fund\
+    American Institute for Cancer Research; 2018.
+
+5.  Continuous Update Project Expert Report 2018. Diet, Nutrition, Physical Activity and Cancer: a Global Perspective.: World Cancer Research Fund\
+    American Institute for Cancer Research; 2018.
+
+6.  Diet, nutrition and the prevention of chronic diseases. 2003. Report No.: 0512-3054 (Print)\
+    0512-3054.
+
+7.  Van Horn L, McCoin M, Kris-Etherton PM, Burke F, Carson JA, Champagne CM, et al. The evidence for dietary prevention and treatment of cardiovascular disease. J Am Diet Assoc. 2008;108(2):287-331.
+
+8.  Mejborn H, Biltoft-Jensen A, E. T, Tetens I. Fuldkorn - Definition og vidensgrundlag for anbefaling af fuldkornsindtag i Danmark.\
+    : Fødevareinstituttet, Danmarks Tekniske Universitet; 2008.
+
+9.  Nordic nutrition recommendations : NNR 2004 : integrating nutrition and physical activity. 4th ed. ed. Copenhagen: Nordic Council of Ministers; 2004.
+
+10. Report of the Dietary Guidelines Advisory Committee on the dietary guidelines for Americans to the Secretary of Agriculture and the Secretary of Health and Human Services. Report of the Dietary Guidelines Advisory Committee on the dietary guidelines for Americans to the Secretary of Agriculture and the Secretary of Health and Human Services.
+
+11. Mellen PB, Walsh TF, Herrington DM. Whole grain intake and cardiovascular disease: a meta-analysis. Nutr Metab Cardiovasc Dis. 2008;18(4):283-90.
+
+12. Montonen J, Knekt P, Järvinen R, Aromaa A, Reunanen A. Whole-grain and fiber intake and the incidence of type 2 diabetes. Am J Clin Nutr. 2003;77(3):622-9.
+
+13. Murtaugh MA, Jacobs DR, Jr., Jacob B, Steffen LM, Marquart L. Epidemiological support for the protection of whole grains against diabetes. Proc Nutr Soc. 2003;62(1):143-9.
+
+14. Neuenschwander M, Ballon A, Weber KS, Norat T, Aune D, Schwingshackl L, et al. Role of diet in type 2 diabetes incidence: umbrella review of meta-analyses of prospective observational studies. BMJ. 2019;366:l2368-l.
+
+15. Chanson-Rolle A, Meynier A, Aubin F, Lappi J, Poutanen K, Vinoy S, et al. Systematic Review and Meta-Analysis of Human Studies to Support a Quantitative Recommendation for Whole Grain Intake in Relation to Type 2 Diabetes. PLoS One. 2015;10(6):e0131377-e.
+
+16. Liese AD, Roach AK, Sparks KC, Marquart L, D'Agostino Jr RB, Mayer-Davis EJ. Whole-grain intake and insulin sensitivity: the Insulin Resistance Atherosclerosis Study. The American Journal of Clinical Nutrition. 2003;78(5):965-71.
+
+17. Lutsey PL, Jacobs DR, Jr., Kori S, Mayer-Davis E, Shea S, Steffen LM, et al. Whole grain intake and its cross-sectional association with obesity, insulin resistance, inflammation, diabetes and subclinical CVD: The MESA Study. Br J Nutr. 2007;98(2):397-405.
+
+18. Marventano S, Vetrani C, Vitale M, Godos J, Riccardi G, Grosso G. Whole Grain Intake and Glycaemic Control in Healthy Subjects: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. Nutrients. 2017;9(7):769.
+
+19. Malin SK, Kullman EL, Scelsi AR, Haus JM, Filion J, Pagadala MR, et al. A whole-grain diet reduces peripheral insulin resistance and improves glucose kinetics in obese adults: A randomized-controlled trial. Metabolism. 2018;82:111-7.
+
+20. Malin SK, Kullman EL, Scelsi AR, Godin JP, Ross AB, Kirwan JP. A Whole-Grain Diet Increases Glucose-Stimulated Insulin Secretion Independent of Gut Hormones in Adults at Risk for Type 2 Diabetes. Mol Nutr Food Res. 2019;63(7):e1800967.
+
+21. Åberg S, Mann J, Neumann S, Ross AB, Reynolds AN. Whole-Grain Processing and Glycemic Control in Type 2 Diabetes: A Randomized Crossover Trial. Diabetes Care. 2020.
+
+22. Aune D, Keum N, Giovannucci E, Fadnes LT, Boffetta P, Greenwood DC, et al. Whole grain consumption and risk of cardiovascular disease, cancer, and all cause and cause specific mortality: systematic review and dose-response meta-analysis of prospective studies. BMJ. 2016;353:i2716.
+
+23. Malik VS, Hu FB. Dietary prevention of atherosclerosis: go with whole grains. The American Journal of Clinical Nutrition. 2007;85(6):1444-5.

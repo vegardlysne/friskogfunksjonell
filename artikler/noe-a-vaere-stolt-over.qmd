@@ -1,0 +1,61 @@
+---
+title: "Noe å være stolt over"
+author: "Andreas Wahl Blomkvist"
+date: 2015.06.08
+---
+
+Det er en betydelig forskjell mellom evidensbasert medisin og andre former for medisin, kall det gjerne alternativ, holistisk eller komplementær medisin. Forskjellen ligger i praksis der vi forandrer våre behandlinger og sykdomsforståelse i samsvar med forskning. Dette er ikke bare noe som stammer fra den vitenskapelige tradisjonen, men som er pålagt helsepersonell av loven. Det kreves at vi er faglig oppdatert og handler deretter \[1\]. Det kan dessverre ikke sies om en rekke andre behandlingsmetoder.
+
+## Fungerer det ikke? Da slutter vi!
+
+Det skal trolig en del ydmykhet og selvkritikk til for å utøve den medisinske tradisjonen på best mulig måte. Nylig satt jeg i case-undervisning hvor en ortopedkirurgisk overlege fortalte hvordan randomiserte studier hadde undergravd nytteverdien av artroskopi ved osteoartritt i kneet \[2-3\]. Intuitivt gir det mening å «rydde opp» i kneet, og legen hadde så klart en personlig opplevelse av at det virket. Likevel innser han den dag i dag at dette i stor grad er et resultat av placebo og at risikoene ved operasjon (hvor enn små de er ved artroskopi) ikke veier opp for å fortsette behandlingspraksisen. På grunn av studiene blir det endringer i bruken av artroskopi ved symptomatisk osteoartritt i kneet \[4\].
+
+Vi trenger ikke å forestille oss hva slags effekt slike studier ville hatt på for eksempel homeopati – evidensen ligger allerede ute. La oss likevel for ordens skyld anta at hundrevis av nye høykvalitetsstudier ble publisert i morgen der alle viste dette. Ville det hatt noe som helst påvirkning i praksisen til homeopati? Ville de sluttet å gi sukkerpiller for å behandle allergi, infeksjoner eller til og med ebola? Trolig ikke, slik kunnskap er ikke velkommen i deres tradisjon. Motargumenter har blitt finpusset i en årrekke for å holde på en 200 år gammel tradisjon. «Det er ikke slik at det ikke er en effekt med behandlingen, det er vitenskapen som ikke er god nok til å identifisere den» eller «Det virker på en måte som vitenskapen ikke kan måle». Dette er selvfølgelig bare dårlige bortforklaringer ettersom vi ikke trenger å vite noe som helst om hvordan noe virker for å vise om det har effekt.
+
+## Skolemedisinen har også svin på skogen – men vi innrømmer det!
+
+Før vitenskapen ble for alvor benyttet i medisin var det en tradisjon blant leger å bruke blodtapping/årelating. Dette drev vi på med i hundrevis av år, men med kliniske studier kunne Pierre Charles Alexandre Louis vise at det var ineffektivt.
+
+Dette betyr ikke at alt som foregår i klinisk praksis i dag er basert på empiri. Det er trolig flere myter innenfor medisinsk praksis. Man skal heller ikke undergrave viktigheten av erfaringen en lege har oppdratt seg og kunnskapen fra denne erfaringen som går fra lege til student. Likevel, vårt fag yter en akademisk selvkritikk, og i vårt eget [Tidsskriftet](http://tidsskriftet.no/) blir disse erfaringene og tradisjonene utfordret. Noen eksempler er antallet timer vi kan vente før man ikke bør sy et sår, eller om det er farlig å kombinere alkohol med visse antibiotika, eller om adrenalin i lokalbedøvelse kan benyttes ved fingre og tær \[5-7\].
+
+Forandringer i praksis rister løs på nåværende retningslinjer slik at ingenting nødvendigvis blir «skrevet i sten». For meg er det ingenting som bygger mer tillit til den instruerende lege enn en innrømmelse av «det vet jeg faktisk ikke». Dette gir meg en forståelse av personen sin ærlighet overfor hva hun eller han vet. Det viser også at vi har evnen til å innrømme uvitenhet selv innenfor vårt eget fagfelt. Dette er en essensiell evne i medisin, spesielt når våre avgjørelser tidvis er basert på subjektive vurderinger og mangelfull informasjon. Andre ganger har simpelthen ikke forskningen gitt noe foreløpig svar, og vi sitter igjen med vår intuisjon, erfaring og forståelse av mennesket. Å være bevisst på sitt eget felts svakheter er ikke en svakhet i seg selv, det er tvert i mot en styrke.
+
+Vi finner også denne innrømmelsen i alle seriøse fagbøker, oppslagsverk og tekster innenfor moderne medisin. Det er rett og slett ikke greit å villede, forenkle, gjette eller dikte opp noe, hvor enn lett det måtte være. Dette mangler i alternativ medisin. Som eksempel kan vi lese om anvendelsen av refleksologi på alternativ.no: «Ved å stimulere nyrenes, leverens og fordøyelsessystemets reflekssoner igangsettes kroppens avgiftende funksjoner, noe som bidrar til en høyere utskillelse av avfallsstoffer og tungmetaller» \[8\]. Det høres fint ut, spesielt for noen som forstår de norske ordene, men ikke begriper prosessene som er involvert. En annen gjenganger innenfor alternative sirkler er at «det styrker immunforsvaret». For en person med en akademisk forståelse av immunforsvaret kan dette tvilsomt gi mye mening. Immunforsvaret kan sjeldent reduseres til en målestokk hvorav «styrken» kan måles på en akse. Slike fraser gir inntrykk av at en behandling gjør noe vidunderlig, og det bidrar til en falsk legitimering av tvilsom praksis.
+
+## Aldri så vondt at det ikke er godt for noe!
+
+Å redusere komplekse prosesser til punktet der det nesten ikke lenger har noe realistisk relevans er sannsynligvis ikke heldig for faglig utvikling. Men, det finnes også fordeler med dette. For det første blir løsningen konkret, enkel og lett å forstå for pasienten. For det andre vil en behandler med sterk tro på denne overforenklingen overføre denne sikkerheten til pasienten. Hvis vi legger til det faktum at alternativ behandlere sjeldent snakker om bivirkninger i sine behandlinger, så kan vi med god grunn anta at dette har god (placebo)effekt.
+
+Dette er ikke i like stor grad tilfellet for moderne medisin. Den usikkerheten vi daglig opplever er positiv for profesjonen sin utvikling, men kan være negativ for pasienten. Uklar eller manglende informasjon kan gjøre sykdomsopplevelsen vanskeligere, og noen ganger, selv når informasjonen er tilgjengelig, bruker legen for lite tid – eller er rett og slett for dårlig – til å forklare sykdommen eller situasjonen overfor pasienten. Samtidig bruker vi terminologi som kan oppleves komplisert. I tillegg har vi en etisk plikt overfor pasienten til å informere godt om bivirkninger. I en kommentarartikkel i JAMA problematiseres nettopp dette: å opplyse om bivirkninger kan avle noceboeffekten og begrense den terapeutiske effekten – hvor går grensen for *relevant* informasjon om bivirkning \[9\]?
+
+## Samme spill, ulike regler?
+
+Spillereglene for skolemedisinen er med andre ord ulike fra alternativ medisin. Den essensielle grunnpilaren for utvikling i skolemedisin (usikkerhet, selvkritikk, evidensbasert, krav om empiri, kunnskapsbasert) er også en av svakhetene i praksis. Alternativ medisin på sin side mangler evidens og står fast på sine forklaringsmodeller, men spiller samtidig et lingvistisk spill for å avle så mye placeboeffekt som mulig igjennom trygghet, sikre svar, manglende informasjon om bivirkninger og forenklede problemstillinger. Det er to helt forskjellige terapeutiske spill, og selv om jeg kan favorisere en *komplementær* rolle til alternativ medisin i helsevesenet, så ser jeg praktiske problemer med forene disse polene. Lege Pernille Nyhlen påpekte i Aftenposten at hele alternativbransjen er preget av mangel på kontroll, sikkerhet og regulering \[10\]. I praksis kan alternativbehandlere i Norge gjøre hva de vil, med hvem de vil, og ta betalt som det passer. Slike frie tøyler er vanskelig å forstille seg i et fungerende helsevesen.
+
+## Vis deg tilliten verdig
+
+Å hevde kunnskap der det ikke finnes, vil hindre framgang. Det er nettopp fordi vi er ærlig overfor oss selv og setter tvil på vår forståelse som har gjort moderne medisin til den livredderen den er i dag. Det er også derfor helsepersonell og akademikere innen helse får den tilliten de fortjener. Så, hvis du befinner deg i et slikt yrke eller studerer til å ta del i denne tradisjonen, verdsett denne tilliten, ikke misbruk den. Ta vare på ”det jeg vet ikke”. Du går inn i et yrke du kan være stolt av!
+
+*Teksten stod opprinnelig i [femte utgave av Æsculap](http://legeforeningen.no/Student/Norsk-medisinstudentforening/asculap/Asculap-05-2014/) 2014, et magasin for norske medisinstudenter*
+
+**Referanser**
+
+1.  Lov om helsepersonell av 2. juli 1999 nr. 64. Kap. 2, § 4
+
+2.  Kirkley A, Birmingham TB, Litchfield RB et al. *A randomized trial of arthroscopic surgery for osteoarthritis of the knee*. N Engl J Med. 2008 Sep 11;359(11):1097-107
+
+3.  Moselet JB, O’Malley K, Petersen NJ et al. *A controlled trial of arthroscopic surgery for osteoarthritis of the knee.* N Engl J Med. 2002 Jul 11;347(2):81-8
+
+4.  Mounsey A, Ewigman B. *Arthroscopic surgery for knee osteoarthritis? Just say no.* J Fam Pract. Mar 2009;58(3):143-145
+
+5.  Steen K. *Bør traumatiske hudsår lukkes innen åtte timer?* Tidsskr Nor Legeforen 2014 Sep 16;134(17):1657-60
+
+6.  Fjeld H, Raknes G. *Er det virkelig farlig å kombinere metronidazol og alkohol?* Tidsskr Nor Legeforen 2014 Sep 16;134(17):1661-3
+
+7.  Finsen V. *Nekrose i fingre og tær etter lokalbedøvelse med adrenalin – en vandrehistorie?* Tidsskr Nor Legeforen 2013 Sep 17;133(17):1827-30
+
+8.  Redaksjonen ved Alternativ.no. *Refleksologi.* alternativ.no. <http://www.alternativ.no/behandlingsmetoder/Refleksologi.php> (27.10.2014)
+
+9.  Bingel U. *Avoiding Nocebo Effects to Optimize Treatment Outcome.* JAMA. 2014 Aug 20;312(7):693-4
+
+10. Nylen P. *Den eneste fordelen med alternativ behandling er at den stort sett ikke virker*. Aftenposten 2014 nov 10. <http://www.aftenposten.no/meninger/debatt/Den-eneste-fordelen-med-alternativ-behandling-er-at-den-stort-sett-ikke-virker-7780245.html> (11.10.2014)

@@ -1,0 +1,62 @@
+---
+title: "Glukose kan regulere cellens biologi og genuttrykk"
+author: 
+  - Cecilie Ness
+  - Gulla Formo
+  - Kjersti Gjems Vangberg
+date: 2017.07.24
+---
+
+Artikkelen er skrevet av studenter i klinisk ernæring ved Universitetet i Oslo.
+
+Det er liten tvil om at overvekt og fedme er en risikofaktor for insulinresistens og diabetes type 2. Et høyt inntak av energi i form av sukker vil øke risiko for overvekt og dermed bidra til utvikling av insulinresistens. Hvorvidt et høyt inntak av sukker i seg selv fører til insulinresistens er fortsatt gjenstand for debatt. Her vil vi diskutere hvordan glukose påvirker genreguleringen og på denne måten kan øke risiko for sykdom.
+
+## Glukose er et signalmolekyl
+
+En diett bestående av mye karbohydrater innebærer samtidig høy tilgang på glukose. Glukose tas opp og lagres som glykogen i lever og muskel. Når kroppens glykogenlagre er fylt opp og energibehovet er dekket, vil leveren og fettvevet omgjøre den resterende glukosen til fett. Hvis kroppen til stadighet har et overskudd av glukose, vil det over tid skje flere metabolske tilpasninger i kroppen som gjør fettlagringen mer effektiv. Tilpasningene skjer via ulike signalveier som krever spesifikke enzymer og transportproteiner. Disse signalveiene blir direkte aktivert av glukose og glukosemetabolitter og fører til endret aktivitet i enkelte transkripsjonsfaktorer i cellen. Transkripsjonsfaktorene sørger for at de proteinene som trengs for å syntetisere og lagre fett fra glukose blir produsert i tilstrekkelig antall. Dette betyr at glukose ikke bare er en energikilde, men også et signalmolekyl som påvirker genreguleringen i cellene. Det er fordelaktig for kroppen å tilpasse seg endringer i livsstil eller næringstilgang for å kunne utnytte den energien som er tilgjengelig til enhver tid på en mest mulig effektiv måte.
+
+## ChREBP: En viktig sukkerregulert transkripsjonsfaktor
+
+En av de best beskrevne mekanismene for hvordan glukose påvirker genuttrykk går via insulin og insulins påvirkning av sterol-regulatorisk element-bindende protein 1c (SREBP-1c). Denne transkripsjonsfaktoren har en sentral rolle i produksjon av enzymer for både glykolyse og lipogenese. Det har imidlertid også blitt klart at glukose kan påvirke genuttrykk uavhengig av insulin, via karbohydrat-responsivt element-bindende protein (ChREBP), og at dette er den viktigste mekanismen for hvordan glukose påvirker glykolyse og de novo fettsyresyntese på gennivå (1, **fig. 1**).
+
+![](images/clipboard-816112906.png)Figur 1. Modifisert fra (2)
+
+Aktivering av ChREBP fører til økt uttrykk av nøkkelenzymene lever pyruvat kinase (L-PK), acetyl-CoA karboksylase (ACC), fettsyre syntase (FASN) og stearoyl-CoA desaturase 1 (SCD1) som stimulerer glykolyse og fettsyresyntese. De fleste enzymer involvert i fettsyresyntese har faktisk et karbohydrat responselement (ChoRE) i sin promotor. Dyreforsøk har vist at genuttrykk av ChREBP er lav ved faste og at ekspresjonen øker i respons på karbohydratrik diett (3).
+
+## Glukose kan endre proteinaktivitet
+
+Glukose kan altså påvirke transkripsjon av gener og slik bestemme type og mengde protein som dannes. I tillegg kan glukose påvirke aktiviteten til det ferdige proteinet gjennom en prosess som kalles post-translasjonell modifisering. En slik modifisering endrer målproteinets aktivitet, stabilitet, lokalisering og interaksjon med andre molekyler.
+
+![](images/clipboard-2679429160.png)Figur 2. Heksosamin-biosynteseveien. Gjengitt med tillatelse fra Thomas Sæther.
+
+Ved overskudd av glukose, vil noe av glukosen omdannes til UDP-N-acetylglukosamin (UDP-GlcNAc) i den såkalte heksosamin-biosynteseveien (**fig. 2**). Et molekyl UDP-GlcNAc festes til et protein ved hjelp av enzymet O-GlcNAc transferase (OGT). Denne prosessen kalles O-GlcNAcylering og er et eksempel på posttranslasjonell modifsering. Jo mer glukose som går inn i heksosamin-biosynteseveien, jo flere proteiner kan modifiseres. Overskudd av glukose er således en viktig driver av protein-O-GlcNAcylering.
+
+![](images/clipboard-2481172853.png)
+
+Figur 3. Enzymer involvert i glykolyse og lipogenese. Modifisert fra (6).
+
+Et nøkkelprotein som modifiseres på denne måten er kjernereseptoren lever X reseptor (LXR), og resultatet av dette er økt aktivitet i reseptoren (4). LXR er viktig for de novo fettsyresyntese gjennom regulering av gener for sentrale transkripsjonsfaktorer som SREBP-1c og ChREBP. ChREBP på sin side vil også kunne O-GlcNAcyleres (5), og sammen vil LXR, SREBP-1c og ChREBP indusere gener for enzymer som øker fettlagring (**fig. 3**). Ved høyt inntak av sukker i kosten, vil en oppregulering av disse enzymene gjøre at cellene raskt og effektivt tar unna den store glukosemengden i blodet og omdanner den til fett.
+
+Økt O-GlcNAcylering av proteiner er assosiert med utvikling av insulinresistens og diabetiske komplikasjoner (7). I overvektige mennesker er økt ekspresjon av ChREBP mRNA assosiert med en økning av enzymer involvert de novo fettsyresyntese i lever og nedsatt insulinsensitivitet (8), noe som antyder at ChREBP spiller en viktig rolle.
+
+## Sammendrag
+
+Forekomst av sykdommer relatert til energioverskudd og høyt inntak av sukker, som metabolsk syndrom og diabetes type 2, har økt dramatisk globalt. Man har derfor et sterkt ønske om å forstå de molekylære mekanismene for hva som skjer i kroppen ved høyt inntak av sukker. Det er likevel viktig å presisere at forskningen på dette feltet fremdeles er på et svært tidlig stadium. Virkningen av ChREBP og samspillet med andre transkripsjonsfaktorer er komplekst, og hvilken betydning dette har for human fysiologi og sykdomsutvikling er ennå ikke fullt ut forstått. Men det er klart at aktivering av ChREBP og O-GlcNAcylering er mulige mekanismer som kan forklare for hvordan et overskudd av glukose i seg selv kan føre til utvikling av insulinresistens – uavhengig av insulinnivå og overvekt.
+
+**Referanser:**
+
+1.  Baraille F, Planchais J, Dentin R, Guilmeau S, Postic C. Integration of ChREBP-Mediated Glucose Sensing into Whole Body Metabolism. Physiology (Bethesda, Md). 2015;30(6):428-37.
+
+2.  Towle HC. Glucose and cAMP: adversaries in the regulation of hepatic gene expression. Proceedings of the National Academy of Sciences of the United States of America. 2001;98(24):13476-8.
+
+3.  Dentin R, Benhamed F, xE, gorier J-P, Foufelle F, Viollet B, et al. Polyunsaturated fatty acids suppress glycolytic and lipogenic genes through the inhibition of ChREBP nuclear protein translocation. The Journal of clinical investigation. 2005;115(10):2843-54.
+
+4.  Anthonisen EH, Berven L, Holm S, Nygard M, Nebb HI, Gronning-Wang LM. Nuclear receptor liver X receptor is O-GlcNAc-modified in response to glucose. The Journal of biological chemistry. 2010;285(3):1607-15.
+
+5.  Guinez C, Filhoulaud G, Rayah-Benhamed F, Marmier S, Dubuquoy C, Dentin R, et al. O-GlcNAcylation increases ChREBP protein content and transcriptional activity in the liver. Diabetes. 2011;60(5):1399-413.
+
+6.  Grønning-Wang LM, Bindesbøll, Christian, Nebb, Hilde I. The Role of Liver X Receptor in Hepatic de novo Lipogenesis and Cross-Talk with Insulin and Glucose Signaling.  Lipid Metabolism. Rijeka: InTech; 2013.
+
+7.  Myslicki JP, Shearer J, Hittel DS, Hughey CC, Belke DD. O-GlcNAc modification is associated with insulin sensitivity in the whole blood of healthy young adult males. Diabetology & Metabolic Syndrome. 2014;6.
+
+8.  Eissing L, Scherer T, Todter K, Knippschild U, Greve JW, Buurman WA, et al. De novo lipogenesis in human fat and liver is linked to ChREBP-beta and metabolic health. Nature communications. 2013;4:1528.

@@ -1,0 +1,78 @@
+---
+title: "Forfotløping"
+author: "Andreas Wahl Blomkvist"
+date: 2015.09.10
+---
+
+I denne artikkelen vil jeg se nærmere på en tidvis intens debatt i løpemiljøet – forfotløping. Ved å titte overfladiske på den vitenskapelige litteraturen, samt hente inspirasjon fra eliteløpere, kan vi bedre forstå den relative nye løpetrenden.
+
+## Debatten
+
+Tilhengere av barfotløping, og produsenter av relevante produkter, har kritisert løpesko for å være både skadefremmende og begrensende for løpsresultater. De hevder at barfotløping  fremmer en mer «naturlig» (det vil si, i samsvar med menneskers evolverte biomekanikk) landing av foten. Dette tilsvarer forfotslanding og står i kontrast til den mer vanlige bakfotslandingen (eller hæl-landingen). Kritikere har bemerket at barfotløping øker risikoen for kutt og andre penetrasjonsskader på grunn av den manglende beskyttelsen. Resultatet har blitt «forfotsko» som tilbyr en beskyttelse av foten, men samtidig har en tynn såle som ikke gir noe demping. Å lande på hælen uten demping blir ubehagelig, og ved bruk av forfotsko vil man lettere lande lengre frem på foten. Det er likevel ofte nødvendig med en tilpasning av løpeteknikken for å vende seg til dette.
+
+I et forsøk på å møte debatten på en oversiktlig måte ser jeg først på forskningsresultater relatert til ytelse, deretter på skade.
+
+## Ytelse
+
+Hvilken løpeteknikk som er mest gunstig avhenger av distansen. For langdistanseløpere er det ingen klare trender når vi ser på resultater fra eliteklassen (1). De raskeste løperne er dog ofte hæl-landere. For mosjonister er det fra forskningen lite som tyder på en fordel i løpsøkonomi ved å lande på midtfoten eller forfoten (2-4). Logisk nok sparer man energi ved å ikke løfte en sko for hvert steg i barfotsløping, men studier har vist at sko med riktig demping vil kunne gi en positiv metabolsk effekt som balanserer ulempen med den ekstra vekten (5). Energibesparelsen kommer fra at dempingen overtar noe av det muskelarbeidet som er nødvendig for å lande behagelig. Således er det lite som tyder på en betydelig bedre løpsøkonomi med forfotlanding sammenlignet med tradisjonelle løpesko og teknikker.
+
+Løpsøkonomien er mindre relevant for kortdistanseløping. Her sees en trend mot forfot-landing og mellomfot-landing blant de raskeste kortdistanseløpere (800m og 1500m) (6). Tiden foten er i kontakt med bakken har en omvendt korrelasjon med gjennomsnittlig løpshastighet, og forfot- og mellomfot-landere har gjennomsnittlig en kortere kontakttid enn hæl-landere.
+
+Det er således tvilsomt at det å løpe på forfot bedrer ytelsen for alminnelige joggere. Løpegevinsten av mindre vekt på bena kan bli møtt med riktig demping i skoene. Det er imidlertid en rekke forhold ved løpsteknikk, utover landingen, som endres fra langdistanse til kortdistanse. Selv mosjonister vil automatisk løpe mer på forfoten når de løper i maksimal hastighet, selv om de løper i vanlige løpesko. Dette er en tilpasning kroppen gjør selv.
+
+## Skade
+
+Å løpe med forfotsko skal visstnok forebygge skader assosiert med løping. Dette er det viktigste argumentet brukt blant entusiaster og produsenter, og er ironisk nok det vi vet minst om (7, 8).Basert på oversiktsstudiene som foreligger blir vi nødt til å basere oss på en biomekanisk hypotese-basert drøftning.
+
+Det hyppigste området assosiert med løpeskader er kneet. Biomekaniske studier har vist at den vertikale kompresjonskraften ved hæl-landing er høyere enn for forfot-landing, og dermed kan det tenkes at overbelastningsskader relatert til kneet kan minskes. Hæl-landing gir også økt belastning av muskler i fremre delen av leggen, hvilket kan øke risikoen for den typiske beinhinnebetennelsen. Til slutt, forfotløping er assosiert med redusert skrittlengde som kan oversettes til en reduksjon i belastning av kne og hofte. I samsvar med disse biomekaniske endringene har en mindre retrospektiv studie funnet flere tilfeller av milde og moderate løpe-relaterte skader hos bakfotløpere sammenlignet med forfotløpere (9).
+
+Belastningen som skal absorberes er likevel den samme, og det å flytte belastningen kan simpelthen by på en forflytting av skader assosiert med overbelastning. For eksempel vil forfotløping øke belastning av leggmusklatur i bakre legg og øke hastigheten på dorsalfleksjon (bøye foten oppover) i eksentrisk fase av steget, som kan gi mer belastning på Akillessenen. I tillegg vil en landing framme på foten, spesielt pronert, sannsynligvis stresse metatarsalknoklene (de små rørknoklene i foten) ytterligere. I samsvar med dette har kasustikkstudier identifisert stressfraktur av metatarsalene hos erfarne løpere som har gått over til å løpe med forfotsko (10).
+
+Dette kan også reflektere en annen problemstilling: en vesentlig risikofaktor for skade, i hvert fall teoretisk, vil være en hurtig overgang fra bakfotløping til forfotløping, «tvunget» frem av et skobytte. Det vanligste problemet assosiert med en slik overgang, fra spørreundersøkelse, er ømhet i legg og fot (11).
+
+Til slutt vil jeg nevne en observasjon av 10 løpere som gjennomgikk et 6 ukers omveltningsprogram til forfotløping. Etter programmet landet fortsatt halvparten på hælen, men bare mer dorsalflektert i ankelen. I samsvar med dette finnes det habituerte barfotløpere som likevel foretrekker å lande på hælen (12).
+
+## Oppsummering
+
+I tillegg til overstående drøfting og referanser, kan følgende populistiske artikler anbefales som en introduksjon til temaet (13-15). Samlet sett konkluderes det med følgende:
+
+> -   Utover skoene finnes det andre faktorer, som kroppsmorfologi, løpshastighet, treningsnivå og intensitet, som påvirker hvordan man foretrekker å lande med foten
+> -   Forfotsko eller forfotløping ser ikke ut til å gi en betydelig bedret løpsøkonomi
+> -   Å lande mer frampå er en automatisk konsekvens av å løpe fortere, og er også grunnen til at kortdistanseløpere lander mer frampå enn langdistanseløpere
+> -   Det er mangel på empirisk forskning som kan fortelle hvorvidt forfotløping gir en skadeforebyggende effekt
+> -   Forfotløping tilbyr en annen biomekanisk løpeprofil enn bakfotløping, og flytter belastningen fra kne, hofte og fremre legg til musklatur i bakre legg og metatarsalene. Dette kan teoretisk sett minske skader relatert til kne og fremre beinhinne.
+> -   En hurtig overgang til forfotløping, for eksempel ved å legge vekk joggesko til fordel for nye forfotsko, gir en teoretisk økt risiko for skader inntil kroppen får tilpasset seg
+
+Løpeteknikk er mer enn landing av foten, og selv om det finnes mange tilhengere av forfotløping er det liten grunn til å tro dette vil øke ytelsen. Det er uklart om forfotsko kan forebygge skader, og hvis man ønsker å bytte anbefales det en gradvis overgang, helst i samarbeid med fagfolk.
+
+**Referanser**
+
+1.  Hunter sine resultater er å finne på: <http://biomechanics.byu.edu/>
+
+2.  Perl DP, Daoud AI, Lieberman DE. *Effects of footwear and strike type on running economy.* Med Sci Sports Exerc. 2012 Jul;44(7):1335-43 (<http://www.ncbi.nlm.nih.gov/pubmed/22217565>)
+
+3.  Cunningham CB et al. *The influence of foot posture on the cost of transport in humans.* J Exp Biol 2010 Mar1;213(5):790-7 (<http://jeb.biologists.org/content/213/5/790.abstract>)
+
+4.  Ardigo LP et al. *Metabolic and mechanical aspects of foot landing type, forefoot and rearfoot strike, in human running.* Acta Physiol Scand. 1995 Sep;155(1):17-22 (<http://www.ncbi.nlm.nih.gov/pubmed/8553873>)
+
+5.  Tung KD, Franz JR, Kram R. *A test of the metabolic cost of cushioning hypothesis in barefoot and shod running.* Med Sci Sports Exerc. 2014 Feb;46(2):324-9 (<http://www.asbweb.org/conferences/2012/abstracts/261.pdf>)
+
+6.  Hayes P, Caplan N. *Foot strike patterns and ground contact times during high-calibre middle-distance races.* J Sports Sci. 2012;30(12):1275-83 (<http://www.ncbi.nlm.nih.gov/pubmed/22857152>)
+
+7.  Altman AR, Davis IS. *Barefoot running: biomechanics and implications for running injuries.* Curr Sports Med Rep. 2012 Sep-Oct;11(5):244-50 (<http://www.ncbi.nlm.nih.gov/pubmed/22965347>)
+
+8.  Lorenz DS, Pontillo M. *Is there evidence to support a forefoot strike pattern in barefoot runners? A review* (<http://www.ncbi.nlm.nih.gov/pubmed/24179586>)
+
+9.  Daoud AI et al. *Foot strike and injury rates in endurance runners: a retrospective study.* Med Sci Sports Exerc. 2012 ul;44(7):1325-34 (<http://www.ncbi.nlm.nih.gov/pubmed/?term=22217561>)
+
+10. Giuliani J et al. *Barefoot-simulating footwear associated with metatarsal stress injury in 2 runners.* Orthopedics. 2011 Jul 7;34(7) (<http://www.ncbi.nlm.nih.gov/pubmed/?term=21717998>)
+
+11. Rothschild CE. *Primitive running: a survey analysis of runners’ interest, participation and implementation.* J Strength Cond Res. 2012 Aug;26(8):2021-6 (<http://www.ncbi.nlm.nih.gov/pubmed/?term=21997446>)
+
+12. Hatala KG et al. *Variation in foot strike patterns during running among habitually barefoot populations.* PloS One. 2013;8(1):e52548 (<http://www.ncbi.nlm.nih.gov/pubmed/23326341>)
+
+13. Pereira W. *Running: Heel or Forefoot strike?* Berkeley Wellness 2013. <http://www.berkeleywellness.com/fitness/injury-prevention/article/running-heel-or-forefoot-strike> (04.08.2015)
+
+14. Kolata G. *Myths of running: Forefoot, Barefoot and Otherwise.* NY times 2012. <http://well.blogs.nytimes.com/2012/10/15/myths-of-running-forefoot-barefoot-and-otherwise/?_r=1> (04.08.2015)
+
+15. Murphy S. *Heel striking – is it really the enemy of good running?* The Guardian 2014. <http://www.theguardian.com/lifeandstyle/the-running-blog/2014/oct/09/is-heel-striking-the-enemy-of-good-running-form> (04.08.2015)

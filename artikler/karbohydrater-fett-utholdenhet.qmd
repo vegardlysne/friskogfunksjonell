@@ -1,0 +1,89 @@
+---
+title: "Kan modulering av karbohydratinntak øke utholdenheten?"
+author: "Ane Korsvold"
+date: 2016.06.29
+---
+
+Koststrategien «Train low – compete high» (TLCH) har siden introduksjonen i 2005 blitt et populært tema innen idrettsmiljøer, og også noe det diskuteres og forskes på blant fagpersoner. Teorien går ut på at utøveren trener med lav tilgang på karbohydrater og glykogen («train low»), slik at kroppen gjør metabolske adaptasjoner som øker prestasjonsevnen. Det skal blant annet gi økt kapasitet til fettforbrenning, noe som sparer på glykogenlagrene i konkurransesituasjoner. I tillegg skal utøveren ha fulle glykogenlagre ved konkurransestart, («compete high»).
+
+I vår midtsemesteroppgave på studiet for klinisk ernæring ved UiO, oktober 2015, gjorde jeg en systematisk litteraturgjennomgang på TLCH. Der ville jeg se på teorien bak TLCH-strategien, undersøke om studier kan vise til økt utholdenhetskapasitet, og sammenligne studiefunnene med nåværende retningslinjer for atleter. Kan TLCH hjelpe oss til å holde ut lengre og prestere bedre, og bør vi anbefale dette til idrettsutøvere? Kan mosjonister også dra nytte av denne kostholdstilnærmingen i forbindelse med løp, ritt, renn og andre utholdenhetskrevende konkurranser?
+
+## Metabolismen i aktive muskler
+
+Energien musklene krever under arbeid kommer fra hydrolyse av adenosin trifosfat, ATP (se figur 1). Siden ATP-lageret er lite, må nytt ATP dannes for å dekke energibehovet. Dannelsen inkluderer nedbrytning av kreatinfosfat i musklene, syntese fra ADP og glykolyse, en prosess der intracellulær glukose eller glykogen blir omgjort til pyruvat. Avhengig av om det er stor eller begrenset tilgang på oksygen vil pyruvat gå henholdsvis inn i Krebs syklus og danne ATP gjennom oksidativ fosforylering i mitokondrier, eller danne ATP via laktatproduksjon. Dette er forskjellen på aerob og anaerob trening. Under anaerobe forhold dannes det mindre ATP enn om kroppen kan bruke fett og karbohydrat som energisubstrat (2 ATP-molekyler fra 1 laktat, mot 36-38 fra 1 glukose), og man klarer bare å prestere i korte perioder. Likeså genereres mye mer ATP fra fett enn fra glukose, da en fettsyre på 18 C-atomer gir 147 ATP-molekyler. Gjennom ulike veier kan ATP også dannes fra proteiner.
+
+![](images/clipboard-3216926476.png)**Figur 1: Energiproduksjon i aktiv muskel.** ATP: adenosin trifosfat. CoA: coenzym A. H: hydrogenatomer. Figuren er hentet og tilpasset fra læreboka Krause’s Food and the Nutrition Care Process.
+
+## Energilagrene og hva som avgjør forbruket
+
+Karbohydrater (KH) finnes i kroppen som sirkulerende glukose, og er lagret som glykogen i lever og muskler. En mann på 70 kg vil ha et lager tilsvarende ca. 1800-2000 kcal. Fettet finnes hovedsakelig i fettvev som triacylglyserol (TAG), i tillegg til noe intracellulært i muskler, og sirkulerende i blodet. Totalt utgjør fettlageret energi tilsvarende ca. 80 000-140 000 kcal. Fordelen med KH-lageret er at det danner mer ATP per tidsenhet enn fett, mens fordelen med fett er at det er en praktisk måte å lagre energi på, siden fettet er mer energirikt og derfor krever mindre vekt og plass i kroppen.
+
+Det relative forbruket av KH og fett som energisubstrater avhenger av treningsstatus og intensitet og varighet på treningen. Ved relativt lave intensiteter og anaerobe forhold, da oksygenopptaket ligger på ca. 30 % av maksimalt oksygenopptak (VO~2~max), dominerer fettsyrer som energisubstrat. Fettforbrenningen når sitt maksimale, i absolutte tall, ved moderate intensiteter, ca. 40-65 % av VO~2~max, og bidrar da med omtrent 50 % av energibehovet (1). Ved høyere intensiteter vil KH overta som dominerende energikilde under selve aktiviteten, fordi fettforbrenningen ikke produserer ATP raskt nok.
+
+Evnen til å oksidere fettsyrer avgjør hvor lenge en utøver kan prestere. Utholdenhetstrening vil bl.a. gi økt evne til å levere oksygen til musklene og forbrenne fettsyrer, og man kan jobbe i lengre perioder under aerobe forhold. Sammenlignet med utrente, vil godt trente kunne jobbe med høyere intensitet på samme tid, eller holde på lengre med samme intensitet, uten at melkesyren hoper seg opp fortere.
+
+Glykogen brytes raskt ned under anaerobe forhold, og vil gi umiddelbar energi til musklene, men glykogenlageret varer ikke lenge, og man må bruke fettsyrer til ATP-syntese dersom melkesyre ikke skal hope seg opp og prestasjonsevnen reduseres. Når glykogenlagrene er tømt og fettoksidasjonen overtar, vil intensiteten falle på grunn av en langsommere produksjon av ATP. Når aktiviteten varer 6-10 timer kan fett dekke 60-70 % av energibehovet. Kroppen er likevel avhengig av en kontinuerlig KH-tilførsel, og glykogenlageret blir en begrensende faktor uavhengig av intensitet og varighet. Studier har vist at høye konsentrasjoner av muskelglykogen før, og inntak av KH under trening, vil forlenge tiden til utmattelse.
+
+Siden glukose kan syntetiseres i kroppen, er vi strengt tatt ikke avhengige av å spise karbohydrater for å overleve. Men anaerobe celler i sentralnervesystemet og røde blodceller kan ikke oksidere fett, og siden hjernen forbrenner 120 g glukose/dag, er disse cellene avhengige av glukosetilførsel. Når KH-inntaket er lavt går hjernen over på å bruke ketoner som energisubstrat, og inntak under 50 g KH/dag resulterer i en tilstand kalt ketose. Ketoner kan dekke opptil 80 % av hjernens energibehov, og hjernens glukosebehov kan dermed reduseres til ca. 30 g/dag.
+
+## Ulik modulering av karbohydrattilgang for å forbedre prestasjonsevnen
+
+Siden introduksjonen av Bergstrøm og Hultman i 1966 (2) har det blitt utviklet flere former for glykogenlagringsstrategier, som brukes av mange utøvere innen utholdenhetsidretter. Tanken bak dette er å fylle opp glykogenlagrene i musklene før konkurranser for å utsette tømmingen og en negativ effekt på prestasjonen. Felles for metodene er at de ofte starter med en høy-intensitetsøkt som tapper glykogenlagrene, etterfulgt av en periode med lavt karbohydratinntak og redusert treningsmengde, for så å øke KH-inntaket rett før konkurransedagen. Senere har det blitt utviklet modererte utgaver med tilnærmet lik effekt, der utøverne unngår glykogentapping, men har et høyt KH-inntak (10g/kg) og ingen trening siste 1-2 døgn før konkurranse. Disse protokollene for superkompensasjon kan være vanskelige å gjennomføre, og kan gi uheldige bivirkninger, og bør derfor gjennomføres med veiledning fra kyndige fagpersoner. Å innta KH underveis og etter langvarig trening har også vist positive effekter på utholdenheten, da du unngår hypoglykemi og tretthet under økta, og sørger for fulle glykogenlagre i etterkant.
+
+Olympiatoppen anbefaler et inntak på 30-60g KH med høy GI per time dersom økta varer \>90 minutter. Inntak kan forbedre prestasjonen hvis økta varer \>60 min, ved intervaller med høy intensitet og dersom utøveren ikke har fulle glykogenlagre ved start. Superkompensasjon av glykogenlagrene før konkurranse kan være nyttig før konkurranseøvelser med høy intensitet og varighet \>60 min, for eksempel maraton, triatlon, sykkelritt og lange langrennsdistanser. Innen ballspill og andre lagidretter anbefales ikke superkompensasjon før alle kamper, men at det da praktiseres rundt de viktigste. Olympiatoppen opplyser om at økte glykogenlagre gir vektøkning (glykogen binder vann), som kan redusere fart og prestasjon. Samtidig kan mer væske forhindre eller utsette dehydrering, noe som kan kompensere for de negative effektene av vektøkningen. Dette er noe det bør tas hensyn til i hver enkelt idrettsgren, for å vurdere om superkompensasjon er aktuelt eller ikke.
+
+En annen kostholdstrategi for å øke utholdenhetskapasiteten er høyfettdietter. Teorien bak er at kroppen tilpasser seg den lave tilgangen på karbohydrater med ketoadaptasjon, og bruker fett som energikilde. Ketoner, som er nedbrytningsprodukter av fettsyrer, forsyner hjernen med energi. Dette sparer forbruket av glukose og glykogen. Ved veldig lavt KH-inntak vil kroppen gå inn i naturlig ketose.
+
+Det forskes også på om man kan øke fettforbrenningen ved å supplere med bl.a. mellomlange fettsyrer (MCT-fett), omega 3 og konjugert linolensyre (CLA), men ingen av disse tilnærmingene har så langt gitt konkluderende resultater.
+
+## Effekter av karbohydratrestriksjon
+
+Noen studier viser at glykogentømming før en periode med lavere treningsmengde gir høyere glykogenlagre i etterkant av perioden, mens andre studier har vist at man oppnår samme effekt på glykogenlagrene uten tømming i forkant, dersom man har et høyt karbohydratinntak under perioden med redusert treningsmengde. Vil TLCH-strategien ha noen effekt, eller er det bortkastet?
+
+De fleste studiene jeg inkluderte i oppgaven min fant at den relative fettforbrenningen var høyere blant utøvere som gikk på høyfettdietter enn de som gikk på høykarbo. Dette gjaldt også de som gikk på høyfett i treningsperioden, men inntok en større mengde KH rett før en tidstest (TLCH). Respirasjonsraten og aktiviteten til flere enzymer i mitokondriene ble brukt som mål på fettoksidasjonen. Funnene tyder på at kroppen tilpasser seg en redusert KH-tilgjengelighet, og reduserer glykogenforbruket ved at den bruker fett som hovedkilde til energi.
+
+Når det gjelder effekt på utholdenhet, viser studiene sprikende resultater. Jeg inkluderte 7 studier, hvorav 3 rapporterte at en høyfettdiett forlenget tiden til utmattelse (3-5), 2 rapporterte at høykarbo (6, 7) gjorde det samme eller reduserte løpstiden, mens 2 ikke kunne vise noen forskjell mellom høyfett- og høykarbogrupper, eller grupper som trente på fastende mage (8, 9). Den ene studien rapporterte redusert styrkeevne av høyfettkost (8), som f.eks. kan overføres til dårligere evne til å henge med i spurter og fartsøkninger underveis i et løp.
+
+## Begrensninger med studiene
+
+Det følger som regel med en del feilkilder og usikkerheter i forskning, og studier på TLCH er ingen unntak. Derfor må man se på funnene med et kritisk blikk, og være forsiktig med å trekke konklusjoner.
+
+De fleste studiene jeg fant om dette temaet, var gjennomført på overvektige og utrente mennesker. Da er det naturlig at resultatet blir vektnedgang og forbedring av fysisk prestasjon uansett diett. Jeg valgte imidlertid bare å inkludere studier på veltrente, normalvektige mosjonister eller idrettsutøvere. Da begrenset utvalget seg, og jeg måtte inkludere studier fra helt tilbake til 1997.
+
+Hvilke tester som ble gjort varierte, det samme med intensitetene under testingen. De fleste studiene brukte sykling og løping som metode, men intensiteten varierte fra 65-80 % av VO~2~max. Noen løp/syklet til utmattelse, mens andre utførte en tidstest etter 1,5-2 timer på en gitt intensitet. Varigheten på studiene varierte fra 3 dager til 4 uker.
+
+Hvilken diett personene blir satt på, er også veldig ulikt. Energiandelene i høyfett/lavkarbo-diettene var 55-68 % fra fett og 15-34 % fra KH, og i høykarbo/kontrolldiettene var fordelingen 20-30 % fra fett og 55-83 % fra KH.
+
+## Hvor står vi i dag?
+
+Det eksisterer argumenter for og i mot både høyfettdiett, TLCH og normal-høy KH-inntak i treningsmiljøer. Argumenter mot høyfettdietter er at i enkelte studier har lav KH-tilgang ingen signifikant effekt på utholdenheten, tross metabolske adaptasjoner. Tvert om kan lav KH-tilgang øke inflammasjonstendens, gi nedsatt immunforsvar og redusert prestasjonsevne (10). Enkelte studier har vist at inntak av KH før og under fysiske tester forbedrer prestasjonen, og fulle glykogenlagre før konkurranse øker prestasjonen med 2-3%.
+
+Fagpersonene som argumenterer for et høyfettkosthold og/eller TLCH, hevder at utholdenheten ikke forbedres før etter 4-6 uker med lav KH-tilgang, da kroppen trenger denne tiden for å skifte over til fettforbrenning og ketogenese. Dette ble vist i en studie av Volek m.fl. i 2015 (11), der forsøkspersonene tok \>90 % av energien fra fett etter adaptasjonstiden, på en diett med \<10 g KH/dag. I tillegg til kort varighet, blir det hevdet at studiene som viser ingen eller negativ effekt ikke har lav nok KH-mengde i diettene, og at forsøkspersonene ikke havner i naturlig ketose. Volek mener det går et skifte mellom moderat (40-60%) og høyt (\>60%) fettinnhold, og at ketoadapterte individer har lavere nivå av oksidativt stress og restituerer raskere. Det rapporteres også om bedre fokus og mental klarhet blant ketogene ultraløpere, trolig fordi hjernen får stabil tilførsel av ketoner i stedet for å havne i hypoglykemisk tilstand når blodglukosen synker.
+
+Så hvilke slutninger kan vi trekke? Kan TLCH gi bedre utholdenhet, og hvem kan vi i tilfelle anbefale strategien til? Nyere litteratur setter spørsmålstegn ved det som har vært dogma i lang tid, at det er behov for KH uansett varighet og intensitet. Tross enkelte studier som viser at utholdenhetskapasiteten er forbedret hos utøvere som er adaptert til fettoksidasjon, har ikke forskningen vist klare nok resultater til å konkludere. Det ønskes mer forståelse av hvordan KH-restriksjon påvirker utholdenheten, og hvordan faktorer gir individuelle forskjeller i respons på slike dietter.
+
+Siden treningskvaliteten kan bli redusert på en høyfettdiett, anbefales det at den kombineres med kvalitetsøkter med høy KH-tilgang, og at TLCH-strategien på denne måten kan benyttes som et verktøy til å øke utholdenhetskapasiteten. Utøvere som adapteres til fettoksidasjon og et lavere glykogenforbruk kan forbedre treningskapasiteten, men jevnt over er konklusjonen at det trengs mer forskning. Oppmerksomheten rettes spesielt mot utøvere innen ultraløping, sportsgrenen der positive effekter er mest sannsynlig. En stor andel ultraløpere praktiserer «train low», og rapporterer mindre mentale forstyrrelser og mage/tarm-problemer under løp enn før. Det er usikkert om forbedret fordøyelse skyldes at de inntar mindre mat under løpet, eller om dietten har redusert nivået av oksidativt stress i tarmkanalen.
+
+*Referanser*
+
+1.  Saris WJvLaWH. Dietary considerations for sport and exercise. In: Powers CAGaHJ, editor. Human Nutrition. 12th ed: Churchill Livingstone Elsevier; 2011. p. 365-80.
+
+2.  Bergstrom J, Hermansen L, Hultman E, Saltin B. Diet, muscle glycogen and physical performance. Acta physiologica Scandinavica. 1967;71(2):140-50.
+
+3.  Starling RD, Trappe TA, Parcell AC, Kerr CG, Fink WJ, Costill DL. Effects of diet on muscle triglyceride and endurance performance. Journal of applied physiology (Bethesda, Md : 1985). 1997;82(4):1185-9.
+
+4.  Murakami I, Sakuragi T, Uemura H, Menda H, Shindo M, Tanaka H. Significant effect of a pre-exercise high-fat meal after a 3-day high-carbohydrate diet on endurance performance. Nutrients. 2012;4(7):625-37.
+
+5.  Ichinose T, Arai N, Nagasaka T, Asano M, Hashimoto K. Impact of intensive high-fat ingestion in the early stage of recovery from exercise training on substrate metabolism during exercise in humans. Journal of nutritional science and vitaminology. 2012;58(5):354-9.
+
+6.  Febbraio MA, Chiu A, Angus DJ, Arkinstall MJ, Hawley JA. Effects of carbohydrate ingestion before and during exercise on glucose kinetics and performance. Journal of applied physiology (Bethesda, Md : 1985). 2000;89(6):2220-6.
+
+7.  Halson SL, Lancaster GI, Achten J, Gleeson M, Jeukendrup AE. Effects of carbohydrate supplementation on performance and carbohydrate oxidation after intensified cycling training. Journal of applied physiology (Bethesda, Md : 1985). 2004;97(4):1245-53.
+
+8.  Havemann L, West SJ, Goedecke JH, Macdonald IA, St Clair Gibson A, Noakes TD, et al. Fat adaptation followed by carbohydrate loading compromises high-intensity sprint performance. Journal of applied physiology (Bethesda, Md : 1985). 2006;100(1):194-202.
+
+9.  Whitley HA, Humphreys SM, Campbell IT, Keegan MA, Jayanetti TD, Sperry DA, et al. Metabolic and performance responses during endurance exercise after high-fat and high-carbohydrate meals. Journal of applied physiology (Bethesda, Md : 1985). 1998;85(2):418-24.
+
+10. Bartlett JD, Hawley JA, Morton JP. Carbohydrate availability and exercise training adaptation: too much of a good thing? European journal of sport science. 2015;15(1):3-12.
+
+11. Volek JS, Noakes T, Phinney SD. Rethinking fat as a fuel for endurance exercise. European journal of sport science. 2015;15(1):13-20.

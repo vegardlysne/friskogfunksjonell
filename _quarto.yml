@@ -10,7 +10,7 @@ website:
   navbar:
     right:
       - text: Alle poster
-        href: poster.qmd
+        href: artikler.qmd
       - text: Næringsstoffene
         href: naeringsstoffer.qmd
       - text: Metabolismen

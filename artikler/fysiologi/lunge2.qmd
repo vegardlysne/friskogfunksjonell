@@ -8,3 +8,53 @@ categories:
 ---
 
 [Tilbake til artikkelserien om menneskets fysiologi](../../fysiologi.html)
+
+Dette er en oppfølging til [Lungene del 1](lunge1.qmd) i artikkelserien om [Menneskets fysiologi](../../fysiologi.html). I denne artikkelen får du en introduksjon i hvordan oksygen (O~2~) og karbondioksid (CO~2~) transporteres i kroppen, samt hvordan ventilasjonen reguleres. I den første delen ble ventilasjon og gassutvekslingen beskrevet. I tillegg ble fysiske begreper som diffusjon, partialtrykk og oppløselighet forklart. 
+
+## Transport av O~2~ fra lungene
+
+O~2~ beveger seg fra alveolene til blodet når pO~2~ i alveolene er høyere (normalt 104 mm Hg) enn det er i blodet (normalt 40 mm Hg). Blodets pO~2~ stiger derfor til nesten 104 mm Hg før det forlater lungene og fraktes til [hjertet](hjerte1.qmd). Til hjertet kommer også en liten mengde blod som har forbipassert lungene uten å tatt del i gassutvekslingen. Blandingen gjør at pO~2~ i blodet som forlater hjertet er omtrent 95 mm Hg.
+
+Fra hjertet pumpes blod ut til kroppens vev. I kapillærene, som er de minste blodårene våre, er avstanden mellom blodet og interstitialvæsken (som omfavner alle kroppens celler i deres organer) er såpass lav at O~2~ kan diffundere ut av blodet. I denne væsken er pO~2~ nesten konstant 40 mm Hg (O~2~ forbrukes hele tiden av cellene for sin [metabolisme](../../metabolismen.qmd), og derfor trekkes det så mye O~2~ ut av blodet at partialtrykket utlignes på 40 mm Hg (figur 1).
+
+![](images/clipboard-2240733160.png)Figur 1
+
+## Transport av CO~2~ til lungene
+
+Når du har forstått hvordan O~2~ utveksles mellom blod og vev er det enkelt å forestille seg en sammenlignbar prosess med CO~2~. I kapillærene er det ca. 40 mm Hg pCO~2~, mens det er nesten konstant 45 mm Hg i interstitialvæsken (cellene produserer CO~2~ hovedsakelig fra energiproduksjon fra næringsstoffer). CO~2~ trekkes derfor ut i blodet til trykket utlignes på rundt 45 mm Hg. Derfra fraktes CO~2~ til lungene der det trekkes ut av blodet og inn i alveolene, igjen på grunn av forskjeller i partialtrykk.
+
+*Verdiene som oppgis forandrer seg etter flere faktorer. I det perifere vev er det mengden blod som forsyner vevet og den metabolske hastigheten som er avgjørende.*
+
+## Hemoglobinets rolle
+
+Normalt fraktes omtrent 97% av O~2~ i kombinasjon med hemoglobin, resten er oppløst i plasma og i de røde blodcellene. Hemoglobin, på grunn av sin kjemiske struktur, har evnen til å binde opptil fire O~2~ molekyler når pO~2~ er høy (som i lungene) og frigi O~2~ når pO~2~ er lav. Denne egenskapen gjør at hemoglobin fungerer som en O~2~-buffer system som opprettholder stabil pO~2~ i kroppens vev.
+
+> Det er ca. 15 gram hemoglobin per 100 ml blod. Siden 1 gram hemoglobin kan binde 1,34 ml O~2~, så vil det være omtrent 20 ml O~2~ per 100 ml blod når blodet er 100% mettet. Oksygenmetningen er andelen O~2~-bundet-hemoglobin relativ til den totale mengden hemoglobin. Det er denne verdien som måles på sykehuset med et *pulsoksymeter*. Under normale omstendigheter forbrukes omtrent 5 ml O~2~/100 ml blod. Dette gir en oksygenmetning på omtrent 75% på den venøse siden.
+
+## CO~2~ fraktes i forskjellige kjemiske forbindelser
+
+Straks CO~2~ er i blodet skjer det umiddelbart en av tre ting (figur 2):
+
+-   En liten del (7%) fraktes oppløst i blodet
+-   I de røde blodcellene blir mesteparten (70%) omgjort av enzymet *karboanhydrase* i følgende reaksjon: CO~2~ + H~2~O ® H~2~CO~3~ (karbonsyre). Følgende reaksjon skjer omtrent øyeblikkelig etterpå: H~2~CO~3~ ® H^+^ + HCO~3~^-^ (bikarbonat). H^+^ fraktes hovedsakelig bundet til hemoglobin, mens mesteparten av HCO~3~^-^ fraktes ut av de røde blodcellene
+-   Resten (23%) blir løst bundet til hemoglobin (og noen plasma proteiner)
+
+![](images/clipboard-1236203565.png)Figur 2
+
+I lungene, når CO~2~ skal ut av blodet, skjer den motsatte prosessen. Siden konsentrasjonen av H^+^ avgjør pH verdien i blodet, ser vi utfra disse reaksjonene at lungene er, sammen med [nyrene](nyre1.qmd), en av de viktigste organene for regulering av syre-base balansen i blodet.
+
+## Regulering av ventilasjon
+
+Det er nerveceller i *respirasjonssenteret* i hjernestammen (hovedsakelig *medulla oblongata*) som styrer ventilasjonen. Den viktigste gruppen med nerveceller er den dorsale respirasjonsgruppen som sørger for rytmisk inspirasjon. Dette gjøres hovedsakelig ved å sende signaler nedover i ryggmargen og gjennom mellomgulvsnerven (nervus phrenicus) som utgår fra ryggmargen i nakken og fortsetter igjennom brysthulen på hver side av hjertet før den innerverer og styrer diafragma.
+
+For at respirasjonssenteret skal opprettholde optimale nivåer av O~2~, CO~2~ og H^+^ er det nødvendig med sensoriske reseptorer som gir tilbakemelding om nivåene av disse til respirasjonssenteret. Dette gjøres på to måter: direkte og indirekte
+
+Med *direkte* menes det *kjemosensitive* området i de ventrale områdene i hjernestammen. Her finnes det nevroner som registrerer H^+^ konsentrasjonen i vevet rundt seg. Siden H^+^ ikke kommer lett igjennom blod-hjerne barrieren, er det hovedsakelig CO~2~ i blodet som bestemmer H^+^ konsentrasjonen (siden CO~2~ lett krysser denne barrieren og reagerer med vann for å danne HCO~3~^-^ og H^+^). O~2~ konsentrasjonen har lite eller ingen effekt på disse nevronene.
+
+Den *indirekte* metoden benytter seg av *perifere* kjemoreseptorer andre områder i kroppen. Disse små områdene er hovedsakelig å finne i halsarteriene (det er her du kan kjenne pulsen din). Det er også noen i hovedpulsåren (aorta) ut fra hjertet. Disse reseptorene stimuleres av *synkende* pO~2~, samt til en viss grad av *økende* pCO~2~ og H^+^. Signaler fra disse områdene sendes til den dorsale respirasjonsgruppen, via vagusnerven (for kjemoreseptorene i aorta) og tunge-svelg nerven (nervus *glossopharyngeus)* (for halsarteriene).
+
+Integrering av signalene fra kjemosensitive områder i det nevrale nettverket i respirasjonssenteret regulerer hvor dypt vi puster og hvor ofte (respirasjonsfrekvensen). På denne måten opprettholdes [homeostase](homeostase.qmd) av O~2~, CO~2~ og H^+^.
+
+## Oppsummering
+
+O~2~ og CO~2~ diffunderer til og fra blodet etter forskjellen i partialtrykk. Hemoglobin er sentralt for blodets kapasitet til å frakte O~2~, og er viktig for å opprettholde stabile konsentrasjoner av O~2~ i kroppens vev. CO~2~ fraktes i blodet hovedsakelig som bikarbonat, og deltar samtidig i den viktige syre-base balansen i kroppen. Hastigheten på ventilasjonen styres av respirasjonssenteret i hjernestammen. Respirasjonssenteret regulerer ventilasjonen etter behovet for O~2~, CO~2~ og H^+^ ved å motta feedback-signaler fra kjemosensitive områder diverse steder i kroppen.

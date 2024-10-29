@@ -1,0 +1,56 @@
+---
+title: "Forskning - er større alltid bedre?"
+date: 2015.05.02
+---
+
+[Tilbake til kildekritikk, vitenskap og tankefeil](../../kildekritikk.qmd "Kildekritikk, vitenskap og tankefeil")
+
+Etter hvert som en studie blir større blir den også mer representativ for befolkningen, får høyere statistisk styrke og resultatene blir mer til å stole på. Men er det automatisk slik at en større studie alltid vil være bedre enn en mindre, og kan en studie til og med bli for stor?
+
+## Større studier er mer representative
+
+Grunnen til at vi forsker er fordi vi ønsker å fremskaffe kunnskap om hvordan verden rundt oss fungerer. Det er umulig å teste noe på hele studiepopulasjonen, og derfor gjennomføres forskning på et utvalg, heretter studieutvalget. Dersom vi ønsker å undersøke effekten av en behandling for nyresvikt, vil studiepopulasjonen være alle med nyresvikt. Studieutvalget blir da de nyresviktpasientene som inkluderes i studien.
+
+Målet er å overføre resultatene man finner i studieutvalget til studiepopulasjonen. Da er det viktig at studieutvalget er representativt for studiepopulasjonen, slik at vi studerer det vi ønsker å studere. Her har større studier et fortrinn sammenlignet med mindre studier, da disse i større grad vil representere studiepopulasjonen på grunn av størrelsen. En politisk meningsmåling blir mer representativt for det norske folks mening dersom man spør 100 000 sammenlignet med om man hadde spurt bare 500. Prinsippet er det samme.
+
+> #### Type 1 og type 2 feil
+>
+> En type 1 feil kalles en falsk positiv. Det betyr at vi finner en effekt i studieutvalget som ikke eksisterer i studiepopulasjonen. Dette kan skyldes tilfeldigheter, eller faktorer som gjorde at studieutvalget ikke representerte studiepopulasjonen, noe som kan skyldes at utvalget var for lite. Sistnevnte er en systematisk feil som kalles seleksjonsskjevhet eller deltakerskjevhet.
+>
+> Type 2 feil er det motsatte - en falsk negativ. Det betyr at man ikke klarer å påvise en effekt i studieutvalget som faktisk eksisterer i studiepopulasjonen. Dette kan også skyldes at studieutvalget ikke var tilstrekkelig representativt for studiepopulasjonen, eller at den statistiske styrken var for liten til å identifisere en reell forskjell som statistisk signifikant.
+
+Større studier er mer representative for befolkningen, altså blir estimatet mer presist og risikoen for å gjøre type 1 og type 2 feil mindre. Men som vi skal se lenger nede så kan større studier også medføre at vi klarer å påvise mange forskjeller som i realiteten ikke har noen praktisk betydning.
+
+## Hypotesetesting og statistisk signifikans
+
+Forskning handler om hypotesetesting, og når vi forsker har vi et forskningsspørsmål vi ønsker å svare på. Vi kan ha en hypotese om at det er en forskjell mellom to grupper, og denne kalles den alternative hypotesen. Da har vi samtidig en nullhypotese som sier at det ikke er en forskjell.
+
+[Den vitenskapelige metode](vitenskapelig-metode.qmd) kan i prinsippet aldri bekrefte en hypotese, bare avkrefte/falsifisere den. Når studien er gjennomført sitter vi igjen med et resultat som støtter den ene hypotesen og dermed gir belegg for å forkaste den andre. For å avgjøre hvilken av hypotesene resultatene støtter må vi bruke statistiske tester. Disse testene resulterer i en p-verdi, og dersom denne er lavere enn en forhåndsbestemt grenseverdi, som vanligvis er satt til 0.05, sier vi at resultatet er statistisk signifikant og resultatet støtter dermed den alternative hypotesen. En høy p-verdi vil gi støtte til nullhypotesen, og vi sier at det ikke var statistisk signifikant forskjell mellom gruppene, og forsøket støtter dermed å forkaste den alternative hypotesen. Statistisk signifikans er et mål på hvor sannsynlig det er at den observerte forskjellen i studiepopulasjonen også eksisterer i totalpopulasjonen.
+
+Som nevnt over kan en studie gi type 1 feil, altså at resultatene støtter den alternative hypotesen selv om den i realiteten var feil. Vi kan også finne en type 2 feil, som betyr at vi forkastet den alternative hypotesen når den i realiteten var korrekt. Ofte tolkes en p-verdien direkte som sannsynligheten for å gjøre en type 1 feil, men i nyere tid er det demonstrert at denne sannsynligheten er langt større enn p-verdien indikerer.
+
+Det er derfor viktig ikke å se seg blind på en p-verdi, siden denne alene ikke gir særlig mye informasjon. Den forteller oss ikke om forskjellen(e) er av praktisk betydning, og derfor ser vi også på effektstørrelser, som forteller oss hvor stor forskjellen mellom gruppene er.
+
+## Klinisk signifikans
+
+Dette bringer oss over på et annet konsept, som er den kliniske signifikansen eller den praktiske betydningen. Uansett hva vi forsker på må forskjellen mellom gruppene være av en viss størrelse for at resultatet skal være av praktisk betydning. Dersom vi tester ut et medikament mot placebobehandling, og medikamentet kommer marginalt bedre ut, er det ikke dermed sagt at vi bør begynne å behandle pasienter med dette medikamentet.
+
+Et konsept som er viktig i denne sammenhengen er minste klinisk interessante forskjell. Dette er en vurdering som gjøres før man setter i gang en studie, hvor man bestemmer seg for hvor stor forskjellen mellom gruppene må være for at resultatet skal være av praktisk betydning. I eksempelet med testing av et medikament mot placebo, hvor man tester hvor lang tid det går før man blir frisk, kan man for eksempel på forhånd bestemme at forskjellen må være på minimum 3 dager for at det skal være interessant å bruke medikamentet. Hvis studien da finner ut at medikamentet forkorter sykdomsforløpet med bare en dag, så er forskjellen ikke klinisk signifikant, uavhengig av om den måtte være statistisk signifikant. Dette er et viktig konsept å være klar over når man leser medisinsk forskning, og spesielt i store studier.
+
+## Større studier har større statistisk styrke
+
+P-verdien påvirkes direkte av størrelsen på studien. Det betyr at hvorvidt en forskjell av en gitt størrelse vil slå ut som statistisk signifikant er avhengig av hvor stor studien er. Statistisk styrke er et begrep som sier noe om hvor god evne en studie har til å avdekke en forskjell av en viss størrelse i studiepopulasjonen, altså at den slår ut som statistisk signifikant. Størrelsen på studien avgjør hvor stor statistisk styrke studien har, og derfor er det vanlig å gjøre en såkalt styrkeberegning før oppstart for å beregne hvor mange forsøkspersoner man trenger. Dette er også viktig av økonomiske hensyn, fordi studier ofte blir dyrere jo større de blir. Samtidig ønsker man ikke å kaste bort penger ved å gjennomføre for små studier som ikke er sterke nok til å påvise sammenhenger mellom variablene man undersøker.
+
+For å gjøre en styrkeberegning må man først bestemme seg for hvor stor effekt man er interessert i å avdekke, altså den minste klinisk interessante forskjellen. Deretter beregner man hvor mange personer man trenger i hver gruppe for at et slikt resultat skal slå ut som statistisk signifikant. I tillegg tar man høyde for forventet frafall underveis, slik at man inkluderer flere personer enn man egentlig trenger. Dersom studien er for liten så kan vi risikere å observere en forskjell større enn minste klinisk interessante forskjell, men ikke ha nok styrke til at den identifiseres som statistisk signifikant. Dette kan være et problem når studier blir for små, men samtidig er det viktig å huske at små studier er mindre representative, og derfor mer sårbare for tilfeldige utslag.
+
+## Statistisk styrke kan bli for stor
+
+Som sagt er større studier mer representative for totalpopulasjonen, og man kan med større sikkerhet si at forskjellene man avdekker er reelle. Men, ettersom p-verdien er direkte avhengig av størrelsen på studien, så vil mindre og mindre forskjeller slå ut som statistisk signifikante etter hvert som studien blir større, og dette er grunnlaget for fenomenet overstyrking – altså at den statistiske styrken blir for stor. Dette er ikke i seg selv et problem, men det er viktig å være klar over når man leser og tolker resultatene fra en studie, siden overstyrking fører til at effekter mindre enn minste klinisk interessante forskjell vil slå ut som statistisk signifikante.
+
+Overstyrking kan skyldes at man inkluderer for mange personer, for eksempel ved at frafallet ble mindre enn forventet, men kan også være relevant når man gjør analyser basert på store observasjonsstudier med mange deltakere. Det er gjennomført mange store kohortstudier der det foreligger massevis av data, og det gjøres hele tiden nye analyser basert på dette enorme datamaterialet. Men når disse studiene består av ti- eller hundretusenvis av deltakere, så sier det seg selv at den statistiske styrken også er enorm. Dette betyr i praksis at bittesmå forskjeller vil slå ut som statistisk signifikant. Da er det lett å se seg blind på en lav p-verdi og overtolke resultatene. Dette understreker hvorfor det er viktig å vurdere størrelsen på forskjellen i tillegg til det statistiske utfallet. Innen [ernæringsepidemiologien](ernaeringsepidemiologi.qmd) er dette veldig viktig å være klar over.
+
+[Effektstørrelser har jeg skrevet mer om tidligere](signifikans.qmd), men kort fortalt forteller disse oss hvor stor forskjellen mellom gruppene var. Eksempler på ofte brukte effektstørrelser er oddsratio (OR), relativ risiko (RR), hazardratio (HR), korrelasjonskoeffisienter (r), og standardisert gjennomsnittlig forskjell/Cohens d (SMD/d). I motsetning til en p-verdi påvirkes ikke effektstørrelsene av hvor stor studien er, og derfor gjør de det enklere å sammenligne resultatene fra studier med ulik størrelse. Standardiserte effektmål har heller ingen enhet, og man kan derfor sammenligne resultater som er målt på ulike skalaer.
+
+## Hovedbudskap
+
+Større studier er mer representative for studiepopulasjonen, og gir derfor et bedre og mer presist estimat. Dette reduserer risikoen for å finne falske positive og negative resultater. Likevel er det en reell problemstilling at store studier kan gi utslag på forskjeller som er så små at de er praktisk irrelevante, og derfor er det ekstremt viktig ikke å se seg blind på at et resultat er statistisk signifikant. Dette er en veldig aktuell problemstilling i studier som bygger på enorme observasjonsstudier med mange deltakere. Husk at en lav p-verdi ikke sier noe om hvorvidt forskjellen er av praktisk betydning, og derfor er det viktig også å vurdere effektstørrelsene – som forteller oss hvor stor forskjellen er. Dette er ting som er viktig å ha i bakhodet når man leser forskning og bedriver [kildekritikk](../../kildekritikk.qmd)!

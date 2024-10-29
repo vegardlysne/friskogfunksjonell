@@ -1,0 +1,114 @@
+---
+title: "Screening – hva er det og hva bør du vite?"
+author: "Frederik Emil Juul"
+date: 2015.07.31
+---
+
+Screening for brystkreft har vært gjennomført i Norge i en relativt lang periode, og tilbys alle kvinner i [alderen 50 til 69 år](http://www.kreftregisteret.no/no/Forebyggende/Mammografiprogrammet/). Men betyr det at ordningen bør utvides eller videreføres i sin nåværende tilstand for all overskuelig fremtid? Ikke nødvendigvis.
+
+Nylig ble det publisert en omfattende [fagartikkel om temaet i New England Journal of Medicine](http://www.nejm.org/doi/full/10.1056/NEJMsr1504363) \[1\]. Den argumenterer for at kvinner i bestemte aldersgrupper bør gå til regelmessig kontroll av brystene, og det blir foreslått å utvide programmet til flere aldersgrupper. Tidligere har det også blitt argumentert for å igangsette nye screeningsprogrammer mot andre sykdommer, blant annet i prostata og tykktarm \[2-5\]. Det er imidlertid ikke lett å vurdere effekten av slike programmer, og debatten pågår aktivt både i akademia \[6-8\] og i medier som f.eks. VG og Aftenposten \[9-11\]. I denne teksten vil jeg forsøke å introdusere prinsippene bak screening og sentrale begreper knyttet til vurdering av disse. De fleste eksemplene vil dreie seg om [kreft](http://www.friskogfunksjonell.no/en-introduksjon-til-kreftgaten/), da det er disse sykdommene jeg har best kjennskap til.
+
+## Screeningens prinsipper
+
+Begrepet «screening» forbindes vanligvis med masseundersøkelse av i utgangspunktet friske individer på leting etter sykdom. Selve ordet kommer av [«siling» eller «utvelgelse»](https://sml.snl.no/screening) og du kan forestille deg at en forsøker å finne gullkornene (personer med sykdom) i en større mengde sandkorn (befolkningen) \[12\].
+
+I tillegg til mammografiprogrammet for brystkreft, er livmorhalsprøve et eksempel på et etablert screeningprogram som sikter på å fange opp tidlige tegn på livmorhalskreft. Vi screener også for andre sykdommer, for eksempel diabetes (blod- eller urinprøve), hofteleddsdysplasi (kliniske undersøkelse) og medfødte genetiske sykdommer (blodprøve) hos nyfødte \[13\].
+
+Valg av screeningprogram varierer fra land til land, avhenger av hvilke utgangskriterier og vurdert resultat en vektlegger, i tillegg til at tradisjon og historie sannsynligvis spiller en medvirkende rolle. Ifølge Verdens helseorganisasjon (WHO) skal et screeningprogram helst oppfylle de såkalte [Wilson og Jungner kriteriene](http://www.who.int/bulletin/volumes/86/4/07-050112/en/) (min oversettelse):
+
+> 1.  Tilstanden/sykdommen bør være en viktig helseutfordring.
+>
+> 2.  Sykdommen bør ha en effektiv behandling.
+>
+> 3.  Det må være tilgjengelige fasiliteter for diagnostisering og behandling av sykdommen.
+>
+> 4.  Det må eksistere et anerkjent latent, ikke-symptomatisk, tidlig stadium av sykdommen.
+>
+> 5.  Tilstanden må kunne identifiseres av en test eller undersøkelse.
+>
+> 6.  Testen bør være akseptert av befolkningen.
+>
+> 7.  Sykdommens naturlige utvikling bør være godt forstått.
+>
+> 8.  Det bør være enighet om hvordan og til hvem behandling skal gis.
+>
+> 9.  De totale kostnadene ved å identifisere et sykdomstilfelle, både til screening og behandling, bør være i økonomisk overensstemmelse/balanse med gevinsten.
+>
+> 10. Screeningen bør være en kontinuerlig prosess og ikke et «en gang for alle» prosjekt.
+
+For at man skal velge å screene bør tilstanden/sykdommen være regnet som en helseutfordring (punkt 1), og vi må ha en tilgjengelig behandling som virker (punkt 2). Med andre ord er det ikke hensiktsmessig å undersøke hele befolkningen for særdeles sjeldne sykdommer, som for eksempel kreft i hjertet, da det i *befolkningen generelt* ikke kan sies å være et stort helseproblem. Screening sikter også etter å identifisere sykdom hos personer *før* vedkommende føler seg syk, og dersom det ikke eksisterer et godt behandlingsalternativ vil diagnosetidspunktet ikke ha betydning for pasientens levetid. Det vil også resultere i at de rammede lever lenger med en diagnostisk merkelapp, kanskje til og med med en «dødsdom» \[14\]. Da er det kanskje bedre at vedkommende er lykkelig uvitende om sin sykdom, og at en først ved symptomer benytter de behandlings- og lindringstiltakene som er tilgjengelig.
+
+For de sykdommene der vi har flere mulige screeningmetoder vil ulike undersøkelser kunne oppfylle de ulike WHO-kriteriene i forskjellig grad. For eksempel vil en endetarmsundersøkelse med en «kameraslange» (kolo- eller rektoskopi) oppdage flere krefttilfeller enn en avføringsanalyse etter blodspor (*Hemofec*), og dermed være bedre i tråd med punkt 5 \[15\]. Imidlertid er kamera-undersøkelsen langt mer invasiv og vil sannsynligvis skåre dårligere på punkt 6 fordi færre vil møte opp til en slik undersøkelse.
+
+Flere av punktene kunne blitt trukket fram og eksemplifisert. Poenget er at valget av screeningmetode til syvende og sist vil avhenge av hvordan man vekter de ulike kriteriene.
+
+## Sentrale begreper
+
+Det er nødvendig med en viss kjennskap til sentrale begreper for å tolke effekten av screening. I første rekke vil det være begrepene prevalens, sensitivitet, spesifisitet, negativ- og positiv prediktiv verdi \[16\]:
+
+Begrepet [**prevalens**](https://sml.snl.no/prevalens) betegner hvor stor andel av en populasjon (for eksempel Norges befolkning) som har en sykdom, eller en egenskap, på et gitt tidspunkt. Prevalensen av en sykdom er avgjørende for hvor godt et screeningprogram vil være, og derfor svært relevant når vi vurderer nytten av slike programmer. Fordelingen av en sykdom i befolkningen - altså prevalensen i ulike grupper - vil også være av stor betydning da den kan variere betraktelig. For eksempel vil de færreste en passerer på togstasjonen ha en tarmkreftdiagnose, mens andelen sannsynligvis er en helt annen på en sengeavdeling for tarmsykdommer. Beslutninger om innføring av screeningprogrammer gjøres som regel på nasjonalt nivå og prevalensen av ulike sykdommer i landet vil derfor være avgjørende for hvilke programmet som innføres, og eventuelt om man skal screene hele befolkningen eller bare spesifikke undergrupper. Et banalt eksempel er at vi bare screener for brystkreft blant kvinner, ettersom dette er en ytterst sjelden kreftform blant menn.
+
+Ingen diagnostisk test er hundre prosent sikker, hverken til å oppdage eller fastslå fraværet av sykdom, og begrepene [**sensitivitet**](http://www.unn.no/vurdering-av-svar/diagnostisk-sensitivitet-spesifisitet-prediktiv-verdi-article16827-7183.html) og [**spesifisitet**](https://snl.no/spesifisitet) er i denne sammenhengen viktig. Kort sagt sier sensitiviteten noe om testens evne til å påvise sykdom (positiv test) hos en som faktisk er syk, mens spesifisitet beskriver testens evne til å utelukke sykdom (negativ test) hos en person som er frisk. Disse oppgis i prosent, og en sensitivitet på 99% betyr at av 100 reelt syke personer vil testen korrekt identifisere 99 av disse som syke. Tilsvarende vil en spesifisitet på 95% bety at av 100 friske personer vil testen korrekt definere 95 som friske, mens fem personer feilaktig identifiseres som syke. Dette illustreres av tabellen under (tabell 1):
+
+![](images/clipboard-2514130422.png)\
+Hvis vi derimot ikke vet på forhånd hvem som er syke eller friske, dukker det fort opp et nytt problem. Hvordan vet vi at en som tester positivt faktisk er syk, eller at en som tester negativt faktisk er frisk? For å vurdere dette snakker vi om henholdsvis [**positiv- (PPV)** og **negativ prediktiv verdi (NPV)**](http://www.unn.no/vurdering-av-svar/diagnostisk-sensitivitet-spesifisitet-prediktiv-verdi-article16827-7183.html). Disse bygger på testens sensitivitet og spesifisitet, samt sykdommens prevalens, og er derfor spesifikk for en gitt populasjon.
+
+I vårt fiktive eksempel i tabell 1 ser vi at dersom vi screener alle involverte personer, vil vi ende opp med 104 positive prøver og 96 negative prøver. Av de 104 positive prøvene vil 99 personer være faktisk syke (sanne positive) mens 5 egentlig er friske (falske positive). PPV blir da 99/104 = 95%. På samme måte har vi blant de 96 negative prøvene 95 friske (sanne negative) og én syk person (falske negative). NPV blir derfor 95/96= 99%.
+
+Prevalensen påvirker som sagt hvor godt en test vil fungere i en gitt populasjon, og i vårt eksempel fra tabell 1 vil testen prestere ganske bra på grunn av en høy prevalens. Det motsatte er tilfellet dersom sykdommen er sjelden, noe vi kan illustrere ved å øke vår friske fiktive populasjon til 100 000 og beholde antallet syke på 100 (tabell 2).
+
+![](images/clipboard-168556373.png)
+
+Her ser vi at ved 99% sensitivitet og 95% spesifisitet (samme diagnostiske egenskaper som forrige test) så får vi hele 5 094 positive tester, hvorav bare 99 av disse reelt representerer syke personer. PPV blir 99/5 094 = 1.9%, noe som betyr at dersom du tester positivt så er det fremdeles liten sjanse (bare 1.9%) for at du faktisk er syk. I samme populasjon vil vi få 94 906 negative tester, hvorav bare én av disse vil være syk, og NPV blir 94 905/94 906 = så godt som 100%, og en negativ test vil dermed være svært pålitelig. Jo høyere prevalensen av en sykdom er, jo mer sannsynlig vil det være at en som tester positivt faktisk er syk (PPV øker), mens det motsatte vil være tilfelle dersom sykdommen er sjelden, noe som vil føre til at vi får flere falske positive.
+
+Således vil et screeningprogram på store menneskegrupper, for eksempel alle kvinner i et land, uunngåelig ende opp med å definere en del friske personer som syke, noe som medfører unødvendig utredning og behandling. På grunn av dette argumenteres det ofte for at screening må skje i såkalte «høyrisikogrupper», hvor prevalensen for sykdommen er høyere og hvor testen dermed vil være mer treffsikker.
+
+## Anskuelige negative konsekvenser
+
+En positiv screeningtest vil ofte være innledningen til en lengre kjede av undersøkelser, som utgjør en økonomisk og tidskrevende kostnad for helsevesenet. Hvis testen er en falsk positiv vil, i tillegg til undersøkelsesutgiftene, pasienten kunne bli unødvendig traumatisert hvis de får beskjed om for eksempel kreftmistanke. Selv om vedkommende blir friskmeldt senere vil perioden fram til dette være svært ubehagelig og kan muligens gi betydelige ettervirkninger hos enkelte \[17-18\].
+
+På sett og vis vil det motsatte potensielt være tilfellet hos en som i virkeligheten har en sykdom, men som ikke blir fanget opp av screeningen. Hun vil kunne føle seg betrygget om sin helse, og dermed ikke kontakte lege når sykdommen begynner å utvise de første symptomene. Resultatet blir redusert levetid fordi behandlingen kommer i gang for sent, skjønt om dette faktisk skjer er noe de lærde strides om \[19\].
+
+## Sammendrag
+
+Med denne teksten har jeg forsøkt å forklare hva screening er, hvorfor vi driver med det, samt introdusert sentrale begreper som **prevalens**, **sensitivitet**, **spesifisitet**, **positiv- og negativ prediktiv verdi** (**PPV** og **NPV**). I en kommende tekst vil forståelsen av disse begrepene være sentral i drøftingen rundt screeningens fordeler og ulemper, samt peke på noen av de vanligste misforståelsene vedrørende screening. Hensikten er å øke oppmerksomheten omkring screeningens begrensninger og således gi et mer nyansert bilde enn det som ofte presenteres i populærmedia.
+
+**Kilder:**
+
+1.  Lauby-Secretan B et al. *Breast-Cancer Screening — Viewpoint of the IARC Working Group*. N Engl J Med 2015; 372:2553-58
+
+2.  Helsedirektoratet. *Nasjonalt handlingsprogram med retningslinjer for diagnostikk, behandling og oppfølging av prostatakreft.* Helsedirektoratet 2015. https://helsedirektoratet.no/retningslinjer/nasjonalt-handlingsprogram-med-retningslinjer-for-diagnostikk-behandling-og-oppfolging-av-prostatakreft (01.08.2015)
+
+3.  UK Colorectal Cancer Screening Pilot Group*. Results of the first round of a demonstration pilot of screening for colorectal cancer in the United Kingdom.* BMJ 2004; 329: 133
+
+4.  *Tarmkreftscreening* - <http://kreftregisteret.no/tarmkreftscreening>
+
+5.  Normannvik E. *Å oppdage kreft tidlig.* Kreftforeningen. <https://kreftforeningen.no/om-kreft/a-oppdage-kreft-tidlig/> (01.08.2015)
+
+6.  Hoff, G. *Screening for kolorektalcancer haster*. Tidsskr Nor Legeforen 2010; 130:925
+
+7.  Pedersen K. *Kostnad-nytte-avveininger i screening mot livmorhalskreft.* Tidsskr Nor Legeforen 2015; 135:1022
+
+8.  Johansen TEB*. PSA-basert screening for prostatakreft.* Tidsskr Nor Legeforen 2008; 128:2612-4
+
+9.  Spilde I*. Ny studie: Screening hindrer ikkje hjertedødsfall.* VerdensGang 2013.<http://www.vg.no/nyheter/innenriks/ny-studie-screening-hindrer-ikke-hjertedoedsfall/a/10112360/> (01.08.2015)
+
+10. Haraldsen I. *Masseundersøkelse mot aids.* Forskning.no 2008. <http://forskning.no/helsepolitikk-samfunnsmedisin-virus/2008/11/masseundersokelse-mot-aids> (01.08.2015)
+
+11. Zahl PH, Roksund G. *Overdiagnostikk gjør oss sykere.* Aftenposten 2015 jan. <http://www.aftenposten.no/meninger/kronikker/Kronikk-Overdiagnostikk-gjor-oss-sykere-7879447.html> (01.08.2015)
+
+12. TheFreeDictionary. *screening*. The Free Dictionary 5e 2011. <http://www.thefreedictionary.com/screening> (01.08.2015)
+
+13. Ørstavik R. *Færre komplikasjoner hos for tidlig fødte*. Tidsskr Nor Lægeforen 2007; 127:410
+
+14. Welch HG, Schwartz L, Woloshin S*. What’s Making Us Sick Is an Epidemic of Diagnoses.* New York Times 2007. http://www.nytimes.com/2007/01/02/health/02essa.html?\_r=0 (01.08.2015)
+
+15. Kreftregisteret. *Fordeler og ulemper med screening*. Kreftregisteret 2014. <http://kreftregisteret.no/no/Forebyggende/Tarmkreftscreening/Fordeler-og-ulemper-med-screening/> (01.08.2015)
+
+16. Ruf M, Morgan O. *Statistical aspects of screening tests, including knowledge of and ability to calculate, sensitivity, specificity, positive and negative predictive values, and the use of ROC curves.* Health Knowledge 2008. <http://www.healthknowledge.org.uk/public-health-textbook/disease-causation-diagnostic/2c-diagnosis-screening/statistical-aspects-screening> (01.08.2015)
+
+17. Scaf-Klomp W et al. Distressed *or relieved? Psychological side effects of breast cancer screening in The Netherlands.* J Epidemiol Community Health 1997;51:705-710. <http://jech.bmj.com/content/51/6/705.abstract>
+
+18. Brodersen, J., Siersma, V. D. *Long-Term Psychosocial Consequences of False-Positive Screening Mammography.* Ann Fam Med2013 Mar-Apr;11(2):106-15
+
+19. Petticrew, M. et al*. False-negative results in screening programmes: systematic review of impact and implications*. Health Technol Assess. 2000;4(5):1-120
