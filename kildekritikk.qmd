@@ -68,6 +68,8 @@ For å lese forskning er det viktig å vite litt om ulike studiedesign og statis
 
 -   [Å tolke en studie i kontekst](http://www.friskogfunksjonell.no/studie-kontekst/ "Å tolke en studie i kontekst")
 
+-   [Hvordan leser du en forskningsartikkel](lese-forskningsartikkel.qmd)
+
 #### Svakheter i forskning
 
 Selv om forskning er den beste måten vi har for å frembringe ny kunnskap, er det viktig å være klar over at forskning også har mange svakheter vi må ha i bakhodet når vi leser vitenskapelige artikler, og det kan du lese mer om i følgende artikler:
@@ -98,7 +100,7 @@ Har du noen gang følt at du har god innsikt i et emne etter første introduksjo
 
 Hjernen vår er ikke alltid helt ærlig med oss. Logiske tankefeil er fenomener som rammer oss alle, og bidrar til at vi til stadig lurer oss selv. Vi kan ikke unngå disse, men ved å være klar over de kan du være bedre rustet til å oppdage når de rammer akkurat deg. Det er mange varianter av disse tankefeilene, og i de følgende artiklene kan du lese mer om noen av de vanligste:
 
--   [Bekreftelses- og tilgjengelighetsbias](http://www.friskogfunksjonell.no/tankefeil-del-1-bekreftelse-og-tilgjengelighet/ "Tankefeil del 1 –  Bekreftelse og tilgjengelighet")
+-   [Bekreftelses- og tilgjengelighetsbias](http://www.friskogfunksjonell.no/tankefeil-del-1-bekreftelse-og-tilgjengelighet/ "Tankefeil del 1 – Bekreftelse og tilgjengelighet")
 
 -   [Etterpåklokskap og rammeeffekten](http://www.friskogfunksjonell.no/tankefeil-del-2-etterpaklokskap-og-rammeeffekten/ "Tankefeil del 2 – Etterpåklokskap og rammeeffekten")
 

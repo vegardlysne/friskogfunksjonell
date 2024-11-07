@@ -1,7 +1,7 @@
 ---
 title: "Lungene del 2 – transport av gasser og regulering av ventilasjon"
 author: "Andreas Wahl Blomkvist"
-date: "2015.12.13"
+date: "2015.02.13"
 categories: 
   - Fysiologi
   - Lunge

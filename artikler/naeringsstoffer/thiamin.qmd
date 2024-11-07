@@ -1,6 +1,6 @@
 ---
 title: "Thiamin, Vitamin B1"
-date: "2011.10.29"
+date: "2011.10.23"
 categories: 
   - næringsstoffene
   - vannløselige vitaminer

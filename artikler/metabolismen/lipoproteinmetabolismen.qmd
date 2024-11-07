@@ -1,7 +1,7 @@
 ---
 title: "Lipoproteinmetabolismen"
 author: "Vegard Lysne"
-date: "2013.04.11"
+date: "2013.11.04"
 categories: 
   - Metabolismen
 ---

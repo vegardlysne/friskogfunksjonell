@@ -1,0 +1,116 @@
+---
+title: "Hvordan leser man en forskningsartikkel?"
+date: 2012.01.06
+---
+
+[Tilbake til kildekritikk, vitenskap og tankefeil](../../kildekritikk.qmd)
+
+Det henvises ofte til forskning når man argumenterer for noe, men uten trening i å lese denne typen artikler, er det lett å bli forvirret. Spesielt gjelder dette enkelte ord og uttrykk som ofte går igjen. I denne artikkelen vil jeg prøve å komme med noen enkle tips til hvordan du kan lese en forskningsartikkel, og gi en enkel forklaring på vanlige ord og uttrykk. Dukker det opp vanskelige ord i teksten, finner du sannsynligvis en forklaring nederst, og hvis ikke er kommentarfeltet der for deg!
+
+## Oppbygning av en forskningsartikkel
+
+Vanligvis er en forskningsartikkel bygget opp på en standardisert måte, og her er en liten gjennomgang av hva du kan finne i de ulike delene:
+
+###### Abstract
+
+Et kort sammendrag av hele artikkelen. Du kan alltid se på abstractet hva du kan forvente deg å finne i selve artikkelen, men det gir selvfølgelig ikke et fullstendig bilde.
+
+###### Innledning
+
+Her pleier det å være en kort introduksjon til det temaet forskningsprosjektet har sett på. Her nevnes gjerne hva som har vært oppfatningene på dette området tidligere, og hvorfor de valgte å gjøre den aktuelle studien/analysen.
+
+###### Metode
+
+Her vil du finne informasjon om hvilken type studie det er snakk om, hvor mange forsøkspersoner som har vært med og hvilken type personer det er snakk om, hvilke målinger som er gjort, hvilke intervensjoner som er gjort, oppfølgingstid og hvilke statistiske analyser som er brukt. Dette er ofte den mest tekniske delen av artikkelen, og dersom du i utgangspunktet bare er interessert i selve resultatene og konklusjonene, kan du hoppe over denne delen.
+
+###### Resultater
+
+Her presenteres de primære resultatene studien har kommet fram til. Her vil du ofte finne grafer og tabeller som representerer det de har funnet ut. Denne delen er vanligvis helt nøytral, og forfatternes tolkning av resultatene holdes utenfor.
+
+###### Konklusjon
+
+Her tolker forfatterne resultatene sine og kommer med sine konklusjoner til hvilken betydning disse har. Ofte sammenlignes resultatene med resultater fra lignende studier, og forfatterne vil se om vi er nærmere en løsning eller om det fremdeles trengs mer forskning på området.
+
+###### Diskusjon
+
+Her ser forfatterne på styrker og svakheter ved sin egen studie, og ser på mulige årsaker til at resultatene ble som de ble. Resultatene diskuteres også, og forfatterne kommer med sine meninger om hvorvidt disse er troverdige, eller om de aktuelle styrkene og svakhetene kan ha påvirket disse i den ene eller andre retningen.
+
+## Ulike typer studier og hva de kan si oss
+
+En av de første tingene du bør få klarhet i når du leser en forskningsartikkel er hvilken type studie det er snakk om. Ulike typer studier har ulikt bruksområde, noe som er viktig å ha klart for seg når man leser.
+
+###### Observasjonsstudier
+
+En observasjonsstudie er basert på akkurat det navnet tilsier, nemlig observasjoner. I en slik studie gjør man ikke noen endringer, men ser hva folk gjør/har gjort og hvordan det går med de. For eksempel kan man se om de som har utviklet en sykdom (f.eks. hjertesykdom) har gjort noe annerledes enn de som ikke har utviklet sykdommen (f.eks. om de har røykt mer).
+
+En observasjonsstudie kan ikke si noe om hva som er årsak og hva som er effekt. Dette betyr at en slik studie ikke kan brukes til å bevise en sammenheng, men kan være med å danne en hypotese som legger grunnlag for en klinisk studie. Om det var en sammenheng mellom de som røykte mest og de som utviklet hjertesykdom, så trenger det ikke nødvendigvis å være en årsakssammenheng her, men det kan være verdt å sjekke dette ut i en klinisk studie.
+
+Observasjonsstudier kan være prospektive, noe som betyr at de følger en gruppe fremover i tid og ser på utviklingen, eller retrospektive, se bakover i tid på hva som har vært gjort.
+
+###### Intervensjonsstudier
+
+I en intervensjonsstudie ønsker man å se på effekten av et eller flere tiltak, f.eks. å ta et spesifikt kosttilskudd. Man deler da forsøkspersonene inn i grupper, der en av gruppene gjennomfører tiltaket mens den andre ikke gjør det. I ettertid kan man se på forskjellene i resultatene, og se om tiltaket har hatt en effekt.
+
+Kliniske studier er et eksempel på intervensjonsstudier. Her er forsøkspersonene ofte randomisert, dvs de er tilfeldig plassert i enten intervensjonsgruppen eller kontrollgruppen (se lenger nede for definisjoner). Kliniske studier kan også være enkeltblinde eller dobbeltblinde. I en enkeltblind studie vet ikke forsøkspersonene selv hvilken gruppe de tilhører, og i en dobbeltblind studie vet heller ikke legene som gjør undersøkelsene hvilken gruppe personen tilhører. Dette reduserer risikoen for at resultatene blir påvirket av utenforliggende ting.
+
+###### Metaanalyser
+
+En metaanalyse, eller samleanalyse som det også heter, er en sammenfatning av flere studier som har sett på de samme tingene. Når man gjennomfører en slik analyse må man ha strenge eksklusjonskriterier, som sørger for at de studiene som ikke oppfyller en viss standard ikke blir tatt med. Eksempler på slike eksklusjonskriterier kan være hvorvidt studiene er randomiserte, antall forsøkspersoner, om det er justert for confoundere (se lenger nede), om det er gjort flere intervensjoner, hvilke statistiske analyser som er gjort og mange fler.
+
+Metaanalyser gir et godt bilde av forskningen som er gjort på et område, men det er også ulemper med denne typen studier. Studier som tas med kan være gjort i helt ulike befolkninger eller verdensdeler, noe som gjør at utgangspunktet for forsøkspersonene ikke er de samme. Vi kan f.eks. se at risikoen for hjertesykdom langt høyere i Irland enn i Frankrike ved samme kolesterolnivå, noe som kan påvirke resultatene av en slik analyse.
+
+## Ord og begreper som ofte dukker opp
+
+Ofte dukker det opp ord som gjør forskningsartikkelen vanskelig å forstå med mindre man vet hva de betyr. Her vil jeg prøve å gi en kort definisjon på noen sentrale slike ord.
+
+En intervensjon er et inngrep, altså en endring, som gjøres i en gruppe. Hvis vi vil undersøke effekten av å øke inntaket av omega-3, kan intervensjonen være å gi tilskudd av dette. En annen intervensjon kan være å slutte å røyke. Den forsøksgruppen som gjennomfører intervensjonen kalles intervensjonsgruppen.
+
+###### Kontrollgruppe
+
+Om vi skal kunne påvise en sammenheng mellom intervensjonen og resultatet, må vi ha en tilsvarende gruppe med forsøkspersoner som ikke gjennomfører intervensjonen. Disse blir regnet som kontrollgruppe, og hvis resultatene mellom kontrollgruppen og intervensjonsgruppen ikke er signifikante (se lenger nede), kan vi ikke si at intervensjonen har en effekt.
+
+###### Placebo
+
+I kliniske studier vil man ofte at forsøkspersonene ikke skal vite om de er i intervensjons eller kontrollgruppen. For å få dette til, gir man kontrollgruppen tilsvarende behandling, men uten virkestoff, noe som kalles placebo. Hvis man ønsker å se på effekten av et kosttilskudd, kan placeboen være piller som ikke inneholder virkestoffet.
+
+I studier som ser på effekten av vitamintilskudd, er det vanlig at placebo er lignende piller som inneholder sukker i stedet for vitaminet. På denne måten er det lettere å holde studien blindet, da forsøkspersonene ikke vet om de får vitaminet eller placebo.
+
+Placebo kan også brukes for å se om det er noen psykiske effekter som spiller inn på resultatet. Hvis man oppnår et resultat etter å ha fått placebo, kalles dette placeboeffekt.
+
+###### Signifikans/signifikansnivå
+
+Signifikans er et statistisk begrep, og brukes for å bedømme om resultatene skyldes intervensjonen eller om de kan være tilfeldige. Det oppgis alltid signifikansnivå, og vanligvis er dette på 95%. Dette betyr at dersom resultatene viser seg å være signifikante, er det 95% sikkert at de ikke skyldes tilfeldigheter. Signifikansnivået kan også være f.eks. 90% eller 99%, men innen ernæringsforskning er 95% det vanligste.
+
+Dersom forskjellen mellom de gruppene som sammenlignes ikke er signifikant, kan man ikke bruke resultatene til å hevde at intervensjonen har hatt en effekt. Da omtales resultatene som ikke-signifikante. Dette betyr ikke nødvendigvis at intervensjonen ikke har virket, men at man i den aktuelle studien ikke har klart å påvise en sikker forskjell.
+
+Størrelsen på forsøksgruppene påvirker hvordan resultatene blir. Om det er få forsøkspersoner, må forskjellen i resultatene være mye større for å regnes som signifikante. Dette handler om statistikk, og jo flere personer som viser en liten forskjell, jo sikrere er det at resultatene skyldes intervensjonen og ikke tilfeldigheter.
+
+###### Hypotese
+
+En hypotese er en teori som er utgangspunktet for en studie. En hypotese kan ikke bevises, men om den motbevises må den forkastes. Et eksempel på en hypotese er at alle svaner er hvite. Dersom man finner en svart svane, må hypotesen forkastes, siden den er motbevist. Alle kliniske studier utføres utifra en hypotese
+
+###### Confounder
+
+En confounder er en utenforliggende faktor som kan spille inn på resultatet. Hvis man f.eks. ser en sammenheng mellom å spise peanøtter og det å få hodepine dagen etterpå, så trenger ikke disse å ha noe med hverandre å gjøre. Da er det stor sannsynlighet for at det er en confounder inne i bildet. I dette eksempelet kan alkohol være en slik confounder, da man gjerne spiser peanøtter når man drikker alkohol.
+
+Hvis man ser at det er en statistisk sammenheng (observasjonsstudie) mellom isspising og folk som drukner (det er det), så betyr ikke dette at folk drukner av å spise is. Det betyr heller ikke at flere spiser is fordi noen har druknet. Det mest sannsynlige her er at resultatene er påvirket av en confounder, i dette tilfellet årstid og temperatur. Om sommeren vil det være et høyere forbruk av iskrem, og siden det er flere som bader vil også flere drukne.
+
+###### Justering (adjustment)
+
+Ofte ser man at det er flere forskjeller mellom gruppene enn det man ønsket å finne effekten av. Kanskje har mange sluttet å røyke i den ene gruppen men ikke i den andre, noe som kan påvirke resultatet. Hvis forfatterne skriver at de har justert for en slik confounder, så betyr det at de har gjort statistiske analyser som gjør opp for disse forskjellene. En vanlig faktor å justere for er alder.
+
+###### Prevalens/Insidens
+
+I kliniske studier ser man ofte at det snakkes om prevalensen eller insidensen til en sykdom, og disse begrepene brukes tilsynelatende om hverandre. Det er likevel en viktig forskjell. *Prevalensen* til en sykdom forteller oss hvor stor andel av en befolkning som er rammet av denne sykdommen. Hvis hver 10. nordmann har diabetes, så er prevalensen 10%. Når man snakker om insidens, så er dette antall nye tilfeller av sykdommen i en gitt periode, f.eks. i den perioden studien har pågått. Insidensen er ofte oppgitt per 1000 personer, og sier noe om hvor stor risikoen er for å utvikle denne sykdommen i løpet av en slik periode om du tilhører denne befolkningen.
+
+###### Relativ risiko
+
+Resultatene i en studie presenteres ofte i form av relativ risiko, ofte forkortet RR. Spesielt gjelder dette studier innen medisin og ernæring. Relativ risiko sier noe om hvor stor risikoen for å utvikle en sykdom er ved en viss eksponering for en risikofaktor, sammenlignet med en annen eksponering. Hvis RR er oppgitt til 1.5, betyr det at risikoen er 1,5 ganger høyere for den gruppen i forhold til dem det sammenlignes med. Er RR under 1, betyr det at risikoen er redusert.
+
+## Så, hvordan leser du en forskningsartikkel?
+
+Om du ikke skal bruke artikkelen til noe annet enn å finne ut av noe, kan dette være mer enn nok å lese abstractet. Om du vil sette deg litt bedre inn i saken, kan det være lurt å lese innledningen og konklusjonene. Dersom du vil undersøke argumenter for og imot studien, er diskusjonsdelen gull verdt, og det kan også være lurt å se nøyere på resultatdelen. Metodedelen er også viktig, siden denne forteller om hvordan studien er gjennomført. Her skal det blant annet stå hvordan man har samlet inn informasjon og hvordan den
+
+En siste ting som kan være lurt å sjekke, er hvor gammel studien er. Finnes det nyere studier eller studier med motstridende resultater, kan det være verdt å ta en titt på disse også.
+
+Etter å ha lest denne guiden er du forhåpentligvis litt bedre rustet til å hente ut relevant informasjon fra en studie, uten at du trenger å lese hele greien fra perm til perm!
