@@ -85,7 +85,7 @@ I løpet av året har vi knyttet til oss flere skribenter. Thomas Olsen, Ingvild
 
 Vi har alle blitt ett år eldre, og økt kompetansenivået vårt. Vegard, Thomas, Ingvild og Hanne har alle fullført bachelorgrad i ernæring. Hanne har nå tatt fatt på medisinstudiet, Thomas har påbegynt en master i Human Ernæring, mens Vegard og Ingvild har startet på mastergraden i Klinisk Ernæring. Torbjørn fullførte sin bachelorgrad i fysioterapi, og har det siste halvåret vært utplassert i turnus. Eivind er fremdeles i full jobb som fysioterapeut.
 
-Mot slutten av året fikk Hanne publisert en [artikkel i Tidsskriftet](tidsskriftet.no/article/2940375) på bakgrunn av bacheloroppgaven sin om de offentlige anbefalingene for fett. Vegard ble [intervjuet i magasinet VOF](brokenlink/intervju-i-vof/), der han uttalte seg om de offentlige kostrådene, samt at han ble representert i TV2 Sporty i en sak om [kosthold på begrenset budsjett](http://www.tv2.no/sporty/kosthold/spis-sunnere-og-spar-tusenlapper-hver-maaned-3944871.html).
+Mot slutten av året fikk Hanne publisert en [artikkel i Tidsskriftet](tidsskriftet.no/article/2940375) på bakgrunn av bacheloroppgaven sin om de offentlige anbefalingene for fett. Vegard ble [intervjuet i magasinet VOF](intervju-vof.qmd), der han uttalte seg om de offentlige kostrådene, samt at han ble representert i TV2 Sporty i en sak om [kosthold på begrenset budsjett](http://www.tv2.no/sporty/kosthold/spis-sunnere-og-spar-tusenlapper-hver-maaned-3944871.html).
 
 ## 2013 - Veien videre
 
