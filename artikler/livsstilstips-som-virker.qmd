@@ -31,7 +31,7 @@ Grønnsaker bør inngå i det daglige kostholdet. Ikke bare bidrar det med masse
 
 #### 5. Mindre sukker
 
-Å redusere sukkerinntaket er noe de fleste kan tjene mye på rent helsemessig. Tilsatt sukker er det vi kaller tomme kalorier, som betyr at det bare bidrar med energi og ikke med næringsstoffer. Spesielt [sukker i flytende form](brokenlink/bor-du-begrense-inntaket-av-flytende-karbohydrater/) er det lett å få i seg mye av, siden dette metter dårligere enn sukker i fast form. Å bytte ut brus med lettbrus gjør et godt innhugg i sukkerinntaket, og kan være en veldig effektiv måte å begrense seg på.
+Å redusere sukkerinntaket er noe de fleste kan tjene mye på rent helsemessig. Tilsatt sukker er det vi kaller tomme kalorier, som betyr at det bare bidrar med energi og ikke med næringsstoffer. Spesielt [sukker i flytende form](flytende-karbohydrater.qmd) er det lett å få i seg mye av, siden dette metter dårligere enn sukker i fast form. Å bytte ut brus med lettbrus gjør et godt innhugg i sukkerinntaket, og kan være en veldig effektiv måte å begrense seg på.
 
 #### 6. Frukt og bær
 

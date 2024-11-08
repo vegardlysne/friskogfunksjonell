@@ -58,4 +58,4 @@ Etter røykeslutt tar det
 
 ## Avslutning
 
-Jeg håper at dette blogginnlegget har gitt deg en ekstra motivasjon til å stumpe røyken for godt. Som nevnt i innledningen er røykeslutt det viktigste enkelttiltaket du kan gjøre for helsen din, og kombinert med andre tiltak som forbedringer i kostholdet og en økning i aktivitetsnivået er du på god vei til en optimal helse! Våre [råd for en bedre helse](brokenlink/vare-rad-for-bedre-helse/) er et godt utgangspunkt!
+Jeg håper at dette blogginnlegget har gitt deg en ekstra motivasjon til å stumpe røyken for godt. Som nevnt i innledningen er røykeslutt det viktigste enkelttiltaket du kan gjøre for helsen din, og kombinert med andre tiltak som forbedringer i kostholdet og en økning i aktivitetsnivået er du på god vei til en optimal helse! Våre [råd for en bedre helse](helserad.qmd) er et godt utgangspunkt!

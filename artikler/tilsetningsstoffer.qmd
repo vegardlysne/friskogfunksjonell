@@ -84,7 +84,7 @@ Tilsetningsstoffene er som nevnt inndelt i grupper etter bruksområde. I de nest
 
 -   Konserveringsmidler
 
--   [Fargestoffer](brokenlink/fargestoffer/)
+-   [Fargestoffer](fargestoffer.qmd)
 
 -   [Søtstoffer](sotstoffer.qmd)
 

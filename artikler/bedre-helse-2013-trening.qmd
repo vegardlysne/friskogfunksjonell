@@ -6,7 +6,7 @@ date: 2013.01.04
 
 Nok et år er gått og mange nyttårsforsett er inngått. Et nyttårsforsett har som oftest et mål om å bedre sin egen livssituasjon på en eller annen måte. Veldig mange velger et forsett hvor sin egen helse står i fokus, enten det er snakk om bedret kosthold, slutte å røyke/snuse eller å trene mer. Den store utfordringen for folk flest er å gjennomføre det de har de har satt seg som mål.
 
-Helse er i vinden som aldri før, og 2013 vil nok ikke bli et unntak. Sist så Vegard på [tips som kan forbedre kostholdet ditt](brokenlink/mot-2013-med-forbedret-helse-kosthold/). Her kommer noen tips for hvordan nettopp du kan komme i bedre form i 2013.
+Helse er i vinden som aldri før, og 2013 vil nok ikke bli et unntak. Sist så Vegard på [tips som kan forbedre kostholdet ditt](bedre-helse-2013-kosthold.qmd). Her kommer noen tips for hvordan nettopp du kan komme i bedre form i 2013.
 
 ### 1. **Sett tydelige og realistiske mål**
 
@@ -16,7 +16,7 @@ Med realistiske mål mener jeg at du bør sette deg et mål som er oppnåelig me
 
 ### 2. Planlegg treningen din
 
-Jeg vil anbefale deg å [lage en plan](brokenlink/planlegg-treningen-din/) for hva du skal trene i løpet av uken og hvilke dager du skal trene det på. Det nytter å bruke litt tid på en god planlegging. I fjor høst kom det en liten sak på hvordan du kan planlegge treningen din.
+Jeg vil anbefale deg å [lage en plan](planlegg-treningen-din.qmd) for hva du skal trene i løpet av uken og hvilke dager du skal trene det på. Det nytter å bruke litt tid på en god planlegging. I fjor høst kom det en liten sak på hvordan du kan planlegge treningen din.
 
 En god plan er lettere å gjennomføre enn ingen plan.
 

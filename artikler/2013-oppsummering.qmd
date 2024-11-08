@@ -29,23 +29,23 @@ Av alle de 106 artiklene og innleggene vi har publisert i år er det selvfølgel
 
 -   [Inkompetent uten å vite det – Dunning-Kruger-effekten](kildekritikk/dunning-kruger.qmd) (843 delinger)
 
--   [Beinhinnebetennelse](brokenlink/beinhinnebetennelse/) (250 delinger)
+-   [Beinhinnebetennelse](beinhinnebetennelse.qmd) (250 delinger)
 
--   [Skribentpanel - Lavkarbo, gull eller tull?](brokenlink/skribentpanel-lavkarbo-gull-eller-tull/) (149 delinger)
+-   [Skribentpanel - Lavkarbo, gull eller tull?](skribentpanel-lavkarbo.qmd) (149 delinger)
 
--   [Infraspinatus - årsaken til dine skuldersmerter?](brokenlink/infraspinatus-arsaken-til-dine-skuldersmerter/) (121 delinger)
+-   [Infraspinatus - årsaken til dine skuldersmerter?](infraspinatus.qmd) (121 delinger)
 
--   [En pekefinger i flere retninger](brokenlink/en-pekefinger-i-flere-retninger/) (103 delinger)
+-   [En pekefinger i flere retninger](pekefinger.qmd) (103 delinger)
 
 #### 5 mest leste i 2013
 
 -   [Irritabel tarm og hva du kan gjøre med det](irritabel-tarm.qmd) (33 000 visninger)
 
--   [Beinhinnebetennelse](brokenlink/beinhinnebetennelse/) (20 000 visninger)
+-   [Beinhinnebetennelse](beinhinnebetennelse.qmd) (20 000 visninger)
 
--   [Irritabel tarm - hvordan behandles det?](brokenlink/irritabel-tarm-hvordan-behandles-det/) (9000 visninger)
+-   [Irritabel tarm - hvordan behandles det?](irritabel-tarm-behandling.qmd) (9000 visninger)
 
--   [Belastningsskader: Runners Knee](brokenlink/belastningsskader-runners-knee/) (6500 visninger)
+-   [Belastningsskader: Runners Knee](runners-knee.qmd) (6500 visninger)
 
 -   [Inkompetent uten å vite det - Dunning-Kruger-effekten](kildekritikk/dunning-kruger.qmd) (4500 visninger)
 
@@ -55,31 +55,31 @@ Av alle de 106 artiklene og innleggene vi har publisert i år er det selvfølgel
 
 Kildekritikk er veldig viktig når man prøver å finne ut av ting. På internett kan stort sett hvem som helst skrive hva som helst, og det som ser mest troverdig ut trenger ikke å være det som stemmer best. Å finne gode kilder er halve jobben, og denne artikkelen kan forhåpentligvis hjelpe deg et godt stykke på vei til nettopp dette.
 
-###### 2. [Tankefeil del 1 - bekreftelse og tilgjengelighet](brokenlink/tankefeil-del-1-bekreftelse-og-tilgjengelighet/)
+###### 2. [Tankefeil del 1 - bekreftelse og tilgjengelighet](kildekritikk/tankefeil1.qmd)
 
 Tankefeil (bias) er noe som rammer oss alle til enhver tid. Bekreftelsesbias og tilgjengelighetsbias er to av de vanligste, og i den første artikkelen om tankefeil er det nettopp disse som står i søkelyset.
 
-###### 3. [Dårlig livsstil - bare latskap?](brokenlink/darlig-livsstil-bare-latskap/)
+###### 3. [Dårlig livsstil - bare latskap?](livsstil-latskap.qmd)
 
 Gammel vane vond å vende. Er det bare latskap som ligger til grunn for at folk gjør dårlige valg når det kommer til egen helse? Dette drøftes av Andrea i denne artikkelen.
 
-###### 4. [Kosthold og hjertesykdom - hvor står vi i 2013?](brokenlink/kosthold-og-hjertesykdom-hvor-star-vi-i-2013/)
+###### 4. [Kosthold og hjertesykdom - hvor står vi i 2013?](lhl-konferanse-2013.qmd)
 
 I januar arrangerte landsforeningen for Hjerte- og Lungesyke en konferanse med temaet kosthold og hjertesykdom. Forskere fra både inn- og utland presenterte forskning som omhandlet ulike aspekter av kostholdet og hvordan dette påvirker risikoen for hjertesykdom. I denne artikkelen finner du en oppsummering av de ulike foredragene.
 
-###### 5. [Ikke ilegg kreftpasienter kostrestriksjoner](brokenlink/kosthold-og-kreft/)
+###### 5. [Ikke ilegg kreftpasienter kostrestriksjoner](kalorirestriksjon-kreft-debatt.qmd)
 
 I slutten av september dukket det opp en diskusjon vedrørende kostråd til kreftpasienter, først startet opp av Fedon Lindberg. Han fikk svar fra både kreftforeningen, Rune Blomhoff og blogger Gunnar Tjomlid. Jeg ville også være med, og denne artikkelen representerer mitt bidrag.
 
-###### 6. [Nei, du er ikke avhengig av sukker](brokenlink/sukkeravhengighet/)
+###### 6. [Nei, du er ikke avhengig av sukker](sukkeravhengighet.qmd)
 
 Sukkeravhengighet er et begrep som titt og ofte dukker opp i media, gjerne i saker som sammenligner sukker eller sukkerholdig mat med narkotiske substanser som kokain eller heroin. I denne litt kontroversielle artikkelen tar Andrea et opprør med dette, og forklarer hvordan disse ikke kan sammenlignes.
 
-###### 7. [Ulik respons på lik mat: makronæringsstoffer](brokenlink/ulik-respons-pa-lik-mat-makronaeringsstoffer/)
+###### 7. [Ulik respons på lik mat: makronæringsstoffer](ulik-respons-lik-mat.qmd)
 
 Finnes det en fasit som gjelder for alle når det kommer til kosthold? I denne artikkelen gir Thomas deg en innføring i hvordan vi kan respondere helt forskjellig på lik mat.
 
-###### 8. [Cøliaki](brokenlink/coliaki/)
+###### 8. [Cøliaki](coliaki.qmd)
 
 Gluten er et protein som har fått veldig mye oppmerksomhet i media de siste årene. En pasientgruppe som må spise glutenfritt er de med cøliaki. I denne artikkelen har Ingvild tatt for seg denne sykdommen, hvordan den utarter seg og hvordan den behandles.
 
@@ -87,19 +87,19 @@ Gluten er et protein som har fått veldig mye oppmerksomhet i media de siste år
 
 I mars ble det publisert en stor metaanalyse som tok for seg effekten av ulike kostråd hos pasienter med diabetes type 2. I denne artikkelen finner du resultatene fra denne, som konkluderer med at både lavkarbo, lav-GI og middelhavsdiett bør inngå som naturlige alternativer til dagens diabeteskost.
 
-###### 10. [Gjør trening deg smartere?](brokenlink/smartere-av-trening/)
+###### 10. [Gjør trening deg smartere?](trening-smartere.qmd)
 
 Vi vet alle at trening er godt for helsen, men kan trening også ha en positiv effekt på det kognitive? Det er mye som indikerer at dette er tilfelle.
 
-###### 11. [Kreatin - noe for deg?](brokenlink/kreatin/)
+###### 11. [Kreatin - noe for deg?](kreatin.qmd)
 
 Kreatin er det prestasjonsfremmende kosttilskuddet med desidert best vitenskapelig evidens. Asle har sett på denne evidensen og oppsummert alt du trenger å vite om kreatin.
 
-###### 12. [Hvorfor får man krampe?](brokenlink/hvorfor-far-man-krampe/)
+###### 12. [Hvorfor får man krampe?](krampe.qmd)
 
 I denne artikkelen forklarer Martin hva som ligger til grunn for at krampe oppstår og hvordan det kan behandles.
 
-###### 13. [Søvn, viktigere enn du tror](brokenlink/sovn-viktigere-enn-du-tror/)
+###### 13. [Søvn, viktigere enn du tror](sovn-viktigere-enn-du-tror.qmd)
 
 Søvn er en livsttilsfaktor som burde få mer oppmerksomhet. I denne artikkelen oppsummerer Thomas en del av de viktige effektene søvn har på helsen vår.
 

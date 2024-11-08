@@ -5,7 +5,7 @@ date: 2014.02.06
 
 Sult og underernæring kan være svært alvorlig, og det som åpenbart er førsteprioritet i en slik situasjon er å få i personen mat. Men i noen tilfeller er ikke dette fullstendig uproblematisk, og denne problemstillingen ble for første gang oppdaget etter andre verdenskrig, da utsultede krigsfanger fikk tilgang på mat. Man skulle jo tro at dette var en positiv ting, men som en konsekvens av dette var det mange som døde. Dette fenomenet er i dag kjent som reernæringssyndrom, og her får du en liten oversikt over hva dette dreier seg om.
 
-I en tidligere artikkel har jeg forklart hva [homeostase](brokenlink/homeostase/) er og hvorfor det er viktig. Kort fortalt handler homeostase om stabilitet, og det å opprettholde miljøet inni kroppen stabilt er viktig for at vi i det hele tatt skal kunne fungere. Store avvik fra homeostase kan være farlig og i verste fall dødelig. Å opprettholde konsentrasjonen av de ulike elektrolyttene i blodet og inni cellene er et eksempel på homeostase, og i forbindelse med reernæringssyndrom er dette det mest sentrale.
+I en tidligere artikkel har jeg forklart hva [homeostase](fysiologi/homeostase.qmd) er og hvorfor det er viktig. Kort fortalt handler homeostase om stabilitet, og det å opprettholde miljøet inni kroppen stabilt er viktig for at vi i det hele tatt skal kunne fungere. Store avvik fra homeostase kan være farlig og i verste fall dødelig. Å opprettholde konsentrasjonen av de ulike elektrolyttene i blodet og inni cellene er et eksempel på homeostase, og i forbindelse med reernæringssyndrom er dette det mest sentrale.
 
 ## Natrium og kalium
 
@@ -15,7 +15,7 @@ Når et ion fraktes over en cellemembran er det letteste å gå fra den siden me
 
 ![](images/clipboard-179456903.png)
 
-[Nyrene](brokenlink/nyre-3/).
+[Nyrene](fysiologi/nyre3.qmd).
 
 ## Alvorlig sult og underernæring
 

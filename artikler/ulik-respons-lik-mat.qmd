@@ -8,7 +8,7 @@ Før du leser denne artikkelen ville jeg tatt en kjapp titt på artiklene Vegard
 
 2013 startet med at jeg slo et slag for en individuell tilnærming til kosthold, og mer eller mindre refset alle sider av kostholdsdebatten, som dessverre fremdeles fremstår som unyansert og trangsynt. Enda preges den dessverre av bærplukking, manglende vilje til å forstå motparten(e) og feilaktigfremlegging av resultater. Det glemmes av mange at selv om vi er like, er vi ikke vandrende kopier av hverandre. Vi er individer med ulike preferanser og ulike behov, og de fleste er enige om at en one-size-fits-all filosofi ikke fungerer.
 
-Fedon Lindberg snakket på [LHLs kostholdskonferanse](brokenlink/kosthold-og-hjertesykdom-hvor-star-vi-i-2013/).
+Fedon Lindberg snakket på [LHLs kostholdskonferanse](lhl-konferanse-2013.qmd).
 
 I denne artikkelen tar jeg utgangspunkt i boka «Nutrigenetic - Applying the Science of Personal Nutrition» som er skrevet av Martin Kohlmeier som tjener til livets opphold ved University of North Carolina (UNC). Forskningen som diskuteres i denne artikkelen vil du finne referanser til der (1). Det er viktig å ha i bakhodet at forskning som involverer genetikk er svært ressurskrevende, og det eksisterer derfor foreløpig ikke overveldende kausal evidens på mange felt.
 
@@ -42,7 +42,7 @@ Det er mye snakk om umettede fettsyrer, og diverse debatter verserer på nett og
 
 ![](images/clipboard-148944833.png)
 
-[Les mer om elongering og desaturering i denne artikkelen.](brokenlink/langkjedede-og-umettede-fettsyrer/)
+[Les mer om elongering og desaturering i denne artikkelen.](metabolismen/langkjedede-flerumettede.qmd)
 
 De viktigste enzymene som deltar i denne konverteringen er delta-5-desaturase (D5D) og delta-6-desaturase (D6D) som henholdsvis  kodes for av genene FADS1 og 2. Det fins to vanlige varianter av disse to genene (haplotyp D og A). Haplotyp D er assosiert med økt ekspresjon av FADS1 og 2 som er forbundet med økte sirkulerende nivåer av EPA, DHA og AA. Denne varianten er nyttig hos mennesker som inntar mye ALA fra blant annet planteoljer og er avhengig av en effektiv omdanning til EPA og DHA, men moderne mennesker har gjerne et svært høyt inntak av LA som igjen vil gi en svært overaktiv omdannelse til den proinflammatoriske n-6-fettsyren AA. Mennesker med haplotyp A har en langt mindre effektiv omdanning av ALA til EPA og DHA og bør derfor prioritere å få i seg disse fettsyrene fra marine kilder.
 
@@ -52,7 +52,7 @@ Nylig fikk Elin Strand, forsker ved [koronarpreventiv forskningsgruppe](https://
 
 ## Karbohydrater
 
-Det er heftig debattert hvordan karbohydrater påvirker helsen vår. Noen klarer seg ikke uten, mens hos noen gjør kroppen opprør dersom inntaket overstiger en viss grense. Som med proteiner er grunnene til at vi reagerer ulikt på karbohydrater dårlig kartlagt, med unntak av de grunnene som skyldes [medfødte defekter og sykdom](brokenlink/karbohydratmetabolismen-sykdommer/). Men, en interessant studie har derimot sett på varianter i genet som koder for amylase i spytt (AMY1). Amylase i spytt har vært satt i sammenheng med en sterk effekt på glukosemetabolisme og insulinrespons . Individer med genetisk lav enzymaktivitet responderer på inntak av stivelse/karbohydrater med høyere blodsukker og høyere insulinkonsentrasjoner enn mennesker med normal enzymaktivitet. Dette betyr at menneser med få kopier av genet erfarer en lite hensiktsmessig respons på inntak av stivelsesrik mat som i tur kan øke risikoen for overvekt.
+Det er heftig debattert hvordan karbohydrater påvirker helsen vår. Noen klarer seg ikke uten, mens hos noen gjør kroppen opprør dersom inntaket overstiger en viss grense. Som med proteiner er grunnene til at vi reagerer ulikt på karbohydrater dårlig kartlagt, med unntak av de grunnene som skyldes [medfødte defekter og sykdom](metabolismen/sykdommer-karbohydrat.qmd). Men, en interessant studie har derimot sett på varianter i genet som koder for amylase i spytt (AMY1). Amylase i spytt har vært satt i sammenheng med en sterk effekt på glukosemetabolisme og insulinrespons . Individer med genetisk lav enzymaktivitet responderer på inntak av stivelse/karbohydrater med høyere blodsukker og høyere insulinkonsentrasjoner enn mennesker med normal enzymaktivitet. Dette betyr at menneser med få kopier av genet erfarer en lite hensiktsmessig respons på inntak av stivelsesrik mat som i tur kan øke risikoen for overvekt.
 
 ## Konklusjon
 

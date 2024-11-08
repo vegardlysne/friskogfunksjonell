@@ -21,7 +21,7 @@ En av de viktigste forbrukerne av metylgrupper i kroppen er guanidinoacetat mety
 
 ![](images/clipboard-148361664.png)
 
-For de av oss som er interessert i idrett og prestasjon har Asle Bøe tidligere skrevet en artikkel om [kreatin](brokenlink/kreatin/) og hvordan dette kosttilskuddet har en godt dokumentert prestasjonsfremmende effekt. Vi vet jo også at alkohol ikke akkurat fremmer prestasjon, og kanskje kan dette ha noe med redusert kreatinproduksjon å gjøre.
+For de av oss som er interessert i idrett og prestasjon har Asle Bøe tidligere skrevet en artikkel om [kreatin](kreatin.qmd) og hvordan dette kosttilskuddet har en godt dokumentert prestasjonsfremmende effekt. Vi vet jo også at alkohol ikke akkurat fremmer prestasjon, og kanskje kan dette ha noe med redusert kreatinproduksjon å gjøre.
 
 #### Tarmpermeabilitet
 
@@ -35,4 +35,4 @@ Dette kan indikere at noen kan være predisponert for å utvikle leversykdom i k
 
 ![](images/clipboard-2378294827.png)
 
-Senere i dag skal det være en forelesningsøkt der hovedtema er [de metabolske rollene til betain-homocystein metyltransferase (BHMT)](brokenlink/faseb-2b/).
+Senere i dag skal det være en forelesningsøkt der hovedtema er [de metabolske rollene til betain-homocystein metyltransferase (BHMT)](faseb2014-2b.qmd).

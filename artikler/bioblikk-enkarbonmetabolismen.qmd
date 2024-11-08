@@ -17,7 +17,7 @@ Den viktigste metyldonoren i de fleste metyleringsreaksjonene i kroppen vår er 
 
 Figur 1. Adenosylmetionin som metyldonor
 
-Les mer utfyllende om [metyleringsreaksjoner](brokenlink/bioblikk-metyleringssyklus/).
+Les mer utfyllende om [metyleringsreaksjoner](bioblikk-metyleringssyklus.qmd).
 
 ## Homocysteinmetabolismen
 

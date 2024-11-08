@@ -16,7 +16,7 @@ Brystene er hormonsensitive og fører til endringer i størrelse, komposisjon og
 
 ## Relasjon til kreft
 
-Kreft er en gruppe genetiske sykdommer som oppstår på bakgrunn av endringer i genuttrykket, enten via direkte forandringer i den genetiske koden eller indirekte via epigenetisk endring. [Epigenetikk](brokenlink/genetiske-og-metabolske-sykdommer-genetikk/)» her.
+Kreft er en gruppe genetiske sykdommer som oppstår på bakgrunn av endringer i genuttrykket, enten via direkte forandringer i den genetiske koden eller indirekte via epigenetisk endring. [Epigenetikk](metabolismen/genetikk.qmd)» her.
 
 Brystkreft oppstår i 90% av tilfellene sporadisk, som vil si at kun 10% er arvelig. Brystkreft kan sees hos begge kjønn, men kun 1% av all brystkreft forekommer hos menn.
 

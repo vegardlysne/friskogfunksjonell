@@ -21,7 +21,7 @@ Med andre ord støtter ikke litteraturen at det å øke inntaket av meieriproduk
 
 ## Næringsinnhold
 
-Melk er en kilde til mange viktige næringsstoffer, deriblant [proteiner av god kvalitet](brokenlink/proteinkvalitet/), fett og mange vitaminer og mineraler. I tillegg til dette finner vi hormoner, vekstfaktorer, enzymer og flere andre bioaktive stoffer (1), så å kalle melk for en næringsrik matvare er ingen overdrivelse.
+Melk er en kilde til mange viktige næringsstoffer, deriblant [proteiner av god kvalitet](proteinkvalitet.qmd), fett og mange vitaminer og mineraler. I tillegg til dette finner vi hormoner, vekstfaktorer, enzymer og flere andre bioaktive stoffer (1), så å kalle melk for en næringsrik matvare er ingen overdrivelse.
 
 I butikken finner vi flere ulike typer melk, og i tabellene under får du en oversikt over innholdet av energi, protein, karbohydrater og fett i de vanligste variantene, inkludert nysatsingen Styrk. Tallene gjelder produkter fra Tine.
 
@@ -70,7 +70,7 @@ Når det gjelder de fettløselige vitaminene er melk en god kilde til [A-vitamin
 
 [Kalsium](naeringsstoffer/kalsium.qmd), som blant annet er viktig for ledning av nervesignaler.
 
-I neste del tar jeg en nærmere titt på [bearbeidingen av melk](brokenlink/melk-og-helse-del-2-bearbeiding/).
+I neste del tar jeg en nærmere titt på [bearbeidingen av melk](melk-helse-2.qmd).
 
 Referanser:
 

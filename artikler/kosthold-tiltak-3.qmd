@@ -37,4 +37,4 @@ For mange passer det utmerket å spise lite og ofte, og det er selvfølgelig ing
 
 **Alle er forskjellige, og der noen trives best med å spise litt med jevne mellomrom er det andre som liker best å spise færre måltider og heller spise seg god og mett hver gang. Trivsel er nøkkelordet, og bare du vet hva du trives best med!**
 
-Les mer om [periodisk faste](brokenlink/periodisk-faste-til-jul/).
+Les mer om [periodisk faste](periodisk-faste-jul.qmd).

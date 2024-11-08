@@ -14,7 +14,7 @@ Det er derimot ikke bare dette området av hypotalamus som styrer vår fysiologi
 
 ## Søvn, energibalanse og sjokolade
 
-Som [jeg har vært inne på tidligere](brokenlink/sovn-og-overvekt-2/).
+Som [jeg har vært inne på tidligere](sovn-overvekt.qmd).
 
 ## Skeiv døgnrytme, hormoner og energibalanse
 

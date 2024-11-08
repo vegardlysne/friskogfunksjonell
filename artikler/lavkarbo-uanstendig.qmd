@@ -86,9 +86,9 @@ Norum skriver at problemet med overvekt er størst i de landene der det spises m
 
 **På spørsmålet om hvorvidt lavkarbo er uanstendig, så vil jeg si at det først og fremst avhenger av hvilke matvarer man velger å spise.** Om du velger å basere kostholdet sitt hovedsakelig på kjøtt, så er det klart at dette ikke er positivt verken for miljøet eller for den globale matforsyningen. Om du derimot velger å følge f.eks. Lindberg sin tilnærming, med et stort innslag av plantebasert mat som frukt og grønnsaker, samt varierte proteinkilder med det naturlig tilhørende fettet, så er saken en helt annen. Jeg syns også Lindberg har mange gode forslag til ting som bør prioriteres før vi velger å spise mat av lavere kvalitet.
 
-**Les mer om min [tilnærming til lavkarbo](brokenlink/en-enkel-innforing-i-lavkarbokosthold/).**
+**Les mer om min [tilnærming til lavkarbo](lavkarbo-livsstil.qmd).**
 
-Angående Norums uttalelser om mettet fett, kolesterol og hjertesykdom, så er bevisgrunnlaget for disse påstandene veldig svake, og nyere studier finner ingen sammenheng her. Når så mye taler imot at dette er riktig, hvorfor har vi da behov for å tviholde på slike meninger. Alle har jo forhåpentligvis folkehelse som et overordnet mål, og da kommer vi ingen vei dersom vi ikke tar hensyn til hva vitenskapen forteller oss. Hanne Storhaug har tidligere gått gjennom [bevisgrunnlaget for fettanbefalingene](brokenlink/de-offentlige-anbefalingene-for-fett-godt-begrunnet/), i en artikkel jeg virkelig kan anbefale!
+Angående Norums uttalelser om mettet fett, kolesterol og hjertesykdom, så er bevisgrunnlaget for disse påstandene veldig svake, og nyere studier finner ingen sammenheng her. Når så mye taler imot at dette er riktig, hvorfor har vi da behov for å tviholde på slike meninger. Alle har jo forhåpentligvis folkehelse som et overordnet mål, og da kommer vi ingen vei dersom vi ikke tar hensyn til hva vitenskapen forteller oss. Hanne Storhaug har tidligere gått gjennom [bevisgrunnlaget for fettanbefalingene](anbefaling-fett-godt-begrunnet.qmd), i en artikkel jeg virkelig kan anbefale!
 
 ## Hvordan skal vi så spise?
 
@@ -100,6 +100,6 @@ Fedon Lindberg på sin side sverger til et middelhavskosthold med lavglykemiske 
 
 > Etter min mening er målet hverken lavkarbo eller høykarbo, men smart-karbo og likeså smart-fett, ikke høyfett eller lavfett. Kvalitet betyr mer enn bare mengde. Så må den enkelte finne ut hva som gir en best helse, sunnere vekt og ikke minst større matglede.
 
-Jeg har tidligere skrevet et blogginnlegg for [Sunt Hjem ](http://www.sunthjem.no)der jeg tok opp om [fordelingen av makronæringsstoffene](brokenlink/lavkarbo-eller-lavfett-er-dette-riktig-fokus/) er det riktige fokuset i jakten på et sunt kosthold.
+Jeg har tidligere skrevet et blogginnlegg for [Sunt Hjem ](http://www.sunthjem.no)der jeg tok opp om [fordelingen av makronæringsstoffene](lavkarbo-lavfett-fokus.qmd) er det riktige fokuset i jakten på et sunt kosthold.
 
 Jeg vil påstå at valg av matvarer, og hvordan disse er bearbeidet er viktigere enn hvordan fordelingen av næringsstoffene er. **Om du baserer kostholdet ditt på grønnsaker, frukt, nøtter og bær, varierte proteinkilder som kjøtt, fisk, egg og meieriprodukter og fett fra naturlige kilder som kaldpressede oljer og fete meieriprodukter, så har du i mine øyne et veldig sunt kosthold som dekker alle behovene for næringsstoffer.** Om du velger å spise andre ting innimellom, så vil ikke dette være noe problem så lenge du spiser bra mesteparten av tiden.

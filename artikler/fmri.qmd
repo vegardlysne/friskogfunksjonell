@@ -8,7 +8,7 @@ Den siste tiden virker det som om visse ernæringsforskere har fått øynene opp
 
 ## Hjerneaktivitet etter måltid
 
-La meg ta et eksempel fra en helt ny studie som kom ut i forrige måned i The American Journal of Clinical Nutrition (1). I denne studien inntok overvektige og sykelig overvektige menn et måltid med enten høy eller lav glykemisk indeks (GI), og hjerneaktiviteten deres ble deretter målt 4 timer senere. Ingen måling ble gjort før måltidet, så den eneste sammenlikningen man kunne gjøre var av hjerneaktivitet hos lav- og høy-GI-gruppene etter 4 timer. Resultatene viste at mennene i høy-GI-gruppen hadde høyere hjerneaktivitet blant annet i et hjerneområde kalt Nucleus Accumbens, som er involvert i lyst på ulike forsterkende substanser (litt om forsterkere, og dette områdets rolle i avhengighet diskuterer jeg i artikkelen min om [sukkeravhengighet](brokenlink/sukkeravhengighet/)).
+La meg ta et eksempel fra en helt ny studie som kom ut i forrige måned i The American Journal of Clinical Nutrition (1). I denne studien inntok overvektige og sykelig overvektige menn et måltid med enten høy eller lav glykemisk indeks (GI), og hjerneaktiviteten deres ble deretter målt 4 timer senere. Ingen måling ble gjort før måltidet, så den eneste sammenlikningen man kunne gjøre var av hjerneaktivitet hos lav- og høy-GI-gruppene etter 4 timer. Resultatene viste at mennene i høy-GI-gruppen hadde høyere hjerneaktivitet blant annet i et hjerneområde kalt Nucleus Accumbens, som er involvert i lyst på ulike forsterkende substanser (litt om forsterkere, og dette områdets rolle i avhengighet diskuterer jeg i artikkelen min om [sukkeravhengighet](sukkeravhengighet.qmd)).
 
 ![](images/clipboard-3786390149.png) fMRI-bildene fra Lennerz og kolleger(1)
 

@@ -23,7 +23,7 @@ Pasteurisering er en prosess der man ved bruk av høy temperatur dreper patogene
 
 Pasteurisering gjennomføres for å forebygge smittespredning gjennom å drepe patogene bakterier. Sykdommer som kan skyldes bakterier i melk inkluderer tuberkulose, listeria, salmonella, E-coli og streptokokker (1,2).
 
-Samtidig kan pasteuriseringsprosessen også påvirke [bioaktive peptider](brokenlink/peptider-og-helse/) som kan brytes ned ved oppvarming. Når karbohydrater og proteiner reagerer med hverandre under varmebehandling kan det også oppstå uheldige produkter, noe som spesielt er aktuelt for smakssatt melk (3). Dette skyldes at sukkermolekyler kan reagere med proteinene(4). Pasteurisering brukes også for å øke holdbarheten på melken, og er således en konserveringsmetode (2).
+Samtidig kan pasteuriseringsprosessen også påvirke [bioaktive peptider](peptider-helse.qmd) som kan brytes ned ved oppvarming. Når karbohydrater og proteiner reagerer med hverandre under varmebehandling kan det også oppstå uheldige produkter, noe som spesielt er aktuelt for smakssatt melk (3). Dette skyldes at sukkermolekyler kan reagere med proteinene(4). Pasteurisering brukes også for å øke holdbarheten på melken, og er således en konserveringsmetode (2).
 
 Redusert fare for at melkekyrne er bærere av skadelige mikroorganismer, sammen med forbedrede hygieniske forhold rundt melkingen reduserer faren for at melken kontamineres, men kan ikke utelukke at det skjer. Små mengder patogener er nok til å skape sykdom, så å begrense mengdene er ikke nok. Pasteurisering er den meste effektive måten å sikre at melken er mikrobiologisk trygg å drikke (1).
 

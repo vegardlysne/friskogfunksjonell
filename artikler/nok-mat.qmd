@@ -25,7 +25,7 @@ Proteinbehovet regner du ut i forhold til din egen kroppsvekt. Olympiatoppen ope
 
 ## Hvordan skal du så klare å få i deg all denne maten?
 
-Som nevnt i innledningen kan et høyt aktivitetsnivå medføre at du må spise ganske mye mat, noe som kan være vanskelig å gjennomføre i praksis. Da er det godt å vite at det er en del tiltak som kan gjøre dette betydelig lettere for deg. Thomas skrev nylig en artikkel om hvordan du bør [spise for å bli sterkere](brokenlink/enkle-prinsipper-for-kosthold-og-styrkeokning/).  Her følger noen litt mer konkrete tips:
+Som nevnt i innledningen kan et høyt aktivitetsnivå medføre at du må spise ganske mye mat, noe som kan være vanskelig å gjennomføre i praksis. Da er det godt å vite at det er en del tiltak som kan gjøre dette betydelig lettere for deg. Thomas skrev nylig en artikkel om hvordan du bør [spise for å bli sterkere](kosthold-styrke-prinsipper.qmd).  Her følger noen litt mer konkrete tips:
 
 ### Velg energitette matvarer\*
 
@@ -39,9 +39,9 @@ For å sikre et tilstrekkelig inntak av vitaminer, mineraler og sporstoffer er d
 
 ### Drikk noe av maten din
 
-Jeg har tidligere skrevet en artikkel om hvorfor du kanskje bør begrense inntaket av [flytende karbohydrater](brokenlink/bor-du-begrense-inntaket-av-flytende-karbohydrater/). Noe av begrunnelsen for dette er at flytende føde metter dårligere enn fast føde, og at et høyt inntak av dette vil gjøre det vanskelig å begrense energiinntaket. Du som føler deg truffet av dette innlegget er derimot opptatt av å øke energiinntaket, og for deg er det ikke nødvendigvis så dumt å drikke noe av maten din, nettopp fordi det metter dårligere.
+Jeg har tidligere skrevet en artikkel om hvorfor du kanskje bør begrense inntaket av [flytende karbohydrater](flytende-karbohydrater.qmd). Noe av begrunnelsen for dette er at flytende føde metter dårligere enn fast føde, og at et høyt inntak av dette vil gjøre det vanskelig å begrense energiinntaket. Du som føler deg truffet av dette innlegget er derimot opptatt av å øke energiinntaket, og for deg er det ikke nødvendigvis så dumt å drikke noe av maten din, nettopp fordi det metter dårligere.
 
-Det er mange ulike alternativer her, men generelt vil jeg anbefale melk for de som tåler det, og da fortrinnsvis de fete variantene. Jus, saft og brus bidrar også med energi, men denne kommer hovedsakelig fra sukker, så her er det greit å [tilpasse inntaket i forhold til aktivitetsnivået](brokenlink/en-enkel-innforing-i-lavkarbokosthold/).
+Det er mange ulike alternativer her, men generelt vil jeg anbefale melk for de som tåler det, og da fortrinnsvis de fete variantene. Jus, saft og brus bidrar også med energi, men denne kommer hovedsakelig fra sukker, så her er det greit å [tilpasse inntaket i forhold til aktivitetsnivået](lavkarbo-livsstil.qmd).
 
 ### Berik maten din
 

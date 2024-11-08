@@ -23,21 +23,21 @@ Her følger en liste over flere av årets beste og mest populære artikler etter
 
 -   [Fedmeoperasjon av unge, en akseptabel løsning?](fedmekirurgi.qmd)
 
--   [Midlertidige løsninger - midlertidige resultater](brokenlink/midlertidige-losninger/)
+-   [Midlertidige løsninger - midlertidige resultater](midlertidige-losninger-resultater.qmd)
 
 -   [Energibalansen - hva sier den egentlig?](energibalansen.qmd)
 
 -   [Insulinindeks - hva og hvorfor?](insulinindeks.qmd)
 
--   [Sunt kosthold på studentbudsjett](brokenlink/sunt-kosthold-pa-studentbudsjett/)
+-   [Sunt kosthold på studentbudsjett](sunt-kosthold-student.qmd)
 
 -   [Underholdningsslavens redning](underholdningsslavens-redning.qmd)
 
 #### Kosthold:
 
--   [Alt du trenger å vite om proteinkvalitet](brokenlink/proteinkvalitet/)
+-   [Alt du trenger å vite om proteinkvalitet](proteinkvalitet.qmd)
 
--   [De offentlige anbefalingene for fett, godt begrunnet?](brokenlink/de-offentlige-anbefalingene-for-fett-godt-begrunnet/)
+-   [De offentlige anbefalingene for fett, godt begrunnet?](anbefaling-fett-godt-begrunnet.qmd)
 
 -   [Irritabel tarm og hva du kan gjøre med det](irritabel-tarm.qmd)
 
@@ -45,21 +45,21 @@ Her følger en liste over flere av årets beste og mest populære artikler etter
 
 -   [Nøkkelhull, bare tull?](nokkelhull.qmd)
 
--   [Sunt eller usunt, betydningen av kontekst](brokenlink/betydningen-av-kontekst/)
+-   [Sunt eller usunt, betydningen av kontekst](sunn-usunn-kontekst.qmd)
 
--   [Metthetsfølelsen, viktig når du skal velge kosthold](brokenlink/metthetsfolelsen/)
+-   [Metthetsfølelsen, viktig når du skal velge kosthold](metthet-diett.qmd)
 
--   [Hvilken diett skal jeg velge?](brokenlink/hvilken-diett-skal-jeg-velge/)
+-   [Hvilken diett skal jeg velge?](hvilken-diett.qmd)
 
--   [Heldigvis bestemmer vi selv hva vi skal spise](brokenlink/heldigvis-bestemmer-vi-selv-hva-vi-skal-spise/)
+-   [Heldigvis bestemmer vi selv hva vi skal spise](kosthold-bestemme-selv.qmd)
 
--   [Kan barn spise lavkarbo?](brokenlink/kan-barn-spise-lavkarbo/)
+-   [Kan barn spise lavkarbo?](barn-lavkarbo.qmd)
 
 -   [Hvorfor bør du spise variert?](spise-variert.qmd)
 
 -   Enkle tiltak som kan forbedre kostholdet ditt - [del 1](kosthold-tiltak-1.qmd)
 
--   [Enkle prinsipper for kosthold og styrkeøkning](brokenlink/enkle-prinsipper-for-kosthold-og-styrkeokning/)
+-   [Enkle prinsipper for kosthold og styrkeøkning](kosthold-styrke-prinsipper.qmd)
 
 -   [Enkle tiltak for å få i seg nok mat](nok-mat.qmd)
 
@@ -67,19 +67,17 @@ Her følger en liste over flere av årets beste og mest populære artikler etter
 
 #### Trening:
 
--   [Planlegg treningen din](brokenlink/planlegg-treningen-din/)
+-   [Planlegg treningen din](planlegg-treningen-din.qmd)
 
--   [Basistrening - bli trent for å trene](brokenlink/basistrening/)
+-   [Basistrening - bli trent for å trene](basistrening.qmd)
 
--   [Har du god mobilitet i hoften?](brokenlink/har-du-god-mobilitet-i-hoften/)
+-   [Har du god mobilitet i hoften?](hoftemobilitet.qmd)
 
--   [Hvordan bli raskere](brokenlink/hvordan-bli-raskere/)
+-   [Hvordan bli raskere](bli-raskere.qmd)
 
--   [Guide til å mestre pullups](brokenlink/guide-til-a-mestre-pullups/)
+-   [Guide til å mestre pullups](pullups.qmd)
 
--   Egenbehandling ved belastningsskader - [del 1](brokenlink/egenbehandling-ved-belastningsskader-del-1/)
-
-Vi avsluttet året med en [spørrerunde](brokenlink/sporrerunde/) som til slutt fikk over 90 kommentarer med spørsmål og svar. Vi kommer helt klart til å ha flere spørrerunder!
+-   Egenbehandling ved belastningsskader - [del 1](egenbehandling-belastningsskader.qmd)
 
 ## Nye skribenter
 

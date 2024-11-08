@@ -9,7 +9,7 @@ Det er mange ulike måter å kommunisere kostråd på. Kostsirkelen og matvarepy
 
 Kort fortalt sier tallerkenmodellen til myndighetene at du bør legge opp hvert måltid slik at proteinkilden (kjøtt, fisk, egg) dekker 1/3 av tallerkenen, potet/pasta/ris dekker 1/3 og den siste 1/3 utgjøres av salat eller grønnsaker. Ved vektnedgang anbefales det at salat/grønnsaker utgjør halve tallerkenen, mens protein og karbohydrater da får 1/4 hver.
 
-For den jevne befolkning er dette et helt greit holdepunkt, og om alle hadde fulgt dette ville vi helt klart vært en friskere befolkning. Problemet med en slik tilnærming er at den ikke tar hensyn til individuelle forskjeller og preferanser. Skal f.eks. en diabetiker legge opp måltidene sine på denne måten, eller finnes det [bedre alternativer](brokenlink/hvordan-bor-en-diabetiker-spise/)?
+For den jevne befolkning er dette et helt greit holdepunkt, og om alle hadde fulgt dette ville vi helt klart vært en friskere befolkning. Problemet med en slik tilnærming er at den ikke tar hensyn til individuelle forskjeller og preferanser. Skal f.eks. en diabetiker legge opp måltidene sine på denne måten, eller finnes det [bedre alternativer](diabetes-kosthold.qmd)?
 
 ## Fordeler med tallerkenmodellen
 

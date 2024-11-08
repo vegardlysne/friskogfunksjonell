@@ -3,7 +3,7 @@ title: "Høyere forbrenning med lavkarbo?"
 date: "2012.08.11"
 ---
 
-Mange som går ned i vekt ender opp med å legge på seg igjen. Bare et fåtall av de som slanker seg klarer å opprettholde vekttapet over tid. En viktig suksessfaktor er å finne kostholds- og treningsvaner som man kan opprettholde over tid, altså å gå for en [livsstilsendring og ikke en midlertidig diett](brokenlink/midlertidige-losninger/). Det er mange forskjellige kosthold å velge mellom, men er alle alternativene like gode?
+Mange som går ned i vekt ender opp med å legge på seg igjen. Bare et fåtall av de som slanker seg klarer å opprettholde vekttapet over tid. En viktig suksessfaktor er å finne kostholds- og treningsvaner som man kan opprettholde over tid, altså å gå for en [livsstilsendring og ikke en midlertidig diett](midlertidige-losninger-resultater.qmd). Det er mange forskjellige kosthold å velge mellom, men er alle alternativene like gode?
 
 De færreste klarer å holde seg til strenge dietter over lengre tid, uavhengig av hvilken retning de går. Dette skyldes ikke nødvendigvis dårlig viljestyrke, men heller at det er en stor belastning å holde seg til ting som avviker mye fra normalen. Påvirkning fra omgivelsene rundt oss, da spesielt familie- og jobb/skolesituasjon er nok de viktigste faktorene.
 
@@ -21,7 +21,7 @@ Først ble deltakerne observert over en 4-ukers periode. Deretter fikk de oppsat
 
 Etter disse 20 ukene startet selve forsøket. Nå ble deltakerne i tilfeldig rekkefølge bedt om å følge tre ulike dietter. Diettene var henholdsvis lavfett (20E% protein, 20E% fett, 60E% karbohydrat), lav GI (20E% protein, 40E% fett, 40 E% karbohydrat) og lavkarbo (30E% protein, 60E% fett, 10E% karbohydrat). Diettene var isokaloriske, altså inneholdt de like mye energi, og målet var å opprettholde vekttapet.
 
-Underveis i alle fasene ble det målt og registrert både hvileforbrenning og totalt energiforbruk. Hypotesen var at ulike fordelinger av makronæringsstoffene ville påvirke metabolismen forskjellig, noe som ville gi ulikt resultat på hvileforbrenningen.  Studier indikerer at en karbohydratreduksjon gir en [spontan reduksjon i energiinntaket](brokenlink/hvilken-diett-skal-jeg-velge/), men her ville forfatterne undersøke om man kan forvente en forskjell også ved likt energiinntak. De målte også nivåene av noen hormoner samt etablerte risikofaktorer for metabolsk syndrom.
+Underveis i alle fasene ble det målt og registrert både hvileforbrenning og totalt energiforbruk. Hypotesen var at ulike fordelinger av makronæringsstoffene ville påvirke metabolismen forskjellig, noe som ville gi ulikt resultat på hvileforbrenningen.  Studier indikerer at en karbohydratreduksjon gir en [spontan reduksjon i energiinntaket](hvilken-diett.qmd), men her ville forfatterne undersøke om man kan forvente en forskjell også ved likt energiinntak. De målte også nivåene av noen hormoner samt etablerte risikofaktorer for metabolsk syndrom.
 
 ## Hva spiste deltakerne?
 

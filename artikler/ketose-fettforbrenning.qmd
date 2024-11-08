@@ -22,7 +22,7 @@ Acetyl-CoA er substrat for sitronsyresyklusen, som produserer de elektronbærend
 
 For at Acetyl-CoA skal gå inn i sitronsyresyklusen, må det kobles til oksaloacetat. Det er altså mengden oksaloacetat som er av betydning for hvor mye Acetyl-CoA som kan metaboliseres denne veien. Ettersom to karbonatomer kommer inn og like mange forsvinner for hver runde i syklusen, så får vi ikke en økning i mengden metabolitter som som følge av fettsyrenedbrytning.
 
-Oksaloacetat kan produseres fra pyruvat, som er endeproduktet i [glykolysen](brokenlink/glukosemetabolismen/). Eventuelt kan vi produsere oksaloacetat ved nedbrytning av glukogene aminosyrer, men først og fremst kommer dette fra nedbrytning av glukose. Tilstrekkelig aktivitet i glykolysen er altså nødvendig for at vi skal kunne utnytte energien fra Acetyl-CoA fullt ut.
+Oksaloacetat kan produseres fra pyruvat, som er endeproduktet i [glykolysen](metabolismen/glukosemetabolismen.qmd). Eventuelt kan vi produsere oksaloacetat ved nedbrytning av glukogene aminosyrer, men først og fremst kommer dette fra nedbrytning av glukose. Tilstrekkelig aktivitet i glykolysen er altså nødvendig for at vi skal kunne utnytte energien fra Acetyl-CoA fullt ut.
 
 ## Ketose og ketogene dietter
 

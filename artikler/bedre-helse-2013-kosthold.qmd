@@ -21,7 +21,7 @@ Protein er et viktig næringsstoff, som fungerer som byggesteiner i alle kroppen
 
 ### 4. Spis kaloriene i stedet for å drikke dem
 
-Mat i [flytende form](brokenlink/bor-du-begrense-inntaket-av-flytende-karbohydrater/) metter generelt dårligere enn det vi finner i fast form. Å redusere på den flytende føden og heller prioritere å spise maten vår er et effektivt grep for å begrense energiinntaket. Samtidig kan flytende mat være et supert tiltak for de som sliter med å få i seg nok, men generelt i samfunnet er ikke dette vårt største problem!
+Mat i [flytende form](flytende-karbohydrater.qmd) metter generelt dårligere enn det vi finner i fast form. Å redusere på den flytende føden og heller prioritere å spise maten vår er et effektivt grep for å begrense energiinntaket. Samtidig kan flytende mat være et supert tiltak for de som sliter med å få i seg nok, men generelt i samfunnet er ikke dette vårt største problem!
 
 ### 5. Reduser inntaket av ferdigmat
 

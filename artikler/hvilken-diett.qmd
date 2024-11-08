@@ -7,9 +7,9 @@ Veldig mange går rundt med planer om å gjøre endringer i kostholdet. Målsetn
 
 ## Tenk livsstil, ikke diett
 
-Det første du bør tenke på er at dersom du vil oppnå varige resultater, så må du belage deg på å gjøre varige endringer. Alle dietter vil fungere så lenge du holder deg til dem, men om du av ulike årsaker ikke klarer å følge dietten over tid så vil [resultatene i de fleste tilfellene også bli midlertidige](brokenlink/midlertidige-losninger/). Fokuser på å gjøre små endringer som du kan leve med.
+Det første du bør tenke på er at dersom du vil oppnå varige resultater, så må du belage deg på å gjøre varige endringer. Alle dietter vil fungere så lenge du holder deg til dem, men om du av ulike årsaker ikke klarer å følge dietten over tid så vil [resultatene i de fleste tilfellene også bli midlertidige](midlertidige-losninger-resultater.qmd). Fokuser på å gjøre små endringer som du kan leve med.
 
-Ekstreme løsninger vil gi raskere resultater, men dette er ofte snakk om kortvarige gleder, så det kan være fornuftig å heller ha et mer langvarig perspektiv. Tenk at det helsemessige utgangspunktet du har nå er et resultat av valgene du har tatt over mange år, og du bør derfor ikke forvente en helomvending på kort tid. [Tenk livsstil, ikke diett!](brokenlink/diett-eller-livsstilsendring/)
+Ekstreme løsninger vil gi raskere resultater, men dette er ofte snakk om kortvarige gleder, så det kan være fornuftig å heller ha et mer langvarig perspektiv. Tenk at det helsemessige utgangspunktet du har nå er et resultat av valgene du har tatt over mange år, og du bør derfor ikke forvente en helomvending på kort tid. [Tenk livsstil, ikke diett!](diett-livsstilsendring.qmd)
 
 **Dine personlige preferanser er veldig viktig når det gjelder valg av både diett og spisemønster**. Hvis du ikke kan forestille deg å leve uten brød, potet, ris og frukt er ikke en ketogen diett nødvendigvis det lureste valget for deg, uansett hvor mye positivt du har hørt om et slikt kosthold. Trives du veldig godt med å spise med en gang du står opp, er kanskje ikke periodisk faste det lureste valget. Syns du poteter og ris er unødvendig magefyll og egentlig er mest interessert i kjøttet, fisken og sausen, kan lavkarbo være det naturlige valget.
 
@@ -39,12 +39,12 @@ Er det noe ekspertene enes om, så er det at vi burde spise mer grønnsaker. Gr�
 
 ## Hvilken diett skal jeg så velge?
 
-Det du skal ta med deg fra denne artikkelen er at mange forskjellige kosthold kan fungere, og det viktigste er at du finner et kosthold som fungerer for deg. Om du skal kalle kostholdet ditt for [lavkarbo eller lavfett](brokenlink/lavkarbo-eller-lavfett-er-dette-riktig-fokus/)
+Det du skal ta med deg fra denne artikkelen er at mange forskjellige kosthold kan fungere, og det viktigste er at du finner et kosthold som fungerer for deg. Om du skal kalle kostholdet ditt for [lavkarbo eller lavfett](lavkarbo-lavfett-fokus.qmd)
 
-Velg derfor et kosthold som passer deg og din livssituasjon, og dette gjelder både valg av matvarer og spisemønster. Er du ikke sulten om morningen og trives med å spise deg god og mett på store måltider, kan [periodisk faste](brokenlink/periodisk-faste-til-jul/) være et godt alternativ. Liker du å spise mindre, men oftere, så gjør du det. Jobb- og familiesituasjon er typiske faktorer som påvirker hvilket spisemønster som er best egnet for den enkelte.
+Velg derfor et kosthold som passer deg og din livssituasjon, og dette gjelder både valg av matvarer og spisemønster. Er du ikke sulten om morningen og trives med å spise deg god og mett på store måltider, kan [periodisk faste](periodisk-faste-jul.qmd) være et godt alternativ. Liker du å spise mindre, men oftere, så gjør du det. Jobb- og familiesituasjon er typiske faktorer som påvirker hvilket spisemønster som er best egnet for den enkelte.
 
-Aktivitetsnivået er også en viktig faktor å ta hensyn til, og er du mer aktiv trenger du også mer påfyll av energi. Et karbohydratredusert kosthold kan fungere veldig bra for både inaktive og aktive mennesker, men [trener du masse trenger du ikke nødvendigvis å gå for den mest ekstreme varianten](brokenlink/en-enkel-innforing-i-lavkarbokosthold/).
+Aktivitetsnivået er også en viktig faktor å ta hensyn til, og er du mer aktiv trenger du også mer påfyll av energi. Et karbohydratredusert kosthold kan fungere veldig bra for både inaktive og aktive mennesker, men [trener du masse trenger du ikke nødvendigvis å gå for den mest ekstreme varianten](lavkarbo-livsstil.qmd).
 
-Ta også hensyn til din helsesituasjon. Har du f.eks. diabetes type 2 er det [enkelte kosthold som egner seg bedre enn andre](brokenlink/hvordan-bor-en-diabetiker-spise/) er dette noe som bør påvirke dine valg i matveien. Allergier og intoleranser påvirker selvfølgelig også kostholdet til de som sliter med dette.
+Ta også hensyn til din helsesituasjon. Har du f.eks. diabetes type 2 er det [enkelte kosthold som egner seg bedre enn andre](diabetes-kosthold.qmd) er dette noe som bør påvirke dine valg i matveien. Allergier og intoleranser påvirker selvfølgelig også kostholdet til de som sliter med dette.
 
 ##### Hvordan ser ditt kosthold ut?

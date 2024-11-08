@@ -11,7 +11,7 @@ I Norge spiser vi ikke all verden med belgfrukter foruten peanøtter (som mange 
 #### Fordeler
 
 -   De er proteinrike
--   De har lav [glykemisk belastning](brokenlink/mat-og-blodsukker-gi-eller-gb/)
+-   De har lav [glykemisk belastning](mat-blodsukker.qmd)
 -   De inneholder mye [fiber](naeringsstoffer/fiber.qmd)
 -   De inneholder mye [vitaminer og mineraler](../naeringsstoffer.qmd)
 
@@ -20,7 +20,7 @@ I Norge spiser vi ikke all verden med belgfrukter foruten peanøtter (som mange 
 -   I et tradisjonelt norsk kosthold finner man ikke mange retter hvor de passer bra inn
 -   Kan gi mye luft i magen hos enkelte siden de inneholder mye [oligosakkarider](irritabel-tarm.qmd)
 -   Noen mineraler kan ha lav biotilgjengelighet grunnet høyt innhold av fytat.
--   [Proteinkvaliteten](brokenlink/proteinkvalitet/) er ikke den høyeste, men dette er for de aller fleste ikke et problem ettersom ingen baserer seg på belgfrukter som eneste proteinkilde.
+-   [Proteinkvaliteten](proteinkvalitet.qmd) er ikke den høyeste, men dette er for de aller fleste ikke et problem ettersom ingen baserer seg på belgfrukter som eneste proteinkilde.
 -   Noen belgfrukter inneholder giftstoffer som kan fjernes med riktig tilberedning.
 
 Felles for nær sagt alle belgfrukter er at de inneholder mye protein. Som et eksempel inneholder ubehandlede peanøtter og tørkede linser over 30gram protein pr 100 gram. Soyabønner inneholder hele 36g protein per 100g, og er dermed en av de aller mest proteinrike matvarene som finnes. Ved siden av et høyt fiberinnhold gir dette en god metthetsfølelse. Fettinnholdet og karbohydratinnholdet varierer mye, der peanøtter er svært fettrike mens nyrebønner svært fettfattige.

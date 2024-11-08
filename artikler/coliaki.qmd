@@ -34,7 +34,7 @@ Det gjenstår fortsatt en god del forskning på nøyaktig hvordan og hvorfor glu
 
 Figur 2 Di Sabatino (1)
 
-Man må skille mellom gluten**intoleranse/allergi** og høy glutensensitivitet. Det finnes mange eksempler på personer som tåler gluten dårlig, men som ikke har cøliaki. Dette gjelder ofte personer [irritabel tarm](brokenlink/irritabel-tarm-hvordan-behandles-det/) (IBS), som kan oppleve oppblåsthet, gass og magesmerter etter inntak av gluten.
+Man må skille mellom gluten**intoleranse/allergi** og høy glutensensitivitet. Det finnes mange eksempler på personer som tåler gluten dårlig, men som ikke har cøliaki. Dette gjelder ofte personer [irritabel tarm](irritabel-tarm-behandling.qmd) (IBS), som kan oppleve oppblåsthet, gass og magesmerter etter inntak av gluten.
 
 Også blant cøliakerne vil det være en svært ulik grad av alvorlighet, som kan gå helt fra en latent sykdom der man ikke har noen som helst problemer og til en alvorlig sykdom med stor grad av diaré og malabsorbsjon. De fleste befinner seg sannsynligvis et sted midt i mellom.
 

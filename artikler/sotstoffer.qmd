@@ -5,7 +5,7 @@ date: 2012.09.21
 
 Aspartam, acesulfam k, syklamat, sukralose. Kunstige søtstoffer er blant de mest omtalte tilsetningsstoffene, og mange er redd for hvilke effekter disse har på kroppen. Vi har flere forskjellige søtstoffer, både kunstige og naturlige, og her kommer en gjennomgang av de vanligste.
 
-[**Tilbake til artikkelserien om tilsetningsstoffer**](brokenlink/tilsetningsstoffer/)
+[**Tilbake til artikkelserien om tilsetningsstoffer**](tilsetningsstoffer.qmd/)
 
 ## Hva er søtstoffer og hvorfor brukes de?
 
@@ -64,7 +64,7 @@ Mange er redde fordi aspartam inneholder metanol, men ved ADI vil man oppnå en 
 
 Mange som har motforestillinger mot bruken av aspartam fokuserer på en liste over [selvrapporterte bivirkninger](http://www.fda.gov/ohrms/dockets/dailys/03/jan03/012203/02p-0317_emc-000199.txt) som er publisert hos Food and Drug Administration (FDA). Det er viktig å ha i bakhodet at dette er snakk om selvrapportering, altså bivirkninger som folk selv har opplevd og hevder skyldes aspartam. I denne sammenhengen er det gjennomført [en studie](http://food.gov.uk/science/research/foodcomponentsresearch/riskassessment/t01programme/t01projlist/t01054/#.UzF61Plcj-s) ved universitetet i Hull hvor man har testet ut disse bivirkningene i blindede og kontrollerte omgivelser. Denne studien er for tiden på vei til å bli publisert, men [resultatene skal ikke ha gitt noen grunn til å iverksette noen tiltak](http://food.gov.uk/news-updates/news/2013/dec/aspartame#.UzF8svlcj-s).
 
-Oppdatering: [Studien som undersøkte de rapporterte bivirkningene er nå publisert.](brokenlink/aspartamsensitivitet-fiksjon-eller-fakta/)
+Oppdatering: [Studien som undersøkte de rapporterte bivirkningene er nå publisert.](aspartamsensitivitet.qmd)
 
 ### Acesulfam K
 

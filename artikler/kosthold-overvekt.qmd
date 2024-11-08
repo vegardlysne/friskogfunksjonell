@@ -36,7 +36,7 @@ Kostholdets energitetthet har i noen studier blitt funnet å ha en sammenheng me
 
 Totalt sett er det av næringsstoffene altså bare fiber som viser noenlunde konsekvente resultater når det gjelder forebygging av vektøkning. Som Thomas har vært inne på tidligere har fiber også andre gunstige egenskaper.
 
-Les: [Hvorfor fiber er awesome](brokenlink/hvorfor-fiber-er-awesome/)
+Les: [Hvorfor fiber er awesome](fiber-awesome.qmd)
 
 ## Matvarenes rolle
 

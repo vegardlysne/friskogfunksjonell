@@ -20,7 +20,7 @@ Tidligst i min relativt kortfattede (aktive) karriere innenfor styrkeløft, kom 
 
 Som de fleste nå vet, er det sentralt for muskelvekst og dermed styrkeøkning med positiv [energibalanse](energibalansen.qmd). Positiv energibalanse er et mål, best mulig resultater skal oppnås for å bli sterkest mulig og bli størst i klassen. For å bygge opp muskelvev etter en benhard ben-økt (sorry) holder det ikke bare med en ussel proteinshake rett etter trening. Helheten spiller inn, og jo mer opp i vekt man går, jo flere strenger vil man etter hvert ha å spille på da man vil opparbeide seg energireserver i form av glykogen og fett i form av at økt tilgang på energi er proteinbesparende.
 
-For en veldig forenklet fremstilling av energibalansen, les [historien om et badekar](brokenlink/energibalansen-historien-om-et-badekar/)!
+For en veldig forenklet fremstilling av energibalansen, les [historien om et badekar](energibalanse-badekar.qmd)!
 
 #### Hva mener jeg med proteinbesparende?
 
@@ -34,7 +34,7 @@ Ved ukritisk matinntak i denne fasen er dette kanskje ikke noe å tenke på. Men
 
 Det første man gjerne tenker på, og som jeg har nevnt flere ganger i løpet av artikkelen, er proteiner. Det pågår en evig diskusjon mellom forskere, bodybuildere og fitnessutøvere om hva som er optimalt. De steroide-befengte oksene på treningssenteret mener kanskje at 3-4 g/kg kroppsvekt er optimalt, mens forskerne mener at, for den som trener mye holder det med et inntak mellom 1,5-2 g/kg kroppsvekt. Personlig lener jeg meg fort mot 2 g/kg kroppesvekt om dagen som tilstrekkelig. I en oppstartsfase kan muligens et høyere inntak forsvares da musklene gjerne bygges raskere i denne perioden.
 
-Ved å spise proteiner av [god kvalitet](brokenlink/proteinkvalitet/) vil du trenge mindre protein totalt for å dekke behovene.
+Ved å spise proteiner av [god kvalitet](proteinkvalitet.qmd) vil du trenge mindre protein totalt for å dekke behovene.
 
 Det er også viktig å huske på at styrketrening er intensivt fysisk arbeid, og i disse lavkarbo-dager drister jeg meg fremdeles til å påstå at glykogen er essensielt for å fullføre en ordentlig styrkeøkt. Insulin hemmer utskillelsen av veksthormon, men i en review av G. Gregory Haff et al som ser på karbohydrattilskudd og styrketrening, spekulerer man i at hypoglykemi **forårsaket av** forhøyede insulinnivåer kan oppregulere syntesen av veksthormoner. Effektene er usikre, men dette kan dermed indirekte påvirke muskelvekst (5). Haff påpeker også at utøvere bør vurdere inntak av karbohydrater før, under og etter trening for å hemme tapet av muskelglykogen og bedre restitusjonen. Dette er prinsipper som er åpne for diskusjon da dette avhenger av intensitet, varighet, hyppighet og hvilke type trening man faktisk gjennomfører, men jeg kommer ikke til å gå videre inn på det her.
 

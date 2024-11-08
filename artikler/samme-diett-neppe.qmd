@@ -9,7 +9,7 @@ Vi vet at forskjellen mellom energi inn og energi ut er det som avgjør hvorvidt
 
 Epigenetikk handler om hvordan arvematerialet vårt uttrykkes. For å forenkle det så kan vi si at alle genene våre finnes i DNA, men det er ikke alle disse som brukes til enhver tid. Genene kan nemlig slås av og på, og dette styres av epigenetiske mekanismer som metylering og acetylering, og disse prosessene er reversible og kan påvirkes av miljømessige faktorer.
 
-**Les mer i [artikkelen om genetikk](brokenlink/genetiske-og-metabolske-sykdommer-genetikk/).**
+**Les mer i [artikkelen om genetikk](metabolismen/genetikk.qmd).**
 
 Kostholdet vårt påvirker genene gjennom å påvirke disse epigenetiske mekanismene, og hva vi spiser er dermed med å styre hvordan genene våre uttrykkes. Det vil selvfølgelig ha mye å si hvordan genene var uttrykt fra før, og det er her individuelle forskjeller kommer inn i bildet. Vi har mange ganger understreket at vi er forskjellige, og under vil jeg presentere to studier som kan være med å illustrere akkurat dette, i to ulike settinger.
 

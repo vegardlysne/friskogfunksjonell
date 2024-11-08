@@ -21,7 +21,7 @@ Det er imidlertid et par triks du kan benytte deg av for å redusere oppsamlinge
 
 ### Periodisk faste
 
-Dersom du planlegger et større matinntak på ettermiddagen, f.eks. i et familiebesøk, så kan du redusere inntaket tidligere på dagen. På denne måten sparer du inn en del av dagens kalorier på en tid av dagen, og kan spise mer på kvelden uten at totalen øker så mye. I fjor skrev jeg en sak om nettopp å bruke [periodisk faste](brokenlink/periodisk-faste-til-jul/) som verktøy på denne måten.
+Dersom du planlegger et større matinntak på ettermiddagen, f.eks. i et familiebesøk, så kan du redusere inntaket tidligere på dagen. På denne måten sparer du inn en del av dagens kalorier på en tid av dagen, og kan spise mer på kvelden uten at totalen øker så mye. I fjor skrev jeg en sak om nettopp å bruke [periodisk faste](periodisk-faste-jul.qmd) som verktøy på denne måten.
 
 ### Finn alternativer til sukker
 

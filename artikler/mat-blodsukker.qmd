@@ -27,7 +27,7 @@ Melkesjokolade har GI på 49 og inneholder 60 gram karbohydrater per 100 gram va
 
 Man ser ut fra disse tallene at 100 gram gulrot på langt nær vil ha den samme effekten som 100 gram sjokolade på blodsukkeret, selv om de har lik GI. Det er altså først og fremst mengden karbohydrater i måltidet som vil bestemme hvor kraftig blodsukkeret vil stige etter et måltid. Ut fra dette eksempelet er det også lett å se at GI ikke kan forutsi hvor sunt eller usunt noe er, det er kun nyttig for å forutsi matens effekt på blodsukkeret.
 
-**Om du har diabetes type 2 og lurer på hvordan du bør spise, sjekk ut [denne](brokenlink/hvordan-bor-en-diabetiker-spise/)!**
+**Om du har diabetes type 2 og lurer på hvordan du bør spise, sjekk ut [denne](diabetes-kosthold.qmd)!**
 
 ## Lavglykemisk kost – gunstig for diabetikere
 

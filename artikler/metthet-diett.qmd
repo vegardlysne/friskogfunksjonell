@@ -63,7 +63,7 @@ For noen kan det å redusere karbohydratinntaket være tilstrekkelig til at ener
 
 Det er likevel enkelte ting som vil gi økt metthet for de fleste, nemlig et økt inntak av proteinrik mat og grønnsaker, og et redusert inntak av raffinerte karbohydrater som sukker og fint mel. I blogginnleggene om enkle tiltak for å forbedre kostholdet (Del [1](kosthold-tiltak-1.qmd)) gir jeg deg flere tips til ting du kan gjøre.
 
-**Les også: [Hvilken diett skal jeg velge?](brokenlink/hvilken-diett-skal-jeg-velge/)**
+**Les også: [Hvilken diett skal jeg velge?](hvilken-diett.qmd)**
 
 #### Referanser:
 
