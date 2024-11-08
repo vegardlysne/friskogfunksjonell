@@ -22,7 +22,7 @@ Etterpåklokskap har tydelige konsekvenser i dagliglivet, kanskje spesielt når 
 
 ## **Rammeeffekten/kontekst-bias (framing effect)**
 
-Rammeeffekten er relevant i tilfeller hvor du må tolke informasjon, noe du helt sikkert gjør oftere enn du tror. Vi påvirkes nemlig av måten informasjon legges frem på, noe som i visse tilfeller også kan påvirke våre avgjørelser. Dette har jeg også nevnt [i en tidligere artikkel](brokenlink/darlig-livsstil-bare-latskap/ "Dårlig livsstil – bare latskap?"), men her vil jeg gi en nærmere innføring i hvordan rammeeffekten har blitt demonstrert vitenskapelig.
+Rammeeffekten er relevant i tilfeller hvor du må tolke informasjon, noe du helt sikkert gjør oftere enn du tror. Vi påvirkes nemlig av måten informasjon legges frem på, noe som i visse tilfeller også kan påvirke våre avgjørelser. Dette har jeg også nevnt [i en tidligere artikkel](../livsstil-latskap.qmd), men her vil jeg gi en nærmere innføring i hvordan rammeeffekten har blitt demonstrert vitenskapelig.
 
 Kahneman og Tversky har avdekket mange kognitive bias, og har hatt ekstremt stor innflytelse innen psykologi, økonomi og møtet mellom de to (adferdsøkonomi). Det var også dem som først demonstrerte tilgjengelighetsbias som jeg snakket om i forrige artikkel, og de har også avdekket en hel skokk med andre biaser (noen av dem skriver jeg muligens om ved en senere anledning). I et berømt eksperiment presenterte Tversky og Kahneman deltakere med et fiktivt scenario (2). Scenarioet innebar at 600 mennesker har blitt syke, og du skal  bestemme hvordan de skal behandles. Du har valget mellom to typer behandlinger. Hvilken velger du?
 

@@ -18,7 +18,7 @@ Dersom vi deler datamaterialet i fire like deler, så kalles de tre punktene som
 
 For å eliminere den potensielle effekten outliere og ekstreme verdier har på gjennomsnittet kan man ganske enkelt bruke en annen statistisk modell når man skal presentere resultatet, som for eksempel median, eller interkvartil bredde. Det finnes utallige veier rundt dette problemet når man bruker SPSS (statistisk programvare), hvorav et av dem er å eliminere deltakeren helt fra studiet. Dette bør derimot vurderes nøye, og det skal også nevnes hvorfor deltakere eventuelt ekskluderes i metodedelen.
 
-**Les også: [Ikke tro alt du leser!](brokenlink/ikke-tro-alt-du-leser/ "Ikke tro alt du leser!")**
+**Les også: [Ikke tro alt du leser!](ikke-tro-alt-du-leser.qmd "Ikke tro alt du leser!")**
 
 ## Et banalt eksempel
 
