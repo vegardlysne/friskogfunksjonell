@@ -86,6 +86,6 @@ Tilsetningsstoffene er som nevnt inndelt i grupper etter bruksområde. I de nest
 
 -   [Fargestoffer](brokenlink/fargestoffer/)
 
--   [Søtstoffer](brokenlink/sotstoffer/)
+-   [Søtstoffer](sotstoffer.qmd)
 
 Informasjonen i denne artikkelserien er hentet fra boken Næringsmiddeltoksikologi av Tore Aune. Videre vil det også hentes informasjon fra nyere forskning og rapporter fra de norske og internasjonale organene nevnt over.

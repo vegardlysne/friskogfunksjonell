@@ -7,7 +7,7 @@ Mange som går ned i vekt ender opp med å legge på seg igjen. Bare et fåtall 
 
 De færreste klarer å holde seg til strenge dietter over lengre tid, uavhengig av hvilken retning de går. Dette skyldes ikke nødvendigvis dårlig viljestyrke, men heller at det er en stor belastning å holde seg til ting som avviker mye fra normalen. Påvirkning fra omgivelsene rundt oss, da spesielt familie- og jobb/skolesituasjon er nok de viktigste faktorene.
 
-Som jeg tidligere har skrevet om i artikkelen om [energibalanse](brokenlink/energibalansen/) så vil et vekttap føre til en reduksjon i hvileforbrenningen. Det koster rett og slett kroppen mindre energi å leve når du veier mindre. Også energikostnadene ved bevegelse reduseres, da det krever mindre energi å bevege en lettere kropp.
+Som jeg tidligere har skrevet om i artikkelen om [energibalanse](energibalansen.qmd) så vil et vekttap føre til en reduksjon i hvileforbrenningen. Det koster rett og slett kroppen mindre energi å leve når du veier mindre. Også energikostnadene ved bevegelse reduseres, da det krever mindre energi å bevege en lettere kropp.
 
 ## Hvordan påvirker kostholdet energiforbruket?
 

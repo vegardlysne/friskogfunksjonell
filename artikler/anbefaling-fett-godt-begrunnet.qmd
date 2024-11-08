@@ -8,7 +8,7 @@ Gjennom denne høsten (2011) har vi hørt flere uttalelser fra myndigheter og fa
 
 ## Anbefales det fortsatt en reduksjon i mettet fett?
 
-Det kan se ut som om helsedirektoratet fortsatt anbefaler en reduksjon i mettet fett for å redusere risikoen for [hjerte- og karsykdommer](brokenlink/hjerteinfarkt-hva-er-det-egentlig/); både fordi det ser slik ut fra matrisene som oppsummerer helseeffekter (matrise 19.1) og fordi det står at
+Det kan se ut som om helsedirektoratet fortsatt anbefaler en reduksjon i mettet fett for å redusere risikoen for [hjerte- og karsykdommer](fysiologi/hjerte5.qmd); både fordi det ser slik ut fra matrisene som oppsummerer helseeffekter (matrise 19.1) og fordi det står at
 
 > *de norske næringsstoffanbefalingene konkluderer at mettede fettsyrer og transfettyrer bør begrenses til 10E%*
 

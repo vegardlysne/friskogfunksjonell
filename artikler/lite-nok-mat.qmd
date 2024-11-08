@@ -28,7 +28,7 @@ Grønnsaker er energifattige, og du kan spise ganske store volum uten at det utg
 
 Flytende føde metter generelt dårligere enn mat i fast form. Det er flere hypoteser for hvorfor det er slik, og det har jeg skrevet mer utfyllende om i [denne artikkelen](brokenlink/bor-du-begrense-inntaket-av-flytende-karbohydrater/). Unntaket fra denne regelen er varm suppe, som faktisk har vist seg å kunne mette bedre enn fast føde. Melk er en god kilde til protein, og helmelk/syrnet melk reduserer hastigheten på tømmingen av magesekken, og kan derfor øke metthetsfølelsen.
 
-Dette punktet er derfor et tveegget sverd, og det du hovedsakelig bør styre unna er sukkerholdig drikke som brus, saft og jus. Drikk heller vann, kaffe, te, melk eller [kunstig søtet](brokenlink/sotstoffer/) brus og saft.
+Dette punktet er derfor et tveegget sverd, og det du hovedsakelig bør styre unna er sukkerholdig drikke som brus, saft og jus. Drikk heller vann, kaffe, te, melk eller [kunstig søtet](sotstoffer.qmd) brus og saft.
 
 ### Drikk til måltidene
 

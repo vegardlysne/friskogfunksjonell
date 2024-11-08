@@ -7,7 +7,7 @@ date: 2013.12.30
 
 ## Regelmessig innhold
 
-På denne tiden i fjor skrev jeg [en tilsvarende sak](brokenlink/2012-aret-som-gikk/), og et relevant sitat å trekke frem er følgende:
+På denne tiden i fjor skrev jeg [en tilsvarende sak](2012-oppsummering.qmd), og et relevant sitat å trekke frem er følgende:
 
 > Et soleklart mål er **å poste gode artikler regelmessig**, og unngå tørkeperioder slik vi har hatt noen av i år
 
@@ -83,7 +83,7 @@ Finnes det en fasit som gjelder for alle når det kommer til kosthold? I denne a
 
 Gluten er et protein som har fått veldig mye oppmerksomhet i media de siste årene. En pasientgruppe som må spise glutenfritt er de med cøliaki. I denne artikkelen har Ingvild tatt for seg denne sykdommen, hvordan den utarter seg og hvordan den behandles.
 
-###### 9. [Diabetes type 2 - hvordan skal man spise?](brokenlink/diabetes-type-2-kost/)
+###### 9. [Diabetes type 2 - hvordan skal man spise?](diabetes-kosthold-2.qmd)
 
 I mars ble det publisert en stor metaanalyse som tok for seg effekten av ulike kostråd hos pasienter med diabetes type 2. I denne artikkelen finner du resultatene fra denne, som konkluderer med at både lavkarbo, lav-GI og middelhavsdiett bør inngå som naturlige alternativer til dagens diabeteskost.
 

@@ -65,7 +65,7 @@ Klarer du ikke å presse i deg mer mat per måltid kan det være mer behagelig �
 
 ## Det handler om energibalansen
 
-For å øke kroppens energilagre er det viktig å være i positiv [energibalanse](brokenlink/energibalansen/). Inntaket av mat må altså være større enn det totale forbruket av energi. Klarer du dette vil du gå opp i vekt, og kombinerer du det med et fornuftig treningsprogram kan du påvirker vektoppgangen til i større grad å bestå av muskelvev og ikke fett.
+For å øke kroppens energilagre er det viktig å være i positiv [energibalanse](energibalansen.qmd). Inntaket av mat må altså være større enn det totale forbruket av energi. Klarer du dette vil du gå opp i vekt, og kombinerer du det med et fornuftig treningsprogram kan du påvirker vektoppgangen til i større grad å bestå av muskelvev og ikke fett.
 
 Jeg håper disse tipsene kan hjelpe noen av dere som ønsker å gå opp i vekt til å øke energiinntaket. Har dere andre tips enn de som er nevnt i artikkelen, setter jeg stor pris på om dere deler disse i kommentarfeltet!
 

@@ -15,7 +15,7 @@ Dersom du ønsker å legge om til lavkarbokosthold, trenger ikke forandringene v
 
 Dette er etter min mening det viktigste punktet i kostomleggingen. Fokuset må flyttes vekk fra ferdigmat og over på rene råvarer. Maten skal være mest mulig slik du finner den i naturen. I praksis betyr dette at du spiser mat som kjøtt, fisk, egg, frukt, grønnsaker, bær, nøtter, frø og meieriprodukter. Det du først og fremst reduserer inntaket av er ferdigmat og halvfabrikata.
 
-Sukker bør være det første man reduserer i ethvert kosthold, og alle anbefaler å redusere forbruket av tilsatt sukker. Et godt alternativ er sukrin, som består av den naturlige sukkeralkoholen erythritol, og nå har også stevia, en søt plante som blant annet har vært det vanligste søtningsmiddelet i Japan, nylig blitt tillatt i Norge. Les mer om Stevia i [saken om søtstoffer](brokenlink/sotstoffer/). Kunstig søtning vil generelt også være et bedre valg enn sukker.
+Sukker bør være det første man reduserer i ethvert kosthold, og alle anbefaler å redusere forbruket av tilsatt sukker. Et godt alternativ er sukrin, som består av den naturlige sukkeralkoholen erythritol, og nå har også stevia, en søt plante som blant annet har vært det vanligste søtningsmiddelet i Japan, nylig blitt tillatt i Norge. Les mer om Stevia i [saken om søtstoffer](sotstoffer.qmd). Kunstig søtning vil generelt også være et bedre valg enn sukker.
 
 ### 2. Reduser inntaket av korn
 
@@ -43,7 +43,7 @@ Det er mange myter om at man må innta masse karbohydrater etter trening for å 
 
 Rent praktisk betyr dette at du er litt mer restriktiv i karbohydratinntaket, først og fremst med tanke på brødmat, potet, pasta og ris. Frukt er også noe du mer fordel kan begrense inntaket av til fordel for grønnsaker og bær, men jeg vil likevel ikke anbefale noen å kutte frukt helt ut av kostholdet, da det fint kan inngå som dessert eller til kos.
 
-Det må også nevnes at vi ikke på noen måte anbefaler inaktivitet, noe jeg har skrevet mer om [her](brokenlink/aktivitetsniva-helse/).
+Det må også nevnes at vi ikke på noen måte anbefaler inaktivitet, noe jeg har skrevet mer om [her](aktivitet-helse.qmd).
 
 ## Hvilke tilpasninger bør en idrettsutøver gjøre?
 

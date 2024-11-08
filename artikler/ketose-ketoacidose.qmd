@@ -8,7 +8,7 @@ categories:
 
 Ketose og ketoacidose er to begreper mange blander sammen. Har disse egentlig noe mer til felles enn noenlunde like navn? Senest i et [nettmøte med lege Erik Hexeberg](http://tpn.vg.no/intervju/lege-erik-hexeberg-er-for-lavkarbo-send-ditt-spoersmaal-her/2616) kom det et spørsmål fra en medisinstudent som lurte på hva han syntes om at normalvektige gikk rundt med ketoacidose over tid. Her er det behov for en oppklaring i begrepene!
 
-Les også om [ketonmetabolismen](brokenlink/ketonmetabolismen/).
+Les også om [ketonmetabolismen](metabolismen/ketonmetabolismen.qmd).
 
 ## Hva er ketonlegemer?
 

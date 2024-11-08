@@ -28,7 +28,7 @@ Staten burde sørge for å tilrettelegge forholdene for fysisk aktivitet, samt b
 
 **Her er det etter min mening flere ankepunkter:**
 
--   Myndighetene gjør allerede en innsats for å påvirke forbrukernes valg av matvarer, nemlig gjennom [nøkkelhullsordningen](brokenlink/nokkelhull-bare-tull/). Denne ordningen er langt fra perfekt, noe som i stor grad skyldes at det fremdeles er stor uenighet om hva som er sunn mat. Dette må det bli en enighet om før en slik ordning vil fungere som ønsket.
+-   Myndighetene gjør allerede en innsats for å påvirke forbrukernes valg av matvarer, nemlig gjennom [nøkkelhullsordningen](nokkelhull.qmd). Denne ordningen er langt fra perfekt, noe som i stor grad skyldes at det fremdeles er stor uenighet om hva som er sunn mat. Dette må det bli en enighet om før en slik ordning vil fungere som ønsket.
 
 -   En økt styring fra staten vil gå utover den grunnleggende friheten vi har til å velge selv.
 

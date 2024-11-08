@@ -33,7 +33,7 @@ Richard David Feinman har skrevet mer om ITT [her](http://rdfeinman.wordpress.co
 
 Når vi ser på studier som sammenligner ulike kosthold så hevdes det ofte at det ikke er en forskjell i vektnedgang og at diettene derfor er like effektive. Det er et stort problem ved å se på studiene på denne måten, og det er at det bare blir tatt hensyn til tallet på vekten, og ikke subjektive følelser eller andre effekter av kostholdet.
 
-Det er ingen tvil om at det er [energibalansen](brokenlink/energibalansen/) som over tid avgjør om vi går opp eller ned i vekt, men kroppsmassen vår er ikke en homogen masse, og det er minst like vesentlig hva denne massen består av. Muskelvev og fettvev har vidt ulike effekter på ulike helsemarkører, så å se på kroppsvekten isolert er ikke veldig hensiktsmessig.
+Det er ingen tvil om at det er [energibalansen](energibalansen.qmd) som over tid avgjør om vi går opp eller ned i vekt, men kroppsmassen vår er ikke en homogen masse, og det er minst like vesentlig hva denne massen består av. Muskelvev og fettvev har vidt ulike effekter på ulike helsemarkører, så å se på kroppsvekten isolert er ikke veldig hensiktsmessig.
 
 I studier der både lavkarbo- og lavfettgruppen pålegges en lik energirestriksjon blir resultatene, ikke uventet, at begge gruppene går like mye ned i vekt, f.eks. Sacks 2009 \[[1](http://www.ncbi.nlm.nih.gov/pubmed/19246357)\].
 
@@ -61,7 +61,7 @@ Det jeg til syvende og sist ønsker å understreke, som vanlig, er at en individ
 
 For noen kan det å redusere karbohydratinntaket være tilstrekkelig til at energiinntaket reduseres, mens et økt fokus på protein kan være løsningen for andre. Hos noen vil fettrik mat gi en god og langvarig metthetsfølelse, mens andre kan reagere motsatt og lett overspise på fett.
 
-Det er likevel enkelte ting som vil gi økt metthet for de fleste, nemlig et økt inntak av proteinrik mat og grønnsaker, og et redusert inntak av raffinerte karbohydrater som sukker og fint mel. I blogginnleggene om enkle tiltak for å forbedre kostholdet (Del [1](brokenlink/3-enkle-tiltak/)) gir jeg deg flere tips til ting du kan gjøre.
+Det er likevel enkelte ting som vil gi økt metthet for de fleste, nemlig et økt inntak av proteinrik mat og grønnsaker, og et redusert inntak av raffinerte karbohydrater som sukker og fint mel. I blogginnleggene om enkle tiltak for å forbedre kostholdet (Del [1](kosthold-tiltak-1.qmd)) gir jeg deg flere tips til ting du kan gjøre.
 
 **Les også: [Hvilken diett skal jeg velge?](brokenlink/hvilken-diett-skal-jeg-velge/)**
 

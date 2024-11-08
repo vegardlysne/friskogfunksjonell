@@ -10,7 +10,7 @@ I enkelte miljøer hevdes det ofte at det å være i ketose er et tegn på at kr
 
 ## Produksjon av ketonlegemer
 
-Jeg har tidligere skrevet om hvordan ketonlegemer produseres og forbrennes ([ketonmetabolismen](brokenlink/ketonmetabolismen/) for å produsere energi, eller kobles sammen med et annet Acetyl-CoA-molekyl og danne ketonlegemer.
+Jeg har tidligere skrevet om hvordan ketonlegemer produseres og forbrennes ([ketonmetabolismen](metabolismen/ketonmetabolismen.qmd) for å produsere energi, eller kobles sammen med et annet Acetyl-CoA-molekyl og danne ketonlegemer.
 
 Leveren bruker i liten grad fett som energi, så fettsyrene som brytes ned her vil i stor grad brukes til å produsere ketonlegemer. Disse er vannløselige, og fraktes i blodet til målcellene, der de brytes ned igjen til acetyl-CoA og metaboliseres for å frigjøre energi. En stor del av kroppens fettsyrenedbrytning foregår i leveren og omdannes til ketonlegemer, men ettersom disse raskt absorberes av målcellene vil konsentrasjonen i blodet normalt holde seg lav.
 

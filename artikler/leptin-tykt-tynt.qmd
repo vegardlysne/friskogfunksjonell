@@ -6,7 +6,7 @@ date: 2013.07.11
 
 Vegard har gått ettertrykkelig igjennom [energibalansen](energibalansen.qmd) tidligere og hvordan den kan styres i positiv og negativ retning som resulterer i enten energiunderskudd eller energioverskudd. Det er i hovedsak matinntak og forbruk i hverdagen som påvirker på hvilken side av regnskapet vi ender opp på. Blant annet påvirker en rekke hormoner valgene vi tar når det kommer til matinntak, og påvirker i varierende grad sultsenteret i hjernen som sitter i hypotalamus.
 
-Leser man på diverse fora vil man gjerne komme over anbefalinger om matvarer som påvirker metthet. Ofte er det proteiner og fett som trekkes frem som prakteksemplene på hva man bør prioritere om man vil bli mett. Insulin, som påvirkes direkte av karbohydrater [men også proteiner](brokenlink/insulinindeks/), spiller derimot også en rolle for metthet og apetitt, blant annet gjennom å øke sirkulerende leptinkonsentrasjoner i blodet.
+Leser man på diverse fora vil man gjerne komme over anbefalinger om matvarer som påvirker metthet. Ofte er det proteiner og fett som trekkes frem som prakteksemplene på hva man bør prioritere om man vil bli mett. Insulin, som påvirkes direkte av karbohydrater [men også proteiner](insulinindeks.qmd), spiller derimot også en rolle for metthet og apetitt, blant annet gjennom å øke sirkulerende leptinkonsentrasjoner i blodet.
 
 Jeg vil i denne artikkelen ta for meg leptin som er sentral i langtidsregulering av apetitten vår.
 

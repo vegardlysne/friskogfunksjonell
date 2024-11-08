@@ -46,7 +46,7 @@ I Helsedirektoratets anbefalinger regnes et glass juice som en av) vil ødelegge
 
 Her er vi helt på bølgelengde med de nasjonale anbefalingene. Vann har alltid vært, og kommer alltid til å være, det beste valget av tørstedrikk. Vann er livsviktig for oss, og vi hadde ikke overlevd lenge uten tilførsel. Velger du vann som tørstedrikk fremfor saft, juice, brus og liknende, gjør du deg selv en stor tjeneste!
 
-## **6. Øk [aktivitetsnivået](brokenlink/aktivitetsniva-helse/)**
+## **6. Øk [aktivitetsnivået](aktivitet-helse.qmd)**
 
 Stillesitting øker dødeligheten uavhengig av treningsmengde. Samtidig kan vi ikke ukritisk øke mengden hardtrening uten at dette vil føre til økt stress på kroppen. Da blir løsningen å komme seg opp av stolen og øke det daglige aktivitetsnivået.
 

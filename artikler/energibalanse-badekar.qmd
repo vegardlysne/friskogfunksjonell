@@ -19,7 +19,7 @@ Begge sider av saken har altså poenger som er korrekte, men de må brukes i rik
 
 Tenk deg at vi bytter ut menneskekroppen med et badekar. Mengden vann i badekaret, vannstanden, representerer kroppens totale lagre av energi, både fettvevet, muskelvevet og glykogenlagrene. Hver dag fyller vi på mer vann, noe som representerer maten vi spiser. Samtidig vil det også hele tiden renne vann ut gjennom sluken, noe som representerer forbruk av energi.  Noe vil også fordampe, eller rett og slett skvulpe utfor kanten. For å opprettholde vannstanden er vi avhengig av å helle oppi like mye vann som det forsvinner over tid. Hvis ikke vil vannstanden øke eller synke.
 
-Dette er utgangspunktet for denne analogien, her følger en forklaring av de ulike delene av energibalansen basert på dette. Som nevnt lenger oppe anbefaler jeg å lese artikkelen om [energibalansen](brokenlink/energibalansen/) først.
+Dette er utgangspunktet for denne analogien, her følger en forklaring av de ulike delene av energibalansen basert på dette. Som nevnt lenger oppe anbefaler jeg å lese artikkelen om [energibalansen](energibalansen.qmd) først.
 
 Energibalanseligningen:
 

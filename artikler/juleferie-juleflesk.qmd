@@ -9,7 +9,7 @@ Julen er tiden for familie og kos. Vi løper fra familiebesøk til julebord, og 
 
 ## Hvorfor kommer julekiloene?
 
-Som jeg har skrevet om tidligere, i artikkelen om [energibalansen](brokenlink/energibalansen/), så er kroppsvekten et uttrykk for alt kroppen vår består av. Mye av vekten utgjøres av vann, og ved å endre på vannbalansen kan dette gi ganske store utslag på vekten over korte tidsrom. Vi består også av muskler og fett, og endringer i disse kommer som følge av ubalanser mellom inntak og forbruk av energi.
+Som jeg har skrevet om tidligere, i artikkelen om [energibalansen](energibalansen.qmd), så er kroppsvekten et uttrykk for alt kroppen vår består av. Mye av vekten utgjøres av vann, og ved å endre på vannbalansen kan dette gi ganske store utslag på vekten over korte tidsrom. Vi består også av muskler og fett, og endringer i disse kommer som følge av ubalanser mellom inntak og forbruk av energi.
 
 Det er begrenset hvor mye fett du klarer å legge på deg på såpass kort tid som en juleferie, så i første omgang kan du trøste deg med at mesteparten av julekiloene består av gode, gamle H2O. Dette kan skyldes at julemat generelt inneholder en del salt, noe som gjør at du på kort sikt vil holde på mer vann. Dette vil forsvinne tilsvarende fort når du kommer tilbake i gamle vaner.
 
@@ -27,7 +27,7 @@ Dersom du planlegger et større matinntak på ettermiddagen, f.eks. i et familie
 
 Søt mat og sukker hører julen til, men her er det muligheter for å gjøre bedre valg. Vanlig brus kan uten problemer byttes ut med en lettvariant, og i bakst går det an å bytte ut (noe av) sukkeret med erstatningsprodukter som sukrin.
 
-Les mer om [søtstoffer](brokenlink/sotstoffer/).
+Les mer om [søtstoffer](sotstoffer.qmd).
 
 ### Gode snacksalternativer
 

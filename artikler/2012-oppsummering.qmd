@@ -15,19 +15,19 @@ Her følger en liste over flere av årets beste og mest populære artikler etter
 
 -   [Minikurs i lipoproteiner](minikurs-i-lipoproteiner.qmd)
 
--   [Hjerteinfarkt, hva er det egentlig?](brokenlink/hjerteinfarkt-hva-er-det-egentlig/)
+-   [Hjerteinfarkt, hva er det egentlig?](fysiologi/hjerte5.qmd)
 
--   [Stump røyken](brokenlink/stump-royken/)
+-   [Stump røyken](stump-royken.qmd)
 
--   [Ketose eller ketoacidose?](brokenlink/ketose-eller-ketoacidose/)
+-   [Ketose eller ketoacidose?](ketose-ketoacidose.qmd)
 
--   [Fedmeoperasjon av unge, en akseptabel løsning?](brokenlink/fedmeoperasjon-av-unge/)
+-   [Fedmeoperasjon av unge, en akseptabel løsning?](fedmekirurgi.qmd)
 
 -   [Midlertidige løsninger - midlertidige resultater](brokenlink/midlertidige-losninger/)
 
--   [Energibalansen - hva sier den egentlig?](brokenlink/energibalansen/)
+-   [Energibalansen - hva sier den egentlig?](energibalansen.qmd)
 
--   [Insulinindeks - hva og hvorfor?](brokenlink/insulinindeks/)
+-   [Insulinindeks - hva og hvorfor?](insulinindeks.qmd)
 
 -   [Sunt kosthold på studentbudsjett](brokenlink/sunt-kosthold-pa-studentbudsjett/)
 
@@ -41,9 +41,9 @@ Her følger en liste over flere av årets beste og mest populære artikler etter
 
 -   [Irritabel tarm og hva du kan gjøre med det](irritabel-tarm.qmd)
 
--   [Søtstoffer](brokenlink/sotstoffer/)
+-   [Søtstoffer](sotstoffer.qmd)
 
--   [Nøkkelhull, bare tull?](brokenlink/nokkelhull-bare-tull/)
+-   [Nøkkelhull, bare tull?](nokkelhull.qmd)
 
 -   [Sunt eller usunt, betydningen av kontekst](brokenlink/betydningen-av-kontekst/)
 
@@ -55,9 +55,9 @@ Her følger en liste over flere av årets beste og mest populære artikler etter
 
 -   [Kan barn spise lavkarbo?](brokenlink/kan-barn-spise-lavkarbo/)
 
--   [Hvorfor bør du spise variert?](brokenlink/hvorfor-bor-du-spise-variert/)
+-   [Hvorfor bør du spise variert?](spise-variert.qmd)
 
--   Enkle tiltak som kan forbedre kostholdet ditt - [del 1](brokenlink/3-enkle-tiltak/)
+-   Enkle tiltak som kan forbedre kostholdet ditt - [del 1](kosthold-tiltak-1.qmd)
 
 -   [Enkle prinsipper for kosthold og styrkeøkning](brokenlink/enkle-prinsipper-for-kosthold-og-styrkeokning/)
 

@@ -41,7 +41,7 @@ Det å gjøre varige endringer er veldig viktig om du ønsker å forbedre helsen
 
 ### 9. Spis variert
 
-Ved å [spise variert](brokenlink/hvorfor-bor-du-spise-variert/) sørger du for å dekke behovet for alle næringsstoffene. Med å spise variert mener jeg at du spiser mat fra flere ulike matvaregrupper, altså kjøtt, fisk, egg, grønnsaker, frukt, nøtter, meieriprodukter og fullkorn. Ved å være innom de fleste matvaregruppene over tid skal det mye til at du ender opp med å få i deg for lite av noe som helst.
+Ved å [spise variert](spise-variert.qmd) sørger du for å dekke behovet for alle næringsstoffene. Med å spise variert mener jeg at du spiser mat fra flere ulike matvaregrupper, altså kjøtt, fisk, egg, grønnsaker, frukt, nøtter, meieriprodukter og fullkorn. Ved å være innom de fleste matvaregruppene over tid skal det mye til at du ender opp med å få i deg for lite av noe som helst.
 
 ### 10. Fokuser på de viktige tingene
 

@@ -11,7 +11,7 @@ Som vanlig er det ikke alle tipsene som vil være like aktuelle for alle. Vi er 
 
 #### 1. Stump røyken
 
-Det viktigste enkelttiltaket du kan gjøre for helsen din, uten sidestykke, er å [stumpe røyken](brokenlink/stump-royken/). Selv om noen kan røyke hele livet og likevel unngå sykdom, så gjelder dette et mindretall. Røyk er en viktig risikofaktor for en lang rekke sykdommer, der lungekreft, KOLS og hjerte- og karsykdom er de mest alvorlige. I tillegg spiller det inn på andre aspekter som utholdenheten og ikke minst økonomien!
+Det viktigste enkelttiltaket du kan gjøre for helsen din, uten sidestykke, er å [stumpe røyken](stump-royken.qmd). Selv om noen kan røyke hele livet og likevel unngå sykdom, så gjelder dette et mindretall. Røyk er en viktig risikofaktor for en lang rekke sykdommer, der lungekreft, KOLS og hjerte- og karsykdom er de mest alvorlige. I tillegg spiller det inn på andre aspekter som utholdenheten og ikke minst økonomien!
 
 #### 2. Hverdagsaktivitet
 
@@ -41,7 +41,7 @@ Frukt og bær kan være en viktig del av et sunt og variert kosthold. Disse gir 
 
 Det å i større grad lage maten selv fremfor å velge hel- og halvfabrikata vil i de fleste tilfeller heve kvaliteten på kostholdet ditt. Spesielt når det gjelder diverse kjøtt- og fiskeprodukter som strengt tatt ikke inneholder så mye kjøtt eller fisk, så kommer du bedre ut av det ved heller å velge renere og mindre behandlede produkter. Ettersom ferdigmaten er vår desidert største kilde til salt så vil dette også bidra til å begrense saltinntaket betraktelig, samtidig som hjemmelaget mat også smaker bedre!
 
-Kombinert med å [spise variert](brokenlink/hvorfor-bor-du-spise-variert/) så sikrer du inntaket av alle næringsstoffene.
+Kombinert med å [spise variert](spise-variert.qmd) så sikrer du inntaket av alle næringsstoffene.
 
 #### 8. Slapp av
 

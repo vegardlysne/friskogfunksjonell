@@ -45,7 +45,7 @@ En annen gjennomgangsartikkel gir en grei skjematisk oversikt over hvordan søvn
 
 ![](images/clipboard-2831568848.png)Figur 1, Chaput 2010
 
-En grundigere gjennomgang av energibalansen finner du [her](brokenlink/energibalansen/).
+En grundigere gjennomgang av energibalansen finner du [her](energibalansen.qmd).
 
 ## Veien videre
 

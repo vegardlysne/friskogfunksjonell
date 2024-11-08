@@ -59,7 +59,7 @@ Forhøyede nivåer av homocystein, hyperhomocysteinemi, er etablert som en uavhe
 
 Metyleringsreaksjoner er sentrale prosesser som innebærer overføring av metylgrupper mellom ulike molekyler. Dette er viktig for produksjon og modifikasjon av en rekke molekyler. Den primære metyldonoren heter SAM, og produseres fra aminosyren metionin. Gjennom metyleringsreaksjonene får vi til slutt dannet homocystein, og forhøyede nivåer av denne er en risikofaktor for hjertesykdom og en rekke andre tilstander. Metyleringssyklus og homocysteinmetabolismen er nøye regulert, og forstyrrelser kan skyldes genetiske eller miljømessige faktorer som kosthold eller oksidativt/reduktivt stress.
 
-Denne artikkelen er ment å gi deg et litt mer detaljert innsyn i hvordan metyleringsreaksjoner foregår og hvordan de reguleres. Den er ikke ment å kunne si noe om hvordan du kan påvirke dette gjennom for eksempel kosthold, utover det å unngå mangler på de sentrale næringsstoffene. Dette oppnår du fint ved å [spise variert](brokenlink/hvorfor-bor-du-spise-variert/). I neste artikkel kommer jeg nærmere inn på metylering av DNA og hvilken betydning dette har for genuttrykket.
+Denne artikkelen er ment å gi deg et litt mer detaljert innsyn i hvordan metyleringsreaksjoner foregår og hvordan de reguleres. Den er ikke ment å kunne si noe om hvordan du kan påvirke dette gjennom for eksempel kosthold, utover det å unngå mangler på de sentrale næringsstoffene. Dette oppnår du fint ved å [spise variert](spise-variert.qmd). I neste artikkel kommer jeg nærmere inn på metylering av DNA og hvilken betydning dette har for genuttrykket.
 
 **Referanser:**
 
