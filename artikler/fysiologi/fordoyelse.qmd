@@ -10,7 +10,7 @@ categories:
 
 Når vi spiser eller drikker, vil maten fraktes fra munnen og ned til magesekken, før den vandrer gjennom tarmsystemet og kommer ut på andre siden. Et fellesnavn på hele dette systemet er gastrointestinaltrakten (GI-trakten). Fordøyelseskanalen fungerer som en barriere for hva som slippes inn i kroppen, og alt som skjer her skjer per definisjon utenfor kroppen . Hva er det egentlig som skjer på de ulike stedene i GI-trakten? Det skal vi se litt på i denne artikkelen.
 
-Artikkelen tilhører artikkelserien om [Menneskets fysiologi](brokenlink/menneskets-fysiologi/ "Menneskets fysiologi").
+Artikkelen tilhører artikkelserien om [Menneskets fysiologi](../../fysiologi.qmd "Menneskets fysiologi").
 
 ## Munnen
 
@@ -26,7 +26,7 @@ Når vi svelger maten beveger den seg gjennom spiserøret (esophagus) og ned i m
 
 ![](images/clipboard-262814839.png)
 
-I magesekken lagres maten før den slippes videre ut i tynntarmen. Maten blandes godt med magesaften, som inneholder noen viktige stoffer for fordøyelsen. Saltsyre gir et surt miljø, som i tillegg til å drepe uønskede organismer også hjelper til med å bryte ned proteiner. Det skilles også ut fordøyelsesenzymer som pepsinogen (proteinfordøyelse) og gastrisk lipase (fettfordøyelse). Amylasen fra spyttet fortsetter å virke i magesekken, og spalter opp stivelse. Intrinsic factor, som er viktig for opptaket av [B12](brokenlink/b12/ "Kobalamin, vitamin B12"), produseres også i magesekken. Det produseres også en del slim som blander seg med maten og gjør at den lettere kan gli gjennom tarmsystemet.
+I magesekken lagres maten før den slippes videre ut i tynntarmen. Maten blandes godt med magesaften, som inneholder noen viktige stoffer for fordøyelsen. Saltsyre gir et surt miljø, som i tillegg til å drepe uønskede organismer også hjelper til med å bryte ned proteiner. Det skilles også ut fordøyelsesenzymer som pepsinogen (proteinfordøyelse) og gastrisk lipase (fettfordøyelse). Amylasen fra spyttet fortsetter å virke i magesekken, og spalter opp stivelse. Intrinsic factor, som er viktig for opptaket av [B12](../naeringsstoffer/kobalamin.qmd "Kobalamin, vitamin B12"), produseres også i magesekken. Det produseres også en del slim som blander seg med maten og gjør at den lettere kan gli gjennom tarmsystemet.
 
 Tømmingen fra magesekken skjer gjennom en ringmuskel som heter pylorus. Her slippes maten ut i små porsjoner som kalles kymus, som da er en blanding av fordøyelsesvæske og små matpartikler.
 
@@ -54,4 +54,4 @@ Muskelbevegelsene i tykktarmen skiller seg litt fra de i tynntarmen. Segmenterin
 
 ## Avslutning
 
-Dette er på ingen måte en fullstendig gjennomgang av fordøyelsen, men heller en kort innføring i hva som skjer på de ulike stedene. For beskrivelse av hvordan de ulike næringsstoffene blir tatt opp, kan du finner mer informasjon i [artikkelserien om næringsstoffene](brokenlink/naeringsstoffene/ "Artikkelserie om Næringsstoffene").
+Dette er på ingen måte en fullstendig gjennomgang av fordøyelsen, men heller en kort innføring i hva som skjer på de ulike stedene. For beskrivelse av hvordan de ulike næringsstoffene blir tatt opp, kan du finner mer informasjon i [artikkelserien om næringsstoffene](../../naeringsstoffer.qmd "Artikkelserie om Næringsstoffene").

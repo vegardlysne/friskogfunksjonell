@@ -11,7 +11,7 @@ categories:
 
 Lungene er pusteorganene våre, og i den første artikkelen om disse organene får du et innblikk i hvordan lungene og respirasjonssystemet er bygget opp og fungerer.
 
-Artikkelen tilhører artikkelserien om [Menneskets fysiologi](brokenlink/menneskets-fysiologi/ "Menneskets fysiologi").
+Artikkelen tilhører artikkelserien om [Menneskets fysiologi](../../fysiologi.qmd "Menneskets fysiologi").
 
 ## Anatomisk introduksjon
 
