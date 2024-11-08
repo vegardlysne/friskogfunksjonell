@@ -24,7 +24,7 @@ Det å tilegne seg kunnskap er en kunst. Hvor skal du lete? Hva trenger du å vi
 
 Det er mange måter å utvikle ny kunnskap, men den desidert beste og mest omfattende er den vitenskapelige metode. Denne tar utgangspunkt i observasjoner, for så å utforme og teste hypoteser. Etter hvert som det vitenskapelige grunnlaget øker, vil hypoteser forkastes eller regnes som mer sannsynlige. På denne måten er vitenskapen selvkorrigerende, og alle resultater vil inngå i det totale kunnskapsgrunnlaget, som igjen brukes som utgangspunkt for å danne nye hypoteser som kan testes.
 
-Les mer om [den vitenskapelige metode](http://www.friskogfunksjonell.no/vitenskapelig-metode/ "Den vitenskapelige metode").
+Les mer om [den vitenskapelige metode](brokenlink/vitenskapelig-metode/ "Den vitenskapelige metode").
 
 ## Kildekritikk
 
@@ -32,13 +32,13 @@ Vi mennesker har enn innbygget funksjon der vi stadig ser etter årsaker til det
 
 På internett kan hvem som helst skrive hva som helst, og det å vite hva man skal tro på av alt den motstridende informasjonen som finnes er ikke alltid så lett, spesielt om man ikke har noen form for bakgrunnskunnskaper om det aktuelle temaet. Det er ikke alltid det mest korrekte er det som fremstår mest overbevisende. Har de tatt med all forskningen, eller bare plukket ut det som støtter sine argumenter (kirsebærplukking)? God kildekritikk er viktig for å luke ut troverdige kilder fra all støyen, for du må ikke automatisk tro på alt du leser. En ting som virkelig skiller vitenskapelige artikler og fagbøker fra det meste annet du leser, er den omfattende publikasjonsprosessen. Mer om dette i følgende artikler:
 
--   [Kildekritikk](http://www.friskogfunksjonell.no/kildekritikk/ "Kildekritikk – hva er en god kilde?")
+-   [Kildekritikk](brokenlink/kildekritikk/ "Kildekritikk – hva er en god kilde?")
 
--   [Ikke tro alt du leser!](http://www.friskogfunksjonell.no/ikke-tro-alt-du-leser/ "Ikke tro alt du leser!")
+-   [Ikke tro alt du leser!](brokenlink/ikke-tro-alt-du-leser/ "Ikke tro alt du leser!")
 
--   [Publikasjonsprosessen](http://www.friskogfunksjonell.no/publikasjonsprosessen/ "Publikasjonsprosessen")
+-   [Publikasjonsprosessen](brokenlink/publikasjonsprosessen/ "Publikasjonsprosessen")
 
-Forskning publiseres i vitenskapelige tidsskrifter, som man vanligvis må betale for tilgang til. De siste årene har imidlertid [Open Access](http://www.friskogfunksjonell.no/open-access/ "Open Access") skutt i været, og mer og mer forskning publiseres nå på denne måten.
+Forskning publiseres i vitenskapelige tidsskrifter, som man vanligvis må betale for tilgang til. De siste årene har imidlertid [Open Access](brokenlink/open-access/ "Open Access") skutt i været, og mer og mer forskning publiseres nå på denne måten.
 
 ## Forskning
 
@@ -64,9 +64,9 @@ Studier kan gjennomføres på flere forskjellige måter, og ut ifra hvordan stud
 
 For å lese forskning er det viktig å vite litt om ulike studiedesign og statistiske metoder og begreper. I tillegg er det å vite noe om temaet fra før viktig for å kunne tolke studien på en fornuftig måte, som utdypet i avsnittet og artikkelen om kildekritikk. Uten å vite noe om dette vil det å hente ut informasjon fra en vitenskapelig artikkel være nærmest umulig. Mer om dette i følgende artikler:
 
--   [Signifikans og alt det der](http://www.friskogfunksjonell.no/signifikans-og-alt-det-der/ "Signifikans og alt det der")
+-   [Signifikans og alt det der](brokenlink/signifikans-og-alt-det-der/ "Signifikans og alt det der")
 
--   [Å tolke en studie i kontekst](http://www.friskogfunksjonell.no/studie-kontekst/ "Å tolke en studie i kontekst")
+-   [Å tolke en studie i kontekst](brokenlink/studie-kontekst/ "Å tolke en studie i kontekst")
 
 -   [Hvordan leser du en forskningsartikkel](lese-forskningsartikkel.qmd)
 
@@ -74,37 +74,37 @@ For å lese forskning er det viktig å vite litt om ulike studiedesign og statis
 
 Selv om forskning er den beste måten vi har for å frembringe ny kunnskap, er det viktig å være klar over at forskning også har mange svakheter vi må ha i bakhodet når vi leser vitenskapelige artikler, og det kan du lese mer om i følgende artikler:
 
--   [Full kontroll?](http://www.friskogfunksjonell.no/full-kontroll/ "Full kontroll?")
+-   [Full kontroll?](brokenlink/full-kontroll/ "Full kontroll?")
 
--   [Soyaprotein, østrogen og uteliggere – Hvorfor du skal være obs på feilkilder](http://www.friskogfunksjonell.no/soyaprotein-ostrogen-og-uteliggere-hvorfor-du-skal-vaere-obs-pa-feilkilder/ "Soyaprotein, østrogen og uteliggere – Hvorfor du skal være obs på feilkilder")
+-   [Soyaprotein, østrogen og uteliggere – Hvorfor du skal være obs på feilkilder](brokenlink/soyaprotein-ostrogen-og-uteliggere-hvorfor-du-skal-vaere-obs-pa-feilkilder/ "Soyaprotein, østrogen og uteliggere – Hvorfor du skal være obs på feilkilder")
 
--   [Helsebevisste individer - en forstyrrende faktor i forskningen?](http://www.friskogfunksjonell.no/helsebevisste-individer/ "Helsebevisste individer – en forstyrrende faktor i forskningen?")
+-   [Helsebevisste individer - en forstyrrende faktor i forskningen?](brokenlink/helsebevisste-individer/ "Helsebevisste individer – en forstyrrende faktor i forskningen?")
 
--   [Konfunderende faktorer](http://www.friskogfunksjonell.no/konfunderende-faktorer/ "Konfunderende faktorer")
+-   [Konfunderende faktorer](brokenlink/konfunderende-faktorer/ "Konfunderende faktorer")
 
--   [Mer om konfunderende faktorer](http://www.friskogfunksjonell.no/mer-om-konfunderende-faktorer/ "Mer om konfunderende faktorer")
+-   [Mer om konfunderende faktorer](brokenlink/mer-om-konfunderende-faktorer/ "Mer om konfunderende faktorer")
 
--   [Svakheter i ernæringsepidemiologi](http://www.friskogfunksjonell.no/ernaeringsepidemiologi/ "Svakheter i ernæringsepidemiologi")
+-   [Svakheter i ernæringsepidemiologi](brokenlink/ernaeringsepidemiologi/ "Svakheter i ernæringsepidemiologi")
 
--   [Er forskning til å stole på?](http://www.friskogfunksjonell.no/er-forskning-til-a-stole-pa/ "Er forskning til å stole på?")
+-   [Er forskning til å stole på?](brokenlink/er-forskning-til-a-stole-pa/ "Er forskning til å stole på?")
 
--   [Forskning - er større alltid bedre?](http://www.friskogfunksjonell.no/forskning-er-storre-alltid-bedre/)
+-   [Forskning - er større alltid bedre?](brokenlink/forskning-er-storre-alltid-bedre/)
 
 ## Lurer vi oss selv og andre?
 
 Har du noen gang følt at du har god innsikt i et emne etter første introduksjon til tema? Da har du kanskje blitt rammet av Dunning-Kruger-effekten, en logisk tankefeil som gjør at man ser seg selv som mer kompetent enn man egentlig er. Etter hvert som man setter seg inn i og opparbeider seg en kompetanse på et felt, jo mer oppdager man at man ikke vet. Derfor er ekspertuttalelser ofte lite bastante, og fremstår kanskje til og med tvilende. Dette er også noe som bidrar til at det kan være vanskelig å identifisere dårlige kilder, da disse ofte fremstår svært selvsikre og overbevisende. Det å innse sine egne begrensninger er en kunst. Les mer om dette i følgende artikler:
 
--   [Inkompetent uten å vite det - Dunning-Kruger-effekten](http://www.friskogfunksjonell.no/inkompetent-uten-a-vite-det-dunning-kruger-effekten/ "Inkompetent uten å vite det – Dunning-Kruger-effekten")
+-   [Inkompetent uten å vite det - Dunning-Kruger-effekten](brokenlink/inkompetent-uten-a-vite-det-dunning-kruger-effekten/ "Inkompetent uten å vite det – Dunning-Kruger-effekten")
 
--   [Rådgiver - Kjenn dine begrensninger!](http://www.friskogfunksjonell.no/kjenn-dine-begrensninger/ "Rådgiver – kjenn dine begrensninger!")
+-   [Rådgiver - Kjenn dine begrensninger!](brokenlink/kjenn-dine-begrensninger/ "Rådgiver – kjenn dine begrensninger!")
 
 Hjernen vår er ikke alltid helt ærlig med oss. Logiske tankefeil er fenomener som rammer oss alle, og bidrar til at vi til stadig lurer oss selv. Vi kan ikke unngå disse, men ved å være klar over de kan du være bedre rustet til å oppdage når de rammer akkurat deg. Det er mange varianter av disse tankefeilene, og i de følgende artiklene kan du lese mer om noen av de vanligste:
 
--   [Bekreftelses- og tilgjengelighetsbias](http://www.friskogfunksjonell.no/tankefeil-del-1-bekreftelse-og-tilgjengelighet/ "Tankefeil del 1 – Bekreftelse og tilgjengelighet")
+-   [Bekreftelses- og tilgjengelighetsbias](brokenlink/tankefeil-del-1-bekreftelse-og-tilgjengelighet/ "Tankefeil del 1 – Bekreftelse og tilgjengelighet")
 
--   [Etterpåklokskap og rammeeffekten](http://www.friskogfunksjonell.no/tankefeil-del-2-etterpaklokskap-og-rammeeffekten/ "Tankefeil del 2 – Etterpåklokskap og rammeeffekten")
+-   [Etterpåklokskap og rammeeffekten](brokenlink/tankefeil-del-2-etterpaklokskap-og-rammeeffekten/ "Tankefeil del 2 – Etterpåklokskap og rammeeffekten")
 
--   [Fundamental attribusjonsfeil](http://www.friskogfunksjonell.no/tankefeil-del-3-fundamental-attribusjonsfeil/ "Sosiale bias – Fundamental attribusjonsfeil")
+-   [Fundamental attribusjonsfeil](brokenlink/tankefeil-del-3-fundamental-attribusjonsfeil/ "Sosiale bias – Fundamental attribusjonsfeil")
 
 ## Hva er poenget?
 

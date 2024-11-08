@@ -37,7 +37,7 @@ Før vi ser på hver enkelt påstand kan følgende hovedlinjer trekkes fram fra 
 
 ## Vurdering av hver påstand
 
-1\. påstand er feil. Oksygenering av blod foregår i [lungene](http://www.friskogfunksjonell.no/lunge-1/), og det er ingen grunn til å tro at kompresjonstights skal kunne øke denne prosessen. Studier som sammenligner oksygenopptak med og uten kompresjonsklær viser generelt ingen forskjell i oksygenopptak.
+1\. påstand er feil. Oksygenering av blod foregår i [lungene](brokenlink/lunge-1/), og det er ingen grunn til å tro at kompresjonstights skal kunne øke denne prosessen. Studier som sammenligner oksygenopptak med og uten kompresjonsklær viser generelt ingen forskjell i oksygenopptak.
 
 2\. påstand avhenger av hva vi definerer som «muskeloppvarming». Temperaturmessig blir huden et par grader varmere ved bruk av kompresjon, men det er ingen endring i kroppstemperatur sammenlignet med kontroll. Det kan antas at temperaturen på huden kan korte ned tiden for å varme opp muskelvevet, men det er uvisst om dette kan oversettes til noen fordeler.
 

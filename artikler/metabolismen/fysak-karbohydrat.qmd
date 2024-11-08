@@ -12,9 +12,9 @@ Omsetningen av næringsstoffer under fysisk aktivitet og trening avhenger av hvi
 
 Relevante artikler
 
--   [Karbohydrater](http://www.friskogfunksjonell.no/karbohydrater/ "Karbohydrater")
--   [Glukosemetabolismen](http://www.friskogfunksjonell.no/glukosemetabolismen/ "Glukosemetabolismen")
--   [Glykogenmetabolismen](http://www.friskogfunksjonell.no/glykogenmetabolismen/ "Glykogenmetabolismen")
+-   [Karbohydrater](brokenlink/karbohydrater/ "Karbohydrater")
+-   [Glukosemetabolismen](brokenlink/glukosemetabolismen/ "Glukosemetabolismen")
+-   [Glykogenmetabolismen](brokenlink/glykogenmetabolismen/ "Glykogenmetabolismen")
 
 ## Karbohydrater - Vårt primære energisubstrat
 

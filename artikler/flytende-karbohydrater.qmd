@@ -11,7 +11,7 @@ Forbruket av sukkerholdige drikkevarer som brus og fruktjuice har økt voldsomt 
 
 # Metter mindre
 
-Det er foreslått at [karbohydrater](http://www.friskogfunksjonell.no/karbohydrater/ "Karbohydrater") i flytende form metter dårligere enn samme energimengde i fast form. **Et høyt inntak av flytende karbohydrater i form av brus, saft og fruktjuice kan derfor gjøre at du spiser mer, og derfor legger på deg.** Vi har sett en kraftig økning i forbruket av disse drikkevarene, og rapporten «Utviklingen i norsk kosthold 2010» kan fortelle oss at det årlige inntaket av sukret brus har økt fra 9 til 60 liter per innbygger siden 1950. Siden 1977 har vi også hatt en firedobling i forbruket av fruktjuice, og en dobling i inntaket av saft og syltetøy.
+Det er foreslått at [karbohydrater](brokenlink/karbohydrater/ "Karbohydrater") i flytende form metter dårligere enn samme energimengde i fast form. **Et høyt inntak av flytende karbohydrater i form av brus, saft og fruktjuice kan derfor gjøre at du spiser mer, og derfor legger på deg.** Vi har sett en kraftig økning i forbruket av disse drikkevarene, og rapporten «Utviklingen i norsk kosthold 2010» kan fortelle oss at det årlige inntaket av sukret brus har økt fra 9 til 60 liter per innbygger siden 1950. Siden 1977 har vi også hatt en firedobling i forbruket av fruktjuice, og en dobling i inntaket av saft og syltetøy.
 
 Det må understrekes at det er noen svakheter med mange av studiene som har undersøkt denne sammenhengen. I en artikkel fra 2003 hevdes det at resultatene til nå har vært inkonklusive \[1\], noe som også nevnes i en annen studie fra 2007 \[2\]. **Effekten av metthet måles ofte i hvor mye testpersonene spiser i det påfølgende måltidet.** Det påpekes at de studiene som har konkludert med at flytende karbohydrater metter dårligere, ofte har hatt en lengre periode mellom disse måltidene, mens studier som bruker en kortere periode ofte har vist motsatte resultater. Her er det tydelig at det er flere ting som spiller inn på mettheten.
 
@@ -51,7 +51,7 @@ Selv om studiene vi har per i dag ikke er nok til å gi en endelig konklusjon, e
 
 En teori for hvorfor flytende karbohydrater metter dårligere enn karbohydrater i fast form handler om hvor lang tid man bruker på å få i seg en viss mengde. **Generelt går det raskere å drikke denne energimengden enn å spise den**, noe som også støtter opp om teorien om at å spise sakte øker metthetsfølelsen.
 
-I våre [råd for bedre helse](http://www.friskogfunksjonell.no/vare-rad-for-bedre-helse/ "Våre råd for bedre helse") lyder et av rådene: Vær forsiktig med flytende energi.
+I våre [råd for bedre helse](brokenlink/vare-rad-for-bedre-helse/ "Våre råd for bedre helse") lyder et av rådene: Vær forsiktig med flytende energi.
 
 Alle er enige i at sukker ikke er bra for oss. En halv liter brus inneholder ca 50g sukker, og fruktjuice inneholder tilsvarende mengder.\
 Innholdet av vitaminer og mineraler er også lavt eller fraværende i flytende karbohydratkilder. Om du spiser frukten i stedet for å drikke fruktjuice får du i deg betydelig mer av disse næringsstoffene, i tillegg til en del fiber som reduserer de negative effektene av sukkeret.

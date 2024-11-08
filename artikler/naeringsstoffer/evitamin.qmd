@@ -12,7 +12,7 @@ E-vitamin er et fettløselig vitamin som først og fremst fungerer som en antiok
 
 ## Opptak
 
-**Som for de andre fettløselige vitaminene, følger E-vitamin [fettopptaket](http://www.friskogfunksjonell.no/fett/).** Tokoferol og tokotrienol pakkes inn i miceller som tas opp i tarmcellene. Fra tarmcellene fraktes de videre i lymfesystemet, pakket i kylomikroner.
+**Som for de andre fettløselige vitaminene, følger E-vitamin [fettopptaket](fett.qmd).** Tokoferol og tokotrienol pakkes inn i miceller som tas opp i tarmcellene. Fra tarmcellene fraktes de videre i lymfesystemet, pakket i kylomikroner.
 
 **Noe E-vitamin leveres direkte til målcellene fra kylomikronene, mens resten fraktes til leveren**. E-vitamin har ikke et spesifikt transportprotein, og fra leveren fraktes det uspesifikt i lipoproteiner. Fra leveren er det i hovedsakelig α-tokoferol som sendes videre. Α-tokoferol-transportprotein,  α-TTP, er et viktig enzym som finnes i leveren, som sørger for at det er α-tokoferol som sendes ut i kroppen.\
 Målcellene tar opp vitaminet på tre ulike måter:
@@ -31,7 +31,7 @@ Målcellene tar opp vitaminet på tre ulike måter:
 
 ## Behov og anbefalinger
 
-Inntaket av E-vitamin er målt i α-tokoferolekvivalenter, α-TE, som tilsvarer 1mg α-tokoferol. Norske anbefalinger ligger rundt 10 α-TE for menn, litt lavere for barn og kvinner. Behovet øker ved høyt oksidativt stress, f.eks. ved røyking, høyt inntak av flerumettet fett eller ved lave nivåer av [c-vitamin](http://www.friskogfunksjonell.no/c-vitamin/) og [selen](http://www.friskogfunksjonell.no/selen/). 10 α-TE tilsvarer innholdet i ca 100g peanøtter, 50g mandler eller 30g rapsolje .
+Inntaket av E-vitamin er målt i α-tokoferolekvivalenter, α-TE, som tilsvarer 1mg α-tokoferol. Norske anbefalinger ligger rundt 10 α-TE for menn, litt lavere for barn og kvinner. Behovet øker ved høyt oksidativt stress, f.eks. ved røyking, høyt inntak av flerumettet fett eller ved lave nivåer av [c-vitamin](cvitamin.qmd) og [selen](selen.qmd). 10 α-TE tilsvarer innholdet i ca 100g peanøtter, 50g mandler eller 30g rapsolje .
 
 ## Mangeltilstander
 

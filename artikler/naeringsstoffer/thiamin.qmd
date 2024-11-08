@@ -20,7 +20,7 @@ Fra leveren fraktes thiamin videre til målcellene sammen med røde blodceller e
 
 Thiamin finnes i kroppen som fritt thiamin eller de fosforylerte variantene TMP (thiamin monofosfat), TPP (thiamin difosfat) og TTP (thiamin trifosfat). Vi har ingen thiaminlagre, men relativt høye konsentrasjoner finnes i muskelceller, hjertet, leveren, nyrene og hjernen.
 
-Thiamin er sentral i energimetabolismen, spesielt forbrenningen av [glukose](http://www.friskogfunksjonell.no/karbohydrater/), og er kofaktor for flere sentrale enzymer. Omdanningen av pyruvat, sluttproduktet fra glykolysen, til Acetyl-CoA, utgangspunktet for sitronsyresyklusen, er avhengig av thiamin, som er kofaktor i prosessen. Thiamin er også kofaktor for et viktig enzym i sitronsyresyklusen, α-ketoglutarat dehydrogenase.
+Thiamin er sentral i energimetabolismen, spesielt forbrenningen av [glukose](karbohydrater.qmd), og er kofaktor for flere sentrale enzymer. Omdanningen av pyruvat, sluttproduktet fra glykolysen, til Acetyl-CoA, utgangspunktet for sitronsyresyklusen, er avhengig av thiamin, som er kofaktor i prosessen. Thiamin er også kofaktor for et viktig enzym i sitronsyresyklusen, α-ketoglutarat dehydrogenase.
 
 Siden thiamin er sentral i glukosemetabolismen, er det også et viktig vitamin for hjernefunksjon, siden glukose er hjernens hovedenergikilde. Sitronsyresyklusen er essensiell for syntesen av hjernens signalstoffer, neurotransmittere, og uten thiamin vil syntesen av disse reduseres. Transporten av thiamin over blod-hjerne-barrieren har en maksimal hastighet, som er tilnærmet lik hjernens forbruk av vitaminet, og det er derfor veldig viktig å innta tilstrekkelig thiamin til å fylle denne kapasiteten.
 

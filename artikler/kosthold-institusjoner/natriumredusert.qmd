@@ -6,7 +6,7 @@ date: 2013.11.21
 
 Tilbake til [kosthold i helseinstitusjoner](../../kosthold-institusjoner.qmd "Kosthold i helseinstitusjoner").
 
-Maten vi spiser inneholder makronæringsstoffene karbohydrat, protein og fett, men også viktige mikronæringsstoffer i form av vitaminer, mineraler og sporstoffer. [Natrium](http://www.friskogfunksjonell.no/natrium-og-klor/ "Natrium og klor") er et livsviktig mineral som, sammen med [kalium](http://www.friskogfunksjonell.no/kalium/ "Kalium"), regulerer væskebalansen i kroppen. Kaliumioner er dominerende inne i cellene, mens natriumionene hovedsakelig befinner seg ekstracellulært. Mangel på natrium er heller sjelden nå til dags, og myndighetene anbefaler å kutte ned på bruken av salt. Noen har ekstra problemer med å regulere saltbalansen, og kan ha behov for kosttiltak som hjelper til med dette.
+Maten vi spiser inneholder makronæringsstoffene karbohydrat, protein og fett, men også viktige mikronæringsstoffer i form av vitaminer, mineraler og sporstoffer. [Natrium](brokenlink/natrium-og-klor/ "Natrium og klor") er et livsviktig mineral som, sammen med [kalium](brokenlink/kalium/ "Kalium"), regulerer væskebalansen i kroppen. Kaliumioner er dominerende inne i cellene, mens natriumionene hovedsakelig befinner seg ekstracellulært. Mangel på natrium er heller sjelden nå til dags, og myndighetene anbefaler å kutte ned på bruken av salt. Noen har ekstra problemer med å regulere saltbalansen, og kan ha behov for kosttiltak som hjelper til med dette.
 
 ## Målgruppe
 

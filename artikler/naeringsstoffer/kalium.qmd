@@ -76,7 +76,7 @@ Kalium finnes i de fleste matvarer, men hovedkildene til denne elektrolytten er 
 
 -   Det er holdepunkter for at [en høy ratio mellom natrium:kalium er forbundet med økt risiko for hjerteinfarkt](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2629129/), og det er derfor antatt at en reduksjon av saltinntaket kombinert med å øke inntaket av kalium kan være med å forebygge hjertesykdom.
 -   [En helt fersk metaanalyse](http://www.bmj.com/content/346/bmj.f1378) på sammenhengene mellom kalium og blodtrykk (takk til [Erik Arnesen](http://www.sunnskepsis.wordpress.com) for tips)
--   [Kaliumredusert kost](http://www.friskogfunksjonell.no/kaliumredusert-kost/ "Kaliumredusert kost") benyttes hos pasienter med nyresykdom
+-   [Kaliumredusert kost](../kosthold-institusjoner/kaliumredusert.qmd "Kaliumredusert kost") benyttes hos pasienter med nyresykdom
 
 Informasjonen i artikkelen er hentet fra bøkene Modern Nutrition (Shils et al), Present Knowledge in Nutrition (Erdman et al) og Textbook of Medical Physiology (Guyton&Hall)
 

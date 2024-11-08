@@ -9,7 +9,7 @@ Som jeg nevnte sist vil enhver endring til det bedre føre til en forbedring av 
 
 ## Vann er den beste tørstedrikk
 
-Drikkevarer som jus, brus og saft inneholder mye sukker, og i flytende form vil for det første opptaket gå raskere, og påvirkningen på blodsukkeret blir større. I tillegg vet vi at karbohydrater i denne formen [metter mindre enn karbohydrater i fast form](http://www.friskogfunksjonell.no/bor-du-begrense-inntaket-av-flytende-karbohydrater/ "Bør du begrense inntaket av flytende karbohydrater?"), noe som gjør det lettere å spise for mye. **Med tanke på at overvekt er et stadig voksende problem, vil dette være et viktig ledd i forebyggingen av både dette og sykdommene som ofte følger med overvekten.**
+Drikkevarer som jus, brus og saft inneholder mye sukker, og i flytende form vil for det første opptaket gå raskere, og påvirkningen på blodsukkeret blir større. I tillegg vet vi at karbohydrater i denne formen [metter mindre enn karbohydrater i fast form](brokenlink/bor-du-begrense-inntaket-av-flytende-karbohydrater/ "Bør du begrense inntaket av flytende karbohydrater?"), noe som gjør det lettere å spise for mye. **Med tanke på at overvekt er et stadig voksende problem, vil dette være et viktig ledd i forebyggingen av både dette og sykdommene som ofte følger med overvekten.**
 
 Å velge lettvarianter, der sukkeret er erstattet med andre søtningsmidler vil være fornuftig, men det vil samtidig være lurt å begrense mengdene. De fleste tåler disse søtningsstoffene i de mengdene de normalt inntas, men om du er storforbruker av f.eks. lettbrus kan det være en god ide å redusere forbruket, da vi ikke kan vite sikkert om høy eksponering av kunstig søtning kan gi problemer på lang sikt.
 
@@ -21,10 +21,10 @@ Selv om lettvarianter av saft og brus er et bedre valg enn variantene med sukker
 
 **Protein er det makronæringsstoffet som metter best, og et økt inntak av protein vil derfor gjøre det lettere å begrense energiinntaket.** Dette vil blant annet bidra til å forebygge overvekt. Kvaliteten på proteinkildene er viktig, og her kan man gjøre både gode og mindre gode valg!
 
-Det er fem matvaregrupper som er regnet som [fullverdige proteinkilder](http://www.friskogfunksjonell.no/protein/ "Protein"), noe som betyr at de inneholder tilstrekkelig av de essensielle aminosyrene til å holde proteinsyntesen i gang. **Jeg anbefaler at man tilstreber å spise mat fra hvertfall en av disse gruppene hver dag, slik at man sikrer et tilfredsstillende inntak av essensielle aminosyrer.** De fem matvaregruppene er\
+Det er fem matvaregrupper som er regnet som [fullverdige proteinkilder](brokenlink/protein/ "Protein"), noe som betyr at de inneholder tilstrekkelig av de essensielle aminosyrene til å holde proteinsyntesen i gang. **Jeg anbefaler at man tilstreber å spise mat fra hvertfall en av disse gruppene hver dag, slik at man sikrer et tilfredsstillende inntak av essensielle aminosyrer.** De fem matvaregruppene er\
 kjøtt, fisk, egg, meieriprodukter og soya. Meieriprodukter er uaktuelt for mange på grunn av allergier og intoleranser, og soya er heller ikke en basismatvare hos de fleste. Derfor vil jeg legge fokus på de tre første.
 
-Egg er en ypperlig proteinkilde, og inneholder også de aller fleste [mikronæringsstoffene](http://www.friskogfunksjonell.no/naeringsstoffene/ "Artikkelserie om Næringsstoffene"). **Av denne grunn kan man med fordel inkludere egg i kostholdet flere ganger i uken!** Tidligere ble det advart mot et høyt inntak av egg fordi eggeplommen inneholder en del kolesterol, men etterhvert som man fant ut at kolesterolmengden i maten har en minimal innvirkning på kolesterolnivået i blodet ble imidlertid egg friskmeldt.
+Egg er en ypperlig proteinkilde, og inneholder også de aller fleste [mikronæringsstoffene](brokenlink/naeringsstoffene/ "Artikkelserie om Næringsstoffene"). **Av denne grunn kan man med fordel inkludere egg i kostholdet flere ganger i uken!** Tidligere ble det advart mot et høyt inntak av egg fordi eggeplommen inneholder en del kolesterol, men etterhvert som man fant ut at kolesterolmengden i maten har en minimal innvirkning på kolesterolnivået i blodet ble imidlertid egg friskmeldt.
 
 Kjøtt og fisk er for mange ensbetydende med blandingsprodukter som kjøttkaker, kjøttdeig, fiskeboller og fiskepinner. Innholdet av kjøtt og fisk i disse er ofte veldig lavt (det skal oppgis på innholdsfortegnelsen), og det tilsettes blant annet en del stivelse og tilsetningsstoffer i stedet. Proteininnholdet i rene produkter fra kjøtt og fisk ligger rundt 18-25g/100g, men i blandingsproduktene er innholdet langt lavere.
 
@@ -34,7 +34,7 @@ Ved å fortrinnsvis velge rene produkter som fiskefilet, reker/scampi, biff, kot
 
 ## Tilskudd av omega-3
 
-[Et riktig forhold mellom omega-3 og omega-6](http://www.friskogfunksjonell.no/omega-3-og-omega-6-i-kostholdet/ "Omega-3 og Omega-6 i kostholdet") er essensielt for å opprettholde en god helse. **I et vestlig kosthold får vi i oss veldig mye omega-6, så her er det for mange et stort forbedringspotensiale.**
+[Et riktig forhold mellom omega-3 og omega-6](brokenlink/omega-3-og-omega-6-i-kostholdet/ "Omega-3 og Omega-6 i kostholdet") er essensielt for å opprettholde en god helse. **I et vestlig kosthold får vi i oss veldig mye omega-6, så her er det for mange et stort forbedringspotensiale.**
 
 En ting man kan gjøre er å redusere inntaket av omega-6. Dette vil innebære et redusert inntak av planteoljer rike på disse fettsyrene, som soyaolje, solsikkeolje og maisolje.Det å redusere kornforbruket bidrar også positivt på dette forholdet, da korn er en av hovedkildene til omega-6.
 

@@ -13,7 +13,7 @@ I den [første artikkelen om hjertet](hjerte1.qmd "Hjertet Del 1") tok jeg for m
 
 ## Hjertets oksygenforbruk
 
-Som all skjelettmuskulatur er hjertet avhengig av energi for å kunne arbeide og trekke seg sammen. Omtrent 70-90% av denne energien kommer fra [nedbrytning av fett](http://www.friskogfunksjonell.no/fettsyrenedbrytning/ "Fettsyrenedbrytning – β-oksidasjon"), mens de resterende 10-30% kommer fra andre næringsstoffer, og da spesielt [glukose](http://www.friskogfunksjonell.no/glukosemetabolismen/ "Glukosemetabolismen") og laktat (melkesyre). Oksygen- og energiforbruket når hjertet trekker seg sammen er direkte relatert til den skraverte området på figuren under. Dette skraverte området består av "external work output" (EW) og "potential energy" (PE). EW, som vi kommer tilbake til litt senere i artikkelen, betegner først og fremst energien som omformes til arbeid når hjertet presser blodet fra lavtrykks-årer til de store høytrykks-arteriene når ventrikkelen kontraherer. PE betegner det ytterligere arbeidet som kan gjennomføres ved ventrikkelkontraksjon dersom den tømmes fullstendig ved hver sammentrekning.
+Som all skjelettmuskulatur er hjertet avhengig av energi for å kunne arbeide og trekke seg sammen. Omtrent 70-90% av denne energien kommer fra [nedbrytning av fett](brokenlink/fettsyrenedbrytning/ "Fettsyrenedbrytning – β-oksidasjon"), mens de resterende 10-30% kommer fra andre næringsstoffer, og da spesielt [glukose](brokenlink/glukosemetabolismen/ "Glukosemetabolismen") og laktat (melkesyre). Oksygen- og energiforbruket når hjertet trekker seg sammen er direkte relatert til den skraverte området på figuren under. Dette skraverte området består av "external work output" (EW) og "potential energy" (PE). EW, som vi kommer tilbake til litt senere i artikkelen, betegner først og fremst energien som omformes til arbeid når hjertet presser blodet fra lavtrykks-årer til de store høytrykks-arteriene når ventrikkelen kontraherer. PE betegner det ytterligere arbeidet som kan gjennomføres ved ventrikkelkontraksjon dersom den tømmes fullstendig ved hver sammentrekning.
 
 ![](images/clipboard-2632188670.png)
 
@@ -90,7 +90,7 @@ Hjertet er rikt innervert av både det parasympatiske og det sympatiske nervesys
 
 ## Effekten av kalsium og kalium på pumpefunksjonen
 
-I forrige artikkel skrev jeg litt om hjertets aksjonpotensial og hvilke mineraler som er involvert i dette. Både [kalsium](http://www.friskogfunksjonell.no/kalsium/ "Kalsium") og [kalium](http://www.friskogfunksjonell.no/kalium/ "Kalium") er essensielle for kontraksjon av hjertemuskelen, slik at man dermed skulle tro at konsentrasjonen av disse to ionene i ekstracellulærvæsken vil påvirke hjertets pumpefunksjon.
+I forrige artikkel skrev jeg litt om hjertets aksjonpotensial og hvilke mineraler som er involvert i dette. Både [kalsium](brokenlink/kalsium/ "Kalsium") og [kalium](brokenlink/kalium/ "Kalium") er essensielle for kontraksjon av hjertemuskelen, slik at man dermed skulle tro at konsentrasjonen av disse to ionene i ekstracellulærvæsken vil påvirke hjertets pumpefunksjon.
 
 #### Kalium
 
@@ -98,4 +98,4 @@ I forrige artikkel skrev jeg litt om hjertets aksjonpotensial og hvilke minerale
 
 #### Kalsium
 
-Økte nivåer av ekstracellulært kalsium gir nesten helt motsatte effekter av økte kaliumnivåer, og fører nærmest til spastiske kontraksjoner i hjertet, mye fordi at det har en direkte effekt på hjertets evne til å kontrahere som forklart i forrige artikkel. På samme måten kan hypokalsemi gi flere av de samme symptomene som hyperkalemi. Normalt sett er dette ett ikke-problem ettersom kalsiumhomeostasen i kroppen blir nøye regulert både ved opptak og [nyrenes utskillelse](http://www.friskogfunksjonell.no/nyre-3/ "Nyrene del 3 – Elektrolyttstatus og andre funksjoner").
+Økte nivåer av ekstracellulært kalsium gir nesten helt motsatte effekter av økte kaliumnivåer, og fører nærmest til spastiske kontraksjoner i hjertet, mye fordi at det har en direkte effekt på hjertets evne til å kontrahere som forklart i forrige artikkel. På samme måten kan hypokalsemi gi flere av de samme symptomene som hyperkalemi. Normalt sett er dette ett ikke-problem ettersom kalsiumhomeostasen i kroppen blir nøye regulert både ved opptak og [nyrenes utskillelse](brokenlink/nyre-3/ "Nyrene del 3 – Elektrolyttstatus og andre funksjoner").

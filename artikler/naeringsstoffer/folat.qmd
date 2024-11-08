@@ -32,7 +32,7 @@ Folatmetabolismen inne i cellen er omfattende, og kalles folatsyklus. Denne er v
 
 Folat fungerer som en kofaktor for flere enzymatiske reaksjoner, og vitaminets oppgave er å overføre en enkarbon-enhet fra en forbindelse til en annen. Denne enkarbon-enheten kan være f.eks. en metyl eller metylengruppe. Vitaminet utspiller sin funksjon i cellens cytosol, kjerne eller mitokondrie. Enkarbon-enheten kommer i de fleste tilfeller fra reaksjoner i mitokondriene.
 
-Remetylering av homocystein skjer ved at en metylgruppe overføres fra mTHF, som i prosessen blir redusert til THF. Denne prosessen katalyseres av metionin syntase, og er viktig for at det ikke skal samle seg opp store mengder homocystein i blodet, som blant annet er en etablert risikofaktor for utvikling av hjerte- og karsykdommer. Remetylering av homocystein er også avhengig av vitamin [B12](http://www.friskogfunksjonell.no/b12/) i form av metylkobalamin, som overfører metylgruppen fra folat til homocystein.
+Remetylering av homocystein skjer ved at en metylgruppe overføres fra mTHF, som i prosessen blir redusert til THF. Denne prosessen katalyseres av metionin syntase, og er viktig for at det ikke skal samle seg opp store mengder homocystein i blodet, som blant annet er en etablert risikofaktor for utvikling av hjerte- og karsykdommer. Remetylering av homocystein er også avhengig av vitamin [B12](kobalamin.qmd) i form av metylkobalamin, som overfører metylgruppen fra folat til homocystein.
 
 ![](images/clipboard-938570736.png)
 
@@ -40,7 +40,7 @@ Remetylering av homocystein til metionin er en veldig viktig reaksjon. Metionin 
 
 Syntese av puriner og pyrimidiner, som er baser i DNA og RNA er avhengig av overføring av et formyl- eller metylen-molekyl. FormylTHF eller MetylenTHF overfører dette molekylet, og er derfor viktig i syntesen av både DNA og RNA. Dette er sentralt i celledelingen, der nytt DNA og RNA må produseres.
 
-Omdanning fra en aminosyre til en annen ([transaminering](http://www.friskogfunksjonell.no/proteinmetabolismen/ "Proteinmetabolismen")) er i mange tilfeller avhengig av THF. Dette er viktig i proteinsyntesen, for at kroppen skal kunne lage de aminosyrene den trenger for oppbygging.
+Omdanning fra en aminosyre til en annen ([transaminering](../metabolismen/proteinmetabolismen.qmd "Proteinmetabolismen")) er i mange tilfeller avhengig av THF. Dette er viktig i proteinsyntesen, for at kroppen skal kunne lage de aminosyrene den trenger for oppbygging.
 
 ## Behov og anbefalinger
 

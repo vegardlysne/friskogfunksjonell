@@ -84,8 +84,8 @@ Tilsetningsstoffene er som nevnt inndelt i grupper etter bruksområde. I de nest
 
 -   Konserveringsmidler
 
--   [Fargestoffer](http://www.friskogfunksjonell.no/fargestoffer/ "Fargestoffer")
+-   [Fargestoffer](brokenlink/fargestoffer/ "Fargestoffer")
 
--   [Søtstoffer](http://www.friskogfunksjonell.no/sotstoffer/ "Søtstoffer")
+-   [Søtstoffer](brokenlink/sotstoffer/ "Søtstoffer")
 
 Informasjonen i denne artikkelserien er hentet fra boken Næringsmiddeltoksikologi av Tore Aune. Videre vil det også hentes informasjon fra nyere forskning og rapporter fra de norske og internasjonale organene nevnt over.

@@ -10,7 +10,7 @@ categories:
 
 Karbohydrater er et av de energigivende næringsstoffene, og finnes i kroppen hovedsakelig som glukose. Glukose er en viktig energikilde, og noen av kroppens celler er helt avhengig av dette molekylet. Prosessen som bryter ned glukose inni cellen kalles glykolyse. Vi kan også lage glukose selv, og denne prosessen kalles glukoneogenese. I denne artikkelen ser vi nærmere på disse to prosessene og hvordan de reguleres.
 
--   Les om karbohydrater og hvordan de fordøyes og tas opp i [denne artikkelen](http://www.friskogfunksjonell.no/karbohydrater/ "Karbohydrater").
+-   Les om karbohydrater og hvordan de fordøyes og tas opp i [denne artikkelen](brokenlink/karbohydrater/ "Karbohydrater").
 
 ## Glykolysen
 
@@ -34,13 +34,13 @@ I det andre stadiet kløyves F-1,6-BP ved hjelp av et enzym som heter aldolase t
 
 Det siste stadiet i glykolysen består av fem enzymatiske trinn, og for hvert GAP-molekyl som metaboliseres produseres det ett pyruvatmolekyl og to ATP-molekyler. Siden ett glukosemolekyl gav opphav til to GAP-molekyler vil dette stadiet gjennomføres to ganger for hvert glukosemolekyl. Siden vi allerede har brukt to ATP i første stadie er nettogevinsten to ATP-molekyler og to pyruvatmolekyler. Det neste avsnittet er komplisert, men figuren over gir en enkel skjematisk oversikt.
 
-Den første reaksjonen i stadie tre omdanner GAP til 1,3-bisfosfoglyserat (1,3-BPG) ved hjelp av enzymet glyceraldehyd 3-fosfat dehydrogenase. Denne reaksjonen bruker [niacin](http://www.friskogfunksjonell.no/niacin/ "Niacin, vitamin B3") som kofaktor. 1,3-BPG har et høyt potensiale for å gi fra seg en fosfatgruppe, og i neste reaksjon overføres nettopp en slik til et ADP-molekyl, og det dannes et ATP-molekyl. Denne reaksjonen katalyseres av fosfoglycerat kinase, og den omdanner 1,3-BPG til 3-fosfoglyserat (3-PG). De to neste reaksjonene omdanner 3-PG til fosfoenolpyruvat (PEP). Den siste reaksjonen er omdanningen av PEP til pyruvat, og i denne reaksjonen dannes det andre ATP-molekylet. Denne reaksjonen er katalysert av enzymet pyruvat kinase.
+Den første reaksjonen i stadie tre omdanner GAP til 1,3-bisfosfoglyserat (1,3-BPG) ved hjelp av enzymet glyceraldehyd 3-fosfat dehydrogenase. Denne reaksjonen bruker [niacin](brokenlink/niacin/ "Niacin, vitamin B3") som kofaktor. 1,3-BPG har et høyt potensiale for å gi fra seg en fosfatgruppe, og i neste reaksjon overføres nettopp en slik til et ADP-molekyl, og det dannes et ATP-molekyl. Denne reaksjonen katalyseres av fosfoglycerat kinase, og den omdanner 1,3-BPG til 3-fosfoglyserat (3-PG). De to neste reaksjonene omdanner 3-PG til fosfoenolpyruvat (PEP). Den siste reaksjonen er omdanningen av PEP til pyruvat, og i denne reaksjonen dannes det andre ATP-molekylet. Denne reaksjonen er katalysert av enzymet pyruvat kinase.
 
 ##### Videre metabolisme av pyruvat
 
 Dersom pyruvat ikke hadde blitt metabolisert videre ville glykolysen raskt stoppet opp. I begynnelsen av stadie 3 ble et NAD^+^-molekyl redusert til NADH, og for at glykolysen skal kunne gå sin gang må NAD^+^-molekylet regenereres. Dette skjer i den videre metaboliseringen av pyruvat, slik at det er metaboliseringen av pyruvat som tillater glykolysen å fortsette.
 
-Pyruvat kan metaboliseres på tre ulike måter. I fravær av oksygen (anaerobt) kan pyruvat fermenteres til etanol eller melkesyre. Førstnevnte skjer i organismer som gjærsopp og noen andre mikroorganismer. Produksjon av melkesyre skjer i cellene våre når det ikke er nok tilgjengelig oksygen. Denne prosessen frigir to ATP-molekyler, langt mindre enn det som frigjøres med oksygen til stede. Når cellene har god tilgang på oksygen vil pyruvat fraktes inn i mitokondriene og metaboliseres videre til acetyl-CoA, som via [sitronsyresyklusen](http://www.friskogfunksjonell.no/sitronsyresyklusen/ "Sitronsyresyklusen") og [elektrontransportkjeden](http://www.friskogfunksjonell.no/elektrontransportkjeden/ "Elektrontransportkjeden") sørger for at det produseres mye energi. Et molekyl glukose kan maksimalt gi omtrent 30 ATP-molekyler dersom det oksideres på denne måten. Acetyl-CoA er også utgangspunktet for fettsyresyntesen, så for å omdanne et karbohydratoverskudd til fett må glukosen gjennomgå glykolysen.
+Pyruvat kan metaboliseres på tre ulike måter. I fravær av oksygen (anaerobt) kan pyruvat fermenteres til etanol eller melkesyre. Førstnevnte skjer i organismer som gjærsopp og noen andre mikroorganismer. Produksjon av melkesyre skjer i cellene våre når det ikke er nok tilgjengelig oksygen. Denne prosessen frigir to ATP-molekyler, langt mindre enn det som frigjøres med oksygen til stede. Når cellene har god tilgang på oksygen vil pyruvat fraktes inn i mitokondriene og metaboliseres videre til acetyl-CoA, som via [sitronsyresyklusen](brokenlink/sitronsyresyklusen/ "Sitronsyresyklusen") og [elektrontransportkjeden](brokenlink/elektrontransportkjeden/ "Elektrontransportkjeden") sørger for at det produseres mye energi. Et molekyl glukose kan maksimalt gi omtrent 30 ATP-molekyler dersom det oksideres på denne måten. Acetyl-CoA er også utgangspunktet for fettsyresyntesen, så for å omdanne et karbohydratoverskudd til fett må glukosen gjennomgå glykolysen.
 
 ## Glukoneogenesen
 
@@ -80,4 +80,4 @@ Kort oppsummert kan vi si at glykolysen aktiveres når cellene har behov for mer
 
 *Artikkelen er sist oppdatert august 2013*
 
--   [Les om fruktose- og galaktosemetabolismen her](http://www.friskogfunksjonell.no/fruktose-og-galaktosemetabolismen/ "Fruktose- og galaktosemetabolismen")
+-   [Les om fruktose- og galaktosemetabolismen her](brokenlink/fruktose-og-galaktosemetabolismen/ "Fruktose- og galaktosemetabolismen")

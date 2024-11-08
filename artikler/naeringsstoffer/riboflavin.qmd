@@ -20,7 +20,7 @@ I målcellen omdannes riboflavin til de aktive formene FMN og FAD. Denne omdanni
 
 ## Funksjoner
 
-**FMN og FAD er koenzymer for mange enzymer, og har som oppgave å overføre hydrogenatomer.** Funksjoner som er avhengig av dette vitaminet er blant annet energiproduksjon i elektrontransportkjeden og regulering/modifisering av andre B-vitaminer ([B6](http://www.friskogfunksjonell.no/b6/ "Pyridoksin, vitamin B6"), [niacin](http://www.friskogfunksjonell.no/niacin/), [folat](http://www.friskogfunksjonell.no/folat/) og [B12](http://www.friskogfunksjonell.no/b12/)).
+**FMN og FAD er koenzymer for mange enzymer, og har som oppgave å overføre hydrogenatomer.** Funksjoner som er avhengig av dette vitaminet er blant annet energiproduksjon i elektrontransportkjeden og regulering/modifisering av andre B-vitaminer ([B6](pyridoksin.qmd "Pyridoksin, vitamin B6"), [niacin](niacin.qmd), [folat](folat.qmd) og [B12](kobalamin.qmd)).
 
 **Siden riboflavin er involvert i energimetabolismen er det også nødvendig for hjernefunksjon, da energiproduksjonen i hjernen bruker de samme reaksjonsveiene.**
 
@@ -28,7 +28,7 @@ Riboflavin er også involvert i antioksidantforsvaret, som kofaktor for enzymet 
 
 ## Behov og anbefalinger
 
-**I motsetning til situasjonen med [thiamin](http://www.friskogfunksjonell.no/thiamin/), øker ikke behovet for riboflavin ved økt energiinntak.** Dette skyldes at vitaminet resirkuleres og kan brukes igjen. Ved negativ nitrogenbalanse (ikke tilstrekkelig proteininntak), øker utskillelsen, og dermed behovet. Behovet reflekterer den mengden som blir skilt ut i urinen daglig.
+**I motsetning til situasjonen med [thiamin](thiamin.qmd), øker ikke behovet for riboflavin ved økt energiinntak.** Dette skyldes at vitaminet resirkuleres og kan brukes igjen. Ved negativ nitrogenbalanse (ikke tilstrekkelig proteininntak), øker utskillelsen, og dermed behovet. Behovet reflekterer den mengden som blir skilt ut i urinen daglig.
 
 De norske anbefalingene ligger rundt 1,5mg/dag, med litt variasjoner etter kjønn og alder. Dette tilsvarer innholdet i ca. 200g egg (3-4 stk), 1L melk (alle typer), 100g brunost eller 300g makrell.
 

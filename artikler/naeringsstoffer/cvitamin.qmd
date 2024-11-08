@@ -24,7 +24,7 @@ Dersom dehydroaskorbinsyre ikke reduseres til askorbinsyre vil det hovedsakelig 
 
 ## Funksjoner
 
-C-vitamin har flere funksjoner i kroppen. For det første er vitaminet som nevnt en antioksidant, og in vitro (utenfor kroppen) studier har vist at C-vitamin også kan være med å regenerere [E-vitamin](http://www.friskogfunksjonell.no/e-vitamin). Den biologiske funksjonen til askorbinsyre er som kofaktor for en rekke oksidaser, der C-vitamin stimulerer enzymaktiviteten ved å holde jern i sin reduserte form. Askorbinsyre er kofaktor for 8 enzymer i menneskekroppen, som er med å regulere syntesen av noradrenalin fra dopamin (*dopamin β-hydroksylase*), stabilisering av kollagen (*prolyl 4-hydroksylase, prolyl 3-hydroksylase og lysyl hydroksylase*), syntese av karnitin (*6-N-trimetyl-L-lysine hydroksylase og γ-butyrobetain hydroksylase),* aktivering av en rekke nevrotransmittere (*peptidylglycin α-amiderende monooksygenase*) og i tyrosinmetabolismen (*4-hydroksyfenylpyruvat dioksygenase).*
+C-vitamin har flere funksjoner i kroppen. For det første er vitaminet som nevnt en antioksidant, og in vitro (utenfor kroppen) studier har vist at C-vitamin også kan være med å regenerere [E-vitamin](evitamin.qmd). Den biologiske funksjonen til askorbinsyre er som kofaktor for en rekke oksidaser, der C-vitamin stimulerer enzymaktiviteten ved å holde jern i sin reduserte form. Askorbinsyre er kofaktor for 8 enzymer i menneskekroppen, som er med å regulere syntesen av noradrenalin fra dopamin (*dopamin β-hydroksylase*), stabilisering av kollagen (*prolyl 4-hydroksylase, prolyl 3-hydroksylase og lysyl hydroksylase*), syntese av karnitin (*6-N-trimetyl-L-lysine hydroksylase og γ-butyrobetain hydroksylase),* aktivering av en rekke nevrotransmittere (*peptidylglycin α-amiderende monooksygenase*) og i tyrosinmetabolismen (*4-hydroksyfenylpyruvat dioksygenase).*
 
 Mange av symptomene på c-vitaminmangel er antatt å skyldes redusert kollagenstyrke og karnitinsyntese. Allerede på 80-tallet ble det foreslått at utmattethet assosiert med skjørbuk skyldtes reduserte intramuskulære nivåer av karnitin, som er viktig for fettforbrenningen. Per i dag er ikke dette dokumentert, men i cellekulturer har man sett en økt karnitinsyntese og økt fettsyreoksidasjon ved å tilføre c-vitamin.
 
@@ -32,7 +32,7 @@ I binyrene og i hypofysen har vi store konsentrasjoner av C-vitamin, noe som ant
 
 I studier på cellekulturer har det blitt oppdaget at C-vitamin er med å regulere gentranskripsjon og stabiliserer mRNA for en rekke gener, men mekanismen her er ikke kjent. Dette er en ny molekylær mekanisme for vitaminet, og kan indikere at det er sentralt for intracellulær signaloverføring.
 
-C-vitamin kan også øke opptaket av [jern](http://www.friskogfunksjonell.no/jern), noe som er grunnen til at jerntilskudd anbefales å tas sammen med C-vitamin, f.eks. appelsinjuice. Mekanismen er antatt å være at C-vitamin reduserer jernet, noe som gjør at det i mindre grad binder til antinæringsstoffer som fytat.
+C-vitamin kan også øke opptaket av [jern](jern.qmd), noe som er grunnen til at jerntilskudd anbefales å tas sammen med C-vitamin, f.eks. appelsinjuice. Mekanismen er antatt å være at C-vitamin reduserer jernet, noe som gjør at det i mindre grad binder til antinæringsstoffer som fytat.
 
 ## Behov og anbefalinger
 
@@ -70,6 +70,6 @@ C-vitamin er et veldig ustabilt vitamin, og betydelige mengder går tapt under b
 
 -   Høyt inntak av C-vitamin er satt i sammenheng med høyere beinmineraltetthet hos eldre. Nyere studier har identifisert en mulig effekt som kofaktor for enzymatiske reaksjoner i regulering av osteoblastdifferensiering.
 
--   [Er C-vitamin-tilskudd verdt pengene?](http://www.friskogfunksjonell.no/vitamin-c-tilskudd-og-immunsystemet-ditt-noe-a-bruke-penger-pa/ "Vitamin C-tilskudd og immunsystemet ditt – Noe å bruke penger på?")
+-   [Er C-vitamin-tilskudd verdt pengene?](../vitamin-c-tilskudd.qmd "Vitamin C-tilskudd og immunsystemet ditt – Noe å bruke penger på?")
 
 Artikkelen er oppdatert juli 2013

@@ -13,7 +13,7 @@ Målet med denne metaanalysen var derfor å undersøke om det var grunnlag for �
 
 ## Resultatene
 
-Ettersom de ulike studiene hadde rapportert resultatene på ulik måte, valgte forfatterne av metaanalysen å regne om alle forskjeller til en [Cohen’s d effektstørrelse](http://www.friskogfunksjonell.no/signifikans-og-alt-det-der/ "Signifikans og alt det der"). Denne forteller oss hvor stor forskjellen mellom gruppene er i standardavvikenheter, og gjør det dermed mulig å sammenligne resultater på tross av at de er rapportert i ulike enheter. Totalt ble 22 studier inkludert i metaanalysen.
+Ettersom de ulike studiene hadde rapportert resultatene på ulik måte, valgte forfatterne av metaanalysen å regne om alle forskjeller til en [Cohen’s d effektstørrelse](brokenlink/signifikans-og-alt-det-der/ "Signifikans og alt det der"). Denne forteller oss hvor stor forskjellen mellom gruppene er i standardavvikenheter, og gjør det dermed mulig å sammenligne resultater på tross av at de er rapportert i ulike enheter. Totalt ble 22 studier inkludert i metaanalysen.
 
 I studier som sammenlignet to spisetempo ble det funnet at det å spise raskt førte til et høyere totalt energiinntak. For de studiene som hadde undersøkt tre ulike spisetempo, fant de at jo fortere man spiste, jo mer spiste man. Jo større forskjellen mellom de ulike tempoene var, jo større var også forskjellen i energiinntaket.
 

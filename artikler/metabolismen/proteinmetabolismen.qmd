@@ -10,13 +10,13 @@ categories:
 
 Protein er kroppens primære byggesten, og stort sett alt vev er bygget opp av dette livsviktige næringsstoffet. Protein er satt sammen av aminosyrer, og i tarmen brytes alt proteinet vi spiser ned til disse. I hver enkelt celle settes de ulike aminosyrene sammen til nye proteiner etter oppskrifter som finnes i den genetiske koden vår, DNA. I denne artikkelen skal jeg ta for meg hvordan kroppen behandler aminosyrene og setter de sammen til nye proteiner.
 
-**Les mer om protein i [denne artikkelen](http://www.friskogfunksjonell.no/protein/ "Protein").**
+**Les mer om protein i [denne artikkelen](brokenlink/protein/ "Protein").**
 
 ## Aminosyresyntese
 
 For at proteinsyntesen skal opprettholdes, må kroppen ha tilgang på alle de 20 aminosyrene som finnes i proteinene i menneskekroppen. **Hvis det er for lite av en aminosyre, vil hele proteinsyntesen stoppe opp, noe som kan føre til mangelsykdommer.**
 
-De essensielle aminosyrene kan kroppen ikke lage selv, og vi er avhengig av å få de via kostholdet. De resterende aminosyrene er betegnet som ikke-essensielle, noe som betyr at kroppen kan lage dem selv. Syntesen av noen aminosyrer krever overføring av enkarbonenheter. Her spiller B-vitaminet [folat](http://www.friskogfunksjonell.no/folat/ "Folat, vitamin B9") en rolle, siden dette vitaminets primære funksjon er å overføre slike enheter.
+De essensielle aminosyrene kan kroppen ikke lage selv, og vi er avhengig av å få de via kostholdet. De resterende aminosyrene er betegnet som ikke-essensielle, noe som betyr at kroppen kan lage dem selv. Syntesen av noen aminosyrer krever overføring av enkarbonenheter. Her spiller B-vitaminet [folat](brokenlink/folat/ "Folat, vitamin B9") en rolle, siden dette vitaminets primære funksjon er å overføre slike enheter.
 
 Det er tre hovedprosesser når det kommer til syntesen av aminosyrer:
 

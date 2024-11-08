@@ -44,7 +44,7 @@ Thioredoksin reduktase er et enzym som inngår i redoks-reaksjoner inni cellene.
 
 **3. Tyroideahormonmetabolismen**
 
-Flere dejodinaser (DIO) er selenoproteiner, og dette er blant de selenoproteinene med en klart definert funksjon. Disse er nødvendige for å omdanne T4 til T3, og er derfor viktig i reguleringen av tyroideahormonene (les mer om [jod](http://www.friskogfunksjonell.no/jod/)). Vi kjenner til tre dejoidinaser (DIO1, DIO2 og DIO3) som både aktiverer og inaktiverer tyroideahormoner ved å fjerne spesifikke jodatomer. Mutasjoner i genet for SECIS-bindende protein (viktig for å inkorporere Se-Cys i proteinene) har vist seg å gi unormale tyroideaprøver, noe som antas å være pga endret DIO-funksjon.
+Flere dejodinaser (DIO) er selenoproteiner, og dette er blant de selenoproteinene med en klart definert funksjon. Disse er nødvendige for å omdanne T4 til T3, og er derfor viktig i reguleringen av tyroideahormonene (les mer om [jod](jod.qmd)). Vi kjenner til tre dejoidinaser (DIO1, DIO2 og DIO3) som både aktiverer og inaktiverer tyroideahormoner ved å fjerne spesifikke jodatomer. Mutasjoner i genet for SECIS-bindende protein (viktig for å inkorporere Se-Cys i proteinene) har vist seg å gi unormale tyroideaprøver, noe som antas å være pga endret DIO-funksjon.
 
 **4. Syntese av Se-Cys**
 
@@ -76,7 +76,7 @@ Mangel på selen er svært sjelden, og for å skape en selenmangel ved utilstrek
 
 I Kina, i områder der jorden er spesielt fattig på selen, har det opp gjennom tiden blitt observert to mangelsyndromer som er knyttet til selenmangel: Keshan's sykdom, som er en svært dødelig hjertesykdom som først og fremst rammer barn og kvinner i fertil alder, og Kashin-Beck's sykdom, som gir slitasjegikt med deformering av bein som ytterste konsekvens. Bevisene for at dette skyldes selenmangel er ikke helt sikre, og det spekuleres i om det i større grad kan skyldes andre ting som jodmangel, polymorfismer i selenoproteinene eller virusinfeksjoner. Det er uansett sterke indikasjoner på at de med lave selennivåer er mer utsatt for disse sykdommene, noe som kan henge sammen med at de har redusert motstandskraft mot infeksjoner.
 
-Kombinert med jodmangel øker risikoen for å utvikle kretinisme og struma. Kombinert med [E-vitaminmangel](http://www.friskogfunksjonell.no/e-vitamin/ "E-vitamin") øker det oksidative stresset på organismen.
+Kombinert med jodmangel øker risikoen for å utvikle kretinisme og struma. Kombinert med [E-vitaminmangel](evitamin.qmd "E-vitamin") øker det oksidative stresset på organismen.
 
 Pasienter som får langvarig total parenteral ernæring (intravenøs ernæring) var tidligere utsatt for selenmangel, men nå tilsettes selen i disse blandingene, så det er ikke lenger et problem.
 

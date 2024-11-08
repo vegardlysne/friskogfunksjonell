@@ -28,24 +28,24 @@ Målet med disse kostholdene er at de skal være tilpasset den enkelte persons b
 
 **Standardkost:**
 
--   [Nøkkelrådskost](http://www.friskogfunksjonell.no/nokkelradskost/ "Nøkkelrådskost")
--   [Energi- og næringstett kost](http://www.friskogfunksjonell.no/energi-og-naeringstett-kost/ "Energi- og næringstett kost")
+-   [Nøkkelrådskost](brokenlink/nokkelradskost/ "Nøkkelrådskost")
+-   [Energi- og næringstett kost](brokenlink/energi-og-naeringstett-kost/ "Energi- og næringstett kost")
 
 **Spesialkost:**
 
--   [Konsistenstilpasset kost](http://www.friskogfunksjonell.no/konsistenstilpasset-kost/ "Konsistenstilpasset kost")
--   [Ekstra energi- og næringstett kost](http://www.friskogfunksjonell.no/ekstra-energitett-kost/ "Ekstra energitett kost")
--   [Lettfordøyelig kost](http://www.friskogfunksjonell.no/lettfordoyelig-kost/ "Lettfordøyelig kost")
+-   [Konsistenstilpasset kost](brokenlink/konsistenstilpasset-kost/ "Konsistenstilpasset kost")
+-   [Ekstra energi- og næringstett kost](brokenlink/ekstra-energitett-kost/ "Ekstra energitett kost")
+-   [Lettfordøyelig kost](brokenlink/lettfordoyelig-kost/ "Lettfordøyelig kost")
 -   Fettredusert kost
--   [Glutenfri kost](http://www.friskogfunksjonell.no/glutenfri-kost/ "Glutenfri kost")
--   [Laktosefri kost](http://www.friskogfunksjonell.no/laktoseredusert-kost/ "Laktoseredusert kost")
--   [Melkeproteinfri kost](http://www.friskogfunksjonell.no/melkeproteinfri-kost/ "Melkeproteinfri kost")
--   [Natriumredusert kost](http://www.friskogfunksjonell.no/natriumredusert-kost/ "Natriumredusert kost")
--   [Fosfatredusert kost](http://www.friskogfunksjonell.no/fosfatredusert-kost/ "Fosfatredusert kost")
--   [Kaliumredusert kost](http://www.friskogfunksjonell.no/kaliumredusert-kost/ "Kaliumredusert kost")
--   [Væskekontrollert kost](http://www.friskogfunksjonell.no/vaeskekontrollert-kost/ "Væskekontrollert kost")
--   [Proteinkontrollert kost](http://www.friskogfunksjonell.no/proteinkontrollert-kost/ "Proteinkontrollert kost")
--   [Proteinrik kost](http://www.friskogfunksjonell.no/proteinrik-kost/ "Proteinrik kost")
+-   [Glutenfri kost](brokenlink/glutenfri-kost/ "Glutenfri kost")
+-   [Laktosefri kost](brokenlink/laktoseredusert-kost/ "Laktoseredusert kost")
+-   [Melkeproteinfri kost](brokenlink/melkeproteinfri-kost/ "Melkeproteinfri kost")
+-   [Natriumredusert kost](brokenlink/natriumredusert-kost/ "Natriumredusert kost")
+-   [Fosfatredusert kost](brokenlink/fosfatredusert-kost/ "Fosfatredusert kost")
+-   [Kaliumredusert kost](brokenlink/kaliumredusert-kost/ "Kaliumredusert kost")
+-   [Væskekontrollert kost](brokenlink/vaeskekontrollert-kost/ "Væskekontrollert kost")
+-   [Proteinkontrollert kost](brokenlink/proteinkontrollert-kost/ "Proteinkontrollert kost")
+-   [Proteinrik kost](brokenlink/proteinrik-kost/ "Proteinrik kost")
 -   Vegetarkost
 
 Spørsmål og diskusjon om de ulike kostholdene tas i kommentarfeltet under hvert enkelt punkt!

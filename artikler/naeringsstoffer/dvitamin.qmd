@@ -20,7 +20,7 @@ Som nevnt i innledningen kan kroppen tilføres D-vitamin på to ulike måter:
 
 -   Via kosten:
 
-D-vitamin er fettløselig, og er derfor avhengig av [fett](http://www.friskogfunksjonell.no/fett/ "Fett") i kostholdet for å tas opp i tarmen. Vitaminet pakkes sammen med andre fettløselige substanser inn i miceller, som diffunderer inn i tarmcellene. I tarmcellene pakkes vitaminet inn i kylomikroner, og fraktes med lymfesystemet til leveren, der enzymer omdanner vitaminet til 25(OH)D, som er formen som transporteres i blodet. Begge formene av D-vitamin kan tilføres på denne måten.
+D-vitamin er fettløselig, og er derfor avhengig av [fett](fett.qmd "Fett") i kostholdet for å tas opp i tarmen. Vitaminet pakkes sammen med andre fettløselige substanser inn i miceller, som diffunderer inn i tarmcellene. I tarmcellene pakkes vitaminet inn i kylomikroner, og fraktes med lymfesystemet til leveren, der enzymer omdanner vitaminet til 25(OH)D, som er formen som transporteres i blodet. Begge formene av D-vitamin kan tilføres på denne måten.
 
 -   Egenproduksjon:
 
@@ -115,7 +115,7 @@ Fra naturens side finnes D-vitamin bare i et fåtall matvarer: fiskeleverolje (t
 
 -   Overlege og ekspert på D-vitamin, Mats Humble, holder et [foredrag om vitaminet](http://www.youtube.com/watch?v=syRaJVIBNnw) i Stockholm, anbefales!
 
--   [Får vi nok D-vitamin?](http://www.friskogfunksjonell.no/far-vi-nok-d-vitamin/ "Får vi nok D-vitamin?")
+-   [Får vi nok D-vitamin?](../nok-vitamin-d.qmd "Får vi nok D-vitamin?")
 
 -   [Her er en god artikkel om de ulike genetiske effektene i Vitamin-D-metabolismen](http://link.springer.com/chapter/10.1007%2F978-1-60327-303-9_36#page-1)
 

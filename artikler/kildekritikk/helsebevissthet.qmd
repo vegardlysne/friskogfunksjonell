@@ -9,7 +9,7 @@ Innen forskning på kosthold skiller vi mellom observasjonsstudier og eksperimen
 
 En helsebevisst person er opptatt av å ta vare på helsen sin. Det er en del karakteristikker som følger med en slik innstilling. For det første er en helsebevisst person interessert i å spise sunt, og er dermed mer tilbøyelig enn gjennomsnittet til å følge de gjeldene kostholdsanbefalingene. Det samme er tilfelle for fysisk aktivitet, og en helsebevisst person mosjonerer dermed mer enn en som ikke tenker like mye på helsen sin.
 
-Andre faktorer som kjennetegner helsebevisste personer er at de i gjennomsnittet [røyker mindre](http://www.friskogfunksjonell.no/stump-royken/ "Stump røyken"), drikker mindre [alkohol](http://www.friskogfunksjonell.no/alkohol/ "Alkohol") og har en bedre [døgnrytme](http://www.friskogfunksjonell.no/sovn-og-overvekt/ "Kan søvnmangel bidra til overvekt?") enn de som bryr seg mindre. De er også i større grad normalvektige, men også mer tilbøyelige til å bruke kosttilskudd, spesielt om de er overbeviste om at de vil gi dem bedre helse. De er også mer villige til å oppsøke lege når de mistenker at noe kan være galt.
+Andre faktorer som kjennetegner helsebevisste personer er at de i gjennomsnittet [røyker mindre](brokenlink/stump-royken/ "Stump røyken"), drikker mindre [alkohol](brokenlink/alkohol/ "Alkohol") og har en bedre [døgnrytme](brokenlink/sovn-og-overvekt/ "Kan søvnmangel bidra til overvekt?") enn de som bryr seg mindre. De er også i større grad normalvektige, men også mer tilbøyelige til å bruke kosttilskudd, spesielt om de er overbeviste om at de vil gi dem bedre helse. De er også mer villige til å oppsøke lege når de mistenker at noe kan være galt.
 
 Kort oppsummert så vil helsebevisste personer i gjennomsnitt være mindre syke og leve lengre enn de som bryr seg mindre om helsen sin.
 
@@ -33,4 +33,4 @@ Ved å stille deg dette enkle spørsmålet kan du gjennomskue de aller fleste se
 
 Dette er også nyttig å tenke på når du hører fantastiske historier om supermat, ulike kosttilskudd eller det å kutte ut bestemte ting fra kostholdet. Disse kommer stort sett fra folk som generelt lever sunt og er helsebevisste, og de som opplever store effekter av slike tiltak har ofte hatt et ganske dårlig kosthold fra før. Jeg sier ikke at disse tiltakene ikke har en effekt, for det kan de absolutt ha, men sensasjonshistoriene er ofte et resultat av større omveltninger i livsstilen som helhet, ikke enkelttiltak. Husk at det også hovedsakelig er helsebevisste personer som gjennomfører slike tiltak, noe som øker sannsynligheten for at de også gjør mange andre gode valg!
 
-[Tilbake til kildekritikk, vitenskap og tankefeil](http://www.friskogfunksjonell.no/kildekritikk-vitenskap-og-tankefeil/ "Kildekritikk, vitenskap og tankefeil")
+[Tilbake til kildekritikk, vitenskap og tankefeil](brokenlink/kildekritikk-vitenskap-og-tankefeil/ "Kildekritikk, vitenskap og tankefeil")

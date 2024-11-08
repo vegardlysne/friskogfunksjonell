@@ -12,9 +12,9 @@ Tidligere har vi sett på nedbrytning og syntese av fettsyrer, med hovedfokus p�
 
 Relevante artikler:
 
--   [Fett](http://www.friskogfunksjonell.no/fett/ "Fett")
--   [Fettsyrenedbrytning](http://www.friskogfunksjonell.no/fettsyrenedbrytning/ "Fettsyrenedbrytning – β-oksidasjon")
--   [Fettsyresyntese](http://www.friskogfunksjonell.no/fettsyresyntese/ "Fettsyresyntese")
+-   [Fett](brokenlink/fett/ "Fett")
+-   [Fettsyrenedbrytning](brokenlink/fettsyrenedbrytning/ "Fettsyrenedbrytning – β-oksidasjon")
+-   [Fettsyresyntese](brokenlink/fettsyresyntese/ "Fettsyresyntese")
 
 ## Umettede fettsyrer
 

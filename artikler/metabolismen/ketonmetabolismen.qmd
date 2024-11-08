@@ -12,9 +12,9 @@ Ketonlegemer er vannløselige molekyler som produseres som følge av ufullstendi
 
 Relevante artikler
 
--   [Fettsyrenedbrytning – β-oksidasjon](http://www.friskogfunksjonell.no/fettsyrenedbrytning/ "Fettsyrenedbrytning – β-oksidasjon")
--   [Glukosemetabolismen](http://www.friskogfunksjonell.no/glukosemetabolismen/ "Glukosemetabolismen")
--   [Sitronsyresyklusen](http://www.friskogfunksjonell.no/sitronsyresyklusen/ "Sitronsyresyklusen")
+-   [Fettsyrenedbrytning – β-oksidasjon](brokenlink/fettsyrenedbrytning/ "Fettsyrenedbrytning – β-oksidasjon")
+-   [Glukosemetabolismen](brokenlink/glukosemetabolismen/ "Glukosemetabolismen")
+-   [Sitronsyresyklusen](brokenlink/sitronsyresyklusen/ "Sitronsyresyklusen")
 
 ## Produksjon av ketonlegemer
 

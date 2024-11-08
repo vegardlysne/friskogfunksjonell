@@ -15,7 +15,7 @@ Den enkle definisjonen på utholdenhet er evnen til å utføre et arbeid over ti
 
 **Hvilken energikilde kroppen velger å benytte seg av, avhenger hovedsakelig av intensiteten.** For generere bevegelse kan musklene velge å benytte seg av enten fett eller glukose. Forbreningen av fett krever mye oksygen, og kroppens tilgang på energi fra fett vil derfor være begrenset i den anaerobe sonen. Energifrigjøringen fra glukose krever også i utgangspunktet oksygen (elektrontransportkjeden), men energiproduksjonen fra glukose går raskere enn den fra fett. Ved redusert tilgang på oksygen har kroppen en reserveløsning. Da kan kroppen bryte ned glukose til melkesyre, i en prosess som ikke krever oksygen.
 
-**Les mer om forbrenning av hhv [fett](http://www.friskogfunksjonell.no/fettmetabolismen/ "Fettmetabolismen") og [karbohydrater](http://www.friskogfunksjonell.no/karbohydratmetabolismen/ "Karbohydratmetabolismen").**
+**Les mer om forbrenning av hhv [fett](brokenlink/fettmetabolismen/ "Fettmetabolismen") og [karbohydrater](brokenlink/karbohydratmetabolismen/ "Karbohydratmetabolismen").**
 
 Ved lave intensiteter vil fett være den viktigste energikilden, men etterhvert som intensiteten øker vil en stadig større andel av energien komme fra glukose, og ved de høyeste intensitetene vil energifrigjøringen være anaerob og vi danner melkesyre. Melkesyre gjør blodet surt, noe som fører til at musklene kjennes såre, og man klarer ikke å opprettholde den samme intensiteten lenger.
 
@@ -29,7 +29,7 @@ Ved lave intensiteter vil fett være den viktigste energikilden, men etterhvert 
 
 Utholdenhetstrening bidrar til:
 
--   Mengden mitokondrier, som er det stedet i cellene [fettforbrenningen](http://www.friskogfunksjonell.no/fettmetabolismen/ "Fettmetabolismen") skjer, øker. Med andre ord blir fettforbrenningen mer effektiv av utholdenhetstrening. Nettverket av de minste blodårene, kapillærene, som forsyner musklene med blod utvikles, slik at blodtilførselen blir bedre
+-   Mengden mitokondrier, som er det stedet i cellene [fettforbrenningen](brokenlink/fettmetabolismen/ "Fettmetabolismen") skjer, øker. Med andre ord blir fettforbrenningen mer effektiv av utholdenhetstrening. Nettverket av de minste blodårene, kapillærene, som forsyner musklene med blod utvikles, slik at blodtilførselen blir bedre
 
 -   Blodets oksygenbindende kapasitet øker, og musklenes kapasitet til å ta imot oksygen vil også øke
 
@@ -71,6 +71,6 @@ Glem alt du har hørt om fettforbrenningssonen, da dette bare er tull. Hvilken e
 
 Det første du må gjøre er å velge hvor mange ganger i uken du ønsker å gjennomføre utholdenhetstrening. Dette må også sees i forhold til hvor mye styrketrening du legger opp til. Dersom du velger å trene utholdenhet en gang i uken, ville jeg valgt en form for langintervall, f.eks. 4×4. Med to økter kan du legge til en langkjøringsøkt, gjerne med en annen aktivitet enn på intervalløkten. Trener du utholdenhet tre ganger i uken, kan den tredje økten være en form for kortintervall.
 
-Totalopplegget for trening og fysisk aktivitet vil da inneholde så mye [hverdagsaktivitet](http://www.friskogfunksjonell.no/aktivitetsniva-helse/ "Aktivitetsnivå og helse") som mulig, styrketrening 1-3 ganger i uken  og utholdenhetstrening 1-3 ganger i uken. **Du styrer selv hvor mye tid du velger å bruke på trening, men de fleste kan rydde litt tid til trening i uken.** Alt handler om prioriteringer, og hvis du bruker 4 timer på trening i uken, så utgjør ikke dette mer enn ca 3,5% av tiden du er våken. Jeg vil anbefale å trene både styrke og utholdenhet minst en gang i uken hver som et minimum.
+Totalopplegget for trening og fysisk aktivitet vil da inneholde så mye [hverdagsaktivitet](brokenlink/aktivitetsniva-helse/ "Aktivitetsnivå og helse") som mulig, styrketrening 1-3 ganger i uken  og utholdenhetstrening 1-3 ganger i uken. **Du styrer selv hvor mye tid du velger å bruke på trening, men de fleste kan rydde litt tid til trening i uken.** Alt handler om prioriteringer, og hvis du bruker 4 timer på trening i uken, så utgjør ikke dette mer enn ca 3,5% av tiden du er våken. Jeg vil anbefale å trene både styrke og utholdenhet minst en gang i uken hver som et minimum.
 
 Artikkelen er tidligere publisert hos [Sunt Hjem](http://www.sunthjem.no).

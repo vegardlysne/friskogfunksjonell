@@ -10,11 +10,11 @@ Maten vi spiser inneholder makronæringsstoffene karbohydrat, protein og fett, m
 
 Fosfor er et essensielt element for hver eneste celle i kroppen vår, og er det mineralet vi har nest mest av i kroppen; 25 % av den totale mineralmengden i kroppen. Det er spesielt viktig for beinmineraliseringen da det utgjør en stor andel av skjelett og tenner, og 80 % av fosforet er altså bundet til kalsium i bein. Andre viktige områder er i plasmamebraner i form av fosfolipider samt energiproduksjon og – lagring. 
 
-[Fosfor](http://www.friskogfunksjonell.no/fosfor/ "Fosfor") finnes i ulike former, og i matvarer er det i form av uorganisk fosfat, derav fosfatredusertkost.
+[Fosfor](brokenlink/fosfor/ "Fosfor") finnes i ulike former, og i matvarer er det i form av uorganisk fosfat, derav fosfatredusertkost.
 
 ## Målgruppe
 
-Så hvem trenger et kosthold med begrensede mengder fosfat? Dette gjelder personer med forhøyede fosfatverdier i blodet (hyperfosfatemi), særlig pasienter med kronisk [nyresykdom](http://www.friskogfunksjonell.no/nyre-4/ "Nyrene del 4 – nyresykdom"), som går i dialyse. Dialyse er en prosess hvor blodet blir renset i en maskin, som da gjør den jobben nyrene ikke er i stand til; å skille ut giftige stoffer som hoper seg opp. Målet med denne kosten er å normalisere fosfatverdiene.
+Så hvem trenger et kosthold med begrensede mengder fosfat? Dette gjelder personer med forhøyede fosfatverdier i blodet (hyperfosfatemi), særlig pasienter med kronisk [nyresykdom](brokenlink/nyre-4/ "Nyrene del 4 – nyresykdom"), som går i dialyse. Dialyse er en prosess hvor blodet blir renset i en maskin, som da gjør den jobben nyrene ikke er i stand til; å skille ut giftige stoffer som hoper seg opp. Målet med denne kosten er å normalisere fosfatverdiene.
 
 Derimot er et fosfatredusert kosthold sjelden tilstrekkelig for å normalisere fosfatkonsentrasjonen i blodet under dialyse. For å få bukt med dette er det ofte nødvendig med medikamenter i form av fosfatbindere sammen med måltider, og disse foreskrives av en lege.
 
@@ -24,7 +24,7 @@ Matvarer med høyt innhold av fosfat er melk og meieriprodukter, egg (hovedsakel
 
 ## Utfordringer
 
-Et åpenbart problem er å begrense fosfatinntaket ved samtidig høyt proteinbehov. Et viktig poeng er at fosfatreduksjonen ikke skal gå på bekostning av anbefalt proteininntak. Matvarene som må begrenses er i tillegg ofte rike på andre viktige næringsstoffer enn protein, spesielt gjelder det for melkeprodukter og [kalsium](http://www.friskogfunksjonell.no/kalsium/ "Kalsium"). For å dekke kalsiumbehovet bør man ta tilskudd, eventuelt bruk av kalsiumholdige fosfatbindere. For optimal absorpsjon og nyttiggjørelse av kalsium bør også inntaket av [vitamin D](http://www.friskogfunksjonell.no/d-vitamin/ "D-vitamin") sikres.
+Et åpenbart problem er å begrense fosfatinntaket ved samtidig høyt proteinbehov. Et viktig poeng er at fosfatreduksjonen ikke skal gå på bekostning av anbefalt proteininntak. Matvarene som må begrenses er i tillegg ofte rike på andre viktige næringsstoffer enn protein, spesielt gjelder det for melkeprodukter og [kalsium](brokenlink/kalsium/ "Kalsium"). For å dekke kalsiumbehovet bør man ta tilskudd, eventuelt bruk av kalsiumholdige fosfatbindere. For optimal absorpsjon og nyttiggjørelse av kalsium bør også inntaket av [vitamin D](brokenlink/d-vitamin/ "D-vitamin") sikres.
 
 ## Råd for fosfatrestriksjon
 

@@ -18,7 +18,7 @@ B12 er på mange måter et spesielt vitamin. For det første finnes vitaminet ba
 
 Opptaket av B12 er som sagt spesielt, sammenlignet med de andre B-vitaminene, og består av flere steg.
 
-I maten er B12 forbundet med [proteiner](http://www.friskogfunksjonell.no/protein/ "Protein"), så proteinfordøyelsen er viktig i B12-opptaket. Pepsin produsert i magesekkens hovedceller, frigjør vitaminet. Parietalcellene i magesekken produserer et glykoprotein, intrinsic factor, IF. Dette glykoproteinet binder spesifikt til B12, og er helt sentralt i opptaket av vitaminet.
+I maten er B12 forbundet med [proteiner](protein.qmd "Protein"), så proteinfordøyelsen er viktig i B12-opptaket. Pepsin produsert i magesekkens hovedceller, frigjør vitaminet. Parietalcellene i magesekken produserer et glykoprotein, intrinsic factor, IF. Dette glykoproteinet binder spesifikt til B12, og er helt sentralt i opptaket av vitaminet.
 
 I magesekken er B12 bundet til et glykoprotein som heter haptocorrin som dannes i spyttet, men helt øverst i tarmen brytes dette proteinet ned, og B12 binder i stedet til IF, som frakter det nedover i tynntarmen. Helt nederst i tynntarmen (ileum) finner vi en IF-reseptor som heter cubam. Denne sørger for at IF-B12-komplekset tas opp i tarmcellene.
 
@@ -34,7 +34,7 @@ Når TC-kobalamin tas opp i målcellene via en TC-reseptor, så er det første s
 
 B12 har to kjente funksjoner.
 
-1.  Metylkobalamin er kofaktor for enzymet metionin syntase, som er sentral i remetyleringen av homocystein, og dermed reduserer nivåene av homocystein i blodet. Denne prosessen er også avhengig av vitaminene [B6](http://www.friskogfunksjonell.no/b6/ "Pyridoksin, vitamin B6") og [folat](http://www.friskogfunksjonell.no/folat/).\
+1.  Metylkobalamin er kofaktor for enzymet metionin syntase, som er sentral i remetyleringen av homocystein, og dermed reduserer nivåene av homocystein i blodet. Denne prosessen er også avhengig av vitaminene [B6](pyridoksin.qmd "Pyridoksin, vitamin B6") og [folat](folat.qmd).\
     ![](images/clipboard-938570736.png)
 
 2.  Adenosylkobalamin er kofaktor for enzymet malonyl-koenzym A mutase, som er viktig i metabolismen av de forgreinede aminosyrene (BCAA), fettsyrer med oddetall karbonmolekyler og kolesterol. Disse næringsstoffene brytes ned til metylmalonyl-koenzym A, som metaboliseres gjennom denne mutasen.

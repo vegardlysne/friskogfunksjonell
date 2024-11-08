@@ -41,7 +41,7 @@ Fargestoffer har E-nummer fra 100-199. Her er noen av de mest brukte:
 
 ### Tartrazin (E-102)
 
-Tartrazin er et syntetisk fremstilt fargestoff som gir gul farge til matvarer som supper, sauser, iskrem, søtsaker, syltetøy og yoghurt. Fargestoffet er et av de mest brukte azo-fargestoffene, og kan føre til overfølsomhetsreaksjoner hos disponerte personer. Dette gir utslag som pusteproblemer, rød og oppsvulmet hud rundt øyene og munnen, hodepine og forstyrrelser i mage-tarm kanal. [Atferdsproblemer](http://www.friskogfunksjonell.no/livsstil-atferd-og-behandling/ "Atferdsproblematikk og behandling") (hyperaktivitet og læringsvansker) kan muligens også forekomme. Prevalensen av overfølsomhetsreaksjoner er usikker, men den kan ligge på 0.01-0.1% hos friske mennesker, og 10-20% hos allergikere. Ca. 10% av astmatikere kan få astma-anfall etter inntak av tartrazin.
+Tartrazin er et syntetisk fremstilt fargestoff som gir gul farge til matvarer som supper, sauser, iskrem, søtsaker, syltetøy og yoghurt. Fargestoffet er et av de mest brukte azo-fargestoffene, og kan føre til overfølsomhetsreaksjoner hos disponerte personer. Dette gir utslag som pusteproblemer, rød og oppsvulmet hud rundt øyene og munnen, hodepine og forstyrrelser i mage-tarm kanal. [Atferdsproblemer](brokenlink/livsstil-atferd-og-behandling/ "Atferdsproblematikk og behandling") (hyperaktivitet og læringsvansker) kan muligens også forekomme. Prevalensen av overfølsomhetsreaksjoner er usikker, men den kan ligge på 0.01-0.1% hos friske mennesker, og 10-20% hos allergikere. Ca. 10% av astmatikere kan få astma-anfall etter inntak av tartrazin.
 
 Overfølsomhetsreaksjoner ved inntak av tartrazin er mest sannsynlig en form for intoleranse, der immunapparatet ikke er involvert, ved at reaktive substanser som histamin frisettes fra mastceller.
 
@@ -79,7 +79,7 @@ Karotenoider omfatter ca. 600-700 gule, oransje og røde fargestoffer, som finne
 
 ### Beta-karoten (E-160a)
 
-Beta-karoten er et fargestoff som blant annet finnes i grønnsaker og frukter som gulrot, mango, salater, aprikoser og søtpoteter. Fargestoffet er ikke vannløselig, og kan spaltes til to molekyler av [vitamin A](http://www.friskogfunksjonell.no/a-vitamin/ "A-vitamin") (retinol).
+Beta-karoten er et fargestoff som blant annet finnes i grønnsaker og frukter som gulrot, mango, salater, aprikoser og søtpoteter. Fargestoffet er ikke vannløselig, og kan spaltes til to molekyler av [vitamin A](brokenlink/a-vitamin/ "A-vitamin") (retinol).
 
 Fargestoffet har blitt assosiert med lungekreft hos røykere ( Russell (2004), Journal of Nutrition, 134 (1): 262S-268S)
 
@@ -109,7 +109,7 @@ Inntak av frukt og bær gjør at mennesker er jevnlig eksponert for antocyaner. 
 
 ## Er fargestoffer helseskadelige?
 
-[JECFA og EFSA](http://www.friskogfunksjonell.no/tilsetningsstoffer/ "Tilsetningsstoffer i mat") gjennomfører toksikologisk vurdering av fargestoffer, for å se om de kan være helseskadelige for befolkningen. Overfølsomhetsreaksjoner kan være en bivirkning ved inntak av fargestoffer som tartrazin, karmin, paraoransje, annattoekstrakter og kantaxantin, hvor man kan utvikle astmabesvær, elveblest, oppsvulmede slimhinner og betennelse i nese og øyner.  Man er ikke helt sikker på hvilke komponenter i fargestoffene som kan føre til overfølsomhetsreaksjoner, men det kan gi utslag som både allergi og intoleranse.
+[JECFA og EFSA](brokenlink/tilsetningsstoffer/ "Tilsetningsstoffer i mat") gjennomfører toksikologisk vurdering av fargestoffer, for å se om de kan være helseskadelige for befolkningen. Overfølsomhetsreaksjoner kan være en bivirkning ved inntak av fargestoffer som tartrazin, karmin, paraoransje, annattoekstrakter og kantaxantin, hvor man kan utvikle astmabesvær, elveblest, oppsvulmede slimhinner og betennelse i nese og øyner.  Man er ikke helt sikker på hvilke komponenter i fargestoffene som kan føre til overfølsomhetsreaksjoner, men det kan gi utslag som både allergi og intoleranse.
 
 Bekymringen blant mange folk om at fargestoffer er farlige, og bør unngås, er dårlig dokumentert. Det langt flere mennesker som har overfølsomhetsreaksjoner mot proteiner i melk, egg og fisk, enn fargestoffer. 0.01-0,1% av befolkningen reagerer på det mest potente azo-fargestoffet tartrazin, mens 10-20% av dem som er disponert for allergi reagerer på det samme. Det er altså liten grunn til å være bekymret for å spise matvarer som er tilsatt fargestoffer.
 

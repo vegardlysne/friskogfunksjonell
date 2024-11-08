@@ -9,7 +9,7 @@ Julen er tiden for familie og kos. Vi løper fra familiebesøk til julebord, og 
 
 ## Hvorfor kommer julekiloene?
 
-Som jeg har skrevet om tidligere, i artikkelen om [energibalansen](http://www.friskogfunksjonell.no/energibalansen/ "Energibalansen – hva sier den egentlig?"), så er kroppsvekten et uttrykk for alt kroppen vår består av. Mye av vekten utgjøres av vann, og ved å endre på vannbalansen kan dette gi ganske store utslag på vekten over korte tidsrom. Vi består også av muskler og fett, og endringer i disse kommer som følge av ubalanser mellom inntak og forbruk av energi.
+Som jeg har skrevet om tidligere, i artikkelen om [energibalansen](brokenlink/energibalansen/ "Energibalansen – hva sier den egentlig?"), så er kroppsvekten et uttrykk for alt kroppen vår består av. Mye av vekten utgjøres av vann, og ved å endre på vannbalansen kan dette gi ganske store utslag på vekten over korte tidsrom. Vi består også av muskler og fett, og endringer i disse kommer som følge av ubalanser mellom inntak og forbruk av energi.
 
 Det er begrenset hvor mye fett du klarer å legge på deg på såpass kort tid som en juleferie, så i første omgang kan du trøste deg med at mesteparten av julekiloene består av gode, gamle H2O. Dette kan skyldes at julemat generelt inneholder en del salt, noe som gjør at du på kort sikt vil holde på mer vann. Dette vil forsvinne tilsvarende fort når du kommer tilbake i gamle vaner.
 
@@ -21,13 +21,13 @@ Det er imidlertid et par triks du kan benytte deg av for å redusere oppsamlinge
 
 ### Periodisk faste
 
-Dersom du planlegger et større matinntak på ettermiddagen, f.eks. i et familiebesøk, så kan du redusere inntaket tidligere på dagen. På denne måten sparer du inn en del av dagens kalorier på en tid av dagen, og kan spise mer på kvelden uten at totalen øker så mye. I fjor skrev jeg en sak om nettopp å bruke [periodisk faste](http://www.friskogfunksjonell.no/periodisk-faste-til-jul/ "Periodisk faste til jul?") som verktøy på denne måten.
+Dersom du planlegger et større matinntak på ettermiddagen, f.eks. i et familiebesøk, så kan du redusere inntaket tidligere på dagen. På denne måten sparer du inn en del av dagens kalorier på en tid av dagen, og kan spise mer på kvelden uten at totalen øker så mye. I fjor skrev jeg en sak om nettopp å bruke [periodisk faste](brokenlink/periodisk-faste-til-jul/ "Periodisk faste til jul?") som verktøy på denne måten.
 
 ### Finn alternativer til sukker
 
 Søt mat og sukker hører julen til, men her er det muligheter for å gjøre bedre valg. Vanlig brus kan uten problemer byttes ut med en lettvariant, og i bakst går det an å bytte ut (noe av) sukkeret med erstatningsprodukter som sukrin.
 
-Les mer om [søtstoffer](http://www.friskogfunksjonell.no/sotstoffer/ "Søtstoffer").
+Les mer om [søtstoffer](brokenlink/sotstoffer/ "Søtstoffer").
 
 ### Gode snacksalternativer
 

@@ -9,7 +9,7 @@ Her komme tre nye forslag til endringer du kan gjøre i kostholdet ditt. Som jeg
 
 Mennesket er fra naturens side utstyrt med et sug etter det som smaker søtt. Dette stammer fra den tiden da vi var avhengige av å finne maten vår ute i naturen. Siden det ikke er noen naturlige gifter som smaker søtt, betydde søtsmak vanligvis at det var trygt å spise. Søtsuget fungerte en gang som en overlevelsesmekanisme, men i dag virker det heller mot sin hensikt, da vi ikke akkurat har mangel på søte alternativer.
 
-Likevel er ikke løpet helt kjørt, det finnes både gode og mindre gode alternativer her også. Det mindre gode alternativet er å stupe nedi nærmeste smågodtskål neste gang suget melder seg, eller å ty til søte drikker. Som jeg var inne på i [del 1](http://www.friskogfunksjonell.no/3-enkle-tiltak/ "3 enkle tiltak som kan forbedre kostholdet ditt") bør vi prøve å begrense inntaket av tilsatt sukker, og i [del 2](http://www.friskogfunksjonell.no/3-tiltak-del-2/ "3 tiltak som kan forbedre kostholdet ditt – del 2") snakket jeg om helseeffektene av å velge vann som tørstedrikk.
+Likevel er ikke løpet helt kjørt, det finnes både gode og mindre gode alternativer her også. Det mindre gode alternativet er å stupe nedi nærmeste smågodtskål neste gang suget melder seg, eller å ty til søte drikker. Som jeg var inne på i [del 1](brokenlink/3-enkle-tiltak/ "3 enkle tiltak som kan forbedre kostholdet ditt") bør vi prøve å begrense inntaket av tilsatt sukker, og i [del 2](brokenlink/3-tiltak-del-2/ "3 tiltak som kan forbedre kostholdet ditt – del 2") snakket jeg om helseeffektene av å velge vann som tørstedrikk.
 
 **De beste søte alternativene for helsen din er frukt og bær.** Disse er ikke spesielt energitette, og i motsetning til en del andre søte alternativer, så inneholder de en del vitaminer, mineraler og andre gunstige stoffer. Frukt og bær er også basedannende, noe som kan være med å balansere syren som produseres når vi spiser annen mat.
 
@@ -21,7 +21,7 @@ Fett er et viktig næringsstoff, både som en viktig energikilde, byggesten i ce
 
 Mange matoljer inneholder veldig mye omega-6, noe som vi fra før får i oss for mye av sammenlignet med omega-3. Verstingene her er soyaolje, maisolje og solsikkeolje, så disse bør du styre unna. Velg derfor mer nøytrale oljer som oliven- eller raps. Kokosolje inneholder nesten utelukkende mettet fett, så denne er helt nøytral når det gjelder omega-3 og omega-6, og fungerer veldig godt til å steke med.
 
-Les mer om [omega-3 og omega-6](http://www.friskogfunksjonell.no/omega-3-og-omega-6-i-kostholdet/ "Omega-3 og Omega-6 i kostholdet").
+Les mer om [omega-3 og omega-6](brokenlink/omega-3-og-omega-6-i-kostholdet/ "Omega-3 og Omega-6 i kostholdet").
 
 En viktig forskjell på de ulike oljene handler om hvordan de er laget. Kaldpresset olje (extra virgin) er minst behandlet, og fettsyrene er  derfor i sin naturlige form. Dette er et kvalitetstegn, og noe du bør se etter når du skal velge olje! **Kaldpresset olje tåler mindre varme enn varmpresset, så disse bør ikke brukes til å steke i, men heller helles over maten etter tilberedning.**
 
@@ -37,4 +37,4 @@ For mange passer det utmerket å spise lite og ofte, og det er selvfølgelig ing
 
 **Alle er forskjellige, og der noen trives best med å spise litt med jevne mellomrom er det andre som liker best å spise færre måltider og heller spise seg god og mett hver gang. Trivsel er nøkkelordet, og bare du vet hva du trives best med!**
 
-Les mer om [periodisk faste](http://www.friskogfunksjonell.no/periodisk-faste-til-jul/ "Periodisk faste til jul?").
+Les mer om [periodisk faste](brokenlink/periodisk-faste-til-jul/ "Periodisk faste til jul?").

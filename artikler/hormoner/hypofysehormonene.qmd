@@ -19,11 +19,11 @@ Effektene av ACTH er hovedsakelig en økt produksjon av kortisol, aldosteron og 
 
 TSH er et karbohydratholdig peptidhormon som fungerer på skjoldbruskkjertelen, og stimulerer den til å produsere sine hormoner. Utskillelsen av TSH styres av TSH-stimulerende hormon (TRH) fra hypotalamus, og reguleres ved negativ tilbakekoblingskontroll. T3 og T4 fra skjoldbruskkjertelen har en hemmende effekt på både TSH og TRH.
 
-Effektene av TSH er regulering av vekst og hormonproduksjon i skjoldbruskkjertelen. Normal funksjon i dette systemet, krever tilstrekkelig inntak av [jod](http://www.friskogfunksjonell.no/jod/ "Jod"), og mangel på dette næringsstoffet kan føre til ubalanser her. Dette kan gi problemer med stoffskiftet og kan også føre til utvikling av struma.
+Effektene av TSH er regulering av vekst og hormonproduksjon i skjoldbruskkjertelen. Normal funksjon i dette systemet, krever tilstrekkelig inntak av [jod](brokenlink/jod/ "Jod"), og mangel på dette næringsstoffet kan føre til ubalanser her. Dette kan gi problemer med stoffskiftet og kan også føre til utvikling av struma.
 
 ##### Folikkelstimulerende hormon, FSH
 
-FSH regulerer [gonadenes](http://www.friskogfunksjonell.no/ovariene-testiklene-og-morkaken/ "Ovariene, Testiklene og Morkaken") (kjønnsorganenes) hormonproduksjon, og kalles derfor et gonadotropin. Utskillelsen av gonadotropinene styres av gonadotropinstimulerende hormon (Gn-RH) fra hypotalamus, og reguleres ved negativ tilbakekoblingskontroll. I tillegg til å stimulere hormonproduksjonen, vil gonadotropinene være med å regulere veksten til kjønnsorgane.
+FSH regulerer [gonadenes](brokenlink/ovariene-testiklene-og-morkaken/ "Ovariene, Testiklene og Morkaken") (kjønnsorganenes) hormonproduksjon, og kalles derfor et gonadotropin. Utskillelsen av gonadotropinene styres av gonadotropinstimulerende hormon (Gn-RH) fra hypotalamus, og reguleres ved negativ tilbakekoblingskontroll. I tillegg til å stimulere hormonproduksjonen, vil gonadotropinene være med å regulere veksten til kjønnsorgane.
 
 Hos menn vil FSH stimulere sertolicellene i testiklene, som regulerer sædcelleproduksjonen.
 

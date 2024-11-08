@@ -3,11 +3,11 @@ title: "Høyere forbrenning med lavkarbo?"
 date: "2012.08.11"
 ---
 
-Mange som går ned i vekt ender opp med å legge på seg igjen. Bare et fåtall av de som slanker seg klarer å opprettholde vekttapet over tid. En viktig suksessfaktor er å finne kostholds- og treningsvaner som man kan opprettholde over tid, altså å gå for en [livsstilsendring og ikke en midlertidig diett](http://www.friskogfunksjonell.no/midlertidige-losninger/). Det er mange forskjellige kosthold å velge mellom, men er alle alternativene like gode?
+Mange som går ned i vekt ender opp med å legge på seg igjen. Bare et fåtall av de som slanker seg klarer å opprettholde vekttapet over tid. En viktig suksessfaktor er å finne kostholds- og treningsvaner som man kan opprettholde over tid, altså å gå for en [livsstilsendring og ikke en midlertidig diett](brokenlink/midlertidige-losninger/). Det er mange forskjellige kosthold å velge mellom, men er alle alternativene like gode?
 
 De færreste klarer å holde seg til strenge dietter over lengre tid, uavhengig av hvilken retning de går. Dette skyldes ikke nødvendigvis dårlig viljestyrke, men heller at det er en stor belastning å holde seg til ting som avviker mye fra normalen. Påvirkning fra omgivelsene rundt oss, da spesielt familie- og jobb/skolesituasjon er nok de viktigste faktorene.
 
-Som jeg tidligere har skrevet om i artikkelen om [energibalanse](http://www.friskogfunksjonell.no/energibalansen/ "Energibalansen – hva sier den egentlig?") så vil et vekttap føre til en reduksjon i hvileforbrenningen. Det koster rett og slett kroppen mindre energi å leve når du veier mindre. Også energikostnadene ved bevegelse reduseres, da det krever mindre energi å bevege en lettere kropp.
+Som jeg tidligere har skrevet om i artikkelen om [energibalanse](brokenlink/energibalansen/ "Energibalansen – hva sier den egentlig?") så vil et vekttap føre til en reduksjon i hvileforbrenningen. Det koster rett og slett kroppen mindre energi å leve når du veier mindre. Også energikostnadene ved bevegelse reduseres, da det krever mindre energi å bevege en lettere kropp.
 
 ## Hvordan påvirker kostholdet energiforbruket?
 
@@ -21,7 +21,7 @@ Først ble deltakerne observert over en 4-ukers periode. Deretter fikk de oppsat
 
 Etter disse 20 ukene startet selve forsøket. Nå ble deltakerne i tilfeldig rekkefølge bedt om å følge tre ulike dietter. Diettene var henholdsvis lavfett (20E% protein, 20E% fett, 60E% karbohydrat), lav GI (20E% protein, 40E% fett, 40 E% karbohydrat) og lavkarbo (30E% protein, 60E% fett, 10E% karbohydrat). Diettene var isokaloriske, altså inneholdt de like mye energi, og målet var å opprettholde vekttapet.
 
-Underveis i alle fasene ble det målt og registrert både hvileforbrenning og totalt energiforbruk. Hypotesen var at ulike fordelinger av makronæringsstoffene ville påvirke metabolismen forskjellig, noe som ville gi ulikt resultat på hvileforbrenningen.  Studier indikerer at en karbohydratreduksjon gir en [spontan reduksjon i energiinntaket](http://www.friskogfunksjonell.no/hvilken-diett-skal-jeg-velge/ "Hvilken diett skal jeg velge?"), men her ville forfatterne undersøke om man kan forvente en forskjell også ved likt energiinntak. De målte også nivåene av noen hormoner samt etablerte risikofaktorer for metabolsk syndrom.
+Underveis i alle fasene ble det målt og registrert både hvileforbrenning og totalt energiforbruk. Hypotesen var at ulike fordelinger av makronæringsstoffene ville påvirke metabolismen forskjellig, noe som ville gi ulikt resultat på hvileforbrenningen.  Studier indikerer at en karbohydratreduksjon gir en [spontan reduksjon i energiinntaket](brokenlink/hvilken-diett-skal-jeg-velge/ "Hvilken diett skal jeg velge?"), men her ville forfatterne undersøke om man kan forvente en forskjell også ved likt energiinntak. De målte også nivåene av noen hormoner samt etablerte risikofaktorer for metabolsk syndrom.
 
 ## Hva spiste deltakerne?
 
@@ -43,7 +43,7 @@ Leptin er et hormon som skilles ut fra fettvevet, og har blant annet som oppgave
 
 Nivåene av stresshormonet kortisol var høyest ved lavkarbodietten, mens nivåene av tyroideastimulerende hormon (TSH) var lavest. Blodnivåene av stoffskiftehormonet T3 var også lavest når man fulgte lavkarbo.
 
-For risikofaktorene for metabolsk syndrom så man at insulinsensitiviteten (både i lever og perifert vev) var lavest ved lavfettdietten. Lavkarbodietten gav de høyeste verdiene for HDL-kolesterol og de laveste verdiene for triglyserider. Dette regnes som en gunstig endring av [blodlipidene](http://www.friskogfunksjonell.no/minikurs-i-lipoproteiner/ "Minikurs i lipoproteiner"), og resultatene var bedre ved synkende glykemisk belastning, og dermed dårligst ved lavfettdietten. CRP, en markør for inflammasjon, var høyest ved lavkarbodietten og lavest ved lav-GI, mens blodtrykket var likt ved de forskjellige diettene.
+For risikofaktorene for metabolsk syndrom så man at insulinsensitiviteten (både i lever og perifert vev) var lavest ved lavfettdietten. Lavkarbodietten gav de høyeste verdiene for HDL-kolesterol og de laveste verdiene for triglyserider. Dette regnes som en gunstig endring av [blodlipidene](brokenlink/minikurs-i-lipoproteiner/ "Minikurs i lipoproteiner"), og resultatene var bedre ved synkende glykemisk belastning, og dermed dårligst ved lavfettdietten. CRP, en markør for inflammasjon, var høyest ved lavkarbodietten og lavest ved lav-GI, mens blodtrykket var likt ved de forskjellige diettene.
 
 Det må nevnes at de fleste av de målte verdiene bedret seg ved alle diettene sammenlignet med utgangspunktet, og for de fleste verdiene var ikke resultatene signifikante selv om trendene var tydelige. **Vekttapet må derfor antas å være den viktigste faktoren når alt kommer til alt.**
 
@@ -51,7 +51,7 @@ Det må nevnes at de fleste av de målte verdiene bedret seg ved alle diettene s
 
 Det er ingen tvil om at disse resultatene er ekstremt interessante og innbyr til videre forskning på temaet. Det hevdes at en kalori er en kalori, men oppfører kalorier fra fett, karbohydrat og protein seg likt i kroppen, og kan ulik sammensetning av makronæringsstoffene gi vidt forskjellig respons i kroppen når energimengden er lik?
 
-Det første jeg bet meg merke i når jeg leste gjennom studien var at proteininntaket var ulikt for lavkarbodietten sammenlignet med de to andre. Vi vet at [protein](http://www.friskogfunksjonell.no/protein/ "Protein") er det næringsstoffet som krever mest energi å metabolisere, og den termiske effekten av protein er beregnet til 25-35%. Lavkarbodietten inneholdt 45g mer protein per dag enn lavfett- og lav-GI-dietten, noe som tilsvarer 180 kcal. Bare basert på den termiske effekten kan dette tilsvare en økt forbrenning på ca. 50 kcal, noe som nesten tilsvarer forskjellen som ble observert i hvileforbrenningen.
+Det første jeg bet meg merke i når jeg leste gjennom studien var at proteininntaket var ulikt for lavkarbodietten sammenlignet med de to andre. Vi vet at [protein](brokenlink/protein/ "Protein") er det næringsstoffet som krever mest energi å metabolisere, og den termiske effekten av protein er beregnet til 25-35%. Lavkarbodietten inneholdt 45g mer protein per dag enn lavfett- og lav-GI-dietten, noe som tilsvarer 180 kcal. Bare basert på den termiske effekten kan dette tilsvare en økt forbrenning på ca. 50 kcal, noe som nesten tilsvarer forskjellen som ble observert i hvileforbrenningen.
 
 Forfatterne nevner dette i diskusjonen, men skriver at de ikke tror dette har påvirket resultat av hvileforbrenningen, da denne er målt fastende. Den økte forbrenningen som følge av økt proteininntak ville bare latt seg måle i den postabsorbtive fasen, altså i perioden etter et måltid, og ikke i fastende tilstand. Da står vi igjen med at økt forbrenning som følge av økt proteininntak bare har bidratt til det totale energiforbruket, og her er forskjellene så markante at det ikke lar seg forklare med økt proteininntak alene.
 

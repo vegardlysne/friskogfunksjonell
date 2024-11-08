@@ -14,7 +14,7 @@ Det finnes ulike former av vitaminet; K1 (fyllokinon) dannes i planter og er hov
 
 ## Opptak og metabolisme
 
-K-vitamin følger, som de andre fettløselige vitaminene, vanlig [fettopptak](http://www.friskogfunksjonell.no/fett) i tarmen. Fra den øvre delen av tynntarmen pakkes vitaminet i kylomikroner som fraktes med lymfesystemet til leveren. Litt blir levert til målcellene på veien til leveren, mens resten fraktes fra leveren og ut i blodet pakket i lipoproteiner.
+K-vitamin følger, som de andre fettløselige vitaminene, vanlig [fettopptak](fett.qmd) i tarmen. Fra den øvre delen av tynntarmen pakkes vitaminet i kylomikroner som fraktes med lymfesystemet til leveren. Litt blir levert til målcellene på veien til leveren, mens resten fraktes fra leveren og ut i blodet pakket i lipoproteiner.
 
 I leveren vil fyllokinonet tas opp av en reseptor som heter ApoE før det sendes ut i sirkulasjonen og til målcellene. I motsetning til andre fettløselige vitaminer er det ingen kjente transportproteiner for K-vitamin, og det fraktes hovedsakelig i blodet i VLDL (\>50%) og litt i LDL og HDL (ca 15% i hver). Hovedstedet for lagring er i leveren, der vi hovedsakelig finner menakinon. Vitaminet kan også lagres i hjerte, bukspyttkjertel, lunger, nyrer, hjerne og bein.
 

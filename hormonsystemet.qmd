@@ -26,11 +26,11 @@ Endokrinologi er læren om hormonsystemet. Hormonene er signalstoffer som produs
 
 En endokrin kjertel er en kjertel som produserer et eller flere hormoner. I kroppen har vi flere spesialiserte endokrine kjertler, og disse vil jeg presentere i tre artikler.
 
-Del 1: [Hypotalamus, hypofysen og binyrene](http://www.friskogfunksjonell.no/hypotalamus-hypofysen-og-binyrene/ "Hypotalamus, hypofysen og binyrene")
+Del 1: [Hypotalamus, hypofysen og binyrene](brokenlink/hypotalamus-hypofysen-og-binyrene/ "Hypotalamus, hypofysen og binyrene")
 
-Del 2: [Skjoldbruskkjertelen, bukspyttkjertelen og fettvevet](http://www.friskogfunksjonell.no/skjoldbruskkjertelen-bukspyttkjertelen-og-fettvevet/ "Skjoldbruskkjertelen, bukspyttkjertelen og fettvevet")
+Del 2: [Skjoldbruskkjertelen, bukspyttkjertelen og fettvevet](brokenlink/skjoldbruskkjertelen-bukspyttkjertelen-og-fettvevet/ "Skjoldbruskkjertelen, bukspyttkjertelen og fettvevet")
 
-Del 3: [Ovariene, testiklene og morkaken](http://www.friskogfunksjonell.no/ovariene-testiklene-og-morkaken/ "Ovariene, Testiklene og Morkaken")
+Del 3: [Ovariene, testiklene og morkaken](brokenlink/ovariene-testiklene-og-morkaken/ "Ovariene, Testiklene og Morkaken")
 
 I tillegg til disse har vi hormonproduksjon flere steder i kroppen, blant annet i nyrene, leveren, hjertet og i mage-/tarmkanalen, men de kommer jeg ikke inn på i denne serien.
 
@@ -56,11 +56,11 @@ Målcellene for hormonene har reseptorer, enten i cellemembranen eller inne i se
 
 Jeg vil presentere noen sentrale hormoner i egne artikler.
 
--   [Hypofysehormonene](http://www.friskogfunksjonell.no/hypofysehormonene/ "Hypofysehormonene")
+-   [Hypofysehormonene](brokenlink/hypofysehormonene/ "Hypofysehormonene")
 
 -   Skjoldbruskkjertelhormonene
 
--   [Insulin/glukagon](http://www.friskogfunksjonell.no/insulin-og-glukagon)
+-   [Insulin/glukagon](brokenlink/insulin-og-glukagon)
 
 -   Binyrehormonene
 

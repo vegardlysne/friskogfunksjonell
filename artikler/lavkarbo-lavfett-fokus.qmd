@@ -8,7 +8,7 @@ categories:
 
 Stadig flere velger å legge om kostholdet til en eller annen form for lavkarbo. Etter massevis av suksesshistorier i media og rundt omkring på internett, er det ikke rart at man blir interessert og ønsker å teste selv. Å legge om til et lavkarbokosthold innebærer for de aller fleste en kraftig reduksjon i inntaket av karbohydrater, kombinert med en økning i inntaket av fett og protein.
 
-Men er det sånn at så lenge sammensetningen av hovednæringsstoffene ([fett](http://www.friskogfunksjonell.no/fett/), [protein](http://www.friskogfunksjonell.no/protein/) og [karbohydrat](http://www.friskogfunksjonell.no/karbohydrater/)) passer din kostholdsretning, så er dette det eneste som teller? Hvis vi skal tro på alt vi leser i media, så kan det virke som om mange er av denne oppfatningen. Det er ikke jeg!
+Men er det sånn at så lenge sammensetningen av hovednæringsstoffene ([fett](brokenlink/fett/), [protein](brokenlink/protein/) og [karbohydrat](brokenlink/karbohydrater/)) passer din kostholdsretning, så er dette det eneste som teller? Hvis vi skal tro på alt vi leser i media, så kan det virke som om mange er av denne oppfatningen. Det er ikke jeg!
 
 Et moment som ofte forsvinner i kostholdsdebatten er matkvalitet. Folk henger seg opp i hvor mange gram karbohydrater eller fett en matvare inneholder, og fokuserer mindre på hvor denne matvaren kommer fra og hvordan den havnet i hyllen på butikken.
 
@@ -30,15 +30,15 @@ Noen eksempler:
 
 -   Meierismør er bedre enn plantemargariner
 
-Setter du sammen kostholdet ditt av gode matvarer som er minst mulig bearbeidede, så er fordelingen mellom de ulike [næringsstoffene](http://www.friskogfunksjonell.no/naeringsstoffene/ "Artikkelserie om Næringsstoffene") i min bok underordnet, og ikke noe du nødvendigvis trenger å tenke så mye på.
+Setter du sammen kostholdet ditt av gode matvarer som er minst mulig bearbeidede, så er fordelingen mellom de ulike [næringsstoffene](brokenlink/naeringsstoffene/ "Artikkelserie om Næringsstoffene") i min bok underordnet, og ikke noe du nødvendigvis trenger å tenke så mye på.
 
 ## Skal vi bare glemme næringsstoffsammensetningen?
 
 Jeg mener for all del ikke at fordelingen mellom karbohydrater, protein og fett er uvesentlig, men dette vil ordne seg mye av seg selv når utvalget av matvarer er bra. Dersom du registrerer hva du spiser i løpet av en dag, vil du merke at det er svært vanskelig å få i seg en stor andel energi fra karbohydrater når du kutter ut ferdigprodukter og halvfabrikata. Energiandelen fra fett vil være naturlig høy så lenge du spiser variert, spesielt om du spiser en del proteinrik mat som kjøtt, fisk, egg og nøtter/frø, samt inkluderer gode oljer som kaldpresset olivenolje og kokosolje.
 
-Ved å velge matvarer av god kvalitet vil du også dekke behovet for alle mikronæringsstoffene. Dette forutsetter selvfølgelig at energiinntaket ditt er tilstrekkelig. Eneste unntak er [D-vitamin](http://www.friskogfunksjonell.no/d-vitamin/ "D-vitamin"), siden dette er et vitamin vi hovedsakelig produserer selv når vi eksponeres for sollys. Det kan være en fordel å ta tilskudd av dette vitaminet i vinterhalvåret.
+Ved å velge matvarer av god kvalitet vil du også dekke behovet for alle mikronæringsstoffene. Dette forutsetter selvfølgelig at energiinntaket ditt er tilstrekkelig. Eneste unntak er [D-vitamin](brokenlink/d-vitamin/ "D-vitamin"), siden dette er et vitamin vi hovedsakelig produserer selv når vi eksponeres for sollys. Det kan være en fordel å ta tilskudd av dette vitaminet i vinterhalvåret.
 
-Ved å redusere kornforbruket og velge fett av høy kvalitet (ikke varmebehandlede oljer som soya-, solsikke- og maisolje), vil du også oppnå en bedre [balanse mellom omega-3 og omega-6](http://www.friskogfunksjonell.no/omega-3-og-omega-6-i-kostholdet/ "Omega-3 og Omega-6 i kostholdet"), noe som er sentralt når det gjelder å opprettholde en god helse!
+Ved å redusere kornforbruket og velge fett av høy kvalitet (ikke varmebehandlede oljer som soya-, solsikke- og maisolje), vil du også oppnå en bedre [balanse mellom omega-3 og omega-6](brokenlink/omega-3-og-omega-6-i-kostholdet/ "Omega-3 og Omega-6 i kostholdet"), noe som er sentralt når det gjelder å opprettholde en god helse!
 
 ## Tomme kalorier
 

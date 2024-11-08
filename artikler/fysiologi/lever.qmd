@@ -29,7 +29,7 @@ Når jeg i overskriften kaller leveren for metabolismens dirigent så er dette i
 
 ### Karbohydratmetabolismen
 
--   Leveren er sentral i [karbohydratmetabolismen](http://www.friskogfunksjonell.no/karbohydratmetabolismen/ "Karbohydratmetabolismen"), og er spesielt viktig for å regulere blodsukkeret. Dette er spesielt viktig for å legge til rette for at hjernen får jevn tilgang på glukose.
+-   Leveren er sentral i [karbohydratmetabolismen](brokenlink/karbohydratmetabolismen/ "Karbohydratmetabolismen"), og er spesielt viktig for å regulere blodsukkeret. Dette er spesielt viktig for å legge til rette for at hjernen får jevn tilgang på glukose.
 
 Ved å lagre glukose som glykogen kan leveren både fjerne overflødig glukose fra blodet, og slippe det ut igjen ved behov. Etter et måltid vil leveren være svært aktiv for å ta opp glukosen som tilføres gjennom det vi spiser. Leverglykogenet er den viktigste faktoren i blodsukkerreguleringen, og levercellene kan lagre glykogen tilsvarende hele 5-8% av sin vekt, noe som tilsvarer rundt 100g. Når lagringskapasiteten overskrides vil overflødig glukose metaboliseres til acetyl-CoA, som kan brukes til å danne fettsyrer, kolesterol eller gallesalter.
 
@@ -41,17 +41,17 @@ Metabolisering av metabolitter i karbohydratmetabolismen er en siste viktig oppg
 
 ### Fettmetabolismen
 
--   Leveren er også sentral i [fettmetabolismen](http://www.friskogfunksjonell.no/fettmetabolismen/ "Fettmetabolismen"), og veldig mye av denne skjer nettopp her. Både syntese og nedbrytning av fettsyrer og andre lipider styres i stor grad av leveren.
+-   Leveren er også sentral i [fettmetabolismen](brokenlink/fettmetabolismen/ "Fettmetabolismen"), og veldig mye av denne skjer nettopp her. Både syntese og nedbrytning av fettsyrer og andre lipider styres i stor grad av leveren.
 
-Nedbrytning av fettsyrer til Acetyl-CoA gjennom β-oksidasjonen skjer i de aller fleste cellene i kroppen, men mesteparten av dette skjer i hepatocyttene. Leveren kan ikke bruke all denne energien selv, så den danner acetoacetat (et ketonlegeme) som sendes i blodet til andre celler, der det brytes ned til Acetyl-CoA som inngår i [sitronsyresyklusen](http://www.friskogfunksjonell.no/sitronsyresyklusen/ "Sitronsyresyklusen")/[elektrontransportkjeden](http://www.friskogfunksjonell.no/elektrontransportkjeden/ "Elektrontransportkjeden") og frigjør energi. Noe acetoacetat vil omdannes videre til et annet ketonlegeme, β-hydroxybutyrat, men den samlede konsentrasjonen av disse ketonlegemene vil under normale omstendigheter holde seg svært lav (\< 3mg/dL), ettersom de blir tatt svært godt opp av andre celler. Men store mengder vil fraktes i blodet totalt sett.
+Nedbrytning av fettsyrer til Acetyl-CoA gjennom β-oksidasjonen skjer i de aller fleste cellene i kroppen, men mesteparten av dette skjer i hepatocyttene. Leveren kan ikke bruke all denne energien selv, så den danner acetoacetat (et ketonlegeme) som sendes i blodet til andre celler, der det brytes ned til Acetyl-CoA som inngår i [sitronsyresyklusen](brokenlink/sitronsyresyklusen/ "Sitronsyresyklusen")/[elektrontransportkjeden](brokenlink/elektrontransportkjeden/ "Elektrontransportkjeden") og frigjør energi. Noe acetoacetat vil omdannes videre til et annet ketonlegeme, β-hydroxybutyrat, men den samlede konsentrasjonen av disse ketonlegemene vil under normale omstendigheter holde seg svært lav (\< 3mg/dL), ettersom de blir tatt svært godt opp av andre celler. Men store mengder vil fraktes i blodet totalt sett.
 
 Når tilgangen på energisubstrat er tilstrekkelig vil leveren danne triglyserider som sendes ut i blodet i VLDL-partikler. Dersom det derimot ikke er tilstrekkelig tilgang på energisubstrat vil leveren i større grad omdanne fettsyrer til ketonlegemer, som er vannløselige molekyler som kan benyttes som energi i fravær av tilstrekkelig glukose. Grunnen til at det dannes ketonlegemer er at det ikke er nok oksaloacetat til at Acetyl-CoA kan gå inn i sitronsyresyklusen, siden oksaloacetatet brukes til å produsere glukose i glukoneogenesen. Under faste eller andre situasjoner der forbruket av fett som energikilde øker, vil triglyserider fra fettvevet slippes ut i blodet og fraktes som frie fettsyrer til leveren for oksidasjon. Da øker produksjonen av ketonlegemer, og konsentrasjonen av disse i blodet kan øke, og da sier vi at vi kommer i ketose. Dette kommer jeg tilbake til i en annen sak.
 
-Leveren produserer også mange fettholdige partikler som [lipoproteiner](http://www.friskogfunksjonell.no/minikurs-i-lipoproteiner/ "Minikurs i lipoproteiner"), kolesterol og fosfolipider. Etter et måltid vil om lag 95% av alle fettstoffene i blodet være inkorporert i lipoproteiner, som også inkluderer kylomikroner som produseres i tarmcellene. Leveren har også større kapasitet til å desaturere fettsyrer enn andre kroppsvev, noe som er veldig viktig. Andelen umettede fettsyrer i cellemembranene i alle kroppens celler er viktig for fluiditet og funksjon, og hovedkilden til disse fettsyrene er altså fra produksjon i leveren.
+Leveren produserer også mange fettholdige partikler som [lipoproteiner](brokenlink/minikurs-i-lipoproteiner/ "Minikurs i lipoproteiner"), kolesterol og fosfolipider. Etter et måltid vil om lag 95% av alle fettstoffene i blodet være inkorporert i lipoproteiner, som også inkluderer kylomikroner som produseres i tarmcellene. Leveren har også større kapasitet til å desaturere fettsyrer enn andre kroppsvev, noe som er veldig viktig. Andelen umettede fettsyrer i cellemembranene i alle kroppens celler er viktig for fluiditet og funksjon, og hovedkilden til disse fettsyrene er altså fra produksjon i leveren.
 
 ### Proteinmetabolismen
 
--   I [protein- og aminosyremetabolismen](http://www.friskogfunksjonell.no/proteinmetabolismen/ "Proteinmetabolismen") har leveren mange viktige oppgaver. Nedbrytning av aminosyrer er leverens egen hovedkilde til energi, ettersom nedbrytningsmetabolittene fra karbohydrater og fettsyrer først og fremst sendes ut til andre celler og vev.
+-   I [protein- og aminosyremetabolismen](brokenlink/proteinmetabolismen/ "Proteinmetabolismen") har leveren mange viktige oppgaver. Nedbrytning av aminosyrer er leverens egen hovedkilde til energi, ettersom nedbrytningsmetabolittene fra karbohydrater og fettsyrer først og fremst sendes ut til andre celler og vev.
 
 De aller fleste aminosyrene kan metaboliseres i leveren, og det er også her mesteparten av dette metabolske spillet utføres. Leveren utfører deaminering- og transamineringsreaksjonene som gjør at vi kan produsere ikke-essensielle aminosyrer i de mengdene vi trenger.
 
@@ -61,11 +61,11 @@ Leveren produserer også omtrent 90% av alle plasmaproteinene våre, og kapasite
 
 ### Alkoholmetabolismen
 
-Leveren er organet som primært metaboliserer [alkohol](http://www.friskogfunksjonell.no/alkohol/ "Alkohol") i kroppen. Etanolen omdannes til acetaldehyd, som er den metabolitten som forårsaker symptomene som oppstår etter å ha drukket litt for mye en kveld. Acetaldehyd omdannes videre til acetat ved hjelp av enzymet aldehyd dehydrogenase.
+Leveren er organet som primært metaboliserer [alkohol](brokenlink/alkohol/ "Alkohol") i kroppen. Etanolen omdannes til acetaldehyd, som er den metabolitten som forårsaker symptomene som oppstår etter å ha drukket litt for mye en kveld. Acetaldehyd omdannes videre til acetat ved hjelp av enzymet aldehyd dehydrogenase.
 
 ### Vitamin- og mineralmetabolismen
 
-Leveren fungerer som et lagringsorgan for mange næringsstoffer, og er derfor også en god kilde til mange av disse dersom vi spiser lever. De vitaminene vi finner de største lagrene av i leveren er [A-vitamin](http://www.friskogfunksjonell.no/a-vitamin/ "A-vitamin"), [D-vitamin](http://www.friskogfunksjonell.no/d-vitamin/ "D-vitamin") og [B12](http://www.friskogfunksjonell.no/b12/ "Kobalamin, vitamin B12"). Av mineraler kan [jern](http://www.friskogfunksjonell.no/jern/ "Jern") trekkes frem, som lagres i store mengder bundet til ferritin. I aktivering og nedbrytning av vitaminer spiller leveren også en stor rolle. Her vil jeg trekke frem aktivering av D-vitamin som eksempel.
+Leveren fungerer som et lagringsorgan for mange næringsstoffer, og er derfor også en god kilde til mange av disse dersom vi spiser lever. De vitaminene vi finner de største lagrene av i leveren er [A-vitamin](brokenlink/a-vitamin/ "A-vitamin"), [D-vitamin](brokenlink/d-vitamin/ "D-vitamin") og [B12](brokenlink/b12/ "Kobalamin, vitamin B12"). Av mineraler kan [jern](brokenlink/jern/ "Jern") trekkes frem, som lagres i store mengder bundet til ferritin. I aktivering og nedbrytning av vitaminer spiller leveren også en stor rolle. Her vil jeg trekke frem aktivering av D-vitamin som eksempel.
 
 ### Andre oppgaver
 
