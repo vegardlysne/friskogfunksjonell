@@ -4,7 +4,7 @@ author: "Ingvild Thun"
 date: 2013.12.19
 ---
 
-Tilbake til [kosthold i helseinstitusjoner](../../kosthold-institusjoner.qmd "Kosthold i helseinstitusjoner").
+Tilbake til [kosthold i helseinstitusjoner](../../kosthold-institusjoner.qmd).
 
 Melkeprotein er en av de vanligste proteinene å være allergisk mot. De fleste som rammes vokser fra seg denne allergien i ung alder, men noen fortsetter å være allergiske også i voksen alder. I denne artikkelen får du en innføring i hva melkeproteinfri kost er.
 

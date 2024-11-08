@@ -3,7 +3,7 @@ title: "Folat, vitamin B12 og enkarbonmetabolisme - FASEB dag 1"
 date: 2014.08.04
 ---
 
-3-8. august arrangerer Federation of American Societies for Experimental Biology (FASEB) en konferanse som omhandler temaene [folat](naeringsstoffer/folat.qmd "Folat, vitamin B9"), [vitamin B12](brokenlink/b12/ "Kobalamin, vitamin B12") og [enkarbonmetabolismen](bioblikk-enkarbonmetabolismen.qmd "Bioblikk: Enkarbonmetabolismen, en introduksjon"). Jeg er på plass i Colorado Springs for å delta på konferansen og presentere en vitenskapelig poster med tittelen "PPARα activation and dietary fat affects cobalamin status", som er basert på noen av resultatene fra masteroppgaven min. Jeg vil underveis prøve å komme med noen korte oppdateringer fra de presentasjonene jeg får med meg.
+3-8. august arrangerer Federation of American Societies for Experimental Biology (FASEB) en konferanse som omhandler temaene [folat](naeringsstoffer/folat.qmd). Jeg er på plass i Colorado Springs for å delta på konferansen og presentere en vitenskapelig poster med tittelen "PPARα activation and dietary fat affects cobalamin status", som er basert på noen av resultatene fra masteroppgaven min. Jeg vil underveis prøve å komme med noen korte oppdateringer fra de presentasjonene jeg får med meg.
 
 Den første dagen har stort sett gått med til registrering, innlosjering, åpning av konferansen og middag, men det ble plass til en omfattende gjennomgang av folatberiking, ved Joshua Miller.
 
@@ -23,7 +23,7 @@ For de som er interessert i biokjemien som kan ligge til grunn for dette kan vi 
 
 ![](images/clipboard-2004582453.png)
 
-Det er THF som kan binde enkarbonenheter og dermed produsere aktive folatmetabolitter. formylTHF og metylenTHF er viktig for produksjonen av DNA/RNA. MetylenTHF kan videre omdannes til metylTHF som er metyldonor for remetyleringen av homocystein tilbake til metionin. Dette skjer ved hjelp av enzymet metylenTHF reduktase (MTHFR).  Intracellulær DHF hemmer MTHFR, som kan forstyrre folatmetabolismen. Dette kan for eksempel gjøre at vi får mer av de folatmetabolittene som bidrar til produksjon av DNA, noe som igjen kan påvirke kreftrisikoen. I tillegg får vi mindre metylTHF, noe som kan gi forstyrrelser i [metyleringssyklus](bioblikk-metyleringssyklus.qmd "Bioblikk: Metyleringssyklus") og dermed også [DNA-metylering og epigenetisk regulering](bioblikk-epigenetikk.qmd "Bioblikk: DNA-metylering og epigenetikk"), noe som også kan påvirke risikoen for både kreft og en rekke andre tilstander.
+Det er THF som kan binde enkarbonenheter og dermed produsere aktive folatmetabolitter. formylTHF og metylenTHF er viktig for produksjonen av DNA/RNA. MetylenTHF kan videre omdannes til metylTHF som er metyldonor for remetyleringen av homocystein tilbake til metionin. Dette skjer ved hjelp av enzymet metylenTHF reduktase (MTHFR).  Intracellulær DHF hemmer MTHFR, som kan forstyrre folatmetabolismen. Dette kan for eksempel gjøre at vi får mer av de folatmetabolittene som bidrar til produksjon av DNA, noe som igjen kan påvirke kreftrisikoen. I tillegg får vi mindre metylTHF, noe som kan gi forstyrrelser i [metyleringssyklus](bioblikk-metyleringssyklus.qmd), noe som også kan påvirke risikoen for både kreft og en rekke andre tilstander.
 
 ## Utfordring
 

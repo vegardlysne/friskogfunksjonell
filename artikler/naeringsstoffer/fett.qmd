@@ -38,9 +38,9 @@ Målceller har et enzym på overflaten som heter lipoprotein lipase (LPL). Dette
 
 Metabolismen av fett er utdypet i egne artikler tilhørende [artikkelserien om metabolismen](../../metabolismen.html):
 
--   [Fettsyresyntese](../metabolismen/fettsyresyntese.qmd "Fettsyresyntese")
--   [Fettsyrenedbrytning - β-oksidasjon](../metabolismen/fettsyrenedbrytning.qmd "Fettsyrenedbrytning – β-oksidasjon")
--   [Langkjedede og umettede fettsyrer](../metabolismen/langkjedede-flerumettede.qmd "Langkjedede og umettede fettsyrer")
+-   [Fettsyresyntese](../metabolismen/fettsyresyntese.qmd)
+-   [Fettsyrenedbrytning - β-oksidasjon](../metabolismen/fettsyrenedbrytning.qmd)
+-   [Langkjedede og umettede fettsyrer](../metabolismen/langkjedede-flerumettede.qmd)
 
 ## Lipoproteiner
 
@@ -100,13 +100,13 @@ To av de mest sentrale cytokinene er:
 
 ## Eikosanoider
 
-De flerumettede fettsyrene, omega 3 og 6, gir opphav til noen hormonliknende stoffer som kalles eikosanoider. Disse produseres i små mengder i alle kroppens celler, og er med å regulere de fleste prosessene som skjer i kroppen. Mer om eikosanoider kan du lese [her](../omega-3-6.qmd "Omega-3 og Omega-6 i kostholdet").
+De flerumettede fettsyrene, omega 3 og 6, gir opphav til noen hormonliknende stoffer som kalles eikosanoider. Disse produseres i små mengder i alle kroppens celler, og er med å regulere de fleste prosessene som skjer i kroppen. Mer om eikosanoider kan du lese [her](../omega-3-6.qmd).
 
 ## Ketonlegemer
 
 Når fettsyrer brytes ned i leveren, produseres det ketonlegemer. Dette er vannløselige molekyler, som kan fraktes i blodet til målcellene og brukes som energi. Disse kan krysse blod-hjerne-barrieren, og gjør at hjernen får tilstrekkelig med energi selv om tilgangen på glukose er lav. Hele 75% av hjernens energibehov kan dekkes av ketoner. Inne i målcellene brukes ketonlegemene substrat til å lage ATP, kroppens primære energimolekyl.
 
-Jo lavere inntaket av [karbohydrater](karbohydrater.qmd "Karbohydrater") i kostholdet er, jo høyere blir produksjonen av ketonlegemer. Når konsentrasjonen av ketonlegemer i blodet blir større enn energibehovet til cellene er, kan ketonlegemene skilles ut i urinen, noe som kan måles.
+Jo lavere inntaket av [karbohydrater](karbohydrater.qmd) i kostholdet er, jo høyere blir produksjonen av ketonlegemer. Når konsentrasjonen av ketonlegemer i blodet blir større enn energibehovet til cellene er, kan ketonlegemene skilles ut i urinen, noe som kan måles.
 
 Dersom inntaket av karbohydrater er lavt nok til at vi kan måle ketonlegemer i urinen, sier vi at vi er i kostindusert ketose. En vanlig misforståelse er å forveksle dette med tilstanden ketoacidose, som kort fortalt er en overproduksjon av ketonlegemer kombinert med høyt blodsukker. Ketoacidose er en tilstand som kan oppstå hos diabetikere, der leveren kan sette igang produksjon av ketonlegemer til tross for at det er mye glukose tilgjengelig (høyt blodsukker).
 

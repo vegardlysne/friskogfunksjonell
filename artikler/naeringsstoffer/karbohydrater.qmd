@@ -26,7 +26,7 @@ Nede i magesekken fortsetter nedbrytningen ved hjelp av amylasen fra spyttet. Ko
 
 På overflaten av tarmcellene har vi enzymer, disakkaridaser, som bryter ned disakkaridene. Maltase, sukrase og laktase spalter hhv. maltose, sukrose og laktose. Til slutt står vi igjen med monosakkaridene glukose, fruktose og galaktose. Det finnes noen sjeldne, medfødte sykdommer som medfører disakkaridasemangel, noe som gjør at man ikke er i stand til å fordøye en eller flere typer disakkarider.
 
-For å krysse cellemembraner, er monosakkaridene avhengig av hjelp fra transportproteiner som heter GLUT (Glukosetransporter). Vi kjenner til fem slike transportproteiner, som finnes i alle kroppens celler. Opptaket til tarmcellene skjer hovedsakelig gjennom tre transportproteiner. GLUT2 og GLUT5 transporterer hhv. glukose og fruktose inn i cellene. Denne prosessen er passiv, og styres av konsentrasjoner på innsiden og utsiden av cellen. Et annet transportprotein, SGLT1 (Natriumkoblet glukosetransporter), sørger for en aktiv transport av glukose og galaktose sammen med [natrium](natrium-klor.qmd "Natrium og klor").
+For å krysse cellemembraner, er monosakkaridene avhengig av hjelp fra transportproteiner som heter GLUT (Glukosetransporter). Vi kjenner til fem slike transportproteiner, som finnes i alle kroppens celler. Opptaket til tarmcellene skjer hovedsakelig gjennom tre transportproteiner. GLUT2 og GLUT5 transporterer hhv. glukose og fruktose inn i cellene. Denne prosessen er passiv, og styres av konsentrasjoner på innsiden og utsiden av cellen. Et annet transportprotein, SGLT1 (Natriumkoblet glukosetransporter), sørger for en aktiv transport av glukose og galaktose sammen med [natrium](natrium-klor.qmd).
 
 Glukose fraktes fritt i blodet som blodsukker. Fruktose og galaktose omdannes til glukose i leveren, og lagres som glykogen eller sendes ut i blodet. De ulike GLUT-proteinene sørger for opptak av glukose fra blodet til kroppens ulike celler, slik at det kan brukes som energi.
 
@@ -44,19 +44,19 @@ Blodsukkeret er et mål på hvor raskt karbohydrater fra maten tas opp, og blods
 
 Metabolismen av karbohydrater utdypes i egne artikler:
 
--   [Glukosemetabolismen](../metabolismen/glukosemetabolismen.qmd "Glukosemetabolismen")
+-   [Glukosemetabolismen](../metabolismen/glukosemetabolismen.qmd)
 
--   [Fruktose- og galaktosemetabolismen](../metabolismen/fruktose-galaktose.qmd "Fruktose- og galaktosemetabolismen")
+-   [Fruktose- og galaktosemetabolismen](../metabolismen/fruktose-galaktose.qmd)
 
--   [Glykogenmetabolismen](../metabolismen/glykogenmetabolismen.qmd "Glykogenmetabolismen")
+-   [Glykogenmetabolismen](../metabolismen/glykogenmetabolismen.qmd)
 
 ## Funksjoner
 
 Karbohydrater har primært sin funksjon som energikilde, og bidrar med 4 kcal per gram. Inne i cellene foregår en prosess som heter glykolyse, som bryter ned glukose og frigir energi. Et biprodukt ved glykolyse er melkesyre, noe som merkes ved hard fysisk aktivitet, der glukose er hovedenergikilde. Cori syklus er en prosess der melkesyren blir omdannet til ny glukose, og dette foregår i leveren.
 
-Hvis vi har for mye glukose tilgjengelig, kan den lagres som glykogen. Dette foregår i [leveren](../fysiologi/lever.qmd "Leveren – metabolismens dirigent") (ca 100g, 10% av leverens vekt) og i skjelettmusklene (ca 400g, ca 1% av muskelvekten). Innlagring av karbohydrater på denne måten heter glykogensyntese. Nedbryting av muskelglykogen heter glykogenolyse, og gir glukosemolekyler som kan brytes ned ved glykolyse. Leverglykogenet brukes bare til å opprettholde blodsukkeret, mens muskelglykogen brukes som energikilde lokalt i musklene. Dette skyldes at muskelvevet mangler et nødvendig enzym for å kunne sende glukosen ut av cellene igjen. For idrettsprestasjon, er mengden muskelglykogen avgjørende for ytelsesevnen.
+Hvis vi har for mye glukose tilgjengelig, kan den lagres som glykogen. Dette foregår i [leveren](../fysiologi/lever.qmd) (ca 100g, 10% av leverens vekt) og i skjelettmusklene (ca 400g, ca 1% av muskelvekten). Innlagring av karbohydrater på denne måten heter glykogensyntese. Nedbryting av muskelglykogen heter glykogenolyse, og gir glukosemolekyler som kan brytes ned ved glykolyse. Leverglykogenet brukes bare til å opprettholde blodsukkeret, mens muskelglykogen brukes som energikilde lokalt i musklene. Dette skyldes at muskelvevet mangler et nødvendig enzym for å kunne sende glukosen ut av cellene igjen. For idrettsprestasjon, er mengden muskelglykogen avgjørende for ytelsesevnen.
 
-Ved mangel på glukose, kan kroppen danne egen glukose i en prosess som heter glukoneogenese (nydanning av glukose). Substrater for denne prosessen er aminosyrer fra nedbrutt protein, eller glycerol, som er et resultat av fettsyrenedbrytning. Vi kan altså lage glukose fra [protein](protein.qmd "Protein") og [fett](fett.qmd "Fett"). Denne funksjonen er livsviktig, og gjør oss i stand til å overleve uten å innta karbohydrater. Uten glukoneogenesen kunne vi aldri overlevd en istid f.eks.
+Ved mangel på glukose, kan kroppen danne egen glukose i en prosess som heter glukoneogenese (nydanning av glukose). Substrater for denne prosessen er aminosyrer fra nedbrutt protein, eller glycerol, som er et resultat av fettsyrenedbrytning. Vi kan altså lage glukose fra [protein](protein.qmd). Denne funksjonen er livsviktig, og gjør oss i stand til å overleve uten å innta karbohydrater. Uten glukoneogenesen kunne vi aldri overlevd en istid f.eks.
 
 Glykoproteiner er proteiner som har et sukkermolekyl bundet til seg. Dette gir proteinet spesielle egenskaper.
 
@@ -124,10 +124,10 @@ Alle er enige i at de raffinerte karbohydratene som finnes i sukker og fint mel 
 
 -   [Her er en studie som omhandler fruktose og fettlever](http://www.ncbi.nlm.nih.gov/pubmed/20368739)
 
--   [Innføring i lavkarbo](../lavkarbo-livsstil.qmd "En kort innføring i lavkarbokosthold og tilpasning til din livsstil")
+-   [Innføring i lavkarbo](../lavkarbo-livsstil.qmd)
 
 -   [Skribentpanel om lavkarbo](../skribentpanel-lavkarbo.qmd)
 
--   [FODMAP – fermenterbare karbohydrater som kanskje bør reduseres ved irritabel tarm?](../irritabel-tarm.qmd "Irritabel tarm og hva du kan gjøre med det!")
+-   [FODMAP – fermenterbare karbohydrater som kanskje bør reduseres ved irritabel tarm?](../irritabel-tarm.qmd)
 
--   [Medfødte sykdommer i karbohydratmetabolismen](../metabolismen/sykdommer-karbohydrat.qmd "Medfødte sykdommer i karbohydratmetabolismen")
+-   [Medfødte sykdommer i karbohydratmetabolismen](../metabolismen/sykdommer-karbohydrat.qmd)

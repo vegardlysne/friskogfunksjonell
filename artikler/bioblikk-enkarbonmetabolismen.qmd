@@ -5,7 +5,7 @@ date: 2013.09.16
 
 *Bioblikk er en spalte som retter fokus på biokjemiske prosesser eller stoffer som er sentrale for helsen men som ikke får stor oppmerksomhet ellers.*
 
-Enkarbonmetabolismen er et komplekst samspill der enkarbonenheter, molekyler bestående av ett karbonatom, overføres til og fra ulike forbindelser. Sentralt i enkarbonmetabolismen finner vi omdanningen mellom aminosyrene metionin og homocystein, og samspillet mellom disse er blant annet med på epigenetisk regulering og produksjon av andre molekyler som kreatin.  Sentrale forbindelser i enkarbonmetabolismen er aminosyrene metionin og homocystein. [Folat](brokenlink/folat/ "Folat, vitamin B9") og  betain, en metabolitt i [kolinmetabolismen](brokenlink/bioblikk-andre-bioaktive-stoffer-i-mat-choline/ "Bioblikk: Andre bioaktive stoffer i mat – Choline"), er viktige metyldonorer. B-vitaminene [B2](brokenlink/riboflavin/ "Riboflavin, vitamin B2"), [B6](brokenlink/b6/ "Pyridoksin, vitamin B6") og [B12](brokenlink/b12/ "Kobalamin, vitamin B12") er viktige kofaktorer for sentrale enzymer. I denne artikkelen vil jeg gi en overfladisk introduksjon i metabolske prosesser relatert til enkarbonmetabolismen, sentrert rundt bearbeidingen av homocystein.
+Enkarbonmetabolismen er et komplekst samspill der enkarbonenheter, molekyler bestående av ett karbonatom, overføres til og fra ulike forbindelser. Sentralt i enkarbonmetabolismen finner vi omdanningen mellom aminosyrene metionin og homocystein, og samspillet mellom disse er blant annet med på epigenetisk regulering og produksjon av andre molekyler som kreatin.  Sentrale forbindelser i enkarbonmetabolismen er aminosyrene metionin og homocystein. [Folat](naeringsstoffer/folat.qmd) er viktige kofaktorer for sentrale enzymer. I denne artikkelen vil jeg gi en overfladisk introduksjon i metabolske prosesser relatert til enkarbonmetabolismen, sentrert rundt bearbeidingen av homocystein.
 
 ## Metyleringsreaksjoner
 
@@ -17,7 +17,7 @@ Den viktigste metyldonoren i de fleste metyleringsreaksjonene i kroppen vår er 
 
 Figur 1. Adenosylmetionin som metyldonor
 
-Les mer utfyllende om [metyleringsreaksjoner](brokenlink/bioblikk-metyleringssyklus/ "Bioblikk: Metyleringssyklus").
+Les mer utfyllende om [metyleringsreaksjoner](brokenlink/bioblikk-metyleringssyklus/).
 
 ## Homocysteinmetabolismen
 

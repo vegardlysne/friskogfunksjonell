@@ -4,7 +4,7 @@ author: "Andrea Rørvik Marti"
 date: 2013.07.22
 ---
 
-[Tilbake til kildekritikk, vitenskap og tankefeil](../../kildekritikk.qmd "Kildekritikk, vitenskap og tankefeil")
+[Tilbake til kildekritikk, vitenskap og tankefeil](../../kildekritikk.qmd)
 
 Kognitiv bias er et begrep som beskriver visse systematiske «tankefeil» som rammer oss alle. Selv om vi liker å tro at vi alltid tenker logisk og rasjonelt, så viser det seg at vi i mange situasjoner har en tendens til å gjøre nesten det motsatte. Disse tankefeilene kan gi oss en rask og enkel løsning på et innviklet problem, men de representerer også et problem. I denne artikkelen vil jeg presentere to av de mest vanlige tankefeilene vi alle rammes av, og jeg kan garantere at du vil føle deg truffet! Uten at vi tenker over det begår vi alle slike feil fra tid til annen, men ved å ha kunnskap om dem vil du kanskje være bedre rustet til å unngå bias og dermed kunne tenke klarere.
 

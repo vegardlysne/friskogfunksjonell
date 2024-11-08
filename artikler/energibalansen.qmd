@@ -47,7 +47,7 @@ Om du er i energibalanse kan det likevel skje endringer i kroppssammensetningen 
 
 Overvekt er per definisjon en opphopning av fettvev, og defineres ut ifra BMI-grenser. Fettvevet er vårt soleklart største energilager, så en positiv energibalanse over tid vil resultere i at vi legger på oss fettvev.
 
-[BMI er ikke et godt selvstendig mål for enkeltindividet](brokenlink/bmi-og-verdien-av-dette/ "BMI og verdien av dette"), siden det ikke tar hensyn til kroppssammensetningen, så i stedet for å se på vekten isolert, bør man derfor også ta hensyn til endringer i kroppssammensetningen. En økning av muskelmassen vil som nevnt være positivt for insulinsensitiviteten, mens en økning av fettmassen vil ha negative effekter. **Hvis vekten står stille mens kroppsstørrelsen går ned, er dette et tegn på at du reduserer fettmassen din, siden en kg fett tar mer plass enn en kg muskler.** Derfor er det nyttig å ta i bruk målebånd i tillegg til vekten når du skal bedømme resultatene dine!
+[BMI er ikke et godt selvstendig mål for enkeltindividet](brokenlink/bmi-og-verdien-av-dette/), siden det ikke tar hensyn til kroppssammensetningen, så i stedet for å se på vekten isolert, bør man derfor også ta hensyn til endringer i kroppssammensetningen. En økning av muskelmassen vil som nevnt være positivt for insulinsensitiviteten, mens en økning av fettmassen vil ha negative effekter. **Hvis vekten står stille mens kroppsstørrelsen går ned, er dette et tegn på at du reduserer fettmassen din, siden en kg fett tar mer plass enn en kg muskler.** Derfor er det nyttig å ta i bruk målebånd i tillegg til vekten når du skal bedømme resultatene dine!
 
 ## Retrospektiv og prospektiv bruk av energibalanselikningen
 

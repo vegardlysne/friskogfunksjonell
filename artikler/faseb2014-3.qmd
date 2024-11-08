@@ -7,11 +7,11 @@ Morgenøkten på konferansens tredje dag var dedikert til transsulfureringsveien
 
 Mer fra konferansen:
 
--   [FASEB dag 1](faseb2014-1.qmd "Folat, vitamin B12 og enkarbonmetabolisme – FASEB dag 1")
+-   [FASEB dag 1](faseb2014-1.qmd)
 
--   [FASEB dag 2, økt 1](faseb2014-2a.qmd "Folat, Vitamin B12 og enkarbonmetabolisme – FASEB dag 2, økt 1")
+-   [FASEB dag 2, økt 1](faseb2014-2a.qmd)
 
--   [FASEB dag 2, økt 2](faseb2014-2b.qmd "Folat, Vitamin B12 og enkarbonmetabolisme – FASEB dag 2, økt 2")
+-   [FASEB dag 2, økt 2](faseb2014-2b.qmd)
 
 ## Oksidativt stress som patologisk mekanisme ved CBS-mangel
 
@@ -47,6 +47,6 @@ Martha Stipanuk fortalte oss om en dyremodell der de har undersøkt mus som mang
 
 ## Hyperhomocysteinemi og risiko, underliggende mekanismer
 
-Kveldens første foredrag, og det eneste jeg fikk med meg, ble holdt av Hong Wang. Hyperhomocysteinemi er velkjent som en risikofaktor for hjertesykdom, men de underliggende mekanismene er ikke kartlagt. Wang presenterte data som underbygger at hypometylering av DNA kan være en underliggende mekanisme som forklarer noe av denne risikoen. Akkumulering av homocystein gir nemlig en opphopning av S-adenosyhomocystein, som effektivt hemmer metyltransferaser og dermed også kan redusere DNA-metylering og påvirke genuttrykk, i tillegg til å redusere metylering av proteiner som også kan påvirke risikoen.  De har vist at hyperhomocysteinemi akselererer [den aterosklerotiske prosessen](fysiologi/hjerte4.qmd "Aterosklerose – Hva og Hvordan"), undertrykker vekst av endotelceller og fremmer inflammasjon via å redusere DNA-metylering. Arbeidsmodellen er oppsummert på følgende slide som ble vist under foredraget.
+Kveldens første foredrag, og det eneste jeg fikk med meg, ble holdt av Hong Wang. Hyperhomocysteinemi er velkjent som en risikofaktor for hjertesykdom, men de underliggende mekanismene er ikke kartlagt. Wang presenterte data som underbygger at hypometylering av DNA kan være en underliggende mekanisme som forklarer noe av denne risikoen. Akkumulering av homocystein gir nemlig en opphopning av S-adenosyhomocystein, som effektivt hemmer metyltransferaser og dermed også kan redusere DNA-metylering og påvirke genuttrykk, i tillegg til å redusere metylering av proteiner som også kan påvirke risikoen.  De har vist at hyperhomocysteinemi akselererer [den aterosklerotiske prosessen](fysiologi/hjerte4.qmd), undertrykker vekst av endotelceller og fremmer inflammasjon via å redusere DNA-metylering. Arbeidsmodellen er oppsummert på følgende slide som ble vist under foredraget.
 
 ![](images/clipboard-3893749826.png)

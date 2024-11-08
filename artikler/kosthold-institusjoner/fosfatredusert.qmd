@@ -4,13 +4,13 @@ author: "Ingvild Thun"
 date: 2013.11.11
 ---
 
-Tilbake til [kosthold i helseinstitusjoner](../../kosthold-institusjoner.qmd "Kosthold i helseinstitusjoner").
+Tilbake til [kosthold i helseinstitusjoner](../../kosthold-institusjoner.qmd).
 
 Maten vi spiser inneholder makronæringsstoffene karbohydrat, protein og fett, men også viktige mikronæringsstoffer i form av vitaminer, mineraler og sporstoffer. Mineraler er grunnstoffer som kroppen trenger mye av daglig (over 100mg), og fosfor er et slikt mineral. Likevel er det noen som har behov for å begrense inntaket grunnet problemer med å regulere nivåene, og disse trenger fosfatredusert kost.
 
 Fosfor er et essensielt element for hver eneste celle i kroppen vår, og er det mineralet vi har nest mest av i kroppen; 25 % av den totale mineralmengden i kroppen. Det er spesielt viktig for beinmineraliseringen da det utgjør en stor andel av skjelett og tenner, og 80 % av fosforet er altså bundet til kalsium i bein. Andre viktige områder er i plasmamebraner i form av fosfolipider samt energiproduksjon og – lagring. 
 
-[Fosfor](../naeringsstoffer/fosfor.qmd "Fosfor") finnes i ulike former, og i matvarer er det i form av uorganisk fosfat, derav fosfatredusertkost.
+[Fosfor](../naeringsstoffer/fosfor.qmd) finnes i ulike former, og i matvarer er det i form av uorganisk fosfat, derav fosfatredusertkost.
 
 ## Målgruppe
 
@@ -24,7 +24,7 @@ Matvarer med høyt innhold av fosfat er melk og meieriprodukter, egg (hovedsakel
 
 ## Utfordringer
 
-Et åpenbart problem er å begrense fosfatinntaket ved samtidig høyt proteinbehov. Et viktig poeng er at fosfatreduksjonen ikke skal gå på bekostning av anbefalt proteininntak. Matvarene som må begrenses er i tillegg ofte rike på andre viktige næringsstoffer enn protein, spesielt gjelder det for melkeprodukter og [kalsium](../naeringsstoffer/kalsium.qmd "Kalsium"). For å dekke kalsiumbehovet bør man ta tilskudd, eventuelt bruk av kalsiumholdige fosfatbindere. For optimal absorpsjon og nyttiggjørelse av kalsium bør også inntaket av [vitamin D](../naeringsstoffer/dvitamin.qmd "D-vitamin") sikres.
+Et åpenbart problem er å begrense fosfatinntaket ved samtidig høyt proteinbehov. Et viktig poeng er at fosfatreduksjonen ikke skal gå på bekostning av anbefalt proteininntak. Matvarene som må begrenses er i tillegg ofte rike på andre viktige næringsstoffer enn protein, spesielt gjelder det for melkeprodukter og [kalsium](../naeringsstoffer/kalsium.qmd) sikres.
 
 ## Råd for fosfatrestriksjon
 

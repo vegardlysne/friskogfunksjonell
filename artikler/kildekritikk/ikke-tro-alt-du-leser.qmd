@@ -19,7 +19,7 @@ En stor andel av artikler som omtaler helse refererer til vitenskapelige studier
 
 Et mye brukt eksempel er at iskremsalg og antall drukninger korrelerer i løpet av året. Om sommeren ser man høyere forekomst både av drukning og av iskremsalg. Men dette betyr selvfølgelig ikke at det å kjøpe iskrem øker sjansene for å drukne – på sommerstid er det varmt i været, hvilket fører til økt iskremsalg og flere drukningsulykker som følge av mer tid brukt i og ved vannet. Dette eksempelet høres kanskje åpenbart ut, men slike feiltolkninger av observasjonsdata dukker opp i avisene altfor ofte.
 
-**Les om det å tolke studier i [denne artikkelen](signifikans.qmd "Signifikans og alt det der").**
+**Les om det å tolke studier i [denne artikkelen](signifikans.qmd).**
 
 Derfor, når du leser en artikkel som påstår at «X fører til Y» kan det være veldig lurt å stoppe opp og tenke på hvilke andre faktorer som kanskje kan spille inn her. Er det for eksempel mest sannsynlig at [dagdrømming bak rattet medfører høyere ulykkesrisiko enn mobilbruk](http://www.vg.no/bil-og-motor/artikkel.php?artid=10109958) når man kjører bil, eller kan det være slik at dagdrømming bak rattet rett og slett er mye mer vanlig enn mobilbruk, og at man dermed vil se en høyere forekomst av ulykker forårsaket av dette?
 

@@ -7,9 +7,9 @@ Veldig mange går rundt med planer om å gjøre endringer i kostholdet. Målsetn
 
 ## Tenk livsstil, ikke diett
 
-Det første du bør tenke på er at dersom du vil oppnå varige resultater, så må du belage deg på å gjøre varige endringer. Alle dietter vil fungere så lenge du holder deg til dem, men om du av ulike årsaker ikke klarer å følge dietten over tid så vil [resultatene i de fleste tilfellene også bli midlertidige](brokenlink/midlertidige-losninger/ "Midlertidige løsninger – midlertidige resultater"). Fokuser på å gjøre små endringer som du kan leve med.
+Det første du bør tenke på er at dersom du vil oppnå varige resultater, så må du belage deg på å gjøre varige endringer. Alle dietter vil fungere så lenge du holder deg til dem, men om du av ulike årsaker ikke klarer å følge dietten over tid så vil [resultatene i de fleste tilfellene også bli midlertidige](brokenlink/midlertidige-losninger/). Fokuser på å gjøre små endringer som du kan leve med.
 
-Ekstreme løsninger vil gi raskere resultater, men dette er ofte snakk om kortvarige gleder, så det kan være fornuftig å heller ha et mer langvarig perspektiv. Tenk at det helsemessige utgangspunktet du har nå er et resultat av valgene du har tatt over mange år, og du bør derfor ikke forvente en helomvending på kort tid. [Tenk livsstil, ikke diett!](brokenlink/diett-eller-livsstilsendring/ "Diett eller livsstilsendring?")
+Ekstreme løsninger vil gi raskere resultater, men dette er ofte snakk om kortvarige gleder, så det kan være fornuftig å heller ha et mer langvarig perspektiv. Tenk at det helsemessige utgangspunktet du har nå er et resultat av valgene du har tatt over mange år, og du bør derfor ikke forvente en helomvending på kort tid. [Tenk livsstil, ikke diett!](brokenlink/diett-eller-livsstilsendring/)
 
 **Dine personlige preferanser er veldig viktig når det gjelder valg av både diett og spisemønster**. Hvis du ikke kan forestille deg å leve uten brød, potet, ris og frukt er ikke en ketogen diett nødvendigvis det lureste valget for deg, uansett hvor mye positivt du har hørt om et slikt kosthold. Trives du veldig godt med å spise med en gang du står opp, er kanskje ikke periodisk faste det lureste valget. Syns du poteter og ris er unødvendig magefyll og egentlig er mest interessert i kjøttet, fisken og sausen, kan lavkarbo være det naturlige valget.
 
@@ -19,7 +19,7 @@ Selv om du har mange forskjellige kostholdsstrategier å velge mellom, er det et
 
 #### Velg gode proteinkilder
 
-[Protein](naeringsstoffer/protein.qmd "Protein") er kroppens byggestener, og dersom du over tid ikke dekker behovene for protein vil dette gå utover den fettfrie massen din, altså muskelvev. Så lenge du er i energibalanse er ikke proteinbehovet så veldig stort, og det er beregnet at ca 0,8g/kg kroppsvekt vil være tilstrekkelig for å opprettholde muskelmassen. Dette forutsetter at proteinet kommer fra gode kilder, såkalt fullverdig protein. Av denne grunn er anbefalingene satt høyere, for å sikre et tilstrekkelig inntak av de essensielle aminosyrene.
+[Protein](naeringsstoffer/protein.qmd) er kroppens byggestener, og dersom du over tid ikke dekker behovene for protein vil dette gå utover den fettfrie massen din, altså muskelvev. Så lenge du er i energibalanse er ikke proteinbehovet så veldig stort, og det er beregnet at ca 0,8g/kg kroppsvekt vil være tilstrekkelig for å opprettholde muskelmassen. Dette forutsetter at proteinet kommer fra gode kilder, såkalt fullverdig protein. Av denne grunn er anbefalingene satt høyere, for å sikre et tilstrekkelig inntak av de essensielle aminosyrene.
 
 Hvor mye protein du bør spise er det mange meninger om, og anbefalingene spriker fra 1g/kg og opp til 5g/kg hos de mest ekstreme kroppsbyggerne. Som i mange andre situasjoner kan det også her være fornuftig å finne en mellomting.
 
@@ -29,7 +29,7 @@ Generelt vil proteiner fra animalsk mat være av høyere kvalitet enn vegetabils
 
 #### Sørg for å dekke behovet for essensielle fettsyrer
 
-Omega-3 og omega-6 er to fettsyregrupper vi ikke kan produsere selv, og er derfor regnet som essensielle. De færreste har noe problem med å få i seg nok omega-6, og det er heller vanlig å få i seg for lite omega-3 i forhold. Disse fettsyrene gir opphav til noen signalstoffer som heter eikosanoider, og eikosanoidene fra henholdsvis omega-3 og omega-6 gir mer eller mindre motsatte effekter. Det er derfor viktig å ha et [noenlunde fornuftig forhold mellom disse](brokenlink/omega-3-og-omega-6-i-kostholdet/ "Omega-3 og Omega-6 i kostholdet"), og for de aller fleste innebærer dette å øke inntaket av omega-3.
+Omega-3 og omega-6 er to fettsyregrupper vi ikke kan produsere selv, og er derfor regnet som essensielle. De færreste har noe problem med å få i seg nok omega-6, og det er heller vanlig å få i seg for lite omega-3 i forhold. Disse fettsyrene gir opphav til noen signalstoffer som heter eikosanoider, og eikosanoidene fra henholdsvis omega-3 og omega-6 gir mer eller mindre motsatte effekter. Det er derfor viktig å ha et [noenlunde fornuftig forhold mellom disse](omega-3-6.qmd), og for de aller fleste innebærer dette å øke inntaket av omega-3.
 
 For å oppnå dette kan du enten øke inntaket av fisk og annen sjømat, eller benytte deg av et omega-3-tilskudd. Hvis du velger tilskudd er det greit å gå for en flytende versjon, siden dette både er billigere og det er lettere å merke om oljen er harsk.
 
@@ -39,12 +39,12 @@ Er det noe ekspertene enes om, så er det at vi burde spise mer grønnsaker. Gr�
 
 ## Hvilken diett skal jeg så velge?
 
-Det du skal ta med deg fra denne artikkelen er at mange forskjellige kosthold kan fungere, og det viktigste er at du finner et kosthold som fungerer for deg. Om du skal kalle kostholdet ditt for [lavkarbo eller lavfett](brokenlink/lavkarbo-eller-lavfett-er-dette-riktig-fokus/ "Lavkarbo eller lavfett, er dette riktig fokus?") er etter min mening feil fokus, og du bør heller tenke på hvilken mat du faktisk velger å spise. Mennesket er utrolig tilpasningsdyktig, og lever fint på et bredt spekter av kostholdsvarianter, så **ikke lås deg til et bestemt kosthold fordi en ekspert sier at det er best!** Husk at [om noe er sunt vil i stor grad avhenge av sammenhengen.](brokenlink/betydningen-av-kontekst/ "Sunt eller usunt – betydningen av kontekst")
+Det du skal ta med deg fra denne artikkelen er at mange forskjellige kosthold kan fungere, og det viktigste er at du finner et kosthold som fungerer for deg. Om du skal kalle kostholdet ditt for [lavkarbo eller lavfett](brokenlink/lavkarbo-eller-lavfett-er-dette-riktig-fokus/)
 
-Velg derfor et kosthold som passer deg og din livssituasjon, og dette gjelder både valg av matvarer og spisemønster. Er du ikke sulten om morningen og trives med å spise deg god og mett på store måltider, kan [periodisk faste](brokenlink/periodisk-faste-til-jul/ "Periodisk faste til jul?") være et godt alternativ. Liker du å spise mindre, men oftere, så gjør du det. Jobb- og familiesituasjon er typiske faktorer som påvirker hvilket spisemønster som er best egnet for den enkelte.
+Velg derfor et kosthold som passer deg og din livssituasjon, og dette gjelder både valg av matvarer og spisemønster. Er du ikke sulten om morningen og trives med å spise deg god og mett på store måltider, kan [periodisk faste](brokenlink/periodisk-faste-til-jul/) være et godt alternativ. Liker du å spise mindre, men oftere, så gjør du det. Jobb- og familiesituasjon er typiske faktorer som påvirker hvilket spisemønster som er best egnet for den enkelte.
 
-Aktivitetsnivået er også en viktig faktor å ta hensyn til, og er du mer aktiv trenger du også mer påfyll av energi. Et karbohydratredusert kosthold kan fungere veldig bra for både inaktive og aktive mennesker, men [trener du masse trenger du ikke nødvendigvis å gå for den mest ekstreme varianten](brokenlink/en-enkel-innforing-i-lavkarbokosthold/ "En kort innføring i lavkarbokosthold og tilpasning til din livsstil").
+Aktivitetsnivået er også en viktig faktor å ta hensyn til, og er du mer aktiv trenger du også mer påfyll av energi. Et karbohydratredusert kosthold kan fungere veldig bra for både inaktive og aktive mennesker, men [trener du masse trenger du ikke nødvendigvis å gå for den mest ekstreme varianten](brokenlink/en-enkel-innforing-i-lavkarbokosthold/).
 
-Ta også hensyn til din helsesituasjon. Har du f.eks. diabetes type 2 er det [enkelte kosthold som egner seg bedre enn andre](brokenlink/hvordan-bor-en-diabetiker-spise/ "Hvordan bør en diabetiker spise?"), og sliter du med [irritabel tarm](brokenlink/irritabel-tarm-og-hva-du-kan-gjore-med-det/ "Irritabel tarm og hva du kan gjøre med det!") er dette noe som bør påvirke dine valg i matveien. Allergier og intoleranser påvirker selvfølgelig også kostholdet til de som sliter med dette.
+Ta også hensyn til din helsesituasjon. Har du f.eks. diabetes type 2 er det [enkelte kosthold som egner seg bedre enn andre](brokenlink/hvordan-bor-en-diabetiker-spise/) er dette noe som bør påvirke dine valg i matveien. Allergier og intoleranser påvirker selvfølgelig også kostholdet til de som sliter med dette.
 
 ##### Hvordan ser ditt kosthold ut?

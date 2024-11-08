@@ -39,27 +39,27 @@ For å få dette til er det flere ting å ta hensyn til:
 
 Gode resultater forutsetter selvfølgelig at du gjør gode valg i matveien. Alle skjønner at det ikke er et sjakktrekk å spise chips og brus til hvert måltid, men hva bør du egentlig spise? Her på siden finner du flere artikler som tar for seg dette med kosthold, og flere vil komme i fremtiden:
 
--   [Våre råd for bedre helse](helserad.qmd "Våre råd for bedre helse")
+-   [Våre råd for bedre helse](helserad.qmd)
 
--   [Diett eller livsstilsendring?](diett-livsstilsendring.qmd "Diett eller livsstilsendring?")
+-   [Diett eller livsstilsendring?](diett-livsstilsendring.qmd)
 
--   [Innføring i lavkarbo på en fornuftig måte](lavkarbo-livsstil.qmd "En kort innføring i lavkarbokosthold og tilpasning til din livsstil")
+-   [Innføring i lavkarbo på en fornuftig måte](lavkarbo-livsstil.qmd)
 
--   3 tiltak for et bedre kosthold, [del 1](kosthold-tiltak-1.qmd "3 enkle tiltak som kan forbedre kostholdet ditt") og [del 2](kosthold-tiltak-2.qmd "3 tiltak som kan forbedre kostholdet ditt, del 2")
+-   3 tiltak for et bedre kosthold, [del 1](kosthold-tiltak-1.qmd)
 
--   [Hva er periodisk faste?](periodisk-faste-jul "Periodisk faste til jul?")
+-   [Hva er periodisk faste?](periodisk-faste-jul)
 
 I denne artikkelen har jeg fokusert på kostholdet, men den fysiske aktiviteten er selvfølgelig også sentral, og her gjelder det samme som ved kosthold, nemlig at du må gjøre varige endringer. Å trene mye i en periode for så å slutte vil ikke gi deg særlig gode resultater i lengden. **Da er det bedre å gradvis gjøre endringer som er lette å opprettholde, slik at fysisk aktivitet etterhvert blir en naturlig del av livet ditt!**
 
 Det ligger flere artikler her på siden som kan hjelpe deg i gang med treningen:
 
--   [Aktivitetsnivå og helse](aktivitet-helse.qmd "Aktivitetsnivå og helse")
+-   [Aktivitetsnivå og helse](aktivitet-helse.qmd)
 
--   [Tren som en idrettsutøver](tren-som-en-idrettsutover.qmd "Tren som en idrettsutøver – se ut som en!")
+-   [Tren som en idrettsutøver](tren-som-en-idrettsutover.qmd)
 
--   [Nybegynnerkurs i utholdenhetstrening](utholdenhet.qmd "Nybegynnerkurs i utholdenhetstrening")
+-   [Nybegynnerkurs i utholdenhetstrening](utholdenhet.qmd)
 
--   Bli sterkere med mengdetrening, [del 1](mengdetrening-1.qmd "Bli sterkere med mengdetrening (Del 1)") og [del 2](mengdetrening-2.qmd "Bli sterkere med mengdetrening (Del 2)")
+-   Bli sterkere med mengdetrening, [del 1](mengdetrening-1.qmd)
 
 En ting er sikkert, om du gjør midlertidige endringer i livsstilen din, så vil resultatene garantert også bli midlertidige. Går du tilbake til det du gjorde før, så vil kroppen din også i de fleste tilfeller gå tilbake til slik den så ut før. Jeg håper at du etter å ha lest denne artikkelen er motivert til å gjøre endringer i din egen livsstil, og at du skjønner at midlertidige løsninger ikke er veien å gå!
 

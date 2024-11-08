@@ -10,7 +10,7 @@ Karnitin er et molekyl som vi mennesker produserer selv, men som vi også får i
 
 ## Introduksjon
 
-Karnitin er en biologisk aktiv aminosyre som dannes fra de essensielle aminosyrene lysin og metionin. Molekylet er av en slik struktur at det fungerer ypperlig til binding av korte-, medium- og langkjedete fettsyrer så vel som organiske syrer. Esterifisering til karnitin tillater overføring av aktiverte acylgrupper (som oftest i form av fettsyrer) over membranen til cellulære organeller, og da spesielt mitokondriemembranen i forbindelse med mitokondriell [beta-oksidasjon](brokenlink/fettsyrenedbrytning/ "Fettsyrenedbrytning – β-oksidasjon") av fettsyrer i [energimetabolismen](brokenlink/metabolismen/ "Metabolismen").
+Karnitin er en biologisk aktiv aminosyre som dannes fra de essensielle aminosyrene lysin og metionin. Molekylet er av en slik struktur at det fungerer ypperlig til binding av korte-, medium- og langkjedete fettsyrer så vel som organiske syrer. Esterifisering til karnitin tillater overføring av aktiverte acylgrupper (som oftest i form av fettsyrer) over membranen til cellulære organeller, og da spesielt mitokondriemembranen i forbindelse med mitokondriell [beta-oksidasjon](brokenlink/fettsyrenedbrytning/).
 
 ## Syntese og metabolisme
 
@@ -18,7 +18,7 @@ Etter proteinsyntese metyleres forskjellige proteiner som aktin, myosin, ATP syn
 
 Ettersom at muskelproteinene aktin og myosin er av de viktigste kildene til TML, er det kanskje ikke overraskende at mesteparten av kroppens intracellulære karnitin-pool finnes i skjelettmuskulatur. Ekstracellulært (i plasma) finner vi andre varianter som acetyl-karnitin og mindre andél propionyl-karnitin samt langkjedete acyl-karnitiner.
 
-Transport av karnitin inn i vev er fascilitert av en organisk kation transportør (OCTN2). Denne er avhengig av natrium og uttrykkes i stor grad i [nyrer](brokenlink/nyre-1/ "Nyrene del 1 – Oppbygging og glomerulær filtrasjonsrate"), skjelettmuskulatur, hjerte, placenta og pankreas.  Nyrene er spesielt viktig for vedlikehold av kroppens karninthomeostase og normalt sett blir 90-98% av karnitin filtrert og reabsorbert av mennesker. OCTN2 i nyremembranen er ansvarlig for reabsorpsjon av karntiner. Denne reabsorpsjonen synker rast etter inntak av karnitin gjennom mat og tilskudd.
+Transport av karnitin inn i vev er fascilitert av en organisk kation transportør (OCTN2). Denne er avhengig av natrium og uttrykkes i stor grad i [nyrer](brokenlink/nyre-1/), skjelettmuskulatur, hjerte, placenta og pankreas.  Nyrene er spesielt viktig for vedlikehold av kroppens karninthomeostase og normalt sett blir 90-98% av karnitin filtrert og reabsorbert av mennesker. OCTN2 i nyremembranen er ansvarlig for reabsorpsjon av karntiner. Denne reabsorpsjonen synker rast etter inntak av karnitin gjennom mat og tilskudd.
 
 ## Behov og kilder
 

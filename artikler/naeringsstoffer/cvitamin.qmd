@@ -70,6 +70,6 @@ C-vitamin er et veldig ustabilt vitamin, og betydelige mengder går tapt under b
 
 -   Høyt inntak av C-vitamin er satt i sammenheng med høyere beinmineraltetthet hos eldre. Nyere studier har identifisert en mulig effekt som kofaktor for enzymatiske reaksjoner i regulering av osteoblastdifferensiering.
 
--   [Er C-vitamin-tilskudd verdt pengene?](../vitamin-c-tilskudd.qmd "Vitamin C-tilskudd og immunsystemet ditt – Noe å bruke penger på?")
+-   [Er C-vitamin-tilskudd verdt pengene?](../vitamin-c-tilskudd.qmd)
 
 Artikkelen er oppdatert juli 2013

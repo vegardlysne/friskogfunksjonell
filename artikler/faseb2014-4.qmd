@@ -7,19 +7,19 @@ Grunnet ny jobb og en del annet på agendaen i det siste har det dessverre tatt 
 
 Mer fra konferansen:
 
--   [FASEB dag 1](faseb2014-1.qmd "Folat, vitamin B12 og enkarbonmetabolisme – FASEB dag 1")
+-   [FASEB dag 1](faseb2014-1.qmd)
 
--   [FASEB dag 2, økt 1](faseb2014-2a.qmd "Folat, Vitamin B12 og enkarbonmetabolisme – FASEB dag 2, økt 1")
+-   [FASEB dag 2, økt 1](faseb2014-2a.qmd)
 
--   [FASEB dag 2, økt 2](faseb2014-2b.qmd "Folat, Vitamin B12 og enkarbonmetabolisme – FASEB dag 2, økt 2")
+-   [FASEB dag 2, økt 2](faseb2014-2b.qmd)
 
--   [FASEB dag 3](faseb2014-3.qmd "Folat, Vitamin B12 og enkarbonmetabolisme – FASEB dag 3")
+-   [FASEB dag 3](faseb2014-3.qmd)
 
 ## Dag 4
 
 #### Folat og autisme
 
-Rebecka Schmidt hadde dagens første foredrag, med tittelen "Folate and DNA Methylation in Autism Etiology". Hennes forskning har vist at risikoen for å føde et barn med autisme er økt hos mødre som har hatt et lavt inntak av folat tidlig i svangerskapet, spesielt den første måneden. Dette er også vist i flere andre studier, deriblant den norske Mor og Barn-undersøkelsen. Hun diskuterte hvorvidt endret [DNA-metylering](bioblikk-epigenetikk.qmd "Bioblikk: DNA-metylering og epigenetikk") kunne være en mekanistisk årsak.
+Rebecka Schmidt hadde dagens første foredrag, med tittelen) kunne være en mekanistisk årsak.
 
 #### Posterpresentasjon
 

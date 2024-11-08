@@ -3,7 +3,7 @@ title: "Hypotalamus, hypofysen og binyrene"
 date: "2011.12.14"
 ---
 
-Tilbake til [innføringen i hormonsystemet](../../hormonsystemet.qmd "En innføring i hormonsystemet").
+Tilbake til [innføringen i hormonsystemet](../../hormonsystemet.qmd).
 
 Hypotalamus, hypofysen og binyrene er veldig sentrale kjertler i hormonsystemet. Hypotalamus er det overordnede senteret både for det autonome nervesystemet og for hormonsystemet, mens hypofysen med sine hormoner styrer resten av det endokrine systemet. Binyrene produserer mange viktige hormoner, blant annet adrenalin og kortisol.
 
@@ -31,7 +31,7 @@ Hypofysen *(pituitary gland)* kan deles i to deler, forlappen og baklappen. Bakl
 
 -   **PL – prolaktin**. Stimulerer vekst og melkeproduksjon i brystkjertlene.
 
-Disse hormonene er presentert i en egen artikkel [her](hypofysehormonene.qmd "Hypofysehormonene").
+Disse hormonene er presentert i en egen artikkel [her](hypofysehormonene.qmd).
 
 Produksjonen av disse hormonene stimuleres av signaler fra hypotalamus. I tillegg til å virke på sine respektive målorganer, har disse hormonene en hemmende effekt på hypotalamus. Dette kalles negativ tilbakekobling, og hindrer overproduksjon av hormoner. Hormonene som produseres i de øvrige endokrine kjertlene har negativ tilbakekobling både på hypofysen og hypotalamus, slik at hele systemet er veldig nøye regulert.
 

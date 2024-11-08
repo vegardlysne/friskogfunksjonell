@@ -7,9 +7,9 @@ Dagens andre økt hadde det overordnede temaet betain homocystein metyltransfera
 
 Mer fra konferansen:
 
--   [FASEB dag 1](faseb2014-1.qmd "Folat, vitamin B12 og enkarbonmetabolisme – FASEB dag 1")
+-   [FASEB dag 1](faseb2014-1.qmd)
 
--   [FASEB dag 2, økt 1](faseb2014-2a.qmd "Folat, Vitamin B12 og enkarbonmetabolisme – FASEB dag 2, økt 1")
+-   [FASEB dag 2, økt 1](faseb2014-2a.qmd)
 
 ## BHMT – struktur og funksjon
 

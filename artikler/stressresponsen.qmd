@@ -16,7 +16,7 @@ Her følger en oversikt over endringene som skjer i kroppen ved stressrespons i 
 
 ### 1. Hjerneaktivering
 
-Hjernen blir gjennom sanseinntrykk (syn, hørsel, lukt, smak eller berøring) gjort oppmerksom på en stimulus. Hjernen har i oppgave å holde oversikt over alle de ting som foregår både i vårt ytre og indre miljø, og passe på at alt er i balanse ([homeostase](brokenlink/homeostase/ "Homeostase")). Det første som skjer er at en stimulus tolkes som et tegn på at noe er i ubalanse, og tiltak må innsettes for å gjenopprette balansen. Dette merkes ved at vi blir mer våkne, og at elektrisk hjerneaktivitet øker. Metabolske endringer forekommer også, samt endringer i blodtilførselen til hjernen. Dette skjer i løpet av sekunder og minutter etter at stimulusen har blitt oppdaget.
+Hjernen blir gjennom sanseinntrykk (syn, hørsel, lukt, smak eller berøring) gjort oppmerksom på en stimulus. Hjernen har i oppgave å holde oversikt over alle de ting som foregår både i vårt ytre og indre miljø, og passe på at alt er i balanse ([homeostase](brokenlink/homeostase/)). Det første som skjer er at en stimulus tolkes som et tegn på at noe er i ubalanse, og tiltak må innsettes for å gjenopprette balansen. Dette merkes ved at vi blir mer våkne, og at elektrisk hjerneaktivitet øker. Metabolske endringer forekommer også, samt endringer i blodtilførselen til hjernen. Dette skjer i løpet av sekunder og minutter etter at stimulusen har blitt oppdaget.
 
 ### 2. Atferdsaktivering
 
@@ -28,7 +28,7 @@ Responsene i adferd skjer samtidig med endringer i autonome og vegetative nerver
 
 ### 4. Psykoendokrin aktivering
 
-De neste endringene som skjer er saktere, mer generelle, og påvirker de fleste [cellene](brokenlink/cellen/ "Cellen") i kroppen. I løpet av få sekunder vil hypofysen begynne å skille ut [hormoner](brokenlink/hormonsystemet/ "En innføring i hormonsystemet"). Deretter vil sekundære hormoner som for eksempel kortisol, adrenalin og thyroxin skilles ut. Kortisol bidrar hovedsakelig til å regulere opp blodsukker, men har også andre roller under stressresponsen. Adrenalin bidrar til å øke blodtilførsel til muskler og vitale organer, øke frigjøring av energisubstrat, samt øke puls og blodtrykk. Thyroxin (T4) bidrar gjennom sin omdanning til stoffskiftehormonet trijodotyronin (T3) også til oppregulering av [metabolisme](brokenlink/metabolismen/ "Metabolismen") og blodsirkulasjon, og er trolig delaktig i å «finregulere» effektene av adrenalin og kortisol. Det kan ta cirka 10-15 minutter før disse hormonene når sine høyeste nivåer.
+De neste endringene som skjer er saktere, mer generelle, og påvirker de fleste [cellene](brokenlink/cellen/) og blodsirkulasjon, og er trolig delaktig i å «finregulere» effektene av adrenalin og kortisol. Det kan ta cirka 10-15 minutter før disse hormonene når sine høyeste nivåer.
 
 ## Helt til slutt
 

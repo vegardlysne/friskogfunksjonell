@@ -40,7 +40,7 @@ Remetylering av homocystein til metionin er en veldig viktig reaksjon. Metionin 
 
 Syntese av puriner og pyrimidiner, som er baser i DNA og RNA er avhengig av overføring av et formyl- eller metylen-molekyl. FormylTHF eller MetylenTHF overfører dette molekylet, og er derfor viktig i syntesen av både DNA og RNA. Dette er sentralt i celledelingen, der nytt DNA og RNA må produseres.
 
-Omdanning fra en aminosyre til en annen ([transaminering](../metabolismen/proteinmetabolismen.qmd "Proteinmetabolismen")) er i mange tilfeller avhengig av THF. Dette er viktig i proteinsyntesen, for at kroppen skal kunne lage de aminosyrene den trenger for oppbygging.
+Omdanning fra en aminosyre til en annen ([transaminering](../metabolismen/proteinmetabolismen.qmd)) er i mange tilfeller avhengig av THF. Dette er viktig i proteinsyntesen, for at kroppen skal kunne lage de aminosyrene den trenger for oppbygging.
 
 ## Behov og anbefalinger
 

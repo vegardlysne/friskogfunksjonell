@@ -3,7 +3,7 @@ title: "Nøkkelrådskost"
 date: 2012.10.13
 ---
 
-Tilbake til [kosthold i helseinstitusjoner](../../kosthold-institusjoner.qmd "Kosthold i helseinstitusjoner").
+Tilbake til [kosthold i helseinstitusjoner](../../kosthold-institusjoner.qmd).
 
 Nøkkelrådskost bygger på nøkkelrådene for kosthold fra Helsedirektoratet, og er det kostholdet som også anbefales for den friske befolkningen. Målet med nøkkelrådskosten er å legge til rette for god helse og å redusere risikoen for å utvikle sykdommer. 
 

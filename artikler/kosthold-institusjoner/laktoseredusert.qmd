@@ -4,7 +4,7 @@ author: "Ingvild Thun"
 date: 2013.12.05
 ---
 
-Tilbake til [kosthold i helseinstitusjoner](../../kosthold-institusjoner.qmd "Kosthold i helseinstitusjoner").
+Tilbake til [kosthold i helseinstitusjoner](../../kosthold-institusjoner.qmd).
 
 Noen mennesker har problemer med inntaket av melkesukkeret laktose. Dette kan være en primær tilstand, der mangelfull produksjon av laktase, enzymet som bryter ned laktose, er årsaken til problemet. Det kan også være en sekundær tilstand, der årsaken til enzymmangelen er andre skader eller sykdommer tilknyttet tarmen, som for eksempel [cøliaki](../coliaki.qmd). Her følger en innføring i laktosefri kost.
 
@@ -20,7 +20,7 @@ Ved laktoseintoleranse passerer laktose ufordøyd gjennom tynntarmen og videre t
 
 Kosten benyttes av personer med primær laktoseintoleranse, men også for de som lider av *sekundær* (midlertidig) laktoseintoleranse. Sekundær intoleranse kommer som følge av sykdommer/infeksjoner/skader i tarmen, for eksempel ubehandlet cøliaki eller strålebehandling mot buken.
 
-Laktose er en stor kilde til galaktose, og [medfødte sykdommer i galaktosemetabolismen](../metabolismen/sykdommer-karbohydrat.qmd "Medfødte sykdommer i karbohydratmetabolismen") kan gjøre at man blir avhengig av å spise laktosefritt.
+Laktose er en stor kilde til galaktose, og [medfødte sykdommer i galaktosemetabolismen](../metabolismen/sykdommer-karbohydrat.qmd) kan gjøre at man blir avhengig av å spise laktosefritt.
 
 ## Matvarevalg
 

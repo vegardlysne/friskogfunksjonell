@@ -10,7 +10,7 @@ categories:
 
 Proteiner er kroppens primære byggesteiner, og stort sett alt vev er bygget opp av ulike proteiner. Utover dette har protein også andre funksjoner, deriblant som enzymer og hormoner. Proteiner er bygget opp av aminosyrer, og for at proteinsyntesen skal fungere er vi avhengig av tilstrekkelig tilgang på alle de ulike aminosyrene. Disse kan vi få fra maten vi spiser, og en del av dem kan vi også lage selv. I denne artikkelen skal jeg ta for meg hvordan aminosyresyntesen foregår og hvordan aminosyrene settes sammen til nye proteiner.
 
--   Les om proteiner og hvordan de fordøyes og tas opp i [denne artikkelen](../naeringsstoffer/protein.qmd "Protein").
+-   Les om proteiner og hvordan de fordøyes og tas opp i [denne artikkelen](../naeringsstoffer/protein.qmd).
 
 ## Aminosyrer
 
@@ -64,15 +64,15 @@ Tyrosin kan dannes fra den essensielle aminosyren fenylalanin ved hjelp av enzym
 
 Serin er en aminosyre som i kroppen kan produseres fra en metabolitt som stammer fra nedbrytning av glukose, 3-fosfoglyserat. Serin kan videre konverteres til glycin i en reversibel reaksjon katalysert av det folat- og B6-avhengige serin hydroksymetyltransferase. Dette vil si at serin også kan produseres fra glycin.
 
-Glycin kan på sin side, i tillegg til å produseres fra serin, også produseres fra nedbrytning av aminosyren treonin, fra nedbrytningen av [kolin](../bioblikk-kolin.qmd "Bioblikk: Andre bioaktive stoffer i mat – Choline") og ikke minst som et biprodukt i syntesen av [karnitin](../bioblikk-karnitin.qmd "Bioblikk – Karnitin").
+Glycin kan på sin side, i tillegg til å produseres fra serin, også produseres fra nedbrytning av aminosyren treonin, fra nedbrytningen av [kolin](../bioblikk-kolin.qmd).
 
-Cystein dannes i en reaksjon der homocystein kobles sammen med serin, som du kan lese mer om i artikkelen om [enkarbonmetabolismen](../bioblikk-enkarbonmetabolismen.qmd "Bioblikk: Enkarbonmetabolismen, en introduksjon"). Homocystein er et endeprodukt fra metyleringsreaksjoner, og [stammer opprinnelig fra den essensielle aminosyren metionin](../bioblikk-metyleringssyklus.qmd "Bioblikk: Metyleringssyklus"). Dette forklarer også hvorfor cystein er en betinget essensiell aminosyre, ettersom vi blir avhengig av å få den gjennom kostholdet dersom metionininntaket ikke er tilstrekkelig.
+Cystein dannes i en reaksjon der homocystein kobles sammen med serin, som du kan lese mer om i artikkelen om [enkarbonmetabolismen](../bioblikk-enkarbonmetabolismen.qmd). Dette forklarer også hvorfor cystein er en betinget essensiell aminosyre, ettersom vi blir avhengig av å få den gjennom kostholdet dersom metionininntaket ikke er tilstrekkelig.
 
 ![](images/clipboard-3479256886.png)
 
 ## Proteinsyntese
 
-Aminosyrene fraktes fra blodet og inn i [cellene](../fysiologi/cellen.qmd "Cellen"). Her inngår de i proteinsyntesen, der nye proteiner bygges opp. Funksjonen til et protein er bestemt av flere ting, blant annet rekkefølgen på aminosyrene. Dette kalles primærstrukturen, og bestemmes av oppskriften som finnes i [den genetiske koden](genetikk.qmd "Genetiske og metabolske sykdommer – genetikk") i vårt DNA, der tre og tre baser koder for en aminosyre
+Aminosyrene fraktes fra blodet og inn i [cellene](../fysiologi/cellen.qmd) i vårt DNA, der tre og tre baser koder for en aminosyre
 
 Inne i cellekjernen skjer det som kalles transkripsjon, nemlig at informasjonen fra DNA kopieres over på RNA. RNA fraktes ut av cellekjernen og over til ribosomene, der selve proteinsyntesen (translasjon) foregår. Det finnes ulike RNA-typer, som har sine funksjoner i proteinsyntesen:
 

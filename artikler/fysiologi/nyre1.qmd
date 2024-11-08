@@ -59,11 +59,11 @@ De funksjonelle enhetene i nyrene heter nefroner, og det er i disse filtrasjonen
 
 Les også de neste artiklene om nyrene:
 
--   [Nyrene del 2 – Væskebalanse og urinproduksjon](nyre2.qmd "Nyrene del 2 – Urinproduksjon og væskebalanse")
+-   [Nyrene del 2 – Væskebalanse og urinproduksjon](nyre2.qmd)
 
--   [Nyrene del 3 – Elektrolyttregulering og øvrige oppgaver](nyre3.qmd "Nyrene del 3 – Elektrolyttstatus og andre funksjoner")
+-   [Nyrene del 3 – Elektrolyttregulering og øvrige oppgaver](nyre3.qmd)
 
--   [Nyrene del 4 – Nyresykdom](nyre4.qmd "Nyrene del 4 – nyresykdom")
+-   [Nyrene del 4 – Nyresykdom](nyre4.qmd)
 
 All informasjonen i denne artikkelen er basert på en lærebok i fysiologi (1). Artikkelen er ment å gi en oversikt, og jeg anbefaler interesserte å undersøke i faglitteratur for nærmere beskrivelse av detaljer.
 

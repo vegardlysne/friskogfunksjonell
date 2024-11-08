@@ -8,7 +8,7 @@ categories:
 
 Ketose og ketoacidose er to begreper mange blander sammen. Har disse egentlig noe mer til felles enn noenlunde like navn? Senest i et [nettmøte med lege Erik Hexeberg](http://tpn.vg.no/intervju/lege-erik-hexeberg-er-for-lavkarbo-send-ditt-spoersmaal-her/2616) kom det et spørsmål fra en medisinstudent som lurte på hva han syntes om at normalvektige gikk rundt med ketoacidose over tid. Her er det behov for en oppklaring i begrepene!
 
-Les også om [ketonmetabolismen](brokenlink/ketonmetabolismen/ "Ketonmetabolismen").
+Les også om [ketonmetabolismen](brokenlink/ketonmetabolismen/).
 
 ## Hva er ketonlegemer?
 
@@ -20,9 +20,9 @@ Ketonlegemer er sure, og senker pH i blodet om konsentrasjonene blir store nok. 
 
 ## Hva er ketose?
 
-Ekstreme lavkarbodietter, såkalt ketogene dietter, baserer seg på at man skal være i ketose. Da snakker vi om målbar ketose, der man kan påvise ketonlegemer i urinen. Dette oppnår man ved å spise tilstrekkelig lite karbohydrater, slik at produksjonen av ketonlegemer blir høy nok. Mange opplever at en slik diett er veldig tung i starten, men etterhvert som kroppen tilpasser seg å bruke ketonlegemene som energi vitner de fleste om en økt energi og høyere metthet, som kan komme av at de i større grad henter energi fra eget fettvev. Disse diettene er av denne grunnen veldig effektive for å gå ned i vekt, men [en diett er bare effektiv så lenge man klarer å holde seg til den](brokenlink/diett-eller-livsstilsendring/ "Diett eller livsstilsendring?"), og ketogene dietter kan være vanskelig å holde seg til over lang tid. Ketogene dietter har også i lang tid vært brukt i behandlingen av epilepsi.
+Ekstreme lavkarbodietter, såkalt ketogene dietter, baserer seg på at man skal være i ketose. Da snakker vi om målbar ketose, der man kan påvise ketonlegemer i urinen. Dette oppnår man ved å spise tilstrekkelig lite karbohydrater, slik at produksjonen av ketonlegemer blir høy nok. Mange opplever at en slik diett er veldig tung i starten, men etterhvert som kroppen tilpasser seg å bruke ketonlegemene som energi vitner de fleste om en økt energi og høyere metthet, som kan komme av at de i større grad henter energi fra eget fettvev. Disse diettene er av denne grunnen veldig effektive for å gå ned i vekt, men [en diett er bare effektiv så lenge man klarer å holde seg til den](brokenlink/diett-eller-livsstilsendring/), og ketogene dietter kan være vanskelig å holde seg til over lang tid. Ketogene dietter har også i lang tid vært brukt i behandlingen av epilepsi.
 
-En ketogen diett består typisk av 5E% fra karbohydrater, 15-25E% fra protein og resten fra fett. Derfor blir de også ofte omtalt som fettdietter eller fettkurer i media. Det er klart at det høres skremmende ut at fett skal utgjøre 70-80% av energiinntaket, men med tanke på at fett er veldig energitett, så blir ikke mengdene så veldig store likevel. Personlig mener jeg at det ikke er nødvendig for en normal person å gå så drastisk til verks, og man kommer langt med en langt mer [moderat tilnærming til kosthold](brokenlink/en-enkel-innforing-i-lavkarbokosthold/ "En kort innføring i lavkarbokosthold og tilpasning til din livsstil"), men for sterkt overvektige kan en ketogen diett være en veldig god start på vektnedgangen!
+En ketogen diett består typisk av 5E% fra karbohydrater, 15-25E% fra protein og resten fra fett. Derfor blir de også ofte omtalt som fettdietter eller fettkurer i media. Det er klart at det høres skremmende ut at fett skal utgjøre 70-80% av energiinntaket, men med tanke på at fett er veldig energitett, så blir ikke mengdene så veldig store likevel. Personlig mener jeg at det ikke er nødvendig for en normal person å gå så drastisk til verks, og man kommer langt med en langt mer [moderat tilnærming til kosthold](brokenlink/en-enkel-innforing-i-lavkarbokosthold/), men for sterkt overvektige kan en ketogen diett være en veldig god start på vektnedgangen!
 
 Ketose er som sagt en tilstand alle vil befinne seg i til tider, og er helt ufarlig. Alle som spiser lavkarbo vil være i en eller annen grad av ketose, selv om den ikke nødvendigvis lar seg måle i urinen. Hvor mye karbohydrater kostholdet må inneholde før ketonproduksjonen blir ubetydelig, vil være indviduelt, men i praksis er ikke dette noe å tenke på.
 
@@ -40,7 +40,7 @@ Jeg syns dette bildet på en god måte illustrerer gangen i diabetisk ketoacidos
 
 ![http://dtc.ucsf.edu/living-with-diabetes/complications/diabetic-ketoacidosis/](images/clipboard-1415643015.png)http://dtc.ucsf.edu/living-with-diabetes/complications/diabetic-ketoacidosis/
 
-Det er også en annen form for ketoacidose, og det er alkoholisk ketoacidose. Dette kan ramme langvarige alkoholikere, og henger sammen med mangel på [thiamin](brokenlink/thiamin/ "Thiamin, vitamin B1") og den påfølgende utviklingen av sykdommen beriberi.
+Det er også en annen form for ketoacidose, og det er alkoholisk ketoacidose. Dette kan ramme langvarige alkoholikere, og henger sammen med mangel på [thiamin](naeringsstoffer/thiamin.qmd) og den påfølgende utviklingen av sykdommen beriberi.
 
 ## Avslutning
 

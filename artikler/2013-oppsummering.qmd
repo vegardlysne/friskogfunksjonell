@@ -7,7 +7,7 @@ date: 2013.12.30
 
 ## Regelmessig innhold
 
-På denne tiden i fjor skrev jeg [en tilsvarende sak](brokenlink/2012-aret-som-gikk/ "2012 – året som gikk"), og et relevant sitat å trekke frem er følgende:
+På denne tiden i fjor skrev jeg [en tilsvarende sak](brokenlink/2012-aret-som-gikk/), og et relevant sitat å trekke frem er følgende:
 
 > Et soleklart mål er **å poste gode artikler regelmessig**, og unngå tørkeperioder slik vi har hatt noen av i år
 
@@ -17,7 +17,7 @@ Her kan jeg gledelig meddele at vi har lykkes. I 2013 har vi publisert innlegg h
 
 Kunnskapsbasen, som befinner seg i menyen oppe til venstre på siden, har vært i fokus i 2013. I løpet av året har denne blitt langt mer omfattende.
 
-[Artikkelserien om næringsstoffene](brokenlink/naeringsstoffene/ "Artikkelserie om Næringsstoffene"), som var de første artiklene vi publiserte, har fått en overhaling og de fleste artiklene er oppdatert i løpet av året. Det samme gjelder artikkelserien om [metabolismen](brokenlink/metabolismen/ "Metabolismen"), der vi også har publisert mange nye artikler. Den nye serien om [menneskets fysiologi](brokenlink/menneskets-fysiologi/ "Menneskets fysiologi") begynner også å ta form, med artikler om de viktigste organene. Oversikten over ulike [standard- og spesialkosthold](brokenlink/kosthold-i-helseinstitusjoner/ "Kosthold i helseinstitusjoner") som benyttes i helsevesenet begynner også å bli mer fullstendig.
+[Artikkelserien om næringsstoffene](../naeringsstoffer.qmd) som benyttes i helsevesenet begynner også å bli mer fullstendig.
 
 Kunnskapsbasen er en viktig del av siden vår, som vi ønsker skal være en ressurs for studenter, helsepersonell og andre som er interessert i å lese mer om temaene vi skriver om. Vi kommer til å fortsette arbeidet med å både utvide og oppdatere denne i tiden som kommer.
 
@@ -27,79 +27,79 @@ Av alle de 106 artiklene og innleggene vi har publisert i år er det selvfølgel
 
 #### 5 Mest delte i 2013
 
--   [Inkompetent uten å vite det – Dunning-Kruger-effekten](brokenlink/inkompetent-uten-a-vite-det-dunning-kruger-effekten/ "Inkompetent uten å vite det – Dunning-Kruger-effekten") (843 delinger)
+-   [Inkompetent uten å vite det – Dunning-Kruger-effekten](kildekritikk/dunning-kruger.qmd) (843 delinger)
 
--   [Beinhinnebetennelse](brokenlink/beinhinnebetennelse/ "Beinhinnebetennelse – er hvile det beste?") (250 delinger)
+-   [Beinhinnebetennelse](brokenlink/beinhinnebetennelse/) (250 delinger)
 
--   [Skribentpanel - Lavkarbo, gull eller tull?](brokenlink/skribentpanel-lavkarbo-gull-eller-tull/ "Skribentpanel: Lavkarbo, gull eller tull?") (149 delinger)
+-   [Skribentpanel - Lavkarbo, gull eller tull?](brokenlink/skribentpanel-lavkarbo-gull-eller-tull/) (149 delinger)
 
--   [Infraspinatus - årsaken til dine skuldersmerter?](brokenlink/infraspinatus-arsaken-til-dine-skuldersmerter/ "Infraspinatus – årsaken til dine skuldersmerter?") (121 delinger)
+-   [Infraspinatus - årsaken til dine skuldersmerter?](brokenlink/infraspinatus-arsaken-til-dine-skuldersmerter/) (121 delinger)
 
--   [En pekefinger i flere retninger](brokenlink/en-pekefinger-i-flere-retninger/ "En pekefinger i flere retninger") (103 delinger)
+-   [En pekefinger i flere retninger](brokenlink/en-pekefinger-i-flere-retninger/) (103 delinger)
 
 #### 5 mest leste i 2013
 
--   [Irritabel tarm og hva du kan gjøre med det](brokenlink/irritabel-tarm-og-hva-du-kan-gjore-med-det/ "Irritabel tarm og hva du kan gjøre med det!") (33 000 visninger)
+-   [Irritabel tarm og hva du kan gjøre med det](irritabel-tarm.qmd) (33 000 visninger)
 
--   [Beinhinnebetennelse](brokenlink/beinhinnebetennelse/ "Beinhinnebetennelse – er hvile det beste?") (20 000 visninger)
+-   [Beinhinnebetennelse](brokenlink/beinhinnebetennelse/) (20 000 visninger)
 
--   [Irritabel tarm - hvordan behandles det?](brokenlink/irritabel-tarm-hvordan-behandles-det/ "Irritabel tarm – hvordan behandles det?") (9000 visninger)
+-   [Irritabel tarm - hvordan behandles det?](brokenlink/irritabel-tarm-hvordan-behandles-det/) (9000 visninger)
 
--   [Belastningsskader: Runners Knee](brokenlink/belastningsskader-runners-knee/ "Belastningsskader: Runners knee") (6500 visninger)
+-   [Belastningsskader: Runners Knee](brokenlink/belastningsskader-runners-knee/) (6500 visninger)
 
--   [Inkompetent uten å vite det - Dunning-Kruger-effekten](brokenlink/inkompetent-uten-a-vite-det-dunning-kruger-effekten/ "Inkompetent uten å vite det – Dunning-Kruger-effekten") (4500 visninger)
+-   [Inkompetent uten å vite det - Dunning-Kruger-effekten](kildekritikk/dunning-kruger.qmd) (4500 visninger)
 
 #### 13 anbefalte fra 2013
 
-###### 1. [Kildekritikk - hva er en god kilde?](brokenlink/kildekritikk/ "Kildekritikk – hva er en god kilde?")
+###### 1. [Kildekritikk - hva er en god kilde?](kildekritikk/kildekritikk-god-kilde.qmd)
 
 Kildekritikk er veldig viktig når man prøver å finne ut av ting. På internett kan stort sett hvem som helst skrive hva som helst, og det som ser mest troverdig ut trenger ikke å være det som stemmer best. Å finne gode kilder er halve jobben, og denne artikkelen kan forhåpentligvis hjelpe deg et godt stykke på vei til nettopp dette.
 
-###### 2. [Tankefeil del 1 - bekreftelse og tilgjengelighet](brokenlink/tankefeil-del-1-bekreftelse-og-tilgjengelighet/ "Tankefeil del 1 –  Bekreftelse og tilgjengelighet")
+###### 2. [Tankefeil del 1 - bekreftelse og tilgjengelighet](brokenlink/tankefeil-del-1-bekreftelse-og-tilgjengelighet/)
 
 Tankefeil (bias) er noe som rammer oss alle til enhver tid. Bekreftelsesbias og tilgjengelighetsbias er to av de vanligste, og i den første artikkelen om tankefeil er det nettopp disse som står i søkelyset.
 
-###### 3. [Dårlig livsstil - bare latskap?](brokenlink/darlig-livsstil-bare-latskap/ "Dårlig livsstil – bare latskap?")
+###### 3. [Dårlig livsstil - bare latskap?](brokenlink/darlig-livsstil-bare-latskap/)
 
 Gammel vane vond å vende. Er det bare latskap som ligger til grunn for at folk gjør dårlige valg når det kommer til egen helse? Dette drøftes av Andrea i denne artikkelen.
 
-###### 4. [Kosthold og hjertesykdom - hvor står vi i 2013?](brokenlink/kosthold-og-hjertesykdom-hvor-star-vi-i-2013/ "Kosthold og hjertesykdom – hvor står vi i 2013?")
+###### 4. [Kosthold og hjertesykdom - hvor står vi i 2013?](brokenlink/kosthold-og-hjertesykdom-hvor-star-vi-i-2013/)
 
 I januar arrangerte landsforeningen for Hjerte- og Lungesyke en konferanse med temaet kosthold og hjertesykdom. Forskere fra både inn- og utland presenterte forskning som omhandlet ulike aspekter av kostholdet og hvordan dette påvirker risikoen for hjertesykdom. I denne artikkelen finner du en oppsummering av de ulike foredragene.
 
-###### 5. [Ikke ilegg kreftpasienter kostrestriksjoner](brokenlink/kosthold-og-kreft/ "Ikke ilegg kreftpasienter kostrestriksjoner")
+###### 5. [Ikke ilegg kreftpasienter kostrestriksjoner](brokenlink/kosthold-og-kreft/)
 
 I slutten av september dukket det opp en diskusjon vedrørende kostråd til kreftpasienter, først startet opp av Fedon Lindberg. Han fikk svar fra både kreftforeningen, Rune Blomhoff og blogger Gunnar Tjomlid. Jeg ville også være med, og denne artikkelen representerer mitt bidrag.
 
-###### 6. [Nei, du er ikke avhengig av sukker](brokenlink/sukkeravhengighet/ "Nei, du er ikke avhengig av sukker")
+###### 6. [Nei, du er ikke avhengig av sukker](brokenlink/sukkeravhengighet/)
 
 Sukkeravhengighet er et begrep som titt og ofte dukker opp i media, gjerne i saker som sammenligner sukker eller sukkerholdig mat med narkotiske substanser som kokain eller heroin. I denne litt kontroversielle artikkelen tar Andrea et opprør med dette, og forklarer hvordan disse ikke kan sammenlignes.
 
-###### 7. [Ulik respons på lik mat: makronæringsstoffer](brokenlink/ulik-respons-pa-lik-mat-makronaeringsstoffer/ "Ulik Respons på Lik Mat: Makronæringsstoffer")
+###### 7. [Ulik respons på lik mat: makronæringsstoffer](brokenlink/ulik-respons-pa-lik-mat-makronaeringsstoffer/)
 
 Finnes det en fasit som gjelder for alle når det kommer til kosthold? I denne artikkelen gir Thomas deg en innføring i hvordan vi kan respondere helt forskjellig på lik mat.
 
-###### 8. [Cøliaki](brokenlink/coliaki/ "Cøliaki")
+###### 8. [Cøliaki](brokenlink/coliaki/)
 
 Gluten er et protein som har fått veldig mye oppmerksomhet i media de siste årene. En pasientgruppe som må spise glutenfritt er de med cøliaki. I denne artikkelen har Ingvild tatt for seg denne sykdommen, hvordan den utarter seg og hvordan den behandles.
 
-###### 9. [Diabetes type 2 - hvordan skal man spise?](brokenlink/diabetes-type-2-kost/ "Diabetes type 2 – hvordan skal man spise?")
+###### 9. [Diabetes type 2 - hvordan skal man spise?](brokenlink/diabetes-type-2-kost/)
 
 I mars ble det publisert en stor metaanalyse som tok for seg effekten av ulike kostråd hos pasienter med diabetes type 2. I denne artikkelen finner du resultatene fra denne, som konkluderer med at både lavkarbo, lav-GI og middelhavsdiett bør inngå som naturlige alternativer til dagens diabeteskost.
 
-###### 10. [Gjør trening deg smartere?](brokenlink/smartere-av-trening/ "Gjør trening deg smartere?")
+###### 10. [Gjør trening deg smartere?](brokenlink/smartere-av-trening/)
 
 Vi vet alle at trening er godt for helsen, men kan trening også ha en positiv effekt på det kognitive? Det er mye som indikerer at dette er tilfelle.
 
-###### 11. [Kreatin - noe for deg?](brokenlink/kreatin/ "Kreatin – noe for deg?")
+###### 11. [Kreatin - noe for deg?](brokenlink/kreatin/)
 
 Kreatin er det prestasjonsfremmende kosttilskuddet med desidert best vitenskapelig evidens. Asle har sett på denne evidensen og oppsummert alt du trenger å vite om kreatin.
 
-###### 12. [Hvorfor får man krampe?](brokenlink/hvorfor-far-man-krampe/ "Hvorfor får man krampe?")
+###### 12. [Hvorfor får man krampe?](brokenlink/hvorfor-far-man-krampe/)
 
 I denne artikkelen forklarer Martin hva som ligger til grunn for at krampe oppstår og hvordan det kan behandles.
 
-###### 13. [Søvn, viktigere enn du tror](brokenlink/sovn-viktigere-enn-du-tror/ "Søvn – viktigere enn du tror!")
+###### 13. [Søvn, viktigere enn du tror](brokenlink/sovn-viktigere-enn-du-tror/)
 
 Søvn er en livsttilsfaktor som burde få mer oppmerksomhet. I denne artikkelen oppsummerer Thomas en del av de viktige effektene søvn har på helsen vår.
 

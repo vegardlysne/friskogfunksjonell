@@ -4,7 +4,7 @@ author: "Ingvild Thun"
 date: 2014.03.27
 ---
 
-Noen pasienter har problemer med å få i seg tilstrekkelig energi ved å følge standard [nøkkelrådskost](nokkelkost.qmd "Nøkkelrådskost"). Disse kan i første omgang forsøke [energi- og næringstett kost](energi-naringstett.qmd "Energi- og næringstett kost"), men av og til er ikke dette heller tilstrekkelig. En utfordring kan være å få i seg store nok mengder mat til å dekke energibehovene, og da er neste alternativ ekstra energitett kost, som inneholder 40-50 % av energien/kaloriene fra fett og 20 % fra proteiner. Fordelingen er altså ulik *standardkosten*, og dette gjør porsjonene er mindre. Det er også lagt opp til flere mellommåltider. Kosten skal i utgangspunktet kun brukes i en kort periode.
+Noen pasienter har problemer med å få i seg tilstrekkelig energi ved å følge standard [nøkkelrådskost](nokkelkost.qmd), men av og til er ikke dette heller tilstrekkelig. En utfordring kan være å få i seg store nok mengder mat til å dekke energibehovene, og da er neste alternativ ekstra energitett kost, som inneholder 40-50 % av energien/kaloriene fra fett og 20 % fra proteiner. Fordelingen er altså ulik *standardkosten*, og dette gjør porsjonene er mindre. Det er også lagt opp til flere mellommåltider. Kosten skal i utgangspunktet kun brukes i en kort periode.
 
 ![](images/clipboard-56261353.png)Ekstra energitett middag. Laks med potetmos laget med rikelig smør og fløte for ekstra energi. Denne porsjonen gir 1100 kcal.
 

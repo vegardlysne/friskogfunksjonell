@@ -14,8 +14,8 @@ Fettløselige substanser fraktes i liten grad fritt i blodet. Mest av alt frakte
 
 Relevante artikler:
 
--   [Kolesterolmetabolismen](kolesterolmetabolismen.qmd "Kolesterolmetabolismen")
--   [Fettsyresyntese](fettsyresyntese.qmd "Fettsyresyntese")
+-   [Kolesterolmetabolismen](kolesterolmetabolismen.qmd)
+-   [Fettsyresyntese](fettsyresyntese.qmd)
 
 ## De ulike lipoproteinene
 
@@ -39,7 +39,7 @@ Etter hvert som VLDL gir fra seg triglyserider, vil tettheten øke. Da går part
 
 LDL (Low density Lipoprotein) er det lipoproteinet som til daglig får mest oppmerksomhet, og på folkemunne omtales de ofte som «det dårlige kolesterolet». LDL inneholder lite triglyserider (5-15%) og en høy andel kolesterol (40-50%), og har derfor høyere tetthet enn de foregående variantene (1.019-1.063 g/ml). Partiklene har en diameter på 18-25nm, og inneholder som de foregående også ApoB-100. De øvrige apoproteinene overføres til andre lipoproteiner etter hvert som triglyseridinnholdet reduseres, så LDL inneholder bare ApoB-100.
 
-Hovedfunksjonen til LDL er å levere kolesterol til perifere vev. Dermed er LDL også delaktig i å regulere [kolesterolsyntesen](kolesterolmetabolismen.qmd "Kolesterolmetabolismen"), som i stor grad responderer på de intracellulære nivåene av kolesterol ved regulering av HMG-CoA reduktase, det hastighetsregulerende steget i kolesterolsyntesen. LDL binder til LDL-reseptoren og hele molekylet tas opp i cellen ved endocytose.
+Hovedfunksjonen til LDL er å levere kolesterol til perifere vev. Dermed er LDL også delaktig i å regulere [kolesterolsyntesen](kolesterolmetabolismen.qmd), som i stor grad responderer på de intracellulære nivåene av kolesterol ved regulering av HMG-CoA reduktase, det hastighetsregulerende steget i kolesterolsyntesen. LDL binder til LDL-reseptoren og hele molekylet tas opp i cellen ved endocytose.
 
 #### HDL
 

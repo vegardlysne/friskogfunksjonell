@@ -4,9 +4,9 @@ author: "Andrea Rørvik Marti"
 date: 2013.08.05
 ---
 
-[Tilbake til kildekritikk, vitenskap og tankefeil](../../kildekritikk.qmd "Kildekritikk, vitenskap og tankefeil")
+[Tilbake til kildekritikk, vitenskap og tankefeil](../../kildekritikk.qmd)
 
-I [den forrige artikkelen om bias](tankefeil1.qmd "Tankefeil del 1 – Bekreftelse og tilgjengelighet") tok jeg for meg bekreftelsesbias og tilgjengelighetsbias. I denne artikkelen vil jeg fortsette litt innenfor samme domene og presentere to nye tankefeil som vi også påvirkes av både når vi skal tilegne oss ny kunnskap og når vi skal tenke over den kunnskapen vi allerede har. Jeg vil forklare hvordan disse utarter seg og hvilken relevans de kan ha i det virkelige liv. Som med alle andre typer tankefeil er disse også noe vi alle påvirkes av og som vi alle kan gjøre lurt i å unngå så godt vi klarer. Etter denne artikkelen blir det kanskje litt enklere!
+I [den forrige artikkelen om bias](tankefeil1.qmd) tok jeg for meg bekreftelsesbias og tilgjengelighetsbias. I denne artikkelen vil jeg fortsette litt innenfor samme domene og presentere to nye tankefeil som vi også påvirkes av både når vi skal tilegne oss ny kunnskap og når vi skal tenke over den kunnskapen vi allerede har. Jeg vil forklare hvordan disse utarter seg og hvilken relevans de kan ha i det virkelige liv. Som med alle andre typer tankefeil er disse også noe vi alle påvirkes av og som vi alle kan gjøre lurt i å unngå så godt vi klarer. Etter denne artikkelen blir det kanskje litt enklere!
 
 ## Etterpåklokskap (hindsight bias)
 

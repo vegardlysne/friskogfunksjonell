@@ -4,9 +4,9 @@ date: 2012.10.06
 ---
 
 [\
-Forrige gang](nok-mat.qmd "Enkle tiltak for å få i seg nok mat") tok jeg opp en del tips til hvordan man på enkle måter kan øke energiinntaket, og dermed få i seg nok mat. Dette er aktuelt for de som skal opp i vekt, idrettsutøvere, syke eller andre som av andre grunner har et høyt energiforbruk. Det finnes også de som er i motsatt situasjon, nemlig de som vil ned i vekt. For disse gjelder det motsatte, nemlig at de må få i seg tilstrekkelig lite mat, slik at energibalansen blir negativ og vekten reduseres.
+Forrige gang](nok-mat.qmd) tok jeg opp en del tips til hvordan man på enkle måter kan øke energiinntaket, og dermed få i seg nok mat. Dette er aktuelt for de som skal opp i vekt, idrettsutøvere, syke eller andre som av andre grunner har et høyt energiforbruk. Det finnes også de som er i motsatt situasjon, nemlig de som vil ned i vekt. For disse gjelder det motsatte, nemlig at de må få i seg tilstrekkelig lite mat, slik at energibalansen blir negativ og vekten reduseres.
 
-Dette er også aktuelt for idrettsutøvere i vektklasseidretter som må spisse formen til konkurranse eller folk som generelt har et lavt aktivitetsnivå og vil holde vekten. Her vil jeg gi et par enkle tips til hvordan du lettest mulig kan få i deg lite nok mat.![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Les mer…"){alt=""}
+Dette er også aktuelt for idrettsutøvere i vektklasseidretter som må spisse formen til konkurranse eller folk som generelt har et lavt aktivitetsnivå og vil holde vekten. Her vil jeg gi et par enkle tips til hvordan du lettest mulig kan få i deg lite nok mat.![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7){alt=""}
 
 ## Hvordan begrense matinntaket?
 
@@ -18,7 +18,7 @@ Mange opplever f.eks. økt metthet med å spise mindre karbohydrater og mer prot
 
 ### Spis mer protein
 
-Protein er generelt sett det makronæringsstoffet som metter best, og det er derfor anbefalt å øke proteininntaket når kroppsvekten skal reduseres. Et økt proteininntak vil i tillegg til å mette bra også bidra til å vedlikeholde muskelmassen din, slik at det i større grad er fettvevet som forsvinner. Med andre ord er det mange argumenter til at du skal spise mer proteinrike matvarer. [Gode proteinkilder](brokenlink/proteinkvalitet/ "Alt du trenger å vite om proteinkvalitet") er kjøtt, fisk, egg og meieriprodukter, og disse er dine venner på diett.
+Protein er generelt sett det makronæringsstoffet som metter best, og det er derfor anbefalt å øke proteininntaket når kroppsvekten skal reduseres. Et økt proteininntak vil i tillegg til å mette bra også bidra til å vedlikeholde muskelmassen din, slik at det i større grad er fettvevet som forsvinner. Med andre ord er det mange argumenter til at du skal spise mer proteinrike matvarer. [Gode proteinkilder](brokenlink/proteinkvalitet/) er kjøtt, fisk, egg og meieriprodukter, og disse er dine venner på diett.
 
 ### Spis mer grønnsaker
 
@@ -26,9 +26,9 @@ Grønnsaker er energifattige, og du kan spise ganske store volum uten at det utg
 
 ### Reduser inntaket av flytende mat
 
-Flytende føde metter generelt dårligere enn mat i fast form. Det er flere hypoteser for hvorfor det er slik, og det har jeg skrevet mer utfyllende om i [denne artikkelen](brokenlink/bor-du-begrense-inntaket-av-flytende-karbohydrater/ "Bør du begrense inntaket av flytende karbohydrater?"). Unntaket fra denne regelen er varm suppe, som faktisk har vist seg å kunne mette bedre enn fast føde. Melk er en god kilde til protein, og helmelk/syrnet melk reduserer hastigheten på tømmingen av magesekken, og kan derfor øke metthetsfølelsen.
+Flytende føde metter generelt dårligere enn mat i fast form. Det er flere hypoteser for hvorfor det er slik, og det har jeg skrevet mer utfyllende om i [denne artikkelen](brokenlink/bor-du-begrense-inntaket-av-flytende-karbohydrater/). Unntaket fra denne regelen er varm suppe, som faktisk har vist seg å kunne mette bedre enn fast føde. Melk er en god kilde til protein, og helmelk/syrnet melk reduserer hastigheten på tømmingen av magesekken, og kan derfor øke metthetsfølelsen.
 
-Dette punktet er derfor et tveegget sverd, og det du hovedsakelig bør styre unna er sukkerholdig drikke som brus, saft og jus. Drikk heller vann, kaffe, te, melk eller [kunstig søtet](brokenlink/sotstoffer/ "Søtstoffer") brus og saft.
+Dette punktet er derfor et tveegget sverd, og det du hovedsakelig bør styre unna er sukkerholdig drikke som brus, saft og jus. Drikk heller vann, kaffe, te, melk eller [kunstig søtet](brokenlink/sotstoffer/) brus og saft.
 
 ### Drikk til måltidene
 

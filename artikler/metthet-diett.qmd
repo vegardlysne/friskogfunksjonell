@@ -33,9 +33,9 @@ Richard David Feinman har skrevet mer om ITT [her](http://rdfeinman.wordpress.co
 
 Når vi ser på studier som sammenligner ulike kosthold så hevdes det ofte at det ikke er en forskjell i vektnedgang og at diettene derfor er like effektive. Det er et stort problem ved å se på studiene på denne måten, og det er at det bare blir tatt hensyn til tallet på vekten, og ikke subjektive følelser eller andre effekter av kostholdet.
 
-Det er ingen tvil om at det er [energibalansen](brokenlink/energibalansen/ "Energibalansen – hva sier den egentlig?") som over tid avgjør om vi går opp eller ned i vekt, men kroppsmassen vår er ikke en homogen masse, og det er minst like vesentlig hva denne massen består av. Muskelvev og fettvev har vidt ulike effekter på ulike helsemarkører, så å se på kroppsvekten isolert er ikke veldig hensiktsmessig.
+Det er ingen tvil om at det er [energibalansen](brokenlink/energibalansen/) som over tid avgjør om vi går opp eller ned i vekt, men kroppsmassen vår er ikke en homogen masse, og det er minst like vesentlig hva denne massen består av. Muskelvev og fettvev har vidt ulike effekter på ulike helsemarkører, så å se på kroppsvekten isolert er ikke veldig hensiktsmessig.
 
-I studier der både lavkarbo- og lavfettgruppen pålegges en lik energirestriksjon blir resultatene, ikke uventet, at begge gruppene går like mye ned i vekt, f.eks. Sacks 2009 \[[1](http://www.ncbi.nlm.nih.gov/pubmed/19246357 "Sacks, 2009 #90")\]. I de studiene der lavfettgruppen pålegges energirestriksjon og lavkarbogruppen får spise ad libitum er også vektnedgangen lik, og i noen studier gir lavkarbo ad libitum til og med en større effekt på vekten, f.eks. Foster 2010 \[[2](http://www.ncbi.nlm.nih.gov/pubmed/20679559 "Foster, 2010 #232")\] eller Shai 2008 \[[3](http://www.ncbi.nlm.nih.gov/pubmed/18635428 "Shai, 2008 #116")\].
+I studier der både lavkarbo- og lavfettgruppen pålegges en lik energirestriksjon blir resultatene, ikke uventet, at begge gruppene går like mye ned i vekt, f.eks. Sacks 2009 \[[1](http://www.ncbi.nlm.nih.gov/pubmed/19246357)\].
 
 Studier der begge gruppene spiser ad libitum er så vidt meg bekjent ikke gjennomført, men utifra hva de andre studiene viser er det liten tvil om at karbohydratrestriksjon ville vært mest effektivt, hvertfall som gjennomsnitt i større grupper. At det ikke er noen forskjell mellom diettene er derfor kanskje en sannhet med modifikasjoner.
 
@@ -61,9 +61,9 @@ Det jeg til syvende og sist ønsker å understreke, som vanlig, er at en individ
 
 For noen kan det å redusere karbohydratinntaket være tilstrekkelig til at energiinntaket reduseres, mens et økt fokus på protein kan være løsningen for andre. Hos noen vil fettrik mat gi en god og langvarig metthetsfølelse, mens andre kan reagere motsatt og lett overspise på fett.
 
-Det er likevel enkelte ting som vil gi økt metthet for de fleste, nemlig et økt inntak av proteinrik mat og grønnsaker, og et redusert inntak av raffinerte karbohydrater som sukker og fint mel. I blogginnleggene om enkle tiltak for å forbedre kostholdet (Del [1](brokenlink/3-enkle-tiltak/ "Enkle tiltak som kan forbedre kostholdet ditt – del 1"), [2](brokenlink/3-tiltak-del-2/ "Enkle tiltak som kan forbedre kostholdet ditt – del 2") og [3](brokenlink/3-tiltak-del-3/ "Enkle tiltak som kan forbedre kostholdet ditt – del 3")) gir jeg deg flere tips til ting du kan gjøre.
+Det er likevel enkelte ting som vil gi økt metthet for de fleste, nemlig et økt inntak av proteinrik mat og grønnsaker, og et redusert inntak av raffinerte karbohydrater som sukker og fint mel. I blogginnleggene om enkle tiltak for å forbedre kostholdet (Del [1](brokenlink/3-enkle-tiltak/)) gir jeg deg flere tips til ting du kan gjøre.
 
-**Les også: [Hvilken diett skal jeg velge?](brokenlink/hvilken-diett-skal-jeg-velge/ "Hvilken diett skal jeg velge?")**
+**Les også: [Hvilken diett skal jeg velge?](brokenlink/hvilken-diett-skal-jeg-velge/)**
 
 #### Referanser:
 

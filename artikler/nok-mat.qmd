@@ -25,13 +25,13 @@ Proteinbehovet regner du ut i forhold til din egen kroppsvekt. Olympiatoppen ope
 
 ## Hvordan skal du så klare å få i deg all denne maten?
 
-Som nevnt i innledningen kan et høyt aktivitetsnivå medføre at du må spise ganske mye mat, noe som kan være vanskelig å gjennomføre i praksis. Da er det godt å vite at det er en del tiltak som kan gjøre dette betydelig lettere for deg. Thomas skrev nylig en artikkel om hvordan du bør [spise for å bli sterkere](brokenlink/enkle-prinsipper-for-kosthold-og-styrkeokning/ "Enkle prinsipper for kosthold og styrkeøkning").  Her følger noen litt mer konkrete tips:
+Som nevnt i innledningen kan et høyt aktivitetsnivå medføre at du må spise ganske mye mat, noe som kan være vanskelig å gjennomføre i praksis. Da er det godt å vite at det er en del tiltak som kan gjøre dette betydelig lettere for deg. Thomas skrev nylig en artikkel om hvordan du bør [spise for å bli sterkere](brokenlink/enkle-prinsipper-for-kosthold-og-styrkeokning/).  Her følger noen litt mer konkrete tips:
 
 ### Velg energitette matvarer\*
 
 Et av hovedproblemene med å få i seg mye energi er at volumet på maten du spiser kan bli ganske stort, noe som gjør det både ubehagelig og ikke minst upraktisk å få til i lengden. Ved å velge matvarer med høyere energitetthet, altså mer energi per mengde, kan du klare å få i deg en del ekstra mat.
 
-[Fett](brokenlink/fett/ "Fett") inneholder mer enn dobbelt så mye energi per mengde sammenlignet med [karbohydrater](brokenlink/karbohydrater/ "Karbohydrater") og [protein](brokenlink/protein/ "Protein"). Ved å velge matvarer som inneholder mer fett vil du presse inn mer energi på mindre mengde mat.
+[Fett](naeringsstoffer/fett.qmd). Ved å velge matvarer som inneholder mer fett vil du presse inn mer energi på mindre mengde mat.
 
 Eksempler på energitette matvarer er fete meieriprodukter som helmelk, fløte, ost, rømme og smør, fet fisk, fete kjøttstykker, avocado, nøtter og frø. Makrell i tomat egner seg godt som et energirikt pålegg på brødmat, og med majones på toppen kan det bli et riktig så næringstett måltid!
 
@@ -39,9 +39,9 @@ For å sikre et tilstrekkelig inntak av vitaminer, mineraler og sporstoffer er d
 
 ### Drikk noe av maten din
 
-Jeg har tidligere skrevet en artikkel om hvorfor du kanskje bør begrense inntaket av [flytende karbohydrater](brokenlink/bor-du-begrense-inntaket-av-flytende-karbohydrater/ "Bør du begrense inntaket av flytende karbohydrater?"). Noe av begrunnelsen for dette er at flytende føde metter dårligere enn fast føde, og at et høyt inntak av dette vil gjøre det vanskelig å begrense energiinntaket. Du som føler deg truffet av dette innlegget er derimot opptatt av å øke energiinntaket, og for deg er det ikke nødvendigvis så dumt å drikke noe av maten din, nettopp fordi det metter dårligere.
+Jeg har tidligere skrevet en artikkel om hvorfor du kanskje bør begrense inntaket av [flytende karbohydrater](brokenlink/bor-du-begrense-inntaket-av-flytende-karbohydrater/). Noe av begrunnelsen for dette er at flytende føde metter dårligere enn fast føde, og at et høyt inntak av dette vil gjøre det vanskelig å begrense energiinntaket. Du som føler deg truffet av dette innlegget er derimot opptatt av å øke energiinntaket, og for deg er det ikke nødvendigvis så dumt å drikke noe av maten din, nettopp fordi det metter dårligere.
 
-Det er mange ulike alternativer her, men generelt vil jeg anbefale melk for de som tåler det, og da fortrinnsvis de fete variantene. Jus, saft og brus bidrar også med energi, men denne kommer hovedsakelig fra sukker, så her er det greit å [tilpasse inntaket i forhold til aktivitetsnivået](brokenlink/en-enkel-innforing-i-lavkarbokosthold/ "En kort innføring i lavkarbokosthold og tilpasning til din livsstil").
+Det er mange ulike alternativer her, men generelt vil jeg anbefale melk for de som tåler det, og da fortrinnsvis de fete variantene. Jus, saft og brus bidrar også med energi, men denne kommer hovedsakelig fra sukker, så her er det greit å [tilpasse inntaket i forhold til aktivitetsnivået](brokenlink/en-enkel-innforing-i-lavkarbokosthold/).
 
 ### Berik maten din
 
@@ -65,8 +65,8 @@ Klarer du ikke å presse i deg mer mat per måltid kan det være mer behagelig �
 
 ## Det handler om energibalansen
 
-For å øke kroppens energilagre er det viktig å være i positiv [energibalanse](brokenlink/energibalansen/ "Energibalansen – hva sier den egentlig?"). Inntaket av mat må altså være større enn det totale forbruket av energi. Klarer du dette vil du gå opp i vekt, og kombinerer du det med et fornuftig treningsprogram kan du påvirker vektoppgangen til i større grad å bestå av muskelvev og ikke fett.
+For å øke kroppens energilagre er det viktig å være i positiv [energibalanse](brokenlink/energibalansen/). Inntaket av mat må altså være større enn det totale forbruket av energi. Klarer du dette vil du gå opp i vekt, og kombinerer du det med et fornuftig treningsprogram kan du påvirker vektoppgangen til i større grad å bestå av muskelvev og ikke fett.
 
 Jeg håper disse tipsene kan hjelpe noen av dere som ønsker å gå opp i vekt til å øke energiinntaket. Har dere andre tips enn de som er nevnt i artikkelen, setter jeg stor pris på om dere deler disse i kommentarfeltet!
 
-Neste gang ser vi på tiltak som bidrar til å [redusere energiinntaket](brokenlink/enkle-tiltak-for-a-fa-i-seg-lite-nok-mat/)!
+Neste gang ser vi på tiltak som bidrar til å [redusere energiinntaket](lite-nok-mat.qmd)!

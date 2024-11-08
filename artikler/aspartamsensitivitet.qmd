@@ -9,9 +9,9 @@ Aspartam er et kunstig søtstoff som i stor grad brukes i blant annet kalorifrie
 
 ## Først av alt, er aspartam farlig?
 
-Jeg har tidligere skrevet en artikkel om [søtstoffer](sotstoffer.qmd "Søtstoffer") hvor jeg omtalte det europeiske mattilsynets (EFSA) risikovurdering av aspartam (2), sist oppdatert på slutten av 2013. Konklusjonen, i det som er den mest omfattende risikovurderingen for noe tilsetningsstoff per dags dato, var at aspartam i de dosene vi eksponeres for ikke er forbundet med risiko.
+Jeg har tidligere skrevet en artikkel om [søtstoffer](sotstoffer.qmd) hvor jeg omtalte det europeiske mattilsynets (EFSA) risikovurdering av aspartam (2), sist oppdatert på slutten av 2013. Konklusjonen, i det som er den mest omfattende risikovurderingen for noe tilsetningsstoff per dags dato, var at aspartam i de dosene vi eksponeres for ikke er forbundet med risiko.
 
-Les også: [Aspartam, en søt kontrovers?](aspartam-sot-kontrovers.qmd "Aspartam, en søt kontrovers?")
+Les også: [Aspartam, en søt kontrovers?](aspartam-sot-kontrovers.qmd)
 
 Så har vi de studiene som sier det motsatte, kanskje oftest i form av lettbrus som settes i sammenheng med overvekt og metabolske forstyrrelser. Disse får mye spalteplass i media, og ingen røyk uten ild, eller?
 
@@ -25,9 +25,9 @@ Per i dag tilsier altså evidensen at med tanke på kroppsvekt og –sammensetni
 
 Det eksisterer drøssevis av anekdotiske fortellinger om mennesker som har opplevd subjektive helseplager etter å ha inntatt aspartam. Problemet med denne typen fortellinger er at de vanskelig kan brukes som direkte bevis på at det faktisk er søtstoffet som forårsaker plagene. De færreste av oss inntar aspartam isolert sett, slik at det kan være flere andre faktorer i kostholdet som spiller inn. I tillegg til dette kan plager rett og slett oppstå fordi vi forventer det. I denne sammenhengen snakker vi om noceboeffekten, placeboeffektens onde tvillingbror. Dersom vi er overbevist om at aspartam gjør at vi får vondt i hodet, så kan dette i seg selv være nok til å utløse nettopp slike symptomer dersom vi tror vi inntar aspartam(holdig drikke).
 
-Og ikke nok med det. På grunn av vår selektive hukommelse, samt vår iboende trang til å konstant lete etter sammenhenger og forklaringer på det vi opplever, kan vi også finne på å koble opplevde symptomer tilbake til det vi anser kan være årsaken – for eksempel den lettbrusen vi drakk. På samme måte er vi også veldig flinke til å ignorere alle gangene vi får i oss søtstoffet uten at noe spesielt skjer. Slike systematiske tankefeil er noe som rammer oss alle, hele tiden, og det å være klar over dem kan hjelpe oss med ikke å trekke forhastede konklusjoner. Dette er også grunnen til at vi har utviklet [den vitenskapelige metode](kildekritikk/vitenskapelig-metode.qmd "Den vitenskapelige metode"), som er et verktøy for å begrense slike menneskelige feilkilder.
+Og ikke nok med det. På grunn av vår selektive hukommelse, samt vår iboende trang til å konstant lete etter sammenhenger og forklaringer på det vi opplever, kan vi også finne på å koble opplevde symptomer tilbake til det vi anser kan være årsaken – for eksempel den lettbrusen vi drakk. På samme måte er vi også veldig flinke til å ignorere alle gangene vi får i oss søtstoffet uten at noe spesielt skjer. Slike systematiske tankefeil er noe som rammer oss alle, hele tiden, og det å være klar over dem kan hjelpe oss med ikke å trekke forhastede konklusjoner. Dette er også grunnen til at vi har utviklet [den vitenskapelige metode](kildekritikk/vitenskapelig-metode.qmd), som er et verktøy for å begrense slike menneskelige feilkilder.
 
-**Les mer om vitenskap og systematiske tankefeil i artikkelserien om [kildekritikk, vitenskap og tankefeil](../kildekritikk.qmd "Kildekritikk, vitenskap og tankefeil").**
+**Les mer om vitenskap og systematiske tankefeil i artikkelserien om [kildekritikk, vitenskap og tankefeil](../kildekritikk.qmd).**
 
 Det at det eksisterer slike historier og overbevisninger kan selvfølgelig ikke ignoreres, men i seg selv gir de altså ingen fasit, da det er mange potensielle forklarende faktorer i spill. Dette var bakgrunnen for at en forskergruppe i England valgte å sette i gang en studie for å undersøke dette mer systematisk. La oss se nærmere på denne studien!
 

@@ -12,7 +12,7 @@ Sist gang så jeg på grunnleggende kunnskaper om hvordan genetikk fungerer. Den
 
 ## Genetiske Sykdommer
 
-[Sist gang fikk du en grunnleggende innføring i genetikken](genetikk.qmd "Genetiske og metabolske sykdommer – genetikk"), og denne kunnskapen er grei å ha i bunn for å forstå hvordan disse sykdommene fungerer. Der finner du også forklaringer på en del begreper som vil dukke opp i denne saken.
+[Sist gang fikk du en grunnleggende innføring i genetikken](genetikk.qmd), og denne kunnskapen er grei å ha i bunn for å forstå hvordan disse sykdommene fungerer. Der finner du også forklaringer på en del begreper som vil dukke opp i denne saken.
 
 Monogene sykdommer skyldes en mutasjon i ett bestemt gen. Slike sykdommer kalles også **mendelske sykdommer**, og kan være autosomalt dominante eller recissive, noe som sier noe om hvordan de arves.
 

@@ -21,7 +21,7 @@ Med andre ord støtter ikke litteraturen at det å øke inntaket av meieriproduk
 
 ## Næringsinnhold
 
-Melk er en kilde til mange viktige næringsstoffer, deriblant [proteiner av god kvalitet](brokenlink/proteinkvalitet/ "Alt du trenger å vite om proteinkvalitet"), fett og mange vitaminer og mineraler. I tillegg til dette finner vi hormoner, vekstfaktorer, enzymer og flere andre bioaktive stoffer (1), så å kalle melk for en næringsrik matvare er ingen overdrivelse.
+Melk er en kilde til mange viktige næringsstoffer, deriblant [proteiner av god kvalitet](brokenlink/proteinkvalitet/), fett og mange vitaminer og mineraler. I tillegg til dette finner vi hormoner, vekstfaktorer, enzymer og flere andre bioaktive stoffer (1), så å kalle melk for en næringsrik matvare er ingen overdrivelse.
 
 I butikken finner vi flere ulike typer melk, og i tabellene under får du en oversikt over innholdet av energi, protein, karbohydrater og fett i de vanligste variantene, inkludert nysatsingen Styrk. Tallene gjelder produkter fra Tine.
 
@@ -52,9 +52,9 @@ Det er studier som viser en sammenheng mellom inntak av melkefett og redusert fo
 
 Melkefettet er sammensatt av mange ulike fettsyrer. Omtrent halvparten av fettet utgjøres av mettede fettsyrer av ulik lengde. Mange av disse er korte eller mellomlange, og disse fettsyrene er kjent for å ha flere positive effekter på helsen. Smørsyre har vist seg å modulere genfunksjon og kan motvirke enkelte krefttyper (1,4). Kapryl- og kaprinsyre kan ha antivirale egenskaper (1,4), og sistnevnte kan også motvirke tumorvekst (4). Laurinsyre har antivirale og antibakterielle egenskaper (1,4), og er også den mettede fettsyren som har den mest positive effekten på ratioen mellom total- og HDL-kolesterol (4,6).
 
-Den fettsyren vi finner mest av i melk er oljesyre, som er enumettet. Et høyt inntak av oljesyre er assosiert med en bedre sammensetning av fettstoffene i blodet, og enkelte studier har også indikert at denne fettsyren kan ha en beskyttende effekt mot kreft (1). Melk inneholder også flerumettede omega-3- og omega-6-fettsyrer i form av alfalinolensyre og linolsyre, og [mengdeforholdet mellom dem](brokenlink/omega-3-og-omega-6-i-kostholdet/ "Omega-3 og Omega-6 i kostholdet")(1:4) er bra (1,4).
+Den fettsyren vi finner mest av i melk er oljesyre, som er enumettet. Et høyt inntak av oljesyre er assosiert med en bedre sammensetning av fettstoffene i blodet, og enkelte studier har også indikert at denne fettsyren kan ha en beskyttende effekt mot kreft (1). Melk inneholder også flerumettede omega-3- og omega-6-fettsyrer i form av alfalinolensyre og linolsyre, og [mengdeforholdet mellom dem](omega-3-6.qmd)(1:4) er bra (1,4).
 
-Mange har hørt om CLA (Konjugert linolsyre), og har kanskje også fått med seg at dette er et populært kosttilskudd. CLA er en transfettsyre som kan ha mange positive effekter på helsen vår. Disse effektene er omdiskuterte, men det er gode indikasjoner på at CLA har en positiv effekt på blodlipidene, og eksperimentelle dyremodeller har vist en beskyttende effekt mot kreft (1,4). Nøyaktig hvordan CLA fungerer vet vi ikke, men det er foreslått at fettsyren konkurrerer med arakidonsyre om cyclooxygenaseenzymet, slik at produksjonen av proinflammatoriske [eikosanoider](brokenlink/omega-3-og-omega-6-i-kostholdet/ "Omega-3 og Omega-6 i kostholdet") reduseres (1). Man har også sett positive effekter på immunsystemet og muskelvekst (4).
+Mange har hørt om CLA (Konjugert linolsyre), og har kanskje også fått med seg at dette er et populært kosttilskudd. CLA er en transfettsyre som kan ha mange positive effekter på helsen vår. Disse effektene er omdiskuterte, men det er gode indikasjoner på at CLA har en positiv effekt på blodlipidene, og eksperimentelle dyremodeller har vist en beskyttende effekt mot kreft (1,4). Nøyaktig hvordan CLA fungerer vet vi ikke, men det er foreslått at fettsyren konkurrerer med arakidonsyre om cyclooxygenaseenzymet, slik at produksjonen av proinflammatoriske [eikosanoider](omega-3-6.qmd) reduseres (1). Man har også sett positive effekter på immunsystemet og muskelvekst (4).
 
 ## Karbohydrat
 
@@ -66,11 +66,11 @@ Sukker, både naturlig forekommende og tilsatt, kan reagere under varmebehandlin
 
 Melk er en kilde til mange vitaminer og mineraler, og inneholder også en del antioksidanter (1).
 
-Når det gjelder de fettløselige vitaminene er melk en god kilde til [A-vitamin](brokenlink/d-vitamin/ "D-vitamin"), og noen typer er også tilsatt [D-vitamin](brokenlink/d-vitamin/ "D-vitamin").  Inntak av melk ser også ut til å kunne forbedre opptaket av [E-vitamin](brokenlink/e-vitamin/ "E-vitamin")(1). Når det gjelder vannløselige vitaminer er melk en god kilde til [riboflavin](brokenlink/riboflavin/ "Riboflavin, vitamin B2") og [B12](brokenlink/b12/ "Kobalamin, vitamin B12"). Det er også grunn til å anta at melk er positivt for opptaket av [folat](brokenlink/folat/ "Folat, vitamin B9"), siden melken inneholder proteiner som binder til seg dette vitaminet. Inntaket av melk er assosiert med lavere nivåer av homocystein, noe som antas å kunne skyldes bedre folatstatus (1). Biotilgjengeligheten til folat er generelt sett ganske lav, og spesielt gravide er anbefalt å ta daglig tilskudd.
+Når det gjelder de fettløselige vitaminene er melk en god kilde til [A-vitamin](naeringsstoffer/dvitamin.qmd), siden melken inneholder proteiner som binder til seg dette vitaminet. Inntaket av melk er assosiert med lavere nivåer av homocystein, noe som antas å kunne skyldes bedre folatstatus (1). Biotilgjengeligheten til folat er generelt sett ganske lav, og spesielt gravide er anbefalt å ta daglig tilskudd.
 
-[Kalsium](brokenlink/kalsium/ "Kalsium") er godt kjent som det viktigste mineralet i skjelettet vårt, og meieriprodukter er vår største kilde til kalsium. Man har i studier sett en mulig blodtrykkssenkende effekt samt bedre regulering av kroppsvekt ved inntak av kalsium (1). Melk er vår største kilde til [jod](brokenlink/jod/ "Jod"), som er den viktigste bestanddelen i stoffskiftehormonene våre (4). [Selen](brokenlink/selen/ "Selen") har flere viktige funksjoner, deriblant for immunsystemet og i syntesen/reparasjon av arvematerialet vårt. Man antar at selen har en beskyttende effekt mot en rekke krefttyper, og det er også observert en positiv effekt på astma. Generelt sett er innholdet av selen i maten vår veldig lavt, og melk er en av de viktigste kildene (1). [Sink](brokenlink/sink/ "Sink") er en viktig bestanddel av hver eneste celle i kroppen, og er blant annet med å regulere vekst og celledeling. Melk er en god kilde til sink, og biotilgjengeligheten er også bedre enn for vegetabilske kilder (1). Melk er også en god kilde til [magnesium](brokenlink/magnesium/ "Magnesium"), som blant annet er viktig for ledning av nervesignaler.
+[Kalsium](naeringsstoffer/kalsium.qmd), som blant annet er viktig for ledning av nervesignaler.
 
-I neste del tar jeg en nærmere titt på [bearbeidingen av melk](brokenlink/melk-og-helse-del-2-bearbeiding/ "Melk og helse del 2 – bearbeiding").
+I neste del tar jeg en nærmere titt på [bearbeidingen av melk](brokenlink/melk-og-helse-del-2-bearbeiding/).
 
 Referanser:
 

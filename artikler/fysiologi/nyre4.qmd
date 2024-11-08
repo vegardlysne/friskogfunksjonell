@@ -11,7 +11,7 @@ categories:
 
 I denne siste artikkelen om nyrene vil du få et innblikk i årsaker til og konsekvenser av nyresykdom, både akutt og kronisk. Ettersom nyrene utfører svært mange oppgaver i kroppen vår så er det åpenbart at konsekvensene av sykdom eller skade på nyrene også vil være tilsvarende alvorlige.
 
-Tidligere har jeg vært inne på [nyrenes oppbygging og glomerulær filtrasjonsrate](nyre1.qmd "Nyrene del 1 – Oppbygging og glomerulær filtrasjonsrate"), [urinproduksjon og væskebalanse](nyre2.qmd "Nyrene del 2 – Væskebalanse og urinproduksjon") og til slutt [elektrolyttstatus og øvrige funksjoner](nyre3.qmd "Nyrene del 3 – Elektrolyttstatus og andre funksjoner"). Alle disse er relevante for å skjønne hvordan konsekvensene av sykdom oppstår, og kan være verdt å sjekke ut først.
+Tidligere har jeg vært inne på [nyrenes oppbygging og glomerulær filtrasjonsrate](nyre1.qmd). Alle disse er relevante for å skjønne hvordan konsekvensene av sykdom oppstår, og kan være verdt å sjekke ut først.
 
 ## Nyrefunksjon og nyresvikt
 
@@ -65,7 +65,7 @@ Nyresvikt er også en årsak til beinskjørhet. En av årsakene til dette er at 
 
 Behandlingen av kronisk nyresvikt er veldig individuelt tilpasset. Dette skyldes at ulik grad av reduksjon i GFR har ulike konsekvenser, ettersom utskillelsen av ulike metabolitter reguleres ulikt. Noen metabolitter, som kreatinin, er veldig avhengig av GFR for å skilles ut, og en reduksjon av GFR følges derfor av økte nivåer. Utskillelsen av andre metabolitter, som eksempelvis elektrolyttene, er bedre regulert ved filtrasjon, reabsorbsjon og sekresjon, og nivåene kan derfor i større grad vedlikeholdes selv om GFR reduseres. Kostrestriksjoner er vanlig ved nyresvikt, ettersom redusert inntak gjennom kosten kan være med å forhindre opphopning av metabolitter. Kostrestriksjoner vil alltid vurderes på individuell basis.
 
-[Natriumredusert](../kosthold-institusjoner/natriumredusert.qmd "Natriumredusert kost"), [kaliumredusert](../kosthold-institusjoner/kaliumredusert.qmd "Kaliumredusert kost") eller [fosfatredusert](../kosthold-institusjoner/fosfatredusert.qmd "Fosfatredusert kost") kost er vanlige kosttiltak.
+[Natriumredusert](../kosthold-institusjoner/natriumredusert.qmd) kost er vanlige kosttiltak.
 
 Når nyrefunksjonen blir dårlig nok vil ikke kostrestriksjoner lenger være nok for å forhindre at metabolitter hopes opp. Da vil pasienten bli avhengig av dialysebehandling, der man kobles til en maskin som gjør nyrenes jobb ved å rense blodet. Transplantasjon er siste utvei.
 

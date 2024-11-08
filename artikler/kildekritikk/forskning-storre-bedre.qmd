@@ -3,7 +3,7 @@ title: "Forskning - er større alltid bedre?"
 date: 2015.05.02
 ---
 
-[Tilbake til kildekritikk, vitenskap og tankefeil](../../kildekritikk.qmd "Kildekritikk, vitenskap og tankefeil")
+[Tilbake til kildekritikk, vitenskap og tankefeil](../../kildekritikk.qmd)
 
 Etter hvert som en studie blir større blir den også mer representativ for befolkningen, får høyere statistisk styrke og resultatene blir mer til å stole på. Men er det automatisk slik at en større studie alltid vil være bedre enn en mindre, og kan en studie til og med bli for stor?
 

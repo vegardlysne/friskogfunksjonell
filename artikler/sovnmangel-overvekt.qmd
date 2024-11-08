@@ -19,7 +19,7 @@ De første fire dagene av hver testperiode ble deltakerne gitt all mat, mens de 
 
 ## Resultater
 
-Etter hver periode ble forsøkspersonene undersøkt. Forskerne gjennomførte en hjernescanning (les mer om [fMRI](brokenlink/fmri-og-ernaeringsforskning/ "Hjernescanning som verktøy i ernæringsforskning")), og registrerte respons på visuell stimuli. Forsøkspersonene fikk se bilder av ulike matvarer og av ikke-matrelaterte ting.
+Etter hver periode ble forsøkspersonene undersøkt. Forskerne gjennomførte en hjernescanning (les mer om [fMRI](brokenlink/fmri-og-ernaeringsforskning/)), og registrerte respons på visuell stimuli. Forsøkspersonene fikk se bilder av ulike matvarer og av ikke-matrelaterte ting.
 
 Hjernens respons på matbildene var høyere enn responsen på bilder som ikke hadde noe med mat å gjøre for begge søvnmønstrene, men når man sammenlignet de to søvnmønstrene så man en signifikant større respons i søvnmangel-perioden.
 

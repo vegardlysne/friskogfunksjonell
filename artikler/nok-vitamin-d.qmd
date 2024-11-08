@@ -4,7 +4,7 @@ author: "Eivind Eliasson"
 date: 2012.10.28
 ---
 
-[Vitamin D](brokenlink/d-vitamin/ "D-vitamin") ser ut til å ha sammenheng med svært mange kroppslige funksjoner og trolig en rekke sykdommer. Etter å ha lest meg opp litt om emnet ble jeg overrasket over lite samsvar om hva som er definert som tilfredstillende D-vitaminstatus hos befolkninga som helhet.
+[Vitamin D](naeringsstoffer/dvitamin.qmd) ser ut til å ha sammenheng med svært mange kroppslige funksjoner og trolig en rekke sykdommer. Etter å ha lest meg opp litt om emnet ble jeg overrasket over lite samsvar om hva som er definert som tilfredstillende D-vitaminstatus hos befolkninga som helhet.
 
 ## D-vitaminstatus
 
@@ -14,7 +14,7 @@ I helsedirektoratets rapport konkluderes det med at over 50% av norske menn og k
 
 ## Er anbefalingene for lave?
 
-Alle mangeltilstander gir konsekvenser, f.eks. vil [C-vitaminmangel](brokenlink/c-vitamin/ "C-vitamin") gi skjørbuk, [kalsiummangel](brokenlink/kalsium/ "Kalsium") kan over tid gi benskjørhet. For lavt inntak av D-vitamin vil også gi konsekvenser, men kanskje er de større og flere enn man trodde for noen tiår tilbake? Når man ser at man med full soleksponering hele året oppnår konsentrasjoner som over dobbelt så høye som det norske helsemyndigheter anbefaler, så er jeg tilbøyelig til å si at norske anbefalingene er satt for lavt. Det ikke er umulig at folkehelsa som helhet hadde blitt bedre om man gjorde som NEL og satte 75 nmol\\l som minstekrav.
+Alle mangeltilstander gir konsekvenser, f.eks. vil [C-vitaminmangel](naeringsstoffer/cvitamin.qmd) kan over tid gi benskjørhet. For lavt inntak av D-vitamin vil også gi konsekvenser, men kanskje er de større og flere enn man trodde for noen tiår tilbake? Når man ser at man med full soleksponering hele året oppnår konsentrasjoner som over dobbelt så høye som det norske helsemyndigheter anbefaler, så er jeg tilbøyelig til å si at norske anbefalingene er satt for lavt. Det ikke er umulig at folkehelsa som helhet hadde blitt bedre om man gjorde som NEL og satte 75 nmol\\l som minstekrav.
 
 Et forslag for å bedre dette kunne vært å øke anbefalt daglig inntak, da sjansen for overdosering bare er mulig ved ekstreme doser fra kosttilskudd over lengre tid eller ved enkelte sykdommer som sarkoidose. Et annet forslag er å gjøre det til standard at konsentrasjonen måles ved blodprøver hos helsesøster, ved generelle helsesjekker hos fastlegen osv, og dermed muliggjøre individuell rådgivning om kosthold og tilskudd.
 

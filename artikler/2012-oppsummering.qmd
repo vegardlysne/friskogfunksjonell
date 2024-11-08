@@ -13,73 +13,73 @@ Her følger en liste over flere av årets beste og mest populære artikler etter
 
 #### Helse:
 
--   [Minikurs i lipoproteiner](brokenlink/minikurs-i-lipoproteiner/ "Minikurs i lipoproteiner")
+-   [Minikurs i lipoproteiner](minikurs-i-lipoproteiner.qmd)
 
--   [Hjerteinfarkt, hva er det egentlig?](brokenlink/hjerteinfarkt-hva-er-det-egentlig/ "Hjerteinfarkt, hva er det egentlig?")
+-   [Hjerteinfarkt, hva er det egentlig?](brokenlink/hjerteinfarkt-hva-er-det-egentlig/)
 
--   [Stump røyken](brokenlink/stump-royken/ "Stump røyken")
+-   [Stump røyken](brokenlink/stump-royken/)
 
--   [Ketose eller ketoacidose?](brokenlink/ketose-eller-ketoacidose/ "Ketose eller ketoacidose?")
+-   [Ketose eller ketoacidose?](brokenlink/ketose-eller-ketoacidose/)
 
--   [Fedmeoperasjon av unge, en akseptabel løsning?](brokenlink/fedmeoperasjon-av-unge/ "Fedmeoperasjon av unge, en akseptabel løsning?")
+-   [Fedmeoperasjon av unge, en akseptabel løsning?](brokenlink/fedmeoperasjon-av-unge/)
 
--   [Midlertidige løsninger - midlertidige resultater](brokenlink/midlertidige-losninger/ "Midlertidige løsninger – midlertidige resultater")
+-   [Midlertidige løsninger - midlertidige resultater](brokenlink/midlertidige-losninger/)
 
--   [Energibalansen - hva sier den egentlig?](brokenlink/energibalansen/ "Energibalansen – hva sier den egentlig?")
+-   [Energibalansen - hva sier den egentlig?](brokenlink/energibalansen/)
 
--   [Insulinindeks - hva og hvorfor?](brokenlink/insulinindeks/ "Insulinindeks – hva og hvorfor?")
+-   [Insulinindeks - hva og hvorfor?](brokenlink/insulinindeks/)
 
--   [Sunt kosthold på studentbudsjett](brokenlink/sunt-kosthold-pa-studentbudsjett/ "Sunt kosthold på studentbudsjett")
+-   [Sunt kosthold på studentbudsjett](brokenlink/sunt-kosthold-pa-studentbudsjett/)
 
--   [Underholdningsslavens redning](brokenlink/underholdningsslavens-redning/ "Underholdningsslavens redning")
+-   [Underholdningsslavens redning](underholdningsslavens-redning.qmd)
 
 #### Kosthold:
 
--   [Alt du trenger å vite om proteinkvalitet](brokenlink/proteinkvalitet/ "Alt du trenger å vite om proteinkvalitet")
+-   [Alt du trenger å vite om proteinkvalitet](brokenlink/proteinkvalitet/)
 
--   [De offentlige anbefalingene for fett, godt begrunnet?](brokenlink/de-offentlige-anbefalingene-for-fett-godt-begrunnet/ "De offentlige anbefalingene for fett, godt begrunnet?")
+-   [De offentlige anbefalingene for fett, godt begrunnet?](brokenlink/de-offentlige-anbefalingene-for-fett-godt-begrunnet/)
 
--   [Irritabel tarm og hva du kan gjøre med det](brokenlink/irritabel-tarm-og-hva-du-kan-gjore-med-det/ "Irritabel tarm og hva du kan gjøre med det!")
+-   [Irritabel tarm og hva du kan gjøre med det](irritabel-tarm.qmd)
 
--   [Søtstoffer](brokenlink/sotstoffer/ "Søtstoffer")
+-   [Søtstoffer](brokenlink/sotstoffer/)
 
--   [Nøkkelhull, bare tull?](brokenlink/nokkelhull-bare-tull/ "Nøkkelhull, bare tull?")
+-   [Nøkkelhull, bare tull?](brokenlink/nokkelhull-bare-tull/)
 
--   [Sunt eller usunt, betydningen av kontekst](brokenlink/betydningen-av-kontekst/ "Sunt eller usunt – betydningen av kontekst")
+-   [Sunt eller usunt, betydningen av kontekst](brokenlink/betydningen-av-kontekst/)
 
--   [Metthetsfølelsen, viktig når du skal velge kosthold](brokenlink/metthetsfolelsen/ "Metthetsfølelsen – viktig når du skal velge kosthold")
+-   [Metthetsfølelsen, viktig når du skal velge kosthold](brokenlink/metthetsfolelsen/)
 
--   [Hvilken diett skal jeg velge?](brokenlink/hvilken-diett-skal-jeg-velge/ "Hvilken diett skal jeg velge?")
+-   [Hvilken diett skal jeg velge?](brokenlink/hvilken-diett-skal-jeg-velge/)
 
--   [Heldigvis bestemmer vi selv hva vi skal spise](brokenlink/heldigvis-bestemmer-vi-selv-hva-vi-skal-spise/ "Heldigvis bestemmer vi selv hva vi skal spise")
+-   [Heldigvis bestemmer vi selv hva vi skal spise](brokenlink/heldigvis-bestemmer-vi-selv-hva-vi-skal-spise/)
 
--   [Kan barn spise lavkarbo?](brokenlink/kan-barn-spise-lavkarbo/ "Kan barn spise lavkarbo?")
+-   [Kan barn spise lavkarbo?](brokenlink/kan-barn-spise-lavkarbo/)
 
--   [Hvorfor bør du spise variert?](brokenlink/hvorfor-bor-du-spise-variert/ "Hvorfor bør du spise variert?")
+-   [Hvorfor bør du spise variert?](brokenlink/hvorfor-bor-du-spise-variert/)
 
--   Enkle tiltak som kan forbedre kostholdet ditt - [del 1](brokenlink/3-enkle-tiltak/ "Enkle tiltak som kan forbedre kostholdet ditt – del 1"), [del 2](brokenlink/3-tiltak-del-2/ "Enkle tiltak som kan forbedre kostholdet ditt – del 2"), [del 3](brokenlink/3-tiltak-del-3/ "Enkle tiltak som kan forbedre kostholdet ditt – del 3")
+-   Enkle tiltak som kan forbedre kostholdet ditt - [del 1](brokenlink/3-enkle-tiltak/)
 
--   [Enkle prinsipper for kosthold og styrkeøkning](brokenlink/enkle-prinsipper-for-kosthold-og-styrkeokning/ "Enkle prinsipper for kosthold og styrkeøkning")
+-   [Enkle prinsipper for kosthold og styrkeøkning](brokenlink/enkle-prinsipper-for-kosthold-og-styrkeokning/)
 
--   [Enkle tiltak for å få i seg nok mat](brokenlink/enkle-tiltak-for-a-fa-i-seg-nok-mat/ "Enkle tiltak for å få i seg nok mat")
+-   [Enkle tiltak for å få i seg nok mat](nok-mat.qmd)
 
--   [Enkle tiltak for å få i seg lite nok mat](brokenlink/enkle-tiltak-for-a-fa-i-seg-lite-nok-mat/ "Enkle tiltak for å få i seg lite nok mat")
+-   [Enkle tiltak for å få i seg lite nok mat](lite-nok-mat.qmd)
 
 #### Trening:
 
--   [Planlegg treningen din](brokenlink/planlegg-treningen-din/ "Planlegg treningen din")
+-   [Planlegg treningen din](brokenlink/planlegg-treningen-din/)
 
--   [Basistrening - bli trent for å trene](brokenlink/basistrening/ "Basistrening – bli trent for å trene")
+-   [Basistrening - bli trent for å trene](brokenlink/basistrening/)
 
--   [Har du god mobilitet i hoften?](brokenlink/har-du-god-mobilitet-i-hoften/ "Har du god mobilitet i hoften?")
+-   [Har du god mobilitet i hoften?](brokenlink/har-du-god-mobilitet-i-hoften/)
 
--   [Hvordan bli raskere](brokenlink/hvordan-bli-raskere/ "Hvordan bli raskere")
+-   [Hvordan bli raskere](brokenlink/hvordan-bli-raskere/)
 
--   [Guide til å mestre pullups](brokenlink/guide-til-a-mestre-pullups/ "Guide til å mestre pullups")
+-   [Guide til å mestre pullups](brokenlink/guide-til-a-mestre-pullups/)
 
--   Egenbehandling ved belastningsskader - [del 1](brokenlink/egenbehandling-ved-belastningsskader-del-1/ "Egenbehandling ved belastningsskader – del 1"), [del 2](brokenlink/egenbehandling-ved-belastningsskader-del-2/ "Egenbehandling ved belastningsskader – del 2")
+-   Egenbehandling ved belastningsskader - [del 1](brokenlink/egenbehandling-ved-belastningsskader-del-1/)
 
-Vi avsluttet året med en [spørrerunde](brokenlink/sporrerunde/ "Spørrerunde") som til slutt fikk over 90 kommentarer med spørsmål og svar. Vi kommer helt klart til å ha flere spørrerunder!
+Vi avsluttet året med en [spørrerunde](brokenlink/sporrerunde/) som til slutt fikk over 90 kommentarer med spørsmål og svar. Vi kommer helt klart til å ha flere spørrerunder!
 
 ## Nye skribenter
 
@@ -87,7 +87,7 @@ I løpet av året har vi knyttet til oss flere skribenter. Thomas Olsen, Ingvild
 
 Vi har alle blitt ett år eldre, og økt kompetansenivået vårt. Vegard, Thomas, Ingvild og Hanne har alle fullført bachelorgrad i ernæring. Hanne har nå tatt fatt på medisinstudiet, Thomas har påbegynt en master i Human Ernæring, mens Vegard og Ingvild har startet på mastergraden i Klinisk Ernæring. Torbjørn fullførte sin bachelorgrad i fysioterapi, og har det siste halvåret vært utplassert i turnus. Eivind er fremdeles i full jobb som fysioterapeut.
 
-Mot slutten av året fikk Hanne publisert en [artikkel i Tidsskriftet](tidsskriftet.no/article/2940375) på bakgrunn av bacheloroppgaven sin om de offentlige anbefalingene for fett. Vegard ble [intervjuet i magasinet VOF](brokenlink/intervju-i-vof/ "Intervju i VOF"), der han uttalte seg om de offentlige kostrådene, samt at han ble representert i TV2 Sporty i en sak om [kosthold på begrenset budsjett](http://www.tv2.no/sporty/kosthold/spis-sunnere-og-spar-tusenlapper-hver-maaned-3944871.html).
+Mot slutten av året fikk Hanne publisert en [artikkel i Tidsskriftet](tidsskriftet.no/article/2940375) på bakgrunn av bacheloroppgaven sin om de offentlige anbefalingene for fett. Vegard ble [intervjuet i magasinet VOF](brokenlink/intervju-i-vof/), der han uttalte seg om de offentlige kostrådene, samt at han ble representert i TV2 Sporty i en sak om [kosthold på begrenset budsjett](http://www.tv2.no/sporty/kosthold/spis-sunnere-og-spar-tusenlapper-hver-maaned-3944871.html).
 
 ## 2013 - Veien videre
 

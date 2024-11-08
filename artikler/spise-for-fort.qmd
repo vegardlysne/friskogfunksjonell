@@ -3,7 +3,7 @@ title: "Spiser du fort?"
 date: 2014.06.23
 ---
 
-Overvekt er et stadig voksende problem, og er satt i sammenheng med risiko for en rekke sykdommer. Overvekt defineres av overflødig akkumulering av kroppsfett, og vi vet at rent mekanistisk er dette et resultat av en positiv [energibalanse](energibalansen.qmd "Energibalansen – hva sier den egentlig?") over tid. Jeg har tidligere [skrevet om en studie](spise-saktere.qmd "Bør du spise saktere?") (1) som indikerte at det var en sammenheng mellom det å spise fort og risiko for å ha diabetes type 2.  En av årsaksmekanismene som ble diskutert i denne artikkelen var at det å spise fort kan føre til at man spiser mer og dermed er mer utsatt for å legge på seg. Nylig ble det publisert en systematisk oversiktsartikkel og metaanalyse som har undersøkt effekten av å spise saktere på energiinntak og sultfølelse (2).
+Overvekt er et stadig voksende problem, og er satt i sammenheng med risiko for en rekke sykdommer. Overvekt defineres av overflødig akkumulering av kroppsfett, og vi vet at rent mekanistisk er dette et resultat av en positiv [energibalanse](energibalansen.qmd) (1) som indikerte at det var en sammenheng mellom det å spise fort og risiko for å ha diabetes type 2.  En av årsaksmekanismene som ble diskutert i denne artikkelen var at det å spise fort kan føre til at man spiser mer og dermed er mer utsatt for å legge på seg. Nylig ble det publisert en systematisk oversiktsartikkel og metaanalyse som har undersøkt effekten av å spise saktere på energiinntak og sultfølelse (2).
 
 ## Bakgrunn for studien
 
@@ -13,7 +13,7 @@ Målet med denne metaanalysen var derfor å undersøke om det var grunnlag for �
 
 ## Resultatene
 
-Ettersom de ulike studiene hadde rapportert resultatene på ulik måte, valgte forfatterne av metaanalysen å regne om alle forskjeller til en [Cohen’s d effektstørrelse](brokenlink/signifikans-og-alt-det-der/ "Signifikans og alt det der"). Denne forteller oss hvor stor forskjellen mellom gruppene er i standardavvikenheter, og gjør det dermed mulig å sammenligne resultater på tross av at de er rapportert i ulike enheter. Totalt ble 22 studier inkludert i metaanalysen.
+Ettersom de ulike studiene hadde rapportert resultatene på ulik måte, valgte forfatterne av metaanalysen å regne om alle forskjeller til en [Cohen’s d effektstørrelse](kildekritikk/signifikans.qmd). Denne forteller oss hvor stor forskjellen mellom gruppene er i standardavvikenheter, og gjør det dermed mulig å sammenligne resultater på tross av at de er rapportert i ulike enheter. Totalt ble 22 studier inkludert i metaanalysen.
 
 I studier som sammenlignet to spisetempo ble det funnet at det å spise raskt førte til et høyere totalt energiinntak. For de studiene som hadde undersøkt tre ulike spisetempo, fant de at jo fortere man spiste, jo mer spiste man. Jo større forskjellen mellom de ulike tempoene var, jo større var også forskjellen i energiinntaket.
 

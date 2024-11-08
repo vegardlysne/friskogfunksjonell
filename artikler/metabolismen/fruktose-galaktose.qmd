@@ -12,9 +12,9 @@ Som energikilde er glukose det viktigste monosakkaridet, men fra kostholdet får
 
 Relaterte artikler:
 
--   [Karbohydrater](../naeringsstoffer/karbohydrater.qmd "Karbohydrater")
+-   [Karbohydrater](../naeringsstoffer/karbohydrater.qmd)
 
--   [Glukosemetabolismen](glukosemetabolismen.qmd "Glukosemetabolismen")
+-   [Glukosemetabolismen](glukosemetabolismen.qmd)
 
 ## Fruktosemetabolismen
 

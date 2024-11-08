@@ -4,7 +4,7 @@ author: "Thomas Olsen"
 date: 2012.10.01
 ---
 
-Søvn er et fenomen som vitenskapen ikke helt har klart å forstå enda. Allikevel ser man mer og mer forskning på at søvn bl.a har en sentral effekt på apetitt og matinntak som [Vegard har antydet tidligere](brokenlink/sovn-og-overvekt/ "Kan søvnmangel bidra til overvekt?"). I denne artikkelen skal jeg gå nærmere inn på hva vi vet om søvn, hva det er viktig for, og hvordan det kan inngå i reguleringen av to av de viktigste apetitthormonene våre, ghrelin og leptin.
+Søvn er et fenomen som vitenskapen ikke helt har klart å forstå enda. Allikevel ser man mer og mer forskning på at søvn bl.a har en sentral effekt på apetitt og matinntak som [Vegard har antydet tidligere](brokenlink/sovn-og-overvekt/). I denne artikkelen skal jeg gå nærmere inn på hva vi vet om søvn, hva det er viktig for, og hvordan det kan inngå i reguleringen av to av de viktigste apetitthormonene våre, ghrelin og leptin.
 
 Hjernestammen, bestående av pons (hjernebroen) og mesencephalon (midthjernen) inneholder noe som kalles retikulært aktiveringssystem (Hall and Guyton, 2011). Uten å gå nærmere inn på hva dette omfatter, er dette området er bl.a ansvarlig for formidling av uttalige nervesignaler til ryggmargen, men virker også gjennom formidling av eksitatoriske signaler som aktiverer og "vekker" hjernen. Tidligere trodde man at søvn kom av at dette området rett og slett ble koblet ut og inaktivt grunnet utmattelse. Med andre ord, søvnprosessen ble regnet som en passiv prosess fordi disse delene av hjernen ble utslitt i løpet av dagen. Senere har man derimot oppdaget at søvn er en aktiv prosess, som blant annet innebærer hemming av nervefibre som leder smerte og aktivering av nervefibre som utskiller den søvnproduserende nevrotransmitteren serotonin.
 
@@ -35,7 +35,7 @@ Resultatene av tre andre populasjonsstudier som involverte et stort antall delta
 
 Samme gjennomgangsartikkel har også tatt for seg 25 studier, inkludert tverrsnittstudier og prospektive studier, hvorav kun 4 ikke har vist noen sammenheng mellom søvn og overvekt. Tverrsnittstudier er ikke egnet til å påvise noen årsakssammenheng mellom variablene, men resultatene av disse samt resultatene av populasjonsstudier bør man prøve å overføre til studier basert på rèelle omstendigheter med en nøyaktig overvåkning av søvn, vektutvikling og energibalanse.
 
-Husk også at [helsebevisste individer](brokenlink/helsebevisste-individer/ "Helsebevisste individer – en forstyrrende faktor i forskningen?") kan være en faktor som påvirker resultatet av disse studiene.
+Husk også at [helsebevisste individer](brokenlink/helsebevisste-individer/) kan være en faktor som påvirker resultatet av disse studiene.
 
 #### Energibalansen
 
@@ -45,7 +45,7 @@ En annen gjennomgangsartikkel gir en grei skjematisk oversikt over hvordan søvn
 
 ![](images/clipboard-2831568848.png)Figur 1, Chaput 2010
 
-En grundigere gjennomgang av energibalansen finner du [her](brokenlink/energibalansen/ "Energibalansen – hva sier den egentlig?").
+En grundigere gjennomgang av energibalansen finner du [her](brokenlink/energibalansen/).
 
 ## Veien videre
 

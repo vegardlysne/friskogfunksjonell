@@ -20,7 +20,7 @@ I målcellen omdannes riboflavin til de aktive formene FMN og FAD. Denne omdanni
 
 ## Funksjoner
 
-**FMN og FAD er koenzymer for mange enzymer, og har som oppgave å overføre hydrogenatomer.** Funksjoner som er avhengig av dette vitaminet er blant annet energiproduksjon i elektrontransportkjeden og regulering/modifisering av andre B-vitaminer ([B6](pyridoksin.qmd "Pyridoksin, vitamin B6"), [niacin](niacin.qmd), [folat](folat.qmd) og [B12](kobalamin.qmd)).
+**FMN og FAD er koenzymer for mange enzymer, og har som oppgave å overføre hydrogenatomer.** Funksjoner som er avhengig av dette vitaminet er blant annet energiproduksjon i elektrontransportkjeden og regulering/modifisering av andre B-vitaminer ([B6](pyridoksin.qmd), [niacin](niacin.qmd), [folat](folat.qmd) og [B12](kobalamin.qmd)).
 
 **Siden riboflavin er involvert i energimetabolismen er det også nødvendig for hjernefunksjon, da energiproduksjonen i hjernen bruker de samme reaksjonsveiene.**
 

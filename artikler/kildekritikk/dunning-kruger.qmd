@@ -4,7 +4,7 @@ author: "Andrea Rørvik Marti"
 date: 2013.06.20
 ---
 
-[Tilbake til kildekritikk, vitenskap og tankefeil](../../kildekritikk.qmd "Kildekritikk, vitenskap og tankefeil")
+[Tilbake til kildekritikk, vitenskap og tankefeil](../../kildekritikk.qmd)
 
 Stadig vekk kommer man over mennesker som gir inntrykk av å ha høy kompetanse på et gitt område, men som etter hvert viser seg å ikke være så kompetente som de selv trodde. Hvordan kan det ha seg at disse folkene ikke selv klarer å innse når de snakker om noe de ikke har peiling på? Paradoksalt nok viser det seg at grunnen til dette er at inkompetente mennesker rett og slett ikke har kompetansen til å innse det.
 
@@ -22,7 +22,7 @@ Når det er sagt så var det også sånn at de som presterte best konsekvent und
 
 Det må nevnes at det selvfølgelig kreves et visst kunnskapsnivå for at Dunning-Kruger-effekten skal komme til syne. De aller fleste vil nok ikke nøle med å innrømme at dere kompetanse innen partikkelfysikk er ekstremt lav. Men når det derimot kommer til temaer som en del kanskje har lest litt om (eksempelvis i aviser/blogger), eller studert i et år eller to, vil man støte på mennesker som kan komme til å overvurdere sin egen kompetanse ganske grovt.
 
-Jeg har tidligere vært inne på det at [basalkunnskaper innen det aktuelle fagområdet er nødvendig](full-kontroll.qmd "Full kontroll?") for å best mulig kunne forstå det man leser. Dersom jeg leser en studie innenfor et annet fagfelt enn mitt eget så kjenner jeg igjen statistiske metoder og til en viss grad hva de kom fram til, men uten å sette meg inn i det aktuelle området så sitter jeg likevel igjen med ekstremt lite. Dette kan være et problem blant de som overvurderer sin egen kompetanse, som ikke selv innser at de ikke har kompetanse til å forstå ting de leser. Det er ikke sjelden man ser folk på ulike internettforum som fremlegger studier som nærmest motsier egne argumenter.
+Jeg har tidligere vært inne på det at [basalkunnskaper innen det aktuelle fagområdet er nødvendig](full-kontroll.qmd) for å best mulig kunne forstå det man leser. Dersom jeg leser en studie innenfor et annet fagfelt enn mitt eget så kjenner jeg igjen statistiske metoder og til en viss grad hva de kom fram til, men uten å sette meg inn i det aktuelle området så sitter jeg likevel igjen med ekstremt lite. Dette kan være et problem blant de som overvurderer sin egen kompetanse, som ikke selv innser at de ikke har kompetanse til å forstå ting de leser. Det er ikke sjelden man ser folk på ulike internettforum som fremlegger studier som nærmest motsier egne argumenter.
 
 Det å ta en utdannelse, og dermed bruke flere år av livet sitt på å sette seg inn i et fagområde, skal bidra med nettopp denne kunnskapen som gjør deg i stand til å tolke relevant litteratur på en god måte. Nå skal det også nevnes at det er mange som klarer å tilegne seg denne kompetansen på egenhånd, så poenget er selvfølgelig ikke at de med utdannelse alltid har rett. Dette er rett og slett veldig ofte ikke tilfelle, og i mange tilfeller kan personer som har tilegnet seg litt kunnskap (les: studert litt) være de som i aller størst grad overestimerer seg selv. Den store kompetansen vil likevel være å finne innenfor de store fagmiljøene.
 
@@ -30,6 +30,6 @@ Det å ta en utdannelse, og dermed bruke flere år av livet sitt på å sette se
 
 Dunning-Kruger-effekten som graf. Bortover mot høyre finner du økende reell kompetanse, mens den røde linjen indikerer selvopplevd kompetansenivå.
 
-Mangel på kompetanse er selvfølgelig ikke den eneste grunnen til at man ser en generell tendens hos folk til å overvurdere sine egne evner. Men det kan kanskje være den viktigste grunnen til at det er de med lavest kompetanse som overvurderer seg selv aller mest. Det er kanskje på tide for folk flest å [kjenne sine egne begrensninger](radgiver-begrensninger.qmd "Rådgiver – kjenn dine begrensninger!") og innse at de ikke er eksperter selv om de har lest en wikipedia-artikkel eller tatt et universitetsfag. Husk det, at det er aldri noe i veien med å innrømme at man ikke vet noe. Som Thomas Jefferson sa: «He who knows best knows how little he knows». Dette er nok også grunnen til at selvsikkerheten stort sett synker etterhvert som man tilegner seg mer kompetanse.
+Mangel på kompetanse er selvfølgelig ikke den eneste grunnen til at man ser en generell tendens hos folk til å overvurdere sine egne evner. Men det kan kanskje være den viktigste grunnen til at det er de med lavest kompetanse som overvurderer seg selv aller mest. Det er kanskje på tide for folk flest å [kjenne sine egne begrensninger](radgiver-begrensninger.qmd) og innse at de ikke er eksperter selv om de har lest en wikipedia-artikkel eller tatt et universitetsfag. Husk det, at det er aldri noe i veien med å innrømme at man ikke vet noe. Som Thomas Jefferson sa: «He who knows best knows how little he knows». Dette er nok også grunnen til at selvsikkerheten stort sett synker etterhvert som man tilegner seg mer kompetanse.
 
 1.  Kruger, J. & Dunning, D. (2009). Unskilled and unaware of it: How difficulties in recognizing one’s own incompetence leads to inflated self-assessments. *Psychology*, 1, 30-46.

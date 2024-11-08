@@ -12,9 +12,9 @@ Tidligere har vi sett på nedbrytning og syntese av fettsyrer, med hovedfokus p�
 
 Relevante artikler:
 
--   [Fett](../naeringsstoffer/fett.qmd "Fett")
--   [Fettsyrenedbrytning](fettsyrenedbrytning.qmd "Fettsyrenedbrytning – β-oksidasjon")
--   [Fettsyresyntese](fettsyresyntese.qmd "Fettsyresyntese")
+-   [Fett](../naeringsstoffer/fett.qmd)
+-   [Fettsyrenedbrytning](fettsyrenedbrytning.qmd)
+-   [Fettsyresyntese](fettsyresyntese.qmd)
 
 ## Umettede fettsyrer
 

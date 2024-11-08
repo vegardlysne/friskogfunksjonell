@@ -34,7 +34,7 @@ Hvordan kan dette overføres til styrketrening? Jo, ta en kikk på styrkeløfter
 
 -   Du får som regel ikke rask fremgang, dette er et opplegg for den som ønsker å tenke langsiktig og ikke er ute etter raske økninger
 
-*Husk at det kan være lurt å [trene som en idrettsutøver](tren-som-en-idrettsutover.html "Tren som en idrettsutøver – se ut som en!")!*
+*Husk at det kan være lurt å [trene som en idrettsutøver](tren-som-en-idrettsutover.html)!*
 
 ## Et enkelt basisopplegg for styrkeøkning
 
@@ -196,4 +196,4 @@ Her følger et oppsett av selve programmet. Du trenger å vite maksløftene dine
 
 ## Avslutning
 
-I denne delen av artikkelen har vi sett på prinsippene bak mengdetrening, øvelsesutvalg og gitt et eksempel på et programoppsett. I [del 2](mengdetrening-2.html "Bli sterkere med mengdetrening (Del 2)") går vi nærmere inn på gjennomføringen av selve programmet, tilpasning i forhold til skader og ser litt på veien videre.
+I denne delen av artikkelen har vi sett på prinsippene bak mengdetrening, øvelsesutvalg og gitt et eksempel på et programoppsett. I [del 2](mengdetrening-2.html) går vi nærmere inn på gjennomføringen av selve programmet, tilpasning i forhold til skader og ser litt på veien videre.

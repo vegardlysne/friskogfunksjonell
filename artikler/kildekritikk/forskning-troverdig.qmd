@@ -3,7 +3,7 @@ title: "Er forskning til å stole på?"
 date: 2014.04.10
 ---
 
-[Tilbake til kildekritikk, vitenskap og tankefeil](../../kildekritikk.qmd "Kildekritikk, vitenskap og tankefeil")
+[Tilbake til kildekritikk, vitenskap og tankefeil](../../kildekritikk.qmd)
 
 I 2005 publiserte epidemiologen John Ioannidis en meningsartikkel med tittelen «Why most research findings are false» (1), hvor han argumenterer for hvorfor mange konklusjoner fra forskning rett og slett viser seg å være feil. Han setter blant annet søkelyset på den allmenne oppfatningen om at et forskningsresultat kan bedømmes ene og alene basert på p-verdien, som sier noe om hvor sannsynlig et resultat er med de forutsetningene man hadde på forhånd. Er p-verdien lav nok, sier vi at resultatet er statistisk signifikant, og dermed tror vi også at resultatet er til å stole på og sier noe om virkeligheten. Men er det egentlig det?
 
@@ -27,7 +27,7 @@ Det er derfor svært relevant å spørre seg hvor stor effekten var, og ikke bar
 -   Cohens d, som sier noe om forskjellen mellom to gjennomsnittsverdier i standardavvikenheter. d=1 betyr at forskjellen mellom gruppene er ett standardavvik. En d\>0.8 er regnet som en stor effekt, mens d\<0.2 er regnet som en liten effekt (3).
 -   Oddsratioer (OR), relativ risiko (RR), hasardrate (HR) og lignende, som sier noe om sannsynligheten for et utfall i en gruppe sammenlignet med en annen. En verdi på 2 betyr at sannsynligheten er dobbelt så stor i den ene gruppen, mens 0.5 vil bety at risikoen var halvparten så stor. I epidemiologiske studier er det beregnet at en OR\<1.5 tilsvarer en d\<0.2 (liten effekt), mens OR\>5 tilsvarer d\>0.8 (stor effekt) (4).
 
-Effektstørrelser kan du lese mer om i artikkelen om [signifikans og alt det der](signifikans.qmd "Signifikans og alt det der").
+Effektstørrelser kan du lese mer om i artikkelen om [signifikans og alt det der](signifikans.qmd).
 
 ## Den totale evidensen
 

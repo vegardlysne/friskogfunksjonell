@@ -23,9 +23,9 @@ Diabetesforbundet har ikke noen direkte kostholdsråd på sine sider, men unders
 
 -   fiber i form av grove kornprodukter, grønnsaker og litt frukt
 
--   mindre [fett](brokenlink/fett/ "Fett") fra kjøtt og meieriprodukter og mer fett fra fisk og plantekilder
+-   mindre [fett](naeringsstoffer/fett.qmd) fra kjøtt og meieriprodukter og mer fett fra fisk og plantekilder
 
--   langsomme [karbohydrater](brokenlink/karbohydrater/ "Karbohydrater") fremfor raske karbohydrater, og unngå rent sukker og hvitt hvetemel
+-   langsomme [karbohydrater](naeringsstoffer/karbohydrater.qmd) fremfor raske karbohydrater, og unngå rent sukker og hvitt hvetemel
 
 Landsforeningen for hjerte- og lungesykdom anbefaler et ["hjertevennlig" kosthold](http://www.lhl.no/no/hjerteloftet/sunn-livsstil/kosthold/anbefalinger---hjertevennlig-kosthold/) med ekstra fokus på karbohydratene. Dette innebærer at maks en fjerdedel av tallerkenen fylles med karbohydratrike matvarer som brød, potet, pasta og ris. Ellers skal kostholdet bestå av grove kornprodukter, «5 om dagen», og være magert, med spesielt fokus på å redusere inntaket av mettet fett.
 
@@ -39,7 +39,7 @@ I innledningen knyttes den økte forekomsten av DMT2 til et spisemønster som f�
 
 Forfatterne peker på at alternative kosthold, hovedsakelig lavkarbo, lav GI/GB og middelhavskosthold, gjentatte ganger viser seg å være mer effektive enn tradisjonelle lavfettdietter når det gjelder vektnedgang og å forbedre risikofaktorer for kardiovaskulær sykdom. Felles for disse kostholdene er at de via ulike mekanismer reduserer den postprandiale økningen i blodsukker og insulin.
 
-Tradisjonellt sett er [protein](brokenlink/protein/ "Protein") regnet som det næringsstoffet som metter best, etterfulgt av karbohydrater som igjen metter bedre enn fett. Derav har kosthold med mye protein og karbohydrater blitt regnet som den beste måten å begrense energiinntaket på. Når man så justerer for inntaket av fiber og den glykemiske indeksen (GI) til karbohydratene, ser man at karbohydrater med lav GI metter bedre enn de med høy GI. Samtidig ser man at et høyt og hyppig inntak av karbohydrater med høy GI gjør at kroppen i større grad forbrenner karbohydrater enn fett (pga insulin og dets effekter på fettforbrenningen), noe som gjør at den langvarige metthetsfølelsen blir mindre dominerende og energiinntaket øker. Den totale glykemiske belastningen (GB) handler både om GI og mengden karbohydrat.
+Tradisjonellt sett er [protein](naeringsstoffer/protein.qmd) regnet som det næringsstoffet som metter best, etterfulgt av karbohydrater som igjen metter bedre enn fett. Derav har kosthold med mye protein og karbohydrater blitt regnet som den beste måten å begrense energiinntaket på. Når man så justerer for inntaket av fiber og den glykemiske indeksen (GI) til karbohydratene, ser man at karbohydrater med lav GI metter bedre enn de med høy GI. Samtidig ser man at et høyt og hyppig inntak av karbohydrater med høy GI gjør at kroppen i større grad forbrenner karbohydrater enn fett (pga insulin og dets effekter på fettforbrenningen), noe som gjør at den langvarige metthetsfølelsen blir mindre dominerende og energiinntaket øker. Den totale glykemiske belastningen (GB) handler både om GI og mengden karbohydrat.
 
 Når det gjelder diabetes, er blodsukkerkontrollen det mest sentrale elementet vi må ta hensyn til. Forfatterne av artikkelen hevder at gjentatt utfordring av kroppens blodsukkerregulerende systemer som oppstår når man spiser etter et lavfett/høykarbo-kosthold er bekymringsverdig. Det understrekes at aktive, friske mennesker vil tåle dette pga økt insulinsensitivitet, mens mindre aktive mennesker blir nødt til å øke insulinutskillelsen for å takle denne belastningen. For disse menneskene kan et slikt kosthold på sikt føre til utvikling av diabetes.
 

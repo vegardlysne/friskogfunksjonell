@@ -12,7 +12,7 @@ Fosfor har atomnummer 15, og symbolet P. Fosfor har veldig mange viktige funksjo
 
 ## Opptak og metabolisme
 
-Mesteparten av fosforet vi får i oss hydrolyseres raskt av fosfataser i tarmen, slik at det blir frigjort inorganisk fosfat (Pi). Det er først og fremst Pi som absorberes, og mesteparten av opptaket skjer i jejunum. Opptaket skjer ved aktiv transport via et kotransportprotein som absorberer fosfor sammen med [natrium](natrium-klor.qmd "Natrium og klor"), samt passiv, paracellulær diffusjon. Jevnt over tar vi opp rundt 65% av all fosforen vi får i oss. Det har tidligere vært antatt at [D-vitamin](dvitamin.qmd "D-vitamin") spiller en viktig rolle i reguleringen av opptaket, men selv om mekanismene for at dette er tilfelle er kartlagt, er det uklart hvorvidt dette har en reell effekt. Det som først og fremst er grunnen til at fosfor ikke absorberes er at det danner komplekser med [kalsium](kalsium.qmd "Kalsium") som spises samtidig. D-vitamin stimulerer absorbsjonen av kalsium, og på denne måten blir det mindre kalsium igjen til å binde fosfat, noe som kan være årsaken til at man har observert at opptaket av fosfat øker ved høyere nivåer av aktivt D-vitamin.
+Mesteparten av fosforet vi får i oss hydrolyseres raskt av fosfataser i tarmen, slik at det blir frigjort inorganisk fosfat (Pi). Det er først og fremst Pi som absorberes, og mesteparten av opptaket skjer i jejunum. Opptaket skjer ved aktiv transport via et kotransportprotein som absorberer fosfor sammen med [natrium](natrium-klor.qmd) som spises samtidig. D-vitamin stimulerer absorbsjonen av kalsium, og på denne måten blir det mindre kalsium igjen til å binde fosfat, noe som kan være årsaken til at man har observert at opptaket av fosfat øker ved høyere nivåer av aktivt D-vitamin.
 
 Mesteparten av fosfatet i kroppen finner vi i beinvevet som en bestanddel i det modne beinmineralet hydroksyapatitt. Resten fordeler seg intracellulært (mye i muskelvev) og ekstracellulært. I ekstracellulærvæsken finner vi P~i~, hovedsakelig i form av bufferne H~2~PO~4~^-^ og HPO~4~^2-^ som er viktig for å regulere blodets pH. Konsentrasjonene av P~i~(\[P~i~\]) nøye regulert, noe som er veldig viktig. Dette er spesielt viktig med tanke på at fosfat og kalsium kan gå sammen og danne krystaller som kan avleires i vev, noe som omtales som kalsifisering. Det viktigste i denne sammenhengen er kalsiumfosfatproduktet (Ca x P). Normalt sett er ikke Ca x P høyt nok til at disse krystallene utfelles, mens hydroksyapatitt krever lavere konsentrasjoner. Derfor vil det under normale omstendigheter bli dannet hydroksyapatitt, men ikke kalsiumfosfatkrystaller, noe som skjer dersom Ca x P øker til omtrent dobbel verdi. Kalsium er veldig godt regulert i blodet, så endringer i Ca x P skjer hovedsakelig via endringer i \[P~i~\].
 
@@ -34,7 +34,7 @@ Fosfor har mange viktige funksjoner i kroppen, og er et svært viktig element i 
 
     ![](images/clipboard-2785702931.png)
 
--   En del vitaminer, som f.eks. [thiamin](thiamin.qmd "Thiamin, vitamin B1") og [B6](pyridoksin.qmd "Pyridoksin, vitamin B6"), inneholder fosfor, som derfor er viktig for deres funksjoner.
+-   En del vitaminer, som f.eks. [thiamin](thiamin.qmd), inneholder fosfor, som derfor er viktig for deres funksjoner.
 
 -   Fosfor er viktig i enzymatiske prosesser. En del proteiner aktiveres/deaktiveres ved at det bindes en fosfatgruppe til proteinet, en såkalt fosforylering.
 

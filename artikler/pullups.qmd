@@ -16,7 +16,7 @@ Det mest vanlige alternativet til pullups er nedtrekk. Den finnes i maskin, med 
 
 Før vi ser på effektive progresjoner mot pullups – ikke glem at du må gjøre andre øvelser enn bare pullups (som utføres i det vertikale planet) for å bli virkelig sterk. Med andre ord er det viktig å ha med støtteøvelser som kan underbygge progresjon der du ønsker fremgang. For ryggen er følgende øvelser smart å ha i programmet mot ditt mål om bedre pullup-styrke.
 
--   Markløft - se mer om urførelse i [denne artikkelen](markloft.qmd "Startposisjon og utførelse av markløft").
+-   Markløft - se mer om urførelse i [denne artikkelen](markloft.qmd).
 -   Foroverlent roing med stang
 -   En-arms roing over benk
 -   Baseøvelser for biceps

@@ -33,4 +33,4 @@ Ved å stille deg dette enkle spørsmålet kan du gjennomskue de aller fleste se
 
 Dette er også nyttig å tenke på når du hører fantastiske historier om supermat, ulike kosttilskudd eller det å kutte ut bestemte ting fra kostholdet. Disse kommer stort sett fra folk som generelt lever sunt og er helsebevisste, og de som opplever store effekter av slike tiltak har ofte hatt et ganske dårlig kosthold fra før. Jeg sier ikke at disse tiltakene ikke har en effekt, for det kan de absolutt ha, men sensasjonshistoriene er ofte et resultat av større omveltninger i livsstilen som helhet, ikke enkelttiltak. Husk at det også hovedsakelig er helsebevisste personer som gjennomfører slike tiltak, noe som øker sannsynligheten for at de også gjør mange andre gode valg!
 
-[Tilbake til kildekritikk, vitenskap og tankefeil](../../kildekritikk.qmd "Kildekritikk, vitenskap og tankefeil")
+[Tilbake til kildekritikk, vitenskap og tankefeil](../../kildekritikk.qmd)

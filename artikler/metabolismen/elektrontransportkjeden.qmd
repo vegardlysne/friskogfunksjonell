@@ -12,7 +12,7 @@ Hoveddelen av kroppens energiproduksjon skjer ved oksidativ fosforylering, og de
 
 ## Oksidativ fosforylering
 
-De elektronbærende molekylene NADH og FADH2 stammer fra [sitronsyresyklusen](sitronsyresyklusen.qmd "Sitronsyresyklusen") og [fettsyrenedbrytningen](fettsyrenedbrytning.qmd/ "Fettmetabolismen"). Disse fraktes til den indre membranen i mitokondriene, der vi finner fem proteinkomplekser som utgjør elektrontransportkjeden. Her gir de fra seg elektronene de har mottatt i de nevnte prosessene, og energien som frigjøres brukes til å fosforylere ADP-molekyler til ATP. Bildet viser hvordan elektrontransportkjeden er bygget opp, og under kommer en rask gjennomgang av hva som skjer i de ulike delene.
+De elektronbærende molekylene NADH og FADH2 stammer fra [sitronsyresyklusen](sitronsyresyklusen.qmd). Disse fraktes til den indre membranen i mitokondriene, der vi finner fem proteinkomplekser som utgjør elektrontransportkjeden. Her gir de fra seg elektronene de har mottatt i de nevnte prosessene, og energien som frigjøres brukes til å fosforylere ADP-molekyler til ATP. Bildet viser hvordan elektrontransportkjeden er bygget opp, og under kommer en rask gjennomgang av hva som skjer i de ulike delene.
 
 ![](images/clipboard-2707218771.png)
 

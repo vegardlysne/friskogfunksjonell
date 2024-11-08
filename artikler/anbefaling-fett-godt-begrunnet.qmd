@@ -8,7 +8,7 @@ Gjennom denne høsten (2011) har vi hørt flere uttalelser fra myndigheter og fa
 
 ## Anbefales det fortsatt en reduksjon i mettet fett?
 
-Det kan se ut som om helsedirektoratet fortsatt anbefaler en reduksjon i mettet fett for å redusere risikoen for [hjerte- og karsykdommer](brokenlink/hjerteinfarkt-hva-er-det-egentlig/ "Hjerteinfarkt, hva er det egentlig?"); både fordi det ser slik ut fra matrisene som oppsummerer helseeffekter (matrise 19.1) og fordi det står at
+Det kan se ut som om helsedirektoratet fortsatt anbefaler en reduksjon i mettet fett for å redusere risikoen for [hjerte- og karsykdommer](brokenlink/hjerteinfarkt-hva-er-det-egentlig/); både fordi det ser slik ut fra matrisene som oppsummerer helseeffekter (matrise 19.1) og fordi det står at
 
 > *de norske næringsstoffanbefalingene konkluderer at mettede fettsyrer og transfettyrer bør begrenses til 10E%*
 
@@ -46,7 +46,7 @@ I kapittel 14 skrives det hva som er grunnlaget for denne konklusjonen:
 
 Konklusjonen om overbevisende evidens er altså tatt på bakgrunn av metaanalyser av prospektive kohortstudier publisert av Jakobsen et al.(7), en metaanalyse av kliniske forsøk publisert i artikkelen av Skeaff og Miller (8) og det at flerumettet fett senker LDL kolesterolet og total:HDL ratio.
 
--   Selv om flerumettet fett senker LDL kolesterolet og total:HDL ratio er det ikke dermed sagt at risikoen for hjerte- og karsykdommer går ned. **Kostfaktorer kan påvirke mange andre parametre som er forbundet med økt sykdomsrisiko**, eksempelvis triglyserider i blodet, insulinsensitivitet og [LDL-partikkelstørrelse](brokenlink/minikurs-i-lipoproteiner/ "Minikurs i lipoproteiner"), og det er bred enighet om at studier gjort på biomarkører som kan si noe om sykdomsrisiko aldri kan erstatte studier som er gjort direkte på sykdom og død.
+-   Selv om flerumettet fett senker LDL kolesterolet og total:HDL ratio er det ikke dermed sagt at risikoen for hjerte- og karsykdommer går ned. **Kostfaktorer kan påvirke mange andre parametre som er forbundet med økt sykdomsrisiko**, eksempelvis triglyserider i blodet, insulinsensitivitet og [LDL-partikkelstørrelse](minikurs-i-lipoproteiner.qmd), og det er bred enighet om at studier gjort på biomarkører som kan si noe om sykdomsrisiko aldri kan erstatte studier som er gjort direkte på sykdom og død.
 
 -   Artikkelen av Jakobsen et al. (7) viser en signifikant effekt på hjerterelatert død for kvinner under 60, men ikke for kvinner over 60. På menn er det ingen signifikant effekt  på sykdom eller død ved å bytte ut mettet fett med flerumettet. Les resultatene fra denne artikkelen [her](http://www.nutritionevidencelibrary.com/worksheet.cfm?worksheet_id=250651&highlight=Jakobsen%20MU&home=1). **Konklusjonen stemmer ikke med funnene**; dette er en overtolkning av resultater som i beste fall er relevante for kvinner under 60, ikke for hele befolkningen.
 

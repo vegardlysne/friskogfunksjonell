@@ -20,13 +20,13 @@ B6 i mat finnes hovedsakelig i form av de fosforylerte formene, bundet til enzym
 
 I leveren foregår mesteparten av B6-metabolismen. Her dannes i hovedsak PLP, både for bruk av leveren selv, men også for å sendes ut til resten av kroppen. I blodet fraktes vitaminet sammen med røde blodceller eller bundet til albumin.
 
-Omdanningen mellom de ulike formene av vitaminet er avhengig av andre næringsstoffer, blant annet [riboflavin](riboflavin.qmd) og [niacin](niacin.qmd). Fosforyleringsreaksjonene er avhengig av [sink](sink.qmd "Sink").
+Omdanningen mellom de ulike formene av vitaminet er avhengig av andre næringsstoffer, blant annet [riboflavin](riboflavin.qmd) og [niacin](niacin.qmd). Fosforyleringsreaksjonene er avhengig av [sink](sink.qmd).
 
 ## Funksjoner
 
 **B6 fungerer som koenzym i en rekke enzymatiske reaksjoner, blant annet i overføring av enkarbon-enheter (metylgrupper), hemoglobinsyntesen, omsetning av de energigivende næringsstoffene og biosyntesen av neurotransmittere.**
 
-Overføring av [enkarbon-enheter](../bioblikk-enkarbonmetabolismen.qmd) (først og fremst metyl) er en sentrale prosesser i kroppen, involvert i produksjon og modifisering av en rekke ulike molekyler. Kroppens primære metyldonor er en aktivert form for amionosyren metionin, S-Adenosylmetionin (SAM). Når SAM gir fra seg en metylgruppe, dannes det homocystein. Homocystein kan metaboliseres på flere måter. Det kan remetyleres for å danne metionin, noe som skjer ved at homocystein mottar en metylgruppe fra enten [folat](folat.qmd "Folat, vitamin B9")/[B12](kobalamin.qmd "Kobalamin, vitamin B12") eller [betain](../bioblikk-kolin.qmd). Remetylering av homocystein er i seg selv uavhengig av B6, men vitaminet er kofaktor for serine-hydroksymetyltransferase, som er et viktig enzym som overfører en metylgruppe fra aminosyren serin til folat, og dermed er B6 også involvert i remetylering av homocystein.
+Overføring av [enkarbon-enheter](../bioblikk-enkarbonmetabolismen.qmd) (først og fremst metyl) er en sentrale prosesser i kroppen, involvert i produksjon og modifisering av en rekke ulike molekyler. Kroppens primære metyldonor er en aktivert form for amionosyren metionin, S-Adenosylmetionin (SAM). Når SAM gir fra seg en metylgruppe, dannes det homocystein. Homocystein kan metaboliseres på flere måter. Det kan remetyleres for å danne metionin, noe som skjer ved at homocystein mottar en metylgruppe fra enten [folat](folat.qmd) eller [betain](../bioblikk-kolin.qmd). Remetylering av homocystein er i seg selv uavhengig av B6, men vitaminet er kofaktor for serine-hydroksymetyltransferase, som er et viktig enzym som overfører en metylgruppe fra aminosyren serin til folat, og dermed er B6 også involvert i remetylering av homocystein.
 
 Den alternative metabolismen av homocystein er gjennom det som heter transsulfureringsveien, og denne består av to B6-avhengige enzymer. Dette er den katabolske metabolismeveien, som fører til et irreversibelt tap av homocystein og metylgrupper. Denne veien ender opp med at det produseres cystein, som er et viktig substrat for produksjon av glutation, vår viktigste intracellulære antioksidant.
 
@@ -40,7 +40,7 @@ I omsetningen av energigivende næringsstoffer bidrar B6 som koenzym i mange rea
 
 PLP er viktig i fettomsetningen, men mekanismene her er ikke helt klarlagt. Syntesen av karnitin, som transporterer fettsyrer inn i mitokondriene, er avhengig av PLP.
 
-PLP er også sentral i glukosemetabolismen, og bidrar til glykogennedbrytningen og nydanning av glukose (glukoneogenesen). B6 er viktig i syntesen og metabolismen av [niacin](niacin.qmd) og [folat](folat.qmd "Folat, vitamin B9").
+PLP er også sentral i glukosemetabolismen, og bidrar til glykogennedbrytningen og nydanning av glukose (glukoneogenesen). B6 er viktig i syntesen og metabolismen av [niacin](niacin.qmd) og [folat](folat.qmd).
 
 PLP-avhengige dekarboksyleringsreaksjoner er sentral i syntesen av flere neurotransmittere, blant annet GABA, dopamin og noradrenalin og serotinin.
 

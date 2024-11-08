@@ -34,11 +34,11 @@ Ved søvnmangel er kanskje det aller første man merker endring i humør. Det å
 
 Søvn er også satt i sammenheng med overvekt, noe Vegard og Thomas har vært inne på tidligere.
 
--   [Kan søvnmangel bidra til overvekt](sovnmangel-overvekt.qmd "Kan søvnmangel bidra til overvekt?")?
+-   [Kan søvnmangel bidra til overvekt](sovnmangel-overvekt.qmd)?
 
--   [Søvn og overvekt - større sammenheng enn vi tror?](sovn-overvekt "Søvn og overvekt – Større sammenheng enn vi tror?")
+-   [Søvn og overvekt - større sammenheng enn vi tror?](sovn-overvekt)
 
--   [Søvn - viktigere enn du tror!](sovn-viktigere-enn-du-tror.qmd "Søvn – viktigere enn du tror!")
+-   [Søvn - viktigere enn du tror!](sovn-viktigere-enn-du-tror.qmd)
 
 De ovennevnte konsekvensene tror jeg de fleste er klar over, men det finnes andre alvorlige og kanskje mindre kjente konsekvenser av for lite søvn, eller søvn på feil tid. Blant annet er 57% av trailerulykker som resulterer i død for trailersjåføren assosiert med søvnmangel \[2\]. På grunn av dette er det nå innført strenge regler om hviletid for yrkessjåfører. I store ulykker som Tsjernobyl, Challenger og Exxon Valdez har søvnmangel hos ansvarshavende vært pekt ut som en av de største utløsende faktorene.
 

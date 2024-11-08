@@ -4,7 +4,7 @@ author: "Ingvild Thun"
 date: 2012.10.18
 ---
 
-Tilbake til [kosthold i helseinstitusjoner](../../kosthold-institusjoner.qmd "Kosthold i helseinstitusjoner").
+Tilbake til [kosthold i helseinstitusjoner](../../kosthold-institusjoner.qmd).
 
 Ikke alle har mulighet til å spise vanlig mat. Ulike problemstillinger kan påvirke vår evne til å spise, og av og til er det nødvendig å gjøre tiltak for å i det hele tatt klare å få i seg tilstrekkelig med energi og næringsstoffer. I denne artikkelen ser vi på det som kalles konsistenstilpasset kost, som er en måte å tilpasse kosten til de som sliter med å spise maten i sin opprinnelige form.
 

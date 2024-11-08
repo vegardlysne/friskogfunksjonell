@@ -5,13 +5,13 @@ date: "2012.09.01"
 
 Et tema som går igjen og igjen når man diskuterer kosthold er hvordan endringer i kroppsvekten fungerer. Den tradisjonelle tilnærmingen til saken er at det bare handler om energibalansen, og at energi inn - energi ut alltid vil forutsi hvordan kroppsvekten vil utvikle seg over tid. Etter at lavkarbobølgen skylte over landet har en ny oppfatning kommet til live, nemlig ideen om at en kalori ikke er en kalori, og at det er hva vi spiser, og ikke hvor mye, som avgjør hva som skjer med vekten.
 
-I dette innlegget vil jeg bygge litt videre på innlegget mitt om [energibalansen](energibalansen.qmd "Energibalansen – hva sier den egentlig?"), og rett og slett rive det ned til noe så enkelt som et badekar. Jeg vil anbefale alle å lese den artikkelen først, for å få et bilde av hvor kompleks energibalansen egentlig er.
+I dette innlegget vil jeg bygge litt videre på innlegget mitt om [energibalansen](energibalansen.qmd), og rett og slett rive det ned til noe så enkelt som et badekar. Jeg vil anbefale alle å lese den artikkelen først, for å få et bilde av hvor kompleks energibalansen egentlig er.
 
 ## Er en kalori en kalori?
 
 Kalori er et mål på energi, og en kcal er definert som den energien som trengs for å  øke temperaturen på en liter vann med en grad. Per definisjon er derfor en kalori en kalori.
 
-De som mener at en kalori ikke er en kalori snakker ofte om at de energigivende næringsstoffene oppfører seg ulikt i kroppen, noe som er helt riktig. Hva du spiser vil være med å påvirke hor mye du spiser, og det vil også påvirke hvor mye du forbrenner. [Protein](brokenlink/protein/ "Protein") har andre funksjoner i kroppen enn [karbohydrater](brokenlink/karbohydrater/ "Karbohydrater") og [fett](brokenlink/fett/ "Fett"), som hovedsakelig kan regnes som energikilder. [Ulike sammensetninger av næringsstoffene](brokenlink/metthetsfolelsen/ "Metthetsfølelsen – viktig når du skal velge kosthold") vil også ha ulike effekter på metthetsfølelse og hormonstatus.
+De som mener at en kalori ikke er en kalori snakker ofte om at de energigivende næringsstoffene oppfører seg ulikt i kroppen, noe som er helt riktig. Hva du spiser vil være med å påvirke hor mye du spiser, og det vil også påvirke hvor mye du forbrenner. [Protein](naeringsstoffer/protein.qmd) vil også ha ulike effekter på metthetsfølelse og hormonstatus.
 
 Begge sider av saken har altså poenger som er korrekte, men de må brukes i riktig sammenheng. Om du spiser et måltid som inneholder 500 kcal, så er det ikke likegyldig hvilke næringsstoffer måltidet er satt sammen av. Sammensetningen av måltidet vil nemlig påvirke matinntaket senere på dagen, gjennom sine effekter på hormoner og metthetssignaler. Men, hvis du i løpet av en dag har spist 2500 kcal og forbruket har vært 3000 kcal, så vil det være av mindre betydning hvor kaloriene har kommet fra, du er i negativ energibalanse uansett.
 
@@ -19,7 +19,7 @@ Begge sider av saken har altså poenger som er korrekte, men de må brukes i rik
 
 Tenk deg at vi bytter ut menneskekroppen med et badekar. Mengden vann i badekaret, vannstanden, representerer kroppens totale lagre av energi, både fettvevet, muskelvevet og glykogenlagrene. Hver dag fyller vi på mer vann, noe som representerer maten vi spiser. Samtidig vil det også hele tiden renne vann ut gjennom sluken, noe som representerer forbruk av energi.  Noe vil også fordampe, eller rett og slett skvulpe utfor kanten. For å opprettholde vannstanden er vi avhengig av å helle oppi like mye vann som det forsvinner over tid. Hvis ikke vil vannstanden øke eller synke.
 
-Dette er utgangspunktet for denne analogien, her følger en forklaring av de ulike delene av energibalansen basert på dette. Som nevnt lenger oppe anbefaler jeg å lese artikkelen om [energibalansen](brokenlink/energibalansen/ "Energibalansen – hva sier den egentlig?") først.
+Dette er utgangspunktet for denne analogien, her følger en forklaring av de ulike delene av energibalansen basert på dette. Som nevnt lenger oppe anbefaler jeg å lese artikkelen om [energibalansen](brokenlink/energibalansen/) først.
 
 Energibalanseligningen:
 
@@ -49,8 +49,8 @@ TEF er den ekstra energien vi bruker i forbindelse med matinntak. Denne varierer
 
 Mye kan sies om energibalansen og hvordan den fungerer, men uenigheter handler stort sett om ulike tolkninger eller at man blander mellom fortid og fremtid. Termodynamikkens første læresetning forteller osv at energi verken kan oppstå eller forsvinne, bare overføres fra en form til en annen. Det er nettopp dette som skjer i kroppen vår. Når vi spiser eller drikker, vil den kjemiske energien fra maten kunne overføres til det vi trenger den til, enten det er produksjon av varme eller bevegelse. Om vi tilfører mer energi enn det som brukes, vil vi få en akkumulering av energi, som i kroppen lagres som fettvev. Tilfører vi mindre energi enn vi bruker, vil vi bruke fra kroppens energireserver, og dermed miste fettvev.
 
-Jeg vil også gjøre et ekstra poeng ut av at det er energibalansen over tid som har noe å si, ikke hver dag isolert. De færreste er i balanse fra dag til dag, men over tid har vi mekanismer som vil føre oss i retning balanse. Et tegn på dette er at de aller fleste faktisk er vektstabile, også undervektige og overvektige. Med mindre man stadig prøver å slanke seg med [midlertidige løsninger](brokenlink/midlertidige-losninger/ "Midlertidige løsninger – midlertidige resultater"), er det få som svinger betydelig opp og ned i vekt.
+Jeg vil også gjøre et ekstra poeng ut av at det er energibalansen over tid som har noe å si, ikke hver dag isolert. De færreste er i balanse fra dag til dag, men over tid har vi mekanismer som vil føre oss i retning balanse. Et tegn på dette er at de aller fleste faktisk er vektstabile, også undervektige og overvektige. Med mindre man stadig prøver å slanke seg med [midlertidige løsninger](brokenlink/midlertidige-losninger/), er det få som svinger betydelig opp og ned i vekt.
 
-For å oppnå en vektnedgang må man derfor oppnå en negativ energibalanse over tid, og det er her [livsstilsendringer](brokenlink/diett-eller-livsstilsendring/ "Diett eller livsstilsendring?") kommer inn i bildet. Midlertidige løsninger vil på grunn av kompensasjonsmekanismer i de fleste tilfeller gi midlertidige resultater, også kjent som jojo-slanking.
+For å oppnå en vektnedgang må man derfor oppnå en negativ energibalanse over tid, og det er her [livsstilsendringer](brokenlink/diett-eller-livsstilsendring/) kommer inn i bildet. Midlertidige løsninger vil på grunn av kompensasjonsmekanismer i de fleste tilfeller gi midlertidige resultater, også kjent som jojo-slanking.
 
 Som jeg har prøvd å illustrere i disse to innleggene om energibalansen så er det viktig å ta hensyn til begge sider av ligningen, og ikke bare fokusere på den ene siden. Inntak og forbruk påvirker hverandre, og det er forholdet mellom disse over tid som har en betydning for hvorvidt vannstanden vil synke, stige eller holdes stabil.

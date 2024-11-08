@@ -6,7 +6,7 @@ date: 2013.02.28
 
 Jeg ønsker å dele litt av min historie fordi jeg vet at den kan angå så mange som 30-40% av befolkningen. Selv om jeg i dag er  symptomfri, kunne mitt møte med helsevesenet spart meg for mange bekymringer, hvis norske leger hadde vært bedre informert (og interessert?) i internasjonal forskning på området. Sist, men ikke minst, ønsker jeg å bidra til at ”tabuet” rundt folkesykdommen irritabel tarmsyndrom/matintoleranse brytes ned. Dette er noe svært mange har, men svært få vil snakke om. Resultatet er ofte nedsatt livskvalitet og psykiske problemer.
 
-[Les mer om irritabel tarm her](irritabel-tarm-behandling.qmd "Irritabel tarm – hvordan behandles det?")
+[Les mer om irritabel tarm her](irritabel-tarm-behandling.qmd)
 
 ## Min historie
 
@@ -20,7 +20,7 @@ Gjennombruddet for min del da jeg ved en tilfeldighet snublet over teorien om F
 
 Likevel ble ikke FODMAP-redusert diett en endelig løsning for min del. Selv om situasjonen bedret seg ganske mye, opplevde jeg tidvis likevel symptomer. Slik jeg opplever det, må irritabel tarmsyndrom derfor også sees i sammenheng med tilstander som fruktosemalabsorbsjon, og matintoleranse som en forsinket immunrespons. Det er også nyere forskning som tyder på at dette er tilfelle. For eksempel tåler jeg personlig ikke laktosefri melk, selv om dette skal være greit ifølge Fodmap-dietten. Symptomene trenger da heller ikke nødvendigvis å komme bare fra magen, men gjerne også fra huden (eksem), eller hodet (svimmelhet/tretthet).
 
-[Les mer om FODMAP her](irritabel-tarm.qmd "Irritabel tarm og hva du kan gjøre med det!")
+[Les mer om FODMAP her](irritabel-tarm.qmd)
 
 **Mye tyder på at maten vi spiser, har langt mer å si for helsa vår enn vi tidligere var klar over!**
 

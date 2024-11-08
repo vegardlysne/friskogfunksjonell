@@ -16,13 +16,13 @@ Niacin inngår i koenzymene NAD (nikotinamid dinukleotid) og NADP (nikotinamid d
 
 I kosten foreligger niacin først og fremst som NAD eller NADP. Niacin tas opp fra tynntarmen ved diffusjon. Både niacin, nikotinamid og NAD fraktes via portåren til leveren.
 
-Vi har flere metabolske veier for syntese av NAD fra de ulike forløperne; nikotinsyre, nikotinamid, nikotinamid ribosid og tryptofan. Nikotinamid bruker et annet enzym enn nikotinsyre i omdannelsen til NAD. Dette enzymet hemmes av NAD i seg selv, noe som ikke gjelder enzymet som benyttes av nikotinsyre. Av denne grunnen vil nikotinsyre være mer effektivt for å øke nivåene av NAD inne i cellene. NAD-syntese fra tryptofan skjer gjennom syv enzymatiske steg, som er avhengig av [riboflavin](riboflavin.qmd "Riboflavin, vitamin B2"), [B6](pyridoksin.qmd "Pyridoksin, vitamin B6") og [C-vitamin](cvitamin.qmd "C-vitamin").
+Vi har flere metabolske veier for syntese av NAD fra de ulike forløperne; nikotinsyre, nikotinamid, nikotinamid ribosid og tryptofan. Nikotinamid bruker et annet enzym enn nikotinsyre i omdannelsen til NAD. Dette enzymet hemmes av NAD i seg selv, noe som ikke gjelder enzymet som benyttes av nikotinsyre. Av denne grunnen vil nikotinsyre være mer effektivt for å øke nivåene av NAD inne i cellene. NAD-syntese fra tryptofan skjer gjennom syv enzymatiske steg, som er avhengig av [riboflavin](riboflavin.qmd).
 
 ## Funksjoner
 
 Niacin omdannes til NAD, som er den vitaminderiverte kofaktoren som er involvert i flest reaksjoner i kroppen. Også den fosforylerte formen NADP er viktig, og til sammen er det over 470 proteiner som bruker disse som kofaktorer. Begge disse koenzymene fungerer som hydrogenbærere, det vil si at de kan overføre et hydrogenatom fra en forbindelse til en annen. Det er nikotinamid-delen av koenzymene som er den reaktive delen av molekylet, og det er her hydrogenatomet bindes.
 
-NAD er en elektronakseptor som er aktiv i katabole (nedbrytende) redoksreaksjoner, for eksempel nedbrytningen av energigivende næringsstoffer. Ved å ta imot et hydrogenatom, som avgis i nedbrytningen av karbohydrater, fett eller protein, blir det dannet NADH, som brukes for å produsere energimolekylet ATP i [elektrontransportkjeden](../metabolismen/elektrontransportkjeden.qmd "Elektrontransportkjeden"). NADP er en hydrogendonor, som brukes i anabole (oppbyggende) redoksreaksjoner. Ved å gi fra seg et hydrogenatom, frigjøres energi som deretter bidrar til oppbyggingen av molekyler som f.eks. fettsyrer eller kolesterol.
+NAD er en elektronakseptor som er aktiv i katabole (nedbrytende) redoksreaksjoner, for eksempel nedbrytningen av energigivende næringsstoffer. Ved å ta imot et hydrogenatom, som avgis i nedbrytningen av karbohydrater, fett eller protein, blir det dannet NADH, som brukes for å produsere energimolekylet ATP i [elektrontransportkjeden](../metabolismen/elektrontransportkjeden.qmd). NADP er en hydrogendonor, som brukes i anabole (oppbyggende) redoksreaksjoner. Ved å gi fra seg et hydrogenatom, frigjøres energi som deretter bidrar til oppbyggingen av molekyler som f.eks. fettsyrer eller kolesterol.
 
 NAD har også andre funksjoner, blant annet i reguleringen av gentranskripsjon og stabilisering av DNA. Dette skjer hovedsakelig ved at NAD brukes som substrat for enzymer som hovedsakelig befinner seg i fire hovedkategorier.
 
@@ -46,7 +46,7 @@ NAD har også andre funksjoner, blant annet i reguleringen av gentranskripsjon o
 
     -   IDO reguleres i stor grad av immunresponsen. Ved autoimmune sykdommer er IDO aktivert hele tiden, noe som kan gi symptomer på niacinmangel.
 
-NAD kan også fungere som en ligand som binder til P2Y1 reseptoren i tykktarmceller eller P2Y11-reseptoren i enkelte hvite blodceller. Når NAD binder til disse reseptorene så fungerer den som en nevrotransmitter. I tykktarmen hemmer P2Y1 muskelkontraksjon, noe som øker intracellulære nivåer av [kalsium](kalsium.qmd "Kalsium").
+NAD kan også fungere som en ligand som binder til P2Y1 reseptoren i tykktarmceller eller P2Y11-reseptoren i enkelte hvite blodceller. Når NAD binder til disse reseptorene så fungerer den som en nevrotransmitter. I tykktarmen hemmer P2Y1 muskelkontraksjon, noe som øker intracellulære nivåer av [kalsium](kalsium.qmd).
 
 ## Behov og anbefalinger
 

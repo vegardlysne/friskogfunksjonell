@@ -3,9 +3,9 @@ title: "Open Access"
 date: 2014.03.17
 ---
 
-[Tilbake til kildekritikk, vitenskap og tankefeil](../../kildekritikk.qmd "Kildekritikk, vitenskap og tankefeil")
+[Tilbake til kildekritikk, vitenskap og tankefeil](../../kildekritikk.qmd)
 
-Man kan finne masse informasjon på internett helt gratis. Fordelen med dette er at det er raskt og effektivt, men samtidig har man ingen garanti for at kvaliteten på det man leser er god. Hvem som helst kan nemlig publisere hva som helst på internett, og derfor er det viktig å være ekstra [kildekritisk](kildekritikk-god-kilde.qmd "Kildekritikk – hva er en god kilde?") når man benytter seg av blogger og lignende som informasjonskilde. Disse gjennomgår nemlig ikke den samme kvalitetskontrollen som inngår i [publikasjonsprosessen](publikasjonsprosessen.qmd "Publikasjonsprosessen") vitenskapelige artikler må gjennom før de publiseres.
+Man kan finne masse informasjon på internett helt gratis. Fordelen med dette er at det er raskt og effektivt, men samtidig har man ingen garanti for at kvaliteten på det man leser er god. Hvem som helst kan nemlig publisere hva som helst på internett, og derfor er det viktig å være ekstra [kildekritisk](kildekritikk-god-kilde.qmd) vitenskapelige artikler må gjennom før de publiseres.
 
 ## Forskning publiseres i tidsskrifter
 

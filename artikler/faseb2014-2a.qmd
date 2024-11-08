@@ -5,7 +5,7 @@ date: 2014.08.04
 
 FASEB-konferansen er lagt opp slik at det hver dag er to økter med foredrag, med en pause midt på. For at ikke innleggene skal bli alt for lange vil jeg derfor dele noen av dagene inn i 2 innlegg. Dagens første økt handlet om metioninmetabolisme ved leversykdom, og her kommer en liten oppsummering fra to av foredragene jeg fikk med meg.
 
-[Les oppsummeringen fra dag 1 her](faseb2014-1.qmd "Folat, vitamin B12 og enkarbonmetabolisme – FASEB dag 1")
+[Les oppsummeringen fra dag 1 her](faseb2014-1.qmd)
 
 ## Alkohol og leverskade, et spørsmål om metylering?
 
@@ -21,7 +21,7 @@ En av de viktigste forbrukerne av metylgrupper i kroppen er guanidinoacetat mety
 
 ![](images/clipboard-148361664.png)
 
-For de av oss som er interessert i idrett og prestasjon har Asle Bøe tidligere skrevet en artikkel om [kreatin](brokenlink/kreatin/ "Kreatin – noe for deg?") og hvordan dette kosttilskuddet har en godt dokumentert prestasjonsfremmende effekt. Vi vet jo også at alkohol ikke akkurat fremmer prestasjon, og kanskje kan dette ha noe med redusert kreatinproduksjon å gjøre.
+For de av oss som er interessert i idrett og prestasjon har Asle Bøe tidligere skrevet en artikkel om [kreatin](brokenlink/kreatin/) og hvordan dette kosttilskuddet har en godt dokumentert prestasjonsfremmende effekt. Vi vet jo også at alkohol ikke akkurat fremmer prestasjon, og kanskje kan dette ha noe med redusert kreatinproduksjon å gjøre.
 
 #### Tarmpermeabilitet
 
@@ -35,4 +35,4 @@ Dette kan indikere at noen kan være predisponert for å utvikle leversykdom i k
 
 ![](images/clipboard-2378294827.png)
 
-Senere i dag skal det være en forelesningsøkt der hovedtema er [de metabolske rollene til betain-homocystein metyltransferase (BHMT)](brokenlink/faseb-2b/ "Folat, Vitamin B12 og enkarbonmetabolisme – FASEB dag 2, økt 2").
+Senere i dag skal det være en forelesningsøkt der hovedtema er [de metabolske rollene til betain-homocystein metyltransferase (BHMT)](brokenlink/faseb-2b/).

@@ -4,7 +4,7 @@ author: "Andrea Rørvik Marti"
 date: 2013.09.05
 ---
 
-[Tilbake til kildekritikk, vitenskap og tankefeil](../../kildekritikk.qmd "Kildekritikk, vitenskap og tankefeil")
+[Tilbake til kildekritikk, vitenskap og tankefeil](../../kildekritikk.qmd)
 
 Etiske retningslinjer er en ekstremt viktig del av forskning, og noe som alle og enhver i det minste bør ha en viss kjennskap til. I denne artikkelen vil jeg først gi en historisk innføring i hvordan og hvorfor etiske retningslinjer brukes i forskning. Jeg vil så gå igjennom noen av de viktigste etiske hensynene man må ta når man gjennomfører forskningsprosjekter. Jeg vil her fokusere spesielt på forskning som involverer deltakelse av mennesker. Formålet med artikkelen er både å gjøre deg som potensiell deltaker obs på dine egne rettigheter, men også å presisere hvor streng den etiske godkjenningsprosessen er. Dette er naturligvis bra, og viktig for å opprettholde den høye etiske standarden all forskning skal og bør forholde seg til.
 
@@ -28,7 +28,7 @@ Dette er allerede nevnt ovenfor. Ethvert forskningsprosjekt skal søke om og få
 
 I forskningsprosjekter hvor mennesker er involvert er det spesifikke krav satt med det formål å beskytte deltakerne. Disse kravene bygger på følgende konsepter:
 
--   Informert samtykke: Deltakeren skal før eksperimentets start informeres om hva eksperimentet innebærer, potensielle risikoer, og så langt det er mulig om eksperimentets formål. I visse tilfeller kan det være nødvendig å gi ufullstendig informasjon til deltakeren (som for eksempel hvis eksperimentet innebærer [placebokontroll](full-kontroll.qmd "Full kontroll?"). Dette kan aksepteres hvis grunnene er gode og veldokumenterte. Samtykkeskjema skal alltid leses og signeres før eksperimentet startes.
+-   Informert samtykke: Deltakeren skal før eksperimentets start informeres om hva eksperimentet innebærer, potensielle risikoer, og så langt det er mulig om eksperimentets formål. I visse tilfeller kan det være nødvendig å gi ufullstendig informasjon til deltakeren (som for eksempel hvis eksperimentet innebærer [placebokontroll](full-kontroll.qmd). Dette kan aksepteres hvis grunnene er gode og veldokumenterte. Samtykkeskjema skal alltid leses og signeres før eksperimentet startes.
 -   Frivillighet: Deltakeren deltar i studien av egen fri vilje. Det er ikke lov å bruke noen form for tvang eller overtalelse for å få vedkommende til å delta.
 -   Rett til å trekke seg: Deltakeren kan til enhver tid velge å trekke seg fra studien uten at dette skal medføre noen form for straff, og uten å bli spurt om hvorfor. Deltakeren kan også be om at hans/hennes data fjernes fra studien både under og etter datainnsamlingen.
 -   Anonymitet og konfidensialitet: Dataene fra studien skal arkiveres slik at deltakerens anonymitet beskyttes. Det skal ikke være mulig å identifisere enkeltpersoner basert på datasettet. Datasettet skal kun gjøres tilgjengelig for dem som har behov for det; som regel innebærer dette kun de som jobber direkte med prosjektet. Andre kan søke om tilgang, om de har en god grunn til det.

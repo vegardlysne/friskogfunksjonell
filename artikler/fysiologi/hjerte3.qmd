@@ -19,9 +19,9 @@ Figuren over viser det spesialiserte ledningssystemet. Figuren viser *sinusknut
 
 Les gjerne de andre artiklene om hjertet:
 
--   [Hjertet del 1 – Anatomi og fysiologi](hjerte1.qmd "Hjertet Del 1")
+-   [Hjertet del 1 – Anatomi og fysiologi](hjerte1.qmd)
 
--   [Hjertet del 2 – Energisubstrat, oksygenforbruk, ytelse og aktivitetsnivå](hjerte2.qmd "Hjertet del 2 – energisubstrat, oksygenforbruk, ytelse og aktivitetsnivå")
+-   [Hjertet del 2 – Energisubstrat, oksygenforbruk, ytelse og aktivitetsnivå](hjerte2.qmd)
 
 ## Sinusknuten
 

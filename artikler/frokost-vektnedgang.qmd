@@ -8,7 +8,7 @@ De fleste vokser opp med en leveregel om at frokost er dagens viktigste måltid,
 
 Forskning på kosthold og helse domineres av observasjonsstudier (les mer om det i Vegards artikkel [Signifikans og alt det der](kildekritikk/signifikans.qmd)). Observasjonsstudier kan gi mye nyttig og interessant informasjon som genererer hypoteser for videre forskning. Men altfor ofte blir funnene i observasjonsstudier tolket som endelige *bevis* på at det er et årsaksforhold mellom eksponering og utfall, noe som er en feilslutning.
 
-Les gjerne mer om [svakheter i ernæringsepidemiologi](kildekritikk/ernaeringsepidemiologi.qmd "Svakheter i ernæringsepidemiologi").
+Les gjerne mer om [svakheter i ernæringsepidemiologi](kildekritikk/ernaeringsepidemiologi.qmd).
 
 Selv om de anses som "gullstandarden" i biomedisinsk forskning, er randomiserte, kontrollerte studier ikke alltid praktisk (eller etisk) mulig å gjøre for å besvare et kostholdsrelatert spørsmål. En påstand som det derimot ER fullt mulig å teste eksperimentelt er at det er gunstig å spise frokost dersom man skal gå ned i vekt. Dessverre finnes det få slike studier, mens det finnes en rekke observasjonsstudier som jevnt over viser en *sammenheng* mellom mindre overvekt blant personer som jevnlig spiser frokost.
 
@@ -20,11 +20,11 @@ Det finnes faktisk så mange slike studier at mye rett og slett [er bortkastet]
 >
 > 3.  Det finnes bevis for at forskere rapporterer sine egne og andres resultater om frokost og fedme på en partisk måte.
 
-Påstanden om at det å regelmessig spise frokost beskytter mot fedme er enn så lenge [en udokumentert antakelse](http://www.nejm.org/doi/full/10.1056/NEJMsa1208051 "New England Journal of Medicine, 2013"), uansett hvor utbredt troen på det er. Riktignok finnes det noen studier som viser at folk som hopper over frokost kan kompensere ved å spise mer senere på dagen, men det som er avgjørende for vekta er jo [energibalansen](energibalansen.qmd "Energibalansen – hva sier den egentlig?") over hele døgnet.
+Påstanden om at det å regelmessig spise frokost beskytter mot fedme er enn så lenge [en udokumentert antakelse](http://www.nejm.org/doi/full/10.1056/NEJMsa1208051) over hele døgnet.
 
 ## Nye studier på frokost
 
-For kort tid siden ble to nye og interessante, eksperimentelle studier av frokost blitt publisert. [Den første](http://ajcn.nutrition.org/content/early/2014/06/04/ajcn.114.089573.abstract "American Journal of Clinical Nutrition, 2014") var ledet av David Allison, som også var medforfatter av oversiktsartikkelen om frokost jeg nevnte over. Studien - som er den hittil største randomiserte, kontrollerte studien om frokost og vekt - ble gjennomført ved fem sentere, i Alabama, København, Boston, Columbia og Colorado.
+For kort tid siden ble to nye og interessante, eksperimentelle studier av frokost blitt publisert. [Den første](http://ajcn.nutrition.org/content/early/2014/06/04/ajcn.114.089573.abstract) var ledet av David Allison, som også var medforfatter av oversiktsartikkelen om frokost jeg nevnte over. Studien - som er den hittil største randomiserte, kontrollerte studien om frokost og vekt - ble gjennomført ved fem sentere, i Alabama, København, Boston, Columbia og Colorado.
 
 Deltakerne (totalt 309 menn og kvinner, hvorav ca. halvparten pleide å spise frokost) ble tilfeldig delt i tre grupper: én kontrollgruppe, én frokostgruppe og én ikke-frokostgruppe. Kontrollgruppen fikk utdelt en brosjyre om sunt kosthold, uten at frokost ble nevnt. Frokostgruppen fikk samme brosjyre, men også beskjed om å spise frokost før klokken 10 om morgenen hver dag. Det ble ikke gitt noen krav om hva de skulle spise til frokost. Den tredje gruppen fikk beskjed om ikke å spise noe før klokken 11 om morgenen.
 
@@ -58,7 +58,7 @@ Vel å merke var dette ikke en test av en spesiell type frokost, men en test av 
 
 ## **«Bra for forbrenningen»?**
 
-Noen sier at frokost er viktig om man skal passe på vekta, siden det «setter igang forbrenningen» etter en natts faste. [Den andre](http://ajcn.nutrition.org/content/early/2014/06/05/ajcn.114.083402.abstract "American Journal of Clinical Nutrition") nye frokoststudien jeg skal nevne (også den publisert i American Journal of Clinical Nutrition) skulle teste nettopp hvorvidt det å spise frokost eller ikke i 6 uker påvirket *energiforbruket* hos 33 normalvektige personer. Halvparten skulle spise frokost (minst 700 kalorier før kl. 11:00), de andre skulle faste til kl. 12:00.
+Noen sier at frokost er viktig om man skal passe på vekta, siden det «setter igang forbrenningen» etter en natts faste. [Den andre](http://ajcn.nutrition.org/content/early/2014/06/05/ajcn.114.083402.abstract) nye frokoststudien jeg skal nevne (også den publisert i American Journal of Clinical Nutrition) skulle teste nettopp hvorvidt det å spise frokost eller ikke i 6 uker påvirket *energiforbruket* hos 33 normalvektige personer. Halvparten skulle spise frokost (minst 700 kalorier før kl. 11:00), de andre skulle faste til kl. 12:00.
 
 Aktivitetsmålingene (både puls og akselerometere) viste at de som spiste frokost forbrente mer energi under og etter fysisk aktivitet enn de som hoppet over (i snitt 1449 og 1007 kalorier per dag), og spesielt før klokken 12. De som spiste frokost gjorde signifikant mer dagligdagse, lette aktiviteter om morgenen enn de som fastet, noe som ga utslag på det totale energiforbruket.
 

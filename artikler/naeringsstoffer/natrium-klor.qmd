@@ -28,7 +28,7 @@ Inntak og utskillelse av natrium
 
 Natrium og klorid er de viktigste ekstracellulære elektrolyttene, og er i stor grad ansvarlig for å opprettholde blodvolum og blodtrykk.  Det ser ut som om disse jobber sammen om denne oppgaven. Blodvolumet vil sammen med motstanden i blodårene være avgjørende for blodtrykket, og dette er igjen viktig for å levere blod til alle kroppens organer. Dersom blodtrykket blir for lavt så vil også blodtilførselen til organene bli utilstrekkelig, og da vil vi produsere hormoner som regulerer dette tilbake til normalen.
 
-Natrium er viktig som et kotransportmolekyl, eksempelvis i opptaket av karbohydrater, i regulering av ekstracellulært og intracellulært kalium, opptaket av [C-vitamin](cvitamin.qmd "C-vitamin") til celler, opptak av [biotin](biotin.qmd "Biotin, vitamin B7") i tarmen og [jod](jod.qmd "Jod") både i tarm og i skjoldbruskkjertelen.
+Natrium er viktig som et kotransportmolekyl, eksempelvis i opptaket av karbohydrater, i regulering av ekstracellulært og intracellulært kalium, opptaket av [C-vitamin](cvitamin.qmd) både i tarm og i skjoldbruskkjertelen.
 
 ## Væskebalanse
 
@@ -48,7 +48,7 @@ Sammenhengen mellom natrium og blodtrykk er ikke en ny oppdagelse, og allerede t
 
 I INTERSALT-studien fant man en positiv korrelasjon mellom natriuminntak og blodtrykk, men denne sammenhengen ble mye svakere når man utelot de med lavest inntak. Dette kan gi grunnlag til en antagelse om at veldig lavt saltinntak (\<2,3g salt/dag) kan være gunstig. INTERMAP-studien fant akkurat den samme sammenhengen som de gjorde i INTERSALT.
 
-DASH-dietten (Dietary Approach to Stop Hypertension) er en saltredusert diet som er forsket mye på, og her har man funnet at lavere saltinntak gir lavere blodtrykk. Men, som nevnt i [artikkelen om kalium](kalium.qmd "Kalium"), så kan økt inntak av kalium i stor grad forklare disse resultatene ettersom de som beholdt et høyt kaliuminntak også vedlikeholdt et lavere blodtrykk på tross av økt saltinntak.
+DASH-dietten (Dietary Approach to Stop Hypertension) er en saltredusert diet som er forsket mye på, og her har man funnet at lavere saltinntak gir lavere blodtrykk. Men, som nevnt i [artikkelen om kalium](kalium.qmd), så kan økt inntak av kalium i stor grad forklare disse resultatene ettersom de som beholdt et høyt kaliuminntak også vedlikeholdt et lavere blodtrykk på tross av økt saltinntak.
 
 Vanligvis tenker man først og fremst på natrium når det er snakk om salt og blodtrykk, men det kan se ut som om klor er minst like viktig. Mens natrium først og fremst befinner seg i selve blodplasma, så finner vi klor først og fremst på utsiden av blodåreveggen, i det som kalles interstitialvæsken. Grunnen til dette er at klor, i likhet med blodproteinene, er negativt ladet. Ettersom proteinene ikke passerer blodåreveggen, vil klor plassere seg på utsiden. Ettersom konsentrasjonen til elektrolyttene må være lik på begge sider, vil både klor og natrium være viktige. Man har sett at blodtrykket synker ved å bare kutte ned på klorinntaket, og at et inntak av natrium bundet til andre anioner, som f.eks. bikarbonat, ikke øker blodvolumet. Imidlertid finner vi nesten alltid natrium og klor koblet til hverandre, så dette er ikke så relevant når det gjelder hva vi bør spise.
 

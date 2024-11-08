@@ -4,7 +4,7 @@ author: "Ingvild Thun"
 date: 2014.03.10
 ---
 
-Tilbake til [kosthold i helseinstitusjoner](../../kosthold-institusjoner.qmd "Kosthold i helseinstitusjoner").
+Tilbake til [kosthold i helseinstitusjoner](../../kosthold-institusjoner.qmd).
 
 Enkelte pasientgrupper kan ha problemer med å fordøye maten, og oppleve en del symptomer i forbindelse med dette. Lettfordøyelig kost er. Målsettingen for kosten vil være å minske pasientens symptomer og plager, samtidig som den smaker godt og er ernæringsmessig tilstrekkelig.
 

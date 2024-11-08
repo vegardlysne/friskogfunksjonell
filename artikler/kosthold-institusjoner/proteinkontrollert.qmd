@@ -4,7 +4,7 @@ author: "Ingvild Thun"
 date: 2014.01.27
 ---
 
-Tilbake til [kosthold i helseinstitusjoner](../../kosthold-institusjoner.qmd "Kosthold i helseinstitusjoner").
+Tilbake til [kosthold i helseinstitusjoner](../../kosthold-institusjoner.qmd).
 
 En kost med et moderat proteininnhold kan redusere eller forhindre proteinutskillelse i urin, og uremisymptomer som hudkløe, kvalme og oppkast hos personer med nyresykdom. Derfor brukes proteinkontrollert kost til disse pasientene. I denne artikkelen får duet innblikk i hvordan et slikt kosthold ser ut.
 

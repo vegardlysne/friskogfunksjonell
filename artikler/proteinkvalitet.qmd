@@ -8,7 +8,7 @@ Er alle kilder til protein like gode? Thomas forklarer deg her hvordan man evalu
 
 ## Proteiner
 
-[Proteiner](naeringsstoffer/protein.qmd "Protein") kommer i flerfoldige forskjellige størrelser og former. Som du kanskje vet er proteinene i kroppen vår satt sammen av opptil 20 forskjellige aminosyrer, hvorav 8 av dem essensielle. Disse 8 aminosyrene er betinget til mat og drikke som vi får i oss daglig.
+[Proteiner](naeringsstoffer/protein.qmd) kommer i flerfoldige forskjellige størrelser og former. Som du kanskje vet er proteinene i kroppen vår satt sammen av opptil 20 forskjellige aminosyrer, hvorav 8 av dem essensielle. Disse 8 aminosyrene er betinget til mat og drikke som vi får i oss daglig.
 
 Spørsmål om proteiner kommer gjerne opp hos personer som nylig har begynt med fysisk aktivitet. Proteiner er nødvendig for gode resultater innenfor trening, og det er ikke bare viktig å få i seg nok, men også å vurdere kvaliteten på kildene. Noen tenker kanskje at det ikke er noen forskjell på proteiner fra kjøtt eller havregryn? Dette er en uheldig men vanlig misforståelse. Men det er kanskje ikke så rart det oppstår misforståelser når myndighetene nevner kornvarer som en av de viktigste proteinkildene vi har i det norske kostholdet. **Dette gjelder for øvrig bare mengde protein**.
 

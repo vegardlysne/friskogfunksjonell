@@ -6,9 +6,9 @@ date: 2014.06.05
 
 Konferansens tredje dag hadde et større fokus på ernæring og livsstil enn de andre dagene, og middelhavsdietten sto sentralt!
 
-[Les oppsummering av konferansens første dag her](eas2014-1.qmd "Konferanse: European Atherosclerotic Society 2014 – Dag 1")
+[Les oppsummering av konferansens første dag her](eas2014-1.qmd)
 
-[Les oppsummering av dag 2 her](eas2014-2.qmd "Konferanse: European Atherosclerosis Society 2014 – Dag 2")
+[Les oppsummering av dag 2 her](eas2014-2.qmd)
 
 # Ernæring - Fokus på Middelhavsdietten
 

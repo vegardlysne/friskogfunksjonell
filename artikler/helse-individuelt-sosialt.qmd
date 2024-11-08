@@ -28,7 +28,7 @@ Inntak av tomme kalorier er ofte sett på som en medvirkende årsak til fedme og
 
 ### Endring av næringsinnhold i matvarer
 
-Anna Haug la på LHLs kostholdskonferanse frem data på det at ved å endre innholdet i kraftforet som gis til kylling, kan du blant annet endre fettsammensetningen i kjøttet. Om soyaoljen i fôret byttes ut med raps- og linfrøolje, vil ikke kjøttet bare inneholde omega-6, men også en betydelig andel omega-3-fettsyrer! Når vi så spiser denne maten, så påvirker fettsyresammensetningen i kjøttet fettsyresammensetningen i vår egen kropp, så dette er også et tiltak som vil treffe store deler av befolkningen. Vi vet at [forholdet mellom omega-3 og omega-6](brokenlink/omega-3-og-omega-6-i-kostholdet/ "Omega-3 og Omega-6 i kostholdet") kan ha mye å si for helsen.
+Anna Haug la på LHLs kostholdskonferanse frem data på det at ved å endre innholdet i kraftforet som gis til kylling, kan du blant annet endre fettsammensetningen i kjøttet. Om soyaoljen i fôret byttes ut med raps- og linfrøolje, vil ikke kjøttet bare inneholde omega-6, men også en betydelig andel omega-3-fettsyrer! Når vi så spiser denne maten, så påvirker fettsyresammensetningen i kjøttet fettsyresammensetningen i vår egen kropp, så dette er også et tiltak som vil treffe store deler av befolkningen. Vi vet at [forholdet mellom omega-3 og omega-6](omega-3-6.qmd) kan ha mye å si for helsen.
 
 ### Standardiserte innholdsfortegnelser
 

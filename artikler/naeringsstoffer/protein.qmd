@@ -57,10 +57,10 @@ Oppbygging og nedbryting av proteiner skjer kontinuerlig, og hovedkilden vår ti
 Oppbygging av proteiner skjer slik:\
 DNA transkriberes til RNA inni cellekjernen. RNA transporteres deretter ut av kjernen og binder til ribosomene, der proteinsyntesen foregår. RNA inneholder oppskriften på det proteinet som skal produseres, og de ulike aminosyrene hektes på i riktig rekkefølge.
 
-Aminosyrer kan brytes ned og brukes som energi. Når en aminosyre brytes ned står vi igjen med to deler, et karbonskjelett og aminogruppen. Aminogruppen vil fraktes til leveren og omdannes til urea, som skilles ut i urinen. Karbonskjelettet kan enten oksideres og gå inn i [sitronsyresyklusen](../metabolismen/sitronsyresyklusen.qmd "Sitronsyresyklusen") som substrat i energiproduksjonen, eller det kan være utgangspunkt for [nydanning av glukose](../metabolismen/glukosemetabolismen.qmd "Karbohydratmetabolismen") (glukogene aminosyrer) eller [fettsyrer](../metabolismen/fettsyresyntese.qmd) (ketogene aminosyrer).\
+Aminosyrer kan brytes ned og brukes som energi. Når en aminosyre brytes ned står vi igjen med to deler, et karbonskjelett og aminogruppen. Aminogruppen vil fraktes til leveren og omdannes til urea, som skilles ut i urinen. Karbonskjelettet kan enten oksideres og gå inn i [sitronsyresyklusen](../metabolismen/sitronsyresyklusen.qmd) (glukogene aminosyrer) eller [fettsyrer](../metabolismen/fettsyresyntese.qmd) (ketogene aminosyrer).\
 Når folk snakker om at man tisser ut overskuddsprotein, så er det denne prosessen de egentlig snakker om, der det kan måles nitrogen i urinen.
 
-Les mer om [proteinmetabolismen](../metabolismen/proteinmetabolismen.qmd "Proteinmetabolismen").
+Les mer om [proteinmetabolismen](../metabolismen/proteinmetabolismen.qmd).
 
 Forskjellen mellom syntese og nedbrytning av proteiner avgjør om vi vokser eller ikke, og dette måles ved nitrogenbalansen. Dersom mer nitrogen skilles ut enn det vi tar opp, er vi i negativ nitrogenbalanse, noe som betyr at vi bryter ned kroppsprotein. Omvendt, dersom vi er i positiv nitrogenbalanse, bygger vi opp kroppsprotein.
 
@@ -78,7 +78,7 @@ De norske anbefalingene er at protein bør utgjøre 10-20% av energiinntaket, no
 
 ## Proteinkvalitet
 
-En annen ting som er viktig å ta hensyn til ved proteininntak, er [proteinkvaliteten](../proteinkvalitet.qmd "Alt du trenger å vite om proteinkvalitet"). Dette er først og fremst knyttet til innholdet av aminosyrer, fortrinnsvis de essensielle aminosyrene. Dersom det oppstår mangel på en bestemt aminosyre, vil hele proteinsyntesen stoppe opp, og vi vil bli syke.
+En annen ting som er viktig å ta hensyn til ved proteininntak, er [proteinkvaliteten](../proteinkvalitet.qmd). Dette er først og fremst knyttet til innholdet av aminosyrer, fortrinnsvis de essensielle aminosyrene. Dersom det oppstår mangel på en bestemt aminosyre, vil hele proteinsyntesen stoppe opp, og vi vil bli syke.
 
 Proteinkilder blir beskrevet som fullverdige dersom de inneholder alle de essensielle aminosyrene i tilstrekkelige mengder. Gullstandarden for proteinkvalitet er morsmelk, og den matvaren som kommer nærmest denne er egg.
 

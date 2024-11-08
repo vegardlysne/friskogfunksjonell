@@ -8,9 +8,9 @@ categories:
 
 [Tilbake til artikkelserien om menneskets fysiologi](../../fysiologi.html)
 
-I artikkelen om [homeostase](homeostase.qmd "Homeostase") gikk jeg gjennom hvordan et stabilt indre miljø er viktig for at cellene våre skal kunne overleve og fungere. Tilførsel av næringsstoffer som cellen bruker for å drive viktige prosesser, samt opprettholdelsen av et miljø der disse prosessene kan fungere er sentralt. Selv om vi har mange ulike celletyper med ulike egenskaper i de ulike vevene våre, er de stort sett bygget opp med den samme grunnstrukturen. I denne artikkelen vil jeg gå nærmere inn på hvordan cellene er bygget opp og hva de ulike delene bidrar med.
+I artikkelen om [homeostase](homeostase.qmd) gikk jeg gjennom hvordan et stabilt indre miljø er viktig for at cellene våre skal kunne overleve og fungere. Tilførsel av næringsstoffer som cellen bruker for å drive viktige prosesser, samt opprettholdelsen av et miljø der disse prosessene kan fungere er sentralt. Selv om vi har mange ulike celletyper med ulike egenskaper i de ulike vevene våre, er de stort sett bygget opp med den samme grunnstrukturen. I denne artikkelen vil jeg gå nærmere inn på hvordan cellene er bygget opp og hva de ulike delene bidrar med.
 
-Artikkelen tilhører artikkelserien om [Menneskets fysiologi](../../fysiologi.qmd "Menneskets fysiologi").
+Artikkelen tilhører artikkelserien om [Menneskets fysiologi](../../fysiologi.qmd).
 
 ## Overordnet struktur og innhold
 
@@ -20,7 +20,7 @@ Cellen er omgitt av en cellemembran som separerer innholdet i cellen fra det eks
 
 Mesteparten av de fleste celler består av vann, som utgjør 70-85% av de fleste cellene våre. Ved siden av dette finner vi elektrolytter som for eksempel kalium og magnesium, som har viktige funksjoner blant annet i å opprettholde et elektrokjemisk potensial over cellemembranen. Ikke minst fungerer de som osmolytter som opprettholder cellens volum, og flere av disse er også viktige faktorer i prosesser som foregår i ulike deler av cellen, eksempelvis som kofaktorer for viktige enzymer.
 
-10-20% av cellens masse består av protein, som igjen kan deles inn i strukturelle og funksjonelle proteiner. Strukturelle proteiner bidrar som byggesteiner, mens funksjonelle proteiner fungerer som enzymer som katalyserer viktige reaksjoner, blant annet i [energimetabolismen](../../metabolismen.qmd "Metabolismen"). Cellemembranene består av fettstoffer, spesielt fosfolipider og kolesterol, og i tillegg finner vi også fettsyrer og triglyserider som er viktige energisubstrater. Spesielt fettceller inneholder større lagre av sistnevnte. Karbohydrater har ikke en strukturell funksjon, men ved å binde til proteiner kan de danne glykoproteiner som har viktige funksjoner. Utover dette er karbohydratene hovedsakelig en energikilde, og de fleste cellene inneholder veldig lite karbohydrater. Unntaket er lever- og muskelceller, som kan lagre karbohydrater som glykogen.
+10-20% av cellens masse består av protein, som igjen kan deles inn i strukturelle og funksjonelle proteiner. Strukturelle proteiner bidrar som byggesteiner, mens funksjonelle proteiner fungerer som enzymer som katalyserer viktige reaksjoner, blant annet i [energimetabolismen](../../metabolismen.qmd). Cellemembranene består av fettstoffer, spesielt fosfolipider og kolesterol, og i tillegg finner vi også fettsyrer og triglyserider som er viktige energisubstrater. Spesielt fettceller inneholder større lagre av sistnevnte. Karbohydrater har ikke en strukturell funksjon, men ved å binde til proteiner kan de danne glykoproteiner som har viktige funksjoner. Utover dette er karbohydratene hovedsakelig en energikilde, og de fleste cellene inneholder veldig lite karbohydrater. Unntaket er lever- og muskelceller, som kan lagre karbohydrater som glykogen.
 
 ## Cellemembranen
 

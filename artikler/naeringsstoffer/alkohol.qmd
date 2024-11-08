@@ -26,11 +26,11 @@ Nedbrytningen av alkohol bruker ulike enzymsystemer som finnes i leveren, blant 
 
 ## Påvirkning på metabolismen av andre næringsstoffer
 
-**Kroppen vil alltid prioritere å forbrenne alkohol, og dermed hemmer man forbruket av [karbohydrater](karbohydrater.qmd "Karbohydrater") og [fett](fett.qmd "Fett").** Glukose vil i større grad bli omdannet til melkesyre, noe som gir en forsuring av kroppen. Høyt nivå av melkesyre kan gi økt mengde urinsyre i blodet, siden disse  skilles ut via de samme transportmekanismene i nyrene. I tillegg inneholder øl også urinsyre. Dette kan på sikt gi urinsyregikt.
+**Kroppen vil alltid prioritere å forbrenne alkohol, og dermed hemmer man forbruket av [karbohydrater](karbohydrater.qmd).** Glukose vil i større grad bli omdannet til melkesyre, noe som gir en forsuring av kroppen. Høyt nivå av melkesyre kan gi økt mengde urinsyre i blodet, siden disse  skilles ut via de samme transportmekanismene i nyrene. I tillegg inneholder øl også urinsyre. Dette kan på sikt gi urinsyregikt.
 
 Fettforbrenningen reduseres og fettsyresyntesen i leveren økes. Dette gir økte mengder fettstoffer både i leveren og i blodet, og kan forårsake hypertriglyseridemi. Redusert fettforbrenning kan også bidra til utvikling av overvekt.
 
-Alkohol hemmer opptaket av [thiamin](thiamin.qmd "Thiamin, vitamin B1"), og langvarige alkoholikere har ofte mangelsykdommer knyttet til dette vitaminet. Siden thiamin er viktig for glukosemetabolismen, kan dette påvirke hjernefunksjonen siden glukose er hjernens foretrukne energikilde.
+Alkohol hemmer opptaket av [thiamin](thiamin.qmd), og langvarige alkoholikere har ofte mangelsykdommer knyttet til dette vitaminet. Siden thiamin er viktig for glukosemetabolismen, kan dette påvirke hjernefunksjonen siden glukose er hjernens foretrukne energikilde.
 
 ## Problemer med å registrere inntak
 

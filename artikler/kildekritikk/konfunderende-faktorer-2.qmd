@@ -4,7 +4,7 @@ author: "Thomas Olsen"
 date: 2015.03.02
 ---
 
-[Tilbake til kildekritikk, vitenskap og tankefeil](../../kildekritikk.qmd "Kildekritikk, vitenskap og tankefeil")
+[Tilbake til kildekritikk, vitenskap og tankefeil](../../kildekritikk.qmd)
 
 *For omtrent et år siden skrev jeg en sak om [konfunderende faktorer](konfunderende-faktorer.qmd). Dette er et svært viktig tema å være bevisst på innenfor epidemiologi, spesielt nå som de aller fleste har en mening og gjerne uttaler om forskning og helse. Derfor har jeg valgt å skrive en ny sak om dette.*
 

@@ -14,9 +14,9 @@ Helsedirektoratet gir ut sine [råd for kosthold og fysisk aktivitet](http://www
 
 Protein er kroppens byggestener, og normal kroppsfunksjon er avhengig av tilstrekkelig inntak. Protein har vist seg å gi en bedre metthetsfølelse enn de andre næringsstoffene, så om du skal ned i vekt kan det være en fordel å øke inntaket noe. Restitusjon etter trening er også avhengig av at kroppen har aminosyrer tilgjengelig, slik at proteinsyntesen i musklene kan starte. Hvis du trener mye så har du et høyere proteinbehov enn om du har en passiv livsstil. Offentlige anbefalinger er 1,2-2g protein/kg kroppsvekt, noe som er tilstrekkelig for de aller fleste.
 
-[Kvaliteten på proteinkilden](brokenlink/proteinkvalitet/ "Alt du trenger å vite om proteinkvalitet") avhenger mest av aminosyresammensetningen. Alle aminosyrene er nødvendige for at proteinsyntesen skal kunne fungere, og da trenger vi spesielt tilførsel av de essensielle aminosyrene, som kroppen ikke kan lage selv. Fullverdig protein inneholder alle de essensielle aminosyrene i tilstrekkelige mengder. Kilder til fullverdig protein er kjøtt, fisk, egg, meieriprodukter og soya, og disse matvaregruppene bør derfor være representert i ditt daglige kosthold!
+[Kvaliteten på proteinkilden](brokenlink/proteinkvalitet/) avhenger mest av aminosyresammensetningen. Alle aminosyrene er nødvendige for at proteinsyntesen skal kunne fungere, og da trenger vi spesielt tilførsel av de essensielle aminosyrene, som kroppen ikke kan lage selv. Fullverdig protein inneholder alle de essensielle aminosyrene i tilstrekkelige mengder. Kilder til fullverdig protein er kjøtt, fisk, egg, meieriprodukter og soya, og disse matvaregruppene bør derfor være representert i ditt daglige kosthold!
 
-## 2. Reduser inntaket av raffinert**e [karbohydrater](naeringsstoffer/karbohydrater/ "Karbohydrater")**
+## 2. Reduser inntaket av raffinert**e [karbohydrater](naeringsstoffer/karbohydrater/)**
 
 Med raffinerte karbohydrater tenker vi på sukker og fint mel. Disse matvarene utgjør en skremmende stor del av energiinntaket i et vestlig kosthold, noe som med stor sannsynlighet er en del av årsaken til fedmeepidemien vi er vitne til i dag.
 
@@ -32,21 +32,21 @@ Alle er enige om at forbruket av grønnsaker er for lavt, og at de aller fleste 
 
 Frukt inneholder en del sukker, og dersom du sliter med å holde vekten bør du ikke ukritisk øke inntaket av frukt, selv om det fint kan inngå i kostholdet ditt. Jo mer fysisk aktiv du er, jo mer frukt kan du unne deg. Er du derimot inaktiv, bør du i større grad satse på grønnsaker.
 
-Både frukt og grønnsaker inneholder en del fytokjemikalier, som har vist seg å kunne beskytte mot en del krefttyper. Frukt og grønnsaker er også de eneste basedannende matvarene, og er nødvendig for å motvirke all den andre syredannende maten. Et syreoverskudd vil føre til økt utskillelse av blant annet [kalsium](brokenlink/kalsium/ "Kalsium"), noe som kan være en av de sentrale årsakene til utviklingen av beinskjørhet.
+Både frukt og grønnsaker inneholder en del fytokjemikalier, som har vist seg å kunne beskytte mot en del krefttyper. Frukt og grønnsaker er også de eneste basedannende matvarene, og er nødvendig for å motvirke all den andre syredannende maten. Et syreoverskudd vil føre til økt utskillelse av blant annet [kalsium](naeringsstoffer/kalsium.qmd), noe som kan være en av de sentrale årsakene til utviklingen av beinskjørhet.
 
 Alt i alt er det all grunn til å anbefale å øke inntaket av både frukt og grønnsaker, men hovedsakelig grønnsaker.
 
 ## **4. Vær forsiktig med flytende energi**
 
-Det er grunn til å hevde at flytende energi i form av brus, juice, saft og lignende gir en svært dårlig metthetsfølelse. Sliter du med å holde vekten, er dette det første du bør [kutte ut av det daglige kostholdet ditt](brokenlink/bor-du-begrense-inntaket-av-flytende-karbohydrater/ "Bør du begrense inntaket av flytende karbohydrater?"). Mens inntak av raske karbohydrater fra fast føde ofte fører til en kompensasjon i form av redusert energiinntak resten av dagen, viser studier at det motsatte skjer dersom denne energien kommer i flytende form. Energiinntaket resten av dagen forblir like høyt, og i mange tilfeller øker det!
+Det er grunn til å hevde at flytende energi i form av brus, juice, saft og lignende gir en svært dårlig metthetsfølelse. Sliter du med å holde vekten, er dette det første du bør [kutte ut av det daglige kostholdet ditt](brokenlink/bor-du-begrense-inntaket-av-flytende-karbohydrater/). Mens inntak av raske karbohydrater fra fast føde ofte fører til en kompensasjon i form av redusert energiinntak resten av dagen, viser studier at det motsatte skjer dersom denne energien kommer i flytende form. Energiinntaket resten av dagen forblir like høyt, og i mange tilfeller øker det!
 
-I Helsedirektoratets anbefalinger regnes et glass juice som en av "5 om dagen". Av flere grunner synes vi dette ikke bør være tilfelle. For det første får vi ikke med fiberet som finnes naturlig i frukten, noe som gjør at påvirkningen på blodsukkeret blir mye større. For det andre varmebehandles juicen, slik at mye av [C-vitaminet](brokenlink/c-vitamin/ "C-vitamin") vil ødelegges, og innholdet blir derfor lavere enn i den opprinnelige frukten. Syreinnholdet vil også være negativt for tannhelsen, og setter et økt krav til munnhygiene! Velg derfor frukt i stedet for fruktjuice.
+I Helsedirektoratets anbefalinger regnes et glass juice som en av) vil ødelegges, og innholdet blir derfor lavere enn i den opprinnelige frukten. Syreinnholdet vil også være negativt for tannhelsen, og setter et økt krav til munnhygiene! Velg derfor frukt i stedet for fruktjuice.
 
 ## **5. Velg vann!**
 
 Her er vi helt på bølgelengde med de nasjonale anbefalingene. Vann har alltid vært, og kommer alltid til å være, det beste valget av tørstedrikk. Vann er livsviktig for oss, og vi hadde ikke overlevd lenge uten tilførsel. Velger du vann som tørstedrikk fremfor saft, juice, brus og liknende, gjør du deg selv en stor tjeneste!
 
-## **6. Øk [aktivitetsnivået](brokenlink/aktivitetsniva-helse/ "Aktivitetsnivå og helse")**
+## **6. Øk [aktivitetsnivået](brokenlink/aktivitetsniva-helse/)**
 
 Stillesitting øker dødeligheten uavhengig av treningsmengde. Samtidig kan vi ikke ukritisk øke mengden hardtrening uten at dette vil føre til økt stress på kroppen. Da blir løsningen å komme seg opp av stolen og øke det daglige aktivitetsnivået.
 
@@ -60,11 +60,11 @@ Som nevnt under forrige punkt, kan vi ikke ukritisk øke mengden med hardtrening
 
 Hovedmålet med treningen bør ikke være å trene mest mulig, men å få mest mulig utbytte av den tiden du bruker på det! Målet bør derfor være å forbedre fysiske kvaliteter som styrke, hurtighet, spenst og kondisjon, og da gjelder det å velge metoder som gir deg mest igjen for innsatsen.
 
-Styrketrening bør være sentralt i ethvert opplegg, nesten uavhengig av målsetning. Frie vekter gir i de fleste tilfeller langt mer effektiv trening enn trening i apparater, siden øvelser med frie vekter stiller større krav til stabilisering og balanse. Dette vil igjen bidra til at denne treningen også i større grad virker skadeforebyggende. Vi anbefaler å finne et program som trener hele kroppen, og fokuserer på store øvelser med frie vekter. For å [bli sterkere](brokenlink/treningsprogram-1/ "Enkelt treningsprogram for deg som vil bli stor og sterk!") er det viktig at belastningen økes over tid. En metode som kan benyttes til dette er [mengdetrening](brokenlink/mengdetrening-del-1/ "Bli sterkere med mengdetrening (Del 1)").
+Styrketrening bør være sentralt i ethvert opplegg, nesten uavhengig av målsetning. Frie vekter gir i de fleste tilfeller langt mer effektiv trening enn trening i apparater, siden øvelser med frie vekter stiller større krav til stabilisering og balanse. Dette vil igjen bidra til at denne treningen også i større grad virker skadeforebyggende. Vi anbefaler å finne et program som trener hele kroppen, og fokuserer på store øvelser med frie vekter. For å [bli sterkere](brokenlink/treningsprogram-1/).
 
-En sterk kjernemuskulatur er veldig viktig for å holde kroppen skadefri, og er også sentral når det gjelder idrettsprestasjoner. Vi anbefaler å inkludere øvelser som trener kjernemusklene på den måten de er ment å fungere, nemlig til å motvirke bevegelse. Øvelser som øker denne egenskapen er f.eks. forskjellige plankevarianter. Les mer om basistrening [her](brokenlink/basistrening/ "Basistrening – bli trent for å trene").
+En sterk kjernemuskulatur er veldig viktig for å holde kroppen skadefri, og er også sentral når det gjelder idrettsprestasjoner. Vi anbefaler å inkludere øvelser som trener kjernemusklene på den måten de er ment å fungere, nemlig til å motvirke bevegelse. Øvelser som øker denne egenskapen er f.eks. forskjellige plankevarianter. Les mer om basistrening [her](brokenlink/basistrening/).
 
-Når det gjelder [kondisjonstrening](brokenlink/nybegynnerkurs-i-utholdenhetstrening/ "Nybegynnerkurs i utholdenhetstrening"), velger veldig mange å jogge, noe som ikke nødvendigvis er det beste valget. En intervalløkt vil gi en mye større effekt på oksygenopptaket, som er den viktigste faktoren for kondisjonen. En slik økt vil også ta mye kortere tid, og vil enklere kunne inkluderes i en travel hverdag. Lengre joggeturer har også sin plass i et helhetlig opplegg, men husk at dette er en treningsform som sliter mye på kroppen. Spesielt knær og ankler er utsatt, så det kan være en god idé å variere med f.eks. svømming eller sykling.
+Når det gjelder [kondisjonstrening](brokenlink/nybegynnerkurs-i-utholdenhetstrening/), velger veldig mange å jogge, noe som ikke nødvendigvis er det beste valget. En intervalløkt vil gi en mye større effekt på oksygenopptaket, som er den viktigste faktoren for kondisjonen. En slik økt vil også ta mye kortere tid, og vil enklere kunne inkluderes i en travel hverdag. Lengre joggeturer har også sin plass i et helhetlig opplegg, men husk at dette er en treningsform som sliter mye på kroppen. Spesielt knær og ankler er utsatt, så det kan være en god idé å variere med f.eks. svømming eller sykling.
 
 ## **8. Bruk litt tid på tøying**
 

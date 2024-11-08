@@ -4,11 +4,11 @@ author: "Hanne Storhaug"
 date: 2013.02.04
 ---
 
-På [LHLs store kostkonferanse](lhl-konferanse-2013.qmd "Kosthold og hjertesykdom – hvor står vi i 2013?") i Oslo holdt overlege på Lipidklinikken, Kjetil Retterstøl, et foredrag med temaet «lavkarbo eller høykarbo, mye eller lite fett?». Retterstøl uttrykker bekymring for at stadig flere nordmenn oppgir at de spiser lavkarbo, og mener at med så mange studier tilgjengelig er det ganske lett å komme med studier som sier forskjellige ting.
+På [LHLs store kostkonferanse](lhl-konferanse-2013.qmd) i Oslo holdt overlege på Lipidklinikken, Kjetil Retterstøl, et foredrag med temaet «lavkarbo eller høykarbo, mye eller lite fett?». Retterstøl uttrykker bekymring for at stadig flere nordmenn oppgir at de spiser lavkarbo, og mener at med så mange studier tilgjengelig er det ganske lett å komme med studier som sier forskjellige ting.
 
 Forelesningen avsluttes med konklusjon om at lavkarbo kan ha god effekt hos noen personer, men at det er kjempeviktig å kommunisere at man ikke bør spise smør, egg, bacon og mettet fett. Dette på tross av at disse rådene ikke støttes av nyere forskning (1-5)
 
-[**De offentlige anbefalingene for fett, godt begrunnet?**](anbefaling-fett-godt-begrunnet.qmd "De offentlige anbefalingene for fett, godt begrunnet?")
+[**De offentlige anbefalingene for fett, godt begrunnet?**](anbefaling-fett-godt-begrunnet.qmd)
 
 ## Oslo Diet Heart Study (ODHS), 1968
 

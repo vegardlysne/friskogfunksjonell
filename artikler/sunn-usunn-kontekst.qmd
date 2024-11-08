@@ -31,10 +31,10 @@ Det du gjør mesteparten av tiden vil også avgjøre mesteparten av resultatene 
 
 For å oppsummere er det viktig å ta hensyn til helheten. Om en matvare er sunn eller ikke vil avhenge av hvilken kontekst vi snakker om, og det er mange faktorer å ta hensyn til. **Hvem, hva og hvorfor er sentrale spørsmål å ta utgangspunkt i.** For å gjøre generelle forbedringer i kostholdet ditt kan du ta utgangspunkt i de følgende artiklene.
 
-[Enkle tiltak som kan forbedre kostholdet ditt del 1](kosthold-tiltak-1.qmd "Enkle tiltak som kan forbedre kostholdet ditt – del 1")
+[Enkle tiltak som kan forbedre kostholdet ditt del 1](kosthold-tiltak-1.qmd)
 
-[Enkle tiltak som kan forbedre kostholdet ditt del 2](kosthold-tiltak-2.qmd "Enkle tiltak som kan forbedre kostholdet ditt – del 2")
+[Enkle tiltak som kan forbedre kostholdet ditt del 2](kosthold-tiltak-2.qmd)
 
-[Enkle tiltak som kan forbedre kostholdet ditt del 3](kosthold-tiltak-3.qmd "Enkle tiltak som kan forbedre kostholdet ditt – del 3")
+[Enkle tiltak som kan forbedre kostholdet ditt del 3](kosthold-tiltak-3.qmd)
 
 ##### Hva legger du i begrepene sunn og usunn?

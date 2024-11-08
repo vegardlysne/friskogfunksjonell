@@ -3,11 +3,11 @@ title: "Energi- og næringstett kost"
 date: 2012.10.14
 ---
 
-Tilbake til [kosthold i helseinstitusjoner](../../kosthold-institusjoner.qmd "Kosthold i helseinstitusjoner").
+Tilbake til [kosthold i helseinstitusjoner](../../kosthold-institusjoner.qmd).
 
-De som av ulike grunner ikke klarer å dekke energibehovene sine gjennom [nøkkelrådskost](nokkelkost.qmd "Nøkkelrådskost") kan prøve å komme i mål med energi- og næringstett kost (EN-kost). Kort fortalt er målet å dekke energibehovene på en mindre mengde mat. EN-kost er den andre standardkosten som brukes i helseinstitusjoner i dag.
+De som av ulike grunner ikke klarer å dekke energibehovene sine gjennom [nøkkelrådskost](nokkelkost.qmd) kan prøve å komme i mål med energi- og næringstett kost (EN-kost). Kort fortalt er målet å dekke energibehovene på en mindre mengde mat. EN-kost er den andre standardkosten som brukes i helseinstitusjoner i dag.
 
-Energi- og næringsrik kost inngår i serien [kosthold i helseinstitusjoner](../../kosthold-institusjoner.qmd "Kosthold i helseinstitusjoner").
+Energi- og næringsrik kost inngår i serien [kosthold i helseinstitusjoner](../../kosthold-institusjoner.qmd).
 
 Sammenlignet med nøkkelrådskosten inneholder EN-kost litt mindre karbohydrater (40-50 E%), litt mer fett (35-40 E%) og omtrent samme mengde protein (15-20 E%). Det legges også opp til flere måltider, normalt sett 4 hovedmåltider og 2 mellommåltider. Dette er nyttig for å gjøre det enklere å få i seg tilstrekkelig energi. Mengden grønnsaker og frukt reduseres kraftig når man følger EN-kost. Dette er fordi disse matvarene gir lite energi og stort volum, og i så måte virker mot sin hensikt når målet er å begrense volumet av maten.
 
@@ -51,4 +51,4 @@ Kveldsmat: Smoothie
 
 Mellommåltid: Vaniljekesam eller yoghurt med nøtteblanding, yoghurt beriket med fløte eller olje, nøtter.
 
-Tilbake til [kosthold i helseinstitusjoner](../../kosthold-institusjoner.qmd "Kosthold i helseinstitusjoner")
+Tilbake til [kosthold i helseinstitusjoner](../../kosthold-institusjoner.qmd)

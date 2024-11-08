@@ -54,7 +54,7 @@ Berstad sin behandling av IBS har i essens vært å sette pasientene på karbohy
 
 **FODM**A**P** står for **F**ermenterbare **O**ligosakkarider **D**isakkarider **M**onosakkarider og (And) **P**olyoler. Oligosakkaridene er de kort-kjedete karbohydratene som består av 2-3 sukkermolekyler i kjeder. Disakkaridene er de 2-kjedete sukker-molekylene. Monosakkaridene er de enkle sukkerartene. Polyolene er sukker-alkoholer som har flere enn 10 sukkermolekyler. Det at FODMAPs er fermenterbare betyr at de brytes ned anaerobt i tarmen.
 
-[Les mer om lav-FODMAP-dietten her](irritabel-tarm.qmd "Irritabel tarm og hva du kan gjøre med det!")
+[Les mer om lav-FODMAP-dietten her](irritabel-tarm.qmd)
 
 Skodje startet med å fortelle om historien til FODMAP. Man så tidlig sammenhenger mellom mat og livskvalitet, og man begynte å mistenkte ulike matvarer. For eksempel observerte man på 80-tallet at eplejuice kunne være årsak til diare. Man så også at ved funksjonelle tarmlidelser så kunne inntak av fruktose, sorbitol og fruktose bli problematisk. Nå vet vi mer om hvorfor man observerte dette, og man har klassifisert de ulike FODMAPer.
 

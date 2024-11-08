@@ -8,7 +8,7 @@ date: 2013.05.27
 
 Faglige diskusjoner om ernæring i sosiale medier, på blogger, forum og ellers raser om dagen. Det dras hyppig frem referanser fra databaser som pubmed, medline og så videre for å underbygge og vinkle argumentene. På den ene siden er det veldig fint at man engasjerer seg såpass at man underbygger argumentene sine med faktisk dokumentasjon. En annen ting er derimot å forstå og tolke denne dokumentasjonen samt metodene som blir brukt.
 
-Vegard har tidligere sett på og gitt en innføring i [statistisk metode og hvordan det uttrykkes](signifikans.qmd "Signifikans og alt det der"). I denne artikkelen skal ja ta en titt på en viktig feilkilde som kan forekomme i kvantitative studier, nemlig uteliggere. Ikke som i hjemløse, men som i ekstremverdier, heretter referert til som outliers. Først ved hjelp av et hypotetisk teskje-eksempel, og deretter et eksempel på en slik studie fra virkeligheten som stadig dras frem når det diskuteres proteinkvalitet.
+Vegard har tidligere sett på og gitt en innføring i [statistisk metode og hvordan det uttrykkes](signifikans.qmd). I denne artikkelen skal ja ta en titt på en viktig feilkilde som kan forekomme i kvantitative studier, nemlig uteliggere. Ikke som i hjemløse, men som i ekstremverdier, heretter referert til som outliers. Først ved hjelp av et hypotetisk teskje-eksempel, og deretter et eksempel på en slik studie fra virkeligheten som stadig dras frem når det diskuteres proteinkvalitet.
 
 ## Hva er en outlier?
 
@@ -18,7 +18,7 @@ Dersom vi deler datamaterialet i fire like deler, så kalles de tre punktene som
 
 For å eliminere den potensielle effekten outliere og ekstreme verdier har på gjennomsnittet kan man ganske enkelt bruke en annen statistisk modell når man skal presentere resultatet, som for eksempel median, eller interkvartil bredde. Det finnes utallige veier rundt dette problemet når man bruker SPSS (statistisk programvare), hvorav et av dem er å eliminere deltakeren helt fra studiet. Dette bør derimot vurderes nøye, og det skal også nevnes hvorfor deltakere eventuelt ekskluderes i metodedelen.
 
-**Les også: [Ikke tro alt du leser!](ikke-tro-alt-du-leser.qmd "Ikke tro alt du leser!")**
+**Les også: [Ikke tro alt du leser!](ikke-tro-alt-du-leser.qmd)**
 
 ## Et banalt eksempel
 

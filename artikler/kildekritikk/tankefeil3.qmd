@@ -4,7 +4,7 @@ author: "Andrea Rørvik Marti"
 date: 2013.09.02
 ---
 
-[Tilbake til kildekritikk, vitenskap og tankefeil](../../kildekritikk.qmd "Kildekritikk, vitenskap og tankefeil")
+[Tilbake til kildekritikk, vitenskap og tankefeil](../../kildekritikk.qmd)
 
 Denne artikkelen vil være litt ulik de to tidligere artiklene om bias. Grunnen til det er at jeg nå vil bevege meg inn i sosialpsykologiens verden, hvor målet er å forklare og forutse sosiale handlinger hos enkeltpersoner og grupper. Dette er langt mer komplisert enn enkle tankefeil, fordi de involverer sosial kognisjon. Det handler ganske enkelt om hvordan folk oppfører seg når de samhandler med eller tenker på andre folk. Her finnes utallige variabler, og derfor er det notorisk vanskelig å finne universelle mønstre i menneskers oppførsel.Det som er spesielt med disse biasene er altså at de ikke er like generelle som de jeg tidligere har gått igjennom. De er derimot noe av det nærmeste man kommer kognitiv bias på det sosiale plan. Om vi for øyeblikket fokuserer på tilfellene heller enn unntakene kan disse fortelle oss mye om hvordan og hvorfor vi mennesker tenker og gjør som vi gjør i samhandling med andre mennesker. Jeg skal nå i første omgang ta for meg fundamental attribusjonsfeil (FAF). Dette kan kanskje virke en smule komplisert og irrelevant ved første øyekast, men jeg kan love deg at det i realiteten er veldig enkelt, og veldig veldig vanlig. Du rammes helt sikkert av FAF hele tiden, men hvis du er bevisst på det kan du kanskje lære å gjenkjenne det i deg selv, og som følge roe ned hyklerskheten litt.
 

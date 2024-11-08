@@ -3,7 +3,7 @@ title: "Melk og helse del 2 – bearbeiding"
 date: 2013.04.01
 ---
 
-Sist gang  gikk vi i dybden på [melkens innhold av næringsstoffer](melk-helse-1.qmd "Melk og helse del 1 – næringsinnhold"). Denne gangen skal jeg se nærmere på hvordan melken behandles fra den forlater kuen og til den dukker opp i kjøledisken i butikken. Dette er viktig både for hvordan produktet oppleves av oss som skal drikke dem, men også av hensyn til mattryggheten.
+Sist gang  gikk vi i dybden på [melkens innhold av næringsstoffer](melk-helse-1.qmd). Denne gangen skal jeg se nærmere på hvordan melken behandles fra den forlater kuen og til den dukker opp i kjøledisken i butikken. Dette er viktig både for hvordan produktet oppleves av oss som skal drikke dem, men også av hensyn til mattryggheten.
 
 ## Mattrygghet
 
@@ -23,7 +23,7 @@ Pasteurisering er en prosess der man ved bruk av høy temperatur dreper patogene
 
 Pasteurisering gjennomføres for å forebygge smittespredning gjennom å drepe patogene bakterier. Sykdommer som kan skyldes bakterier i melk inkluderer tuberkulose, listeria, salmonella, E-coli og streptokokker (1,2).
 
-Samtidig kan pasteuriseringsprosessen også påvirke [bioaktive peptider](brokenlink/peptider-og-helse/ "Peptider og helseeffekt – er det likegyldig hvilke proteiner vi spiser?") som kan brytes ned ved oppvarming. Når karbohydrater og proteiner reagerer med hverandre under varmebehandling kan det også oppstå uheldige produkter, noe som spesielt er aktuelt for smakssatt melk (3). Dette skyldes at sukkermolekyler kan reagere med proteinene(4). Pasteurisering brukes også for å øke holdbarheten på melken, og er således en konserveringsmetode (2).
+Samtidig kan pasteuriseringsprosessen også påvirke [bioaktive peptider](brokenlink/peptider-og-helse/) som kan brytes ned ved oppvarming. Når karbohydrater og proteiner reagerer med hverandre under varmebehandling kan det også oppstå uheldige produkter, noe som spesielt er aktuelt for smakssatt melk (3). Dette skyldes at sukkermolekyler kan reagere med proteinene(4). Pasteurisering brukes også for å øke holdbarheten på melken, og er således en konserveringsmetode (2).
 
 Redusert fare for at melkekyrne er bærere av skadelige mikroorganismer, sammen med forbedrede hygieniske forhold rundt melkingen reduserer faren for at melken kontamineres, men kan ikke utelukke at det skjer. Små mengder patogener er nok til å skape sykdom, så å begrense mengdene er ikke nok. Pasteurisering er den meste effektive måten å sikre at melken er mikrobiologisk trygg å drikke (1).
 

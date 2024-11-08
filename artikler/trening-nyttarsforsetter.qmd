@@ -33,10 +33,10 @@ Utgangspunktet for denne artikkelen er at mange går i fellen og starter for har
 
 Tidligere saker om nyttårsforsetter fra Frisk og Funksjonell kan du lese her:
 
--   [5 overkommelige nyttårsforsetter](nyttarsforsetter.qmd "5 overkommelige nyttårsforsetter")
--   [Møt 2013 med forbedret helse - kosthold](bedre-helse-2013-kosthold.qmd "Møt 2013 med forbedret helse – kosthold")
--   [Møt 2013 med forbedret helse - trening](bedre-helse-2013-trening.qmd "Møt 2013 med forbedret helse – Trening")
--   [Diett eller livsstilsendring?](diett-livsstilsendring.qmd "Diett eller livsstilsendring?")
+-   [5 overkommelige nyttårsforsetter](nyttarsforsetter.qmd)
+-   [Møt 2013 med forbedret helse - kosthold](bedre-helse-2013-kosthold.qmd)
+-   [Møt 2013 med forbedret helse - trening](bedre-helse-2013-trening.qmd)
+-   [Diett eller livsstilsendring?](diett-livsstilsendring.qmd)
 
 ## Godt nyttår og lykke til!
 

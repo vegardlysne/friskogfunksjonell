@@ -30,13 +30,13 @@ Bare studier publisert i år 2000 eller senere er inkludert, og det var også et
 
 Studiene som har undersøkt hvordan sammensetningen av makronæringsstoffene påvirker vektutviklingen er hovedsakelig prospektive kohortstudier. Disse studiene så på ulike ting, noe som vanskeliggjør arbeidet med å finne trender som er godt dokumenterte.
 
-Den sterkeste sammenhengen som ble funnet var den inverse korrelasjonen mellom inntak av [fiber](brokenlink/fiber/ "Fiber") og vektøkning. Dette var et funn som gikk igjen i de fleste studiene. Ulike kilder til fiber gav lignende, men svakere resultater. Totalt sett kan se ut som om det å øke inntaket av fiber er et positivt trekk for å forebygge vektøkning. Dette kan forklares med at fiberet øker volumet på maten uten at energiinnholdet øker noe særlig. På denne måten kan fiber bidra til økt metthet.
+Den sterkeste sammenhengen som ble funnet var den inverse korrelasjonen mellom inntak av [fiber](naeringsstoffer/fiber.qmd) og vektøkning. Dette var et funn som gikk igjen i de fleste studiene. Ulike kilder til fiber gav lignende, men svakere resultater. Totalt sett kan se ut som om det å øke inntaket av fiber er et positivt trekk for å forebygge vektøkning. Dette kan forklares med at fiberet øker volumet på maten uten at energiinnholdet øker noe særlig. På denne måten kan fiber bidra til økt metthet.
 
 Kostholdets energitetthet har i noen studier blitt funnet å ha en sammenheng med en økning i midjemålet, men resultatene for vektøkning var langt mindre konsistente. Ingen av makronæringsstoffene karbohydrater, proteiner og fett viste en konsekvent sammenheng med vektøkning. Det samme gjaldt fordelingen av ulike fettyper.
 
 Totalt sett er det av næringsstoffene altså bare fiber som viser noenlunde konsekvente resultater når det gjelder forebygging av vektøkning. Som Thomas har vært inne på tidligere har fiber også andre gunstige egenskaper.
 
-Les: [Hvorfor fiber er awesome](brokenlink/hvorfor-fiber-er-awesome/ "Hvorfor Fiber er Awesome")
+Les: [Hvorfor fiber er awesome](brokenlink/hvorfor-fiber-er-awesome/)
 
 ## Matvarenes rolle
 

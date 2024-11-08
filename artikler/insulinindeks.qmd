@@ -3,7 +3,7 @@ title: "Insulinindeks - hva og hvorfor?"
 date: "2012.08.07"
 ---
 
-[Insulin](hormoner/insulin-glukagon.qmd "Insulin og glukagon") er et hormon som primært har som oppgave å regulere blodsukkeret og lagre inn energi. Kostholdets innhold av karbohydrater, den glykemiske belastningen, er den faktoren som i størst grad stimulerer produksjonen og utskillelsen av insulin.
+[Insulin](hormoner/insulin-glukagon.qmd) er et hormon som primært har som oppgave å regulere blodsukkeret og lagre inn energi. Kostholdets innhold av karbohydrater, den glykemiske belastningen, er den faktoren som i størst grad stimulerer produksjonen og utskillelsen av insulin.
 
 I disse lavkarbotider har dette ført til den oppfatningen at mer karbohydrater betyr mer insulin som igjen betyr mer fettlagring. Løsningen på problemet virker både logisk og enkel, spis mindre karbohydrater, produser mindre insulin, og du vil gå ned i vekt. Men er det bare karbohydrater som stimulerer dette hormonet, eller er det flere faktorer som spiller inn?
 
@@ -11,7 +11,7 @@ I 1997 var det en studie \[1\] som tok for seg akkurat dette, og undersøkte ins
 
 ## Hva er insulinindeks?
 
-Matvarer som inneholder karbohydrater har en [glykemisk indeks (GI)](brokenlink/mat-og-blodsukker-gi-eller-gb/ "Mat og blodsukker – GI eller GB?"). Denne beskriver hvor mye blodsukkeret stiger etter inntaket av 50g karbohydrater fra denne matvaren sammenlignet med en referansematvare. Insulinutskillelsen påvirkes hovedsakelig av blodsukkerstigningen, men også flere andre ting er med å påvirker. Forfatterne av den første studien skriver i innledningen:
+Matvarer som inneholder karbohydrater har en [glykemisk indeks (GI)](brokenlink/mat-og-blodsukker-gi-eller-gb/). Denne beskriver hvor mye blodsukkeret stiger etter inntaket av 50g karbohydrater fra denne matvaren sammenlignet med en referansematvare. Insulinutskillelsen påvirkes hovedsakelig av blodsukkerstigningen, men også flere andre ting er med å påvirker. Forfatterne av den første studien skriver i innledningen:
 
 > However, carbohydrate is not the only stimulus for insulin secretion. Protein-rich foods or the addition of protein to a carbohydrate-rich meal can stimulate a modest rise in insulin secretion without increasing blood glucose concentrations, particularly in subjects with diabetes (20-22).Similarly, adding a large amount of fat to a carbohydrate-rich meal increases insulin secretion even though plasma glucose responses are reduced (23, 24).
 >
@@ -71,7 +71,7 @@ Det er likevel ingen tvil om at det å kalkulere insulinbehovet utifra total men
 
 > In summary, the relative insulin demand evoked by mixed meals consumed by lean young healthy subjects is best predicted by a physiologic index based on integrating insulin responses to isoenergetic portions of single foods. In the context of composite meals of similar energy value but varying macronutrient content, carbohydrate counting had limited value.
 
-Foreløpig trengs det mer forskning på dette feltet, og den må også nødvendigvis gjøres på relevante populasjoner og ikke bare på friske. Kanskje vil vi få en endring i rådene om hvordan man bør spise om man har diabetes, [noe forskningen allerede tyder på](brokenlink/hvordan-bor-en-diabetiker-spise/ "Hvordan bør en diabetiker spise?").
+Foreløpig trengs det mer forskning på dette feltet, og den må også nødvendigvis gjøres på relevante populasjoner og ikke bare på friske. Kanskje vil vi få en endring i rådene om hvordan man bør spise om man har diabetes, [noe forskningen allerede tyder på](brokenlink/hvordan-bor-en-diabetiker-spise/).
 
 #### Referanser
 

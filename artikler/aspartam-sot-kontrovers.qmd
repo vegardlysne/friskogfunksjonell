@@ -5,7 +5,7 @@ date: 2014.03.31
 
 Aspartam er et kunstig søtstoff som benyttes som erstatning for sukker, spesielt i drikkevarer og som oftest i kombinasjon med andre søtstoffer som Acesulfam K. Ikke alle er overbevist om at aspartam er et helsemessig godt valg, og om man skulle tro alt som skrives i media og på internett kan det fort virke som om det verserer en stor uenighet rundt dette søtstoffet. Men er ekspertene egentlig så uenige?
 
-[Les mer om søtstoffer her.](sotstoffer.qmd "Søtstoffer")
+[Les mer om søtstoffer her.](sotstoffer.qmd)
 
 ## Hva er aspartam?
 

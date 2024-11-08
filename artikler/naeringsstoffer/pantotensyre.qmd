@@ -14,7 +14,7 @@ Pantotensyre er det fjerde av de åtte B-vitaminene, og er også kjent som vitam
 
 I kostholdet finner vi B5 i størst grad bundet til Koenzym A (CoA) eller fosfat. Før opptak må disse forbindelsene hydrolyseres av ulike hydrolaser i tarmen, slik at det frigjøres pantethein, som enten kan absorberes eller hydrolyseres videre til pantotensyre som så absorberes.
 
-Absorbsjonen kan skje aktivt gjennom et natriumavhengig transportprotein som heter SMVT (Natriumavhengig multivitamin transporter), som også sørger for opptak av [biotin](biotin.qmd "Biotin, vitamin B7"). Pantotensyre og biotin konkurrerer altså om den samme transportmekanismen, og store doser av det ene vitaminet kan hemme opptaket av det andre. Absorbsjonen kan også skje ved passiv diffusjon.
+Absorbsjonen kan skje aktivt gjennom et natriumavhengig transportprotein som heter SMVT (Natriumavhengig multivitamin transporter), som også sørger for opptak av [biotin](biotin.qmd). Pantotensyre og biotin konkurrerer altså om den samme transportmekanismen, og store doser av det ene vitaminet kan hemme opptaket av det andre. Absorbsjonen kan også skje ved passiv diffusjon.
 
 Fra tarmcellene fraktes både pantotensyre og pantethein via portåren til leveren. Fra leveren sendes pantotensyre ut i blodet, og vitaminet fraktes enten som fri pantotensyre eller sammen med røde blodceller til målcellen, der det i de fleste vev tas opp ved natrium-avhengig aktiv transport.
 
@@ -26,7 +26,7 @@ Utskilellsen av vitaminet skjer i urinen, i form av pantotensyre.
 
 B5 har sin primære funksjon i kroppen som bestanddel i CoA, som er et sentralt molekyl i omsetningen av de energigivende næringsstoffene. Produksjonen av CoA reguleres etter behov. B5 er også en bestanddel av Acylbærende protein (ACP), som er en del av enzymet fettsyre syntase, og dermed involvert i fettsyresyntesen.
 
-Hovedfunksjonen til CoA er overføring av acyl- og acetylgrupper, noe som gjør molekylet til en svært sentral brikke i kroppens metabolske prosesser. Hovedsakelig er CoA involvert i katabole/nedbrytende prosesser. Blant prosessene som er avhengig av CoA finner vi [sitronsyresyklusen](../metabolismen/sitronsyresyklusen.qmd "Sitronsyresyklusen"), [β-oksidasjon av fettsyrer](../metabolismen/fettfettsyrenedbrytning.qmd "Fettmetabolismen") og [oksidativ nedbrytning av aminosyrer](../metabolismen/proteinmetabolismen.qmd "Proteinmetabolismen").
+Hovedfunksjonen til CoA er overføring av acyl- og acetylgrupper, noe som gjør molekylet til en svært sentral brikke i kroppens metabolske prosesser. Hovedsakelig er CoA involvert i katabole/nedbrytende prosesser. Blant prosessene som er avhengig av CoA finner vi [sitronsyresyklusen](../metabolismen/sitronsyresyklusen.qmd).
 
 ![](images/clipboard-3853095687.png)
 
