@@ -28,24 +28,24 @@ Målet med disse kostholdene er at de skal være tilpasset den enkelte persons b
 
 **Standardkost:**
 
--   [Nøkkelrådskost](brokenlink/nokkelradskost/ "Nøkkelrådskost")
--   [Energi- og næringstett kost](brokenlink/energi-og-naeringstett-kost/ "Energi- og næringstett kost")
+-   [Nøkkelrådskost](artikler/kosthold-institusjoner/nokkelkost.qmd)
+-   [Energi- og næringstett kost](artikler/kosthold-institusjoner/energi-naringstett.qmd)
 
 **Spesialkost:**
 
--   [Konsistenstilpasset kost](brokenlink/konsistenstilpasset-kost/ "Konsistenstilpasset kost")
--   [Ekstra energi- og næringstett kost](brokenlink/ekstra-energitett-kost/ "Ekstra energitett kost")
--   [Lettfordøyelig kost](brokenlink/lettfordoyelig-kost/ "Lettfordøyelig kost")
+-   [Konsistenstilpasset kost](artikler/kosthold-institusjoner/konsistenstilpasset.qmd)
+-   [Ekstra energi- og næringstett kost](artikler/kosthold-institusjoner/ekstra-energitett.qmd)
+-   [Lettfordøyelig kost](artikler/kosthold-institusjoner/lettfordoyelig.qmd)
 -   Fettredusert kost
--   [Glutenfri kost](brokenlink/glutenfri-kost/ "Glutenfri kost")
--   [Laktosefri kost](brokenlink/laktoseredusert-kost/ "Laktoseredusert kost")
--   [Melkeproteinfri kost](brokenlink/melkeproteinfri-kost/ "Melkeproteinfri kost")
--   [Natriumredusert kost](brokenlink/natriumredusert-kost/ "Natriumredusert kost")
--   [Fosfatredusert kost](brokenlink/fosfatredusert-kost/ "Fosfatredusert kost")
--   [Kaliumredusert kost](brokenlink/kaliumredusert-kost/ "Kaliumredusert kost")
--   [Væskekontrollert kost](brokenlink/vaeskekontrollert-kost/ "Væskekontrollert kost")
--   [Proteinkontrollert kost](brokenlink/proteinkontrollert-kost/ "Proteinkontrollert kost")
--   [Proteinrik kost](brokenlink/proteinrik-kost/ "Proteinrik kost")
+-   [Glutenfri kost](artikler/kosthold-institusjoner/glutenfritt.qmd)
+-   [Laktosefri kost](artikler/kosthold-institusjoner/laktoseredusert.qmd)
+-   [Melkeproteinfri kost](artikler/kosthold-institusjoner/melkeproteinfri.qmd)
+-   [Natriumredusert kost](artikler/kosthold-institusjoner/natriumredusert.qmd)
+-   [Fosfatredusert kost](artikler/kosthold-institusjoner/fosfatredusert.qmd)
+-   [Kaliumredusert kost](artikler/kosthold-institusjoner/kaliumredusert.qmd)
+-   [Væskekontrollert kost](artikler/kosthold-institusjoner/vaeskekontrollert.qmd)
+-   [Proteinkontrollert kost](artikler/kosthold-institusjoner/proteinkontrollert.qmd)
+-   [Proteinrik kost](artikler/kosthold-institusjoner/proteinrik.qmd)
 -   Vegetarkost
 
 Spørsmål og diskusjon om de ulike kostholdene tas i kommentarfeltet under hvert enkelt punkt!

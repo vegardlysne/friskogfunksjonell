@@ -51,7 +51,7 @@ Leveren produserer også mange fettholdige partikler som [lipoproteiner](../mini
 
 ### Proteinmetabolismen
 
--   I [protein- og aminosyremetabolismen](../metabolismen/proteinmetabolismen.qmd/) har leveren mange viktige oppgaver. Nedbrytning av aminosyrer er leverens egen hovedkilde til energi, ettersom nedbrytningsmetabolittene fra karbohydrater og fettsyrer først og fremst sendes ut til andre celler og vev.
+-   I [protein- og aminosyremetabolismen](../metabolismen/proteinmetabolismen.qmd) har leveren mange viktige oppgaver. Nedbrytning av aminosyrer er leverens egen hovedkilde til energi, ettersom nedbrytningsmetabolittene fra karbohydrater og fettsyrer først og fremst sendes ut til andre celler og vev.
 
 De aller fleste aminosyrene kan metaboliseres i leveren, og det er også her mesteparten av dette metabolske spillet utføres. Leveren utfører deaminering- og transamineringsreaksjonene som gjør at vi kan produsere ikke-essensielle aminosyrer i de mengdene vi trenger.
 

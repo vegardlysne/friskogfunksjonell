@@ -48,7 +48,7 @@ Insulin produseres i β-cellene og stimulerer cellenes opptak av glukose ved å 
 
 Insulin og glukagon er også involvert i mange andre prosesser, deriblant metabolismen av fett og protein. Insulin promoterer [fettsyresyntese](../metabolismen/fettsyresyntese.qmd) og fettlagring. Samtidig reduseres bruken av fett som energikilde, for å prioritere å bruke opp overflødig glukose. Disse effektene medieres gjennom å øke opptaket av glukose og omdanning til fettsyrer i leveren, å hemme fettfrigjøring fra fettvev ved å hemme hormonsensitiv lipase (HSL) og ved å øke glukoseopptaket i fettceller, noe som gir opphav til glycerol til triglyseridsyntese. Glukagon har motsatte effekter, og øker fettsyrefrigjøringen ved å stimulere HSL. Samspillet mellom disse hormonene er altså også involvert i regulering av fettstoffer i blodet.
 
-Insulin stimulerer også proteinsyntese, og er derfor ofte omtalt som et anabolt hormon. Dette er ikke fullstendig kartlagt, men vi vet at insulin øker opptaket av aminosyrer til muskelvev og øker translasjon av mRNA som er oppskriften på proteiner samtidig som hormonet har en hemmende effekt på proteinnedbrytning. Glukagon på sin side øker nedbrytningen av protein for å gi substrat til [glukoneogenesen](../metabolismen/glukosemetabolismen.qmd/).
+Insulin stimulerer også proteinsyntese, og er derfor ofte omtalt som et anabolt hormon. Dette er ikke fullstendig kartlagt, men vi vet at insulin øker opptaket av aminosyrer til muskelvev og øker translasjon av mRNA som er oppskriften på proteiner samtidig som hormonet har en hemmende effekt på proteinnedbrytning. Glukagon på sin side øker nedbrytningen av protein for å gi substrat til [glukoneogenesen](../metabolismen/glukosemetabolismen.qmd).
 
 ## Sykdommer i bukspyttkjertelen
 

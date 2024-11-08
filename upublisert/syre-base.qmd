@@ -17,13 +17,13 @@ De andre buffersystemene inkluderer bikarbonat, som er den viktigste, samt fosfo
 
 ## Hvordan påvirker maten syre/base-balansen?
 
-Alle [næringsstoffene](brokenlink/naeringsstoffene/ "Artikkelserie om Næringsstoffene") havner i blodet, der de påvirker syre/base-balansen en den ene eller andre retningen. Hvorvidt en matvare vil ha en syre- eller basedannende effekt avhenger dermed av hvilke næringsstoffer den inneholder, og det er totaleffekten som er interessant.
+Alle [næringsstoffene](../naeringsstoffer.qmd) havner i blodet, der de påvirker syre/base-balansen en den ene eller andre retningen. Hvorvidt en matvare vil ha en syre- eller basedannende effekt avhenger dermed av hvilke næringsstoffer den inneholder, og det er totaleffekten som er interessant.
 
-[Protein](brokenlink/protein/ "Protein") og [fett](brokenlink/fett/ "Fett") er bygget opp av aminosyrer og fettsyrer, og virker dermed syredannende i blodet. [Glukose](brokenlink/karbohydrater/ "Karbohydrater") er også syrlig. Mange vitaminer er syrer, f.eks. [folat](brokenlink/folat/ "Folat, vitamin B9") og [C-vitamin](brokenlink/c-vitamin/ "C-vitamin"). Mineraler vil generelt sett virke basedannende, f.eks. [magnesium](brokenlink/magnesium/ "Magnesium") og [fosfor](brokenlink/fosfor/ "Fosfor"). Det finnes unntak fra disse reglene, men i hovedsak er det slik.
+[Protein](../artikler/naeringsstoffer/protein.qmd) og [fett](../artikler/naeringsstoffer/fett.qmd) er bygget opp av aminosyrer og fettsyrer, og virker dermed syredannende i blodet. [Glukose](../artikler/naeringsstoffer/karbohydrater.qmd) er også syrlig. Mange vitaminer er syrer, f.eks. [folat](../artikler/naeringsstoffer/folat.qmd) og [C-vitamin](../artikler/naeringsstoffer/cvitamin.qmd). Mineraler vil generelt sett virke basedannende, f.eks. [magnesium](../artikler/naeringsstoffer/magnesium.qmd) og [fosfor](../artikler/naeringsstoffer/fosfor.qmd). Det finnes unntak fra disse reglene, men i hovedsak er det slik.
 
 ## Er sur mat syredannende?
 
-Når vi spiser mat så vil den passere gjennom [fordøyelsessystemet](brokenlink/fordoyelsessystemet/ "Fordøyelsessystemet"). Når den kommer til magesekken så vil maten blandes med magesyren, som er ekstremt sur.  Innholdet i magesekken tømmes deretter ut i tynntarmen, der det blandes med bukspytt som nøytraliserer den sure blandingen. Dette er viktig for at nedbrytningen og opptaket av næringsstoffer skal gå som normalt.
+Når vi spiser mat så vil den passere gjennom [fordøyelsessystemet](../artikler/fysiologi/fordoyelse.qmd). Når den kommer til magesekken så vil maten blandes med magesyren, som er ekstremt sur.  Innholdet i magesekken tømmes deretter ut i tynntarmen, der det blandes med bukspytt som nøytraliserer den sure blandingen. Dette er viktig for at nedbrytningen og opptaket av næringsstoffer skal gå som normalt.
 
 Uavhengig av hvor sur maten i utgangspunktet er så vil den altså nøytraliseres når den kommer ned i tynntarmen, så det er utelukkende matvarens innhold av næringsstoffer som avgjør hvordan effekten på syre/base-balansen vil bli. Syrlig mat vil derimot være negativt for tennene, så det å drikke brus og saft hele tiden er ikke det lureste du gjør, selv om surheten i seg selv ikke påvirker syre/base-balansen.
 

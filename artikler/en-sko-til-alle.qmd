@@ -20,7 +20,6 @@ En slik påstand er verre enn de mest ekstreme lavkarbofanatikerne, da det er fy
 
 ### “Alle bør trene styrketrening med vekter”
 
-
 Det er liten tvil om styrketrening med vekter har mange positive helseeffekter, men en god del trives ikke på helsestudio og de liker ikke å løfte vekter. Det viktigste når det gjelder fysisk aktivitet er at du finner en aktivitet som DU liker og dermed greier å gjennomføre over tid. Det er irrelevant om du går tur, sykler, svømmer, spiller badminton eller noe helt annet, så lenge du liker det og får brukt kroppen din slik den er ment for å brukes. Her og vil helsen ha litt å si for valg av aktivitet. Ved store kneplager er kanskje ikke fotball noe godt valg selv om du liker det, men kanskje er lange gåturer i fjellet noe som er like spennende og som knærne attpåtil liker?
 
 ### "(putt inn hva som helst) kan behandle/helbrede nær sagt alle typer helseplager”.
@@ -39,7 +38,7 @@ Relevant lesestoff:
 
 [Opinion Stew](http://www.huffingtonpost.com/david-katz-md/nutrition-advice_b_3061646.html) (David Katz)
 
-[Kjenn dine begrensninger](radgiver-begrensninger.qmd) (Vegard Lysne)
+[Kjenn dine begrensninger](kildekritikk/radgiver-begrensninger.qmd) (Vegard Lysne)
 
 [Hvorfor pH-dietter og natronkurer ikke virker](http://tjomlid.com/2013/04/12/hvorfor-ph-dietter-og-natronkurer-ikke-virker/) (Gunnar Tjomlid)
 

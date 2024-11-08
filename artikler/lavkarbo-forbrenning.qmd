@@ -43,7 +43,7 @@ Leptin er et hormon som skilles ut fra fettvevet, og har blant annet som oppgave
 
 Nivåene av stresshormonet kortisol var høyest ved lavkarbodietten, mens nivåene av tyroideastimulerende hormon (TSH) var lavest. Blodnivåene av stoffskiftehormonet T3 var også lavest når man fulgte lavkarbo.
 
-For risikofaktorene for metabolsk syndrom så man at insulinsensitiviteten (både i lever og perifert vev) var lavest ved lavfettdietten. Lavkarbodietten gav de høyeste verdiene for HDL-kolesterol og de laveste verdiene for triglyserider. Dette regnes som en gunstig endring av [blodlipidene](minikurs-i-lipoproteiner.qmd), og resultatene var bedre ved synkende glykemisk belastning, og dermed dårligst ved lavfettdietten. CRP, en markør for inflammasjon, var høyest ved lavkarbodietten og lavest ved lav-GI, mens blodtrykket var likt ved de forskjellige diettene.
+For risikofaktorene for metabolsk syndrom så man at insulinsensitiviteten (både i lever og perifert vev) var lavest ved lavfettdietten. Lavkarbodietten gav de høyeste verdiene for HDL-kolesterol og de laveste verdiene for triglyserider. Dette regnes som en gunstig endring av [blodlipidene](minikurs-lipoproteiner.qmd), og resultatene var bedre ved synkende glykemisk belastning, og dermed dårligst ved lavfettdietten. CRP, en markør for inflammasjon, var høyest ved lavkarbodietten og lavest ved lav-GI, mens blodtrykket var likt ved de forskjellige diettene.
 
 Det må nevnes at de fleste av de målte verdiene bedret seg ved alle diettene sammenlignet med utgangspunktet, og for de fleste verdiene var ikke resultatene signifikante selv om trendene var tydelige. **Vekttapet må derfor antas å være den viktigste faktoren når alt kommer til alt.**
 

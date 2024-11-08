@@ -26,11 +26,11 @@ Endokrinologi er læren om hormonsystemet. Hormonene er signalstoffer som produs
 
 En endokrin kjertel er en kjertel som produserer et eller flere hormoner. I kroppen har vi flere spesialiserte endokrine kjertler, og disse vil jeg presentere i tre artikler.
 
-Del 1: [Hypotalamus, hypofysen og binyrene](brokenlink/hypotalamus-hypofysen-og-binyrene/ "Hypotalamus, hypofysen og binyrene")
+Del 1: [Hypotalamus, hypofysen og binyrene](artikler/hormoner/hypotalamus-hypofyse-binyrene.qmd)
 
-Del 2: [Skjoldbruskkjertelen, bukspyttkjertelen og fettvevet](brokenlink/skjoldbruskkjertelen-bukspyttkjertelen-og-fettvevet/ "Skjoldbruskkjertelen, bukspyttkjertelen og fettvevet")
+Del 2: [Skjoldbruskkjertelen, bukspyttkjertelen og fettvevet](artikler/hormoner/skjoldbruskkjertel-bukspyttkjertel-fettvev.qmd)
 
-Del 3: [Ovariene, testiklene og morkaken](brokenlink/ovariene-testiklene-og-morkaken/ "Ovariene, Testiklene og Morkaken")
+Del 3: [Ovariene, testiklene og morkaken](artikler/hormoner/ovarier-testikkel-morkake.qmd)
 
 I tillegg til disse har vi hormonproduksjon flere steder i kroppen, blant annet i nyrene, leveren, hjertet og i mage-/tarmkanalen, men de kommer jeg ikke inn på i denne serien.
 
@@ -56,11 +56,11 @@ Målcellene for hormonene har reseptorer, enten i cellemembranen eller inne i se
 
 Jeg vil presentere noen sentrale hormoner i egne artikler.
 
--   [Hypofysehormonene](brokenlink/hypofysehormonene/ "Hypofysehormonene")
+-   [Hypofysehormonene](artikler/hormoner/hypofysehormonene.qmd)
 
 -   Skjoldbruskkjertelhormonene
 
--   [Insulin/glukagon](brokenlink/insulin-og-glukagon)
+-   [Insulin/glukagon](artikler/hormoner/insulin-glukagon.qmd)
 
 -   Binyrehormonene
 

@@ -14,7 +14,7 @@ Kaliumredusert kost inngår i serien [kosthold i helseinstitusjoner](../../kosth
 
 ## Målgruppe
 
-Så hvem trenger et kosthold med begrensede mengder kalium? Personer med redusert utskillelse av kalium og forhøyet kalium i blodet, såkalt hyperkalemi. Dette er hovedsakelig et problem hos de som har liten eller ingen [urinproduksjon](../fysiologi/nyre2.qmd), som kan skyldes problemer i [nyrene](../fysiologi/nyre-1.qmd). Hensikten med kosten er dermed å normalisere kaliumverdier i blodet for å motvirke konsekvensene av forstyrret kaliumbalanse. Evnen til å utskille kalium svekkes med alderen.
+Så hvem trenger et kosthold med begrensede mengder kalium? Personer med redusert utskillelse av kalium og forhøyet kalium i blodet, såkalt hyperkalemi. Dette er hovedsakelig et problem hos de som har liten eller ingen [urinproduksjon](../fysiologi/nyre2.qmd), som kan skyldes problemer i [nyrene](../fysiologi/nyre1.qmd). Hensikten med kosten er dermed å normalisere kaliumverdier i blodet for å motvirke konsekvensene av forstyrret kaliumbalanse. Evnen til å utskille kalium svekkes med alderen.
 
 ## Matvarevalg
 

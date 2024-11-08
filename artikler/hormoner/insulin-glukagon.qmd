@@ -5,7 +5,7 @@ date: "2012.06.21"
 
 Tilbake til [innføringen i hormonsystemet](../../hormonsystemet.qmd).
 
-Den endokrine delen av [bukspyttkjertelen](skjoldbruskkjertel-bukspyttkjertel-fettvev.qmd) (se bildet) produserer hormonene insulin og glukagon. Disse hormonene er viktige i [karbohydratmetabolismen](../metabolismen//karbohydratmetabolismen.qmd ), og har også effekter på [fettmetabolismen](../metabolismen/fettmetabolismen.qmd) og [proteinmetabolismen](../metabolismen/proteinmetabolismen.qmd). Her vil jeg gi en kort innføring i hvilke funksjoner disse to hormonene har i kroppen, og hvordan utskillelsen reguleres. Bukspyttkjertelen produserer også flere hormoner som somatostatin.
+Den endokrine delen av [bukspyttkjertelen](skjoldbruskkjertel-bukspyttkjertel-fettvev.qmd) (se bildet) produserer hormonene insulin og glukagon. Disse hormonene er viktige i [karbohydratmetabolismen](../metabolismen//glukosemetabolismen.qmd ), og har også effekter på [fettmetabolismen](../metabolismen/fettsyrenedbrytning.qmd) og [proteinmetabolismen](../metabolismen/proteinmetabolismen.qmd). Her vil jeg gi en kort innføring i hvilke funksjoner disse to hormonene har i kroppen, og hvordan utskillelsen reguleres. Bukspyttkjertelen produserer også flere hormoner som somatostatin.
 
 ## Insulin
 

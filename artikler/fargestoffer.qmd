@@ -109,7 +109,7 @@ Inntak av frukt og bær gjør at mennesker er jevnlig eksponert for antocyaner. 
 
 ## Er fargestoffer helseskadelige?
 
-[JECFA og EFSA](tilsetningsstoffer.qmd/) gjennomfører toksikologisk vurdering av fargestoffer, for å se om de kan være helseskadelige for befolkningen. Overfølsomhetsreaksjoner kan være en bivirkning ved inntak av fargestoffer som tartrazin, karmin, paraoransje, annattoekstrakter og kantaxantin, hvor man kan utvikle astmabesvær, elveblest, oppsvulmede slimhinner og betennelse i nese og øyner.  Man er ikke helt sikker på hvilke komponenter i fargestoffene som kan føre til overfølsomhetsreaksjoner, men det kan gi utslag som både allergi og intoleranse.
+[JECFA og EFSA](tilsetningsstoffer.qmd) gjennomfører toksikologisk vurdering av fargestoffer, for å se om de kan være helseskadelige for befolkningen. Overfølsomhetsreaksjoner kan være en bivirkning ved inntak av fargestoffer som tartrazin, karmin, paraoransje, annattoekstrakter og kantaxantin, hvor man kan utvikle astmabesvær, elveblest, oppsvulmede slimhinner og betennelse i nese og øyner.  Man er ikke helt sikker på hvilke komponenter i fargestoffene som kan føre til overfølsomhetsreaksjoner, men det kan gi utslag som både allergi og intoleranse.
 
 Bekymringen blant mange folk om at fargestoffer er farlige, og bør unngås, er dårlig dokumentert. Det langt flere mennesker som har overfølsomhetsreaksjoner mot proteiner i melk, egg og fisk, enn fargestoffer. 0.01-0,1% av befolkningen reagerer på det mest potente azo-fargestoffet tartrazin, mens 10-20% av dem som er disponert for allergi reagerer på det samme. Det er altså liten grunn til å være bekymret for å spise matvarer som er tilsatt fargestoffer.
 

@@ -68,7 +68,7 @@ Nyrenes øvrige oppgaver er varierte, men omhandler hovedsakelig å opprettholde
 -   **Degradering av peptidhormoner**
     -   Degradering av noen hormoner, deriblant insulin, skjer i nyrene, noe som er viktig for å regulere effekten av disse.
 -   **Nyrene produserer glukose**
-    -   [Leveren](lever.qmd/) er det organet som i størst grad produserer glukose fra protein og fett dersom glukosetilførselen ikke dekker kroppens behov. Glukoneogenesen foregår også i nyrene, og under langvarig faste kan kapasiteten her komme opp mot leverens nivå.
+    -   [Leveren](lever.qmd) er det organet som i størst grad produserer glukose fra protein og fett dersom glukosetilførselen ikke dekker kroppens behov. Glukoneogenesen foregår også i nyrene, og under langvarig faste kan kapasiteten her komme opp mot leverens nivå.
 
 ## Nyrene er fantastiske
 

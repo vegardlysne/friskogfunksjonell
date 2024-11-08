@@ -13,7 +13,7 @@ Her følger en liste over flere av årets beste og mest populære artikler etter
 
 #### Helse:
 
--   [Minikurs i lipoproteiner](minikurs-i-lipoproteiner.qmd)
+-   [Minikurs i lipoproteiner](minikurs-lipoproteiner.qmd)
 
 -   [Hjerteinfarkt, hva er det egentlig?](fysiologi/hjerte5.qmd)
 

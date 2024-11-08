@@ -10,7 +10,7 @@ Karnitin er et molekyl som vi mennesker produserer selv, men som vi også får i
 
 ## Introduksjon
 
-Karnitin er en biologisk aktiv aminosyre som dannes fra de essensielle aminosyrene lysin og metionin. Molekylet er av en slik struktur at det fungerer ypperlig til binding av korte-, medium- og langkjedete fettsyrer så vel som organiske syrer. Esterifisering til karnitin tillater overføring av aktiverte acylgrupper (som oftest i form av fettsyrer) over membranen til cellulære organeller, og da spesielt mitokondriemembranen i forbindelse med mitokondriell [beta-oksidasjon](metabolismen/fettsyrenedbrytning.qmd/).
+Karnitin er en biologisk aktiv aminosyre som dannes fra de essensielle aminosyrene lysin og metionin. Molekylet er av en slik struktur at det fungerer ypperlig til binding av korte-, medium- og langkjedete fettsyrer så vel som organiske syrer. Esterifisering til karnitin tillater overføring av aktiverte acylgrupper (som oftest i form av fettsyrer) over membranen til cellulære organeller, og da spesielt mitokondriemembranen i forbindelse med mitokondriell [beta-oksidasjon](metabolismen/fettsyrenedbrytning.qmd).
 
 ## Syntese og metabolisme
 
