@@ -10,13 +10,13 @@ categories:
 
 Fett er en viktig energikilde, og i artikkelen om betaoksidasjon så vi på hvordan fettsyrene brytes ned for å frigi denne energien. Men fett er også vår viktigste lagringsform for energi, og vi kan syntetisere fettsyrer for å lagre energioverskudd til senere bruk. I denne artikkelen tar vi for oss hvordan vi syntetiserer fettsyrer, og til slutt litt om hvordan nebrytning og syntese av fettsyrer reguleres.
 
-**Denne artikkelen tilhører [artikkelserien om metabolismen](brokenlink/innforing-i-metabolismen/ "Innføring i metabolismen").**
+**Denne artikkelen tilhører [artikkelserien om metabolismen](../../metabolismen.qmd "Innføring i metabolismen").**
 
 Relevante artikler:
 
--   [Fett](brokenlink/fett/ "Fett")
+-   [Fett](../naeringsstoffer/fett.qmd "Fett")
 
--   [Fettsyrenedbrytning - β-oksidasjon](brokenlink/fettsyrenedbrytning/ "Fettsyrenedbrytning – β-oksidasjon")
+-   [Fettsyrenedbrytning - β-oksidasjon](fettsyrenedbrytning.qmd "Fettsyrenedbrytning – β-oksidasjon")
 
 Fettsyresyntesen er en reversering av reaksjonene vi så ved β-oksidasjonen. Selv om prosessene er motsatte av hverandre, er det også et par ting som skiller dem.
 
@@ -32,7 +32,7 @@ Når vi produserer nye fettsyrer så kalles prosessen ofte de novo lipogenese, s
 
 ## Stegene i fettsyresyntesen
 
-Utgangspunktet for fettsyresyntesen er acetyl-ACP, og trekarbonenheten malonyl-ACP donerer to karbonatomer til den voksende fettsyren gjennom en prosess som katalyseres av fettsyre syntase. Det hastighetsregulerende steget i fettsyresyntesen er produksjonen av Malonyl-CoA, som dannes fra acetyl-CoA i en irreversibel prosess ved hjelp av enzymet acetyl-CoA karboksylase, som bruker [biotin](brokenlink/biotin/ "Biotin, vitamin B7") som kofaktor. Produksjonen av malonyl-CoA er energikrevende, og prosessen koster et ATP-molekyl.
+Utgangspunktet for fettsyresyntesen er acetyl-ACP, og trekarbonenheten malonyl-ACP donerer to karbonatomer til den voksende fettsyren gjennom en prosess som katalyseres av fettsyre syntase. Det hastighetsregulerende steget i fettsyresyntesen er produksjonen av Malonyl-CoA, som dannes fra acetyl-CoA i en irreversibel prosess ved hjelp av enzymet acetyl-CoA karboksylase, som bruker [biotin](../naeringsstoffer/biotin.qmd "Biotin, vitamin B7") som kofaktor. Produksjonen av malonyl-CoA er energikrevende, og prosessen koster et ATP-molekyl.
 
 ![](images/clipboard-2149418967.png)
 

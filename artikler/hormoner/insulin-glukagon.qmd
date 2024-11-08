@@ -5,7 +5,7 @@ date: "2012.06.21"
 
 Tilbake til [innføringen i hormonsystemet](../../hormonsystemet.qmd "En innføring i hormonsystemet").
 
-Den endokrine delen av [bukspyttkjertelen](brokenlink/skjoldbruskkjertelen-bukspyttkjertelen-og-fettvevet/ "Skjoldbruskkjertelen, bukspyttkjertelen og fettvevet") (se bildet) produserer hormonene insulin og glukagon. Disse hormonene er viktige i [karbohydratmetabolismen](brokenlink/karbohydratmetabolismen/ "Karbohydratmetabolismen"), og har også effekter på [fettmetabolismen](brokenlink/fettmetabolismen/ "Fettmetabolismen") og [proteinmetabolismen](brokenlink/proteinmetabolismen/ "Proteinmetabolismen"). Her vil jeg gi en kort innføring i hvilke funksjoner disse to hormonene har i kroppen, og hvordan utskillelsen reguleres. Bukspyttkjertelen produserer også flere hormoner som somatostatin.
+Den endokrine delen av [bukspyttkjertelen](skjoldbruskkjertel-bukspyttkjertel-fettvev.qmd) (se bildet) produserer hormonene insulin og glukagon. Disse hormonene er viktige i [karbohydratmetabolismen](../metabolismen//karbohydratmetabolismen.qmd ), og har også effekter på [fettmetabolismen](../metabolismen/fettmetabolismen.qmd) og [proteinmetabolismen](../metabolismen/proteinmetabolismen.qmd). Her vil jeg gi en kort innføring i hvilke funksjoner disse to hormonene har i kroppen, og hvordan utskillelsen reguleres. Bukspyttkjertelen produserer også flere hormoner som somatostatin.
 
 ## Insulin
 
@@ -43,4 +43,4 @@ Som nevnt over har insulin og glukagon mer eller mindre motsatte effekter, og de
 
 ![](images/clipboard-3838672110.png)
 
-Hva du spiser vil også være med å styre hvordan forholdet mellom insulin og glukagon er. Insulinproduksjonen styres i stor grad av mengden [karbohydrater](brokenlink/karbohydrater/ "Karbohydrater") i kostholdet. [Proteiner](brokenlink/protein/ "Protein") vil også stimulere insulinproduksjon, mens [fett](brokenlink/fett/ "Fett") ikke gjør dette i særlig stor grad. Hvor godt cellene dine reagerer på insulinsignalet vil ha mye å si for hvilket kosthold som vil passe deg best. Er du insulinresistent vil du tjene på et kosthold som reduserer utskillelsen av insulin, noe du først og fremst oppnår ved å redusere totalinntaket av karbohydrater.
+Hva du spiser vil også være med å styre hvordan forholdet mellom insulin og glukagon er. Insulinproduksjonen styres i stor grad av mengden [karbohydrater](../naeringsstoffer/karbohydrater.qmd) i kostholdet. [Proteiner](../naeringsstoffer/protein.qmd) vil også stimulere insulinproduksjon, mens [fett](../naeringsstoffer/fett.qmd) ikke gjør dette i særlig stor grad. Hvor godt cellene dine reagerer på insulinsignalet vil ha mye å si for hvilket kosthold som vil passe deg best. Er du insulinresistent vil du tjene på et kosthold som reduserer utskillelsen av insulin, noe du først og fremst oppnår ved å redusere totalinntaket av karbohydrater.

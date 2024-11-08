@@ -7,7 +7,7 @@ categories:
 
 [Tilbake til artikkelserien om metabolismen](../../metabolismen.html)
 
-De energigivende næringsstoffene, [karbohydrater](brokenlink/karbohydratmetabolismen/ "Karbohydratmetabolismen"), [protein](brokenlink/proteinmetabolismen/ "Proteinmetabolismen") og [fett](brokenlink/fettmetabolismen/ "Fettmetabolismen"), metaboliseres via ulike prosesser som vi allerede har gått gjennom. Den primære energiproduksjonen inni cellene skjer imidlertid ikke i disse prosessene, men i sitronsyresyklusen og elektrontransportkjeden. I denne artikkelen tar vi en nærmere titt på den første av disse prosessene, nemlig sitronsyresyklusen!
+De energigivende næringsstoffene, [karbohydrater](glukosemetabolismen.qmd "Karbohydratmetabolismen"), [protein](proteinmetabolismen.qmd "Proteinmetabolismen") og [fett](fettsyrenedbrytning.qmd/ "Fettmetabolismen"), metaboliseres via ulike prosesser som vi allerede har gått gjennom. Den primære energiproduksjonen inni cellene skjer imidlertid ikke i disse prosessene, men i sitronsyresyklusen og elektrontransportkjeden. I denne artikkelen tar vi en nærmere titt på den første av disse prosessene, nemlig sitronsyresyklusen!
 
 Sitronsyresyklusen har flere navn, blant annet Krebs syklus (etter han som oppdaget den) og TCA-syklus (tricarboxylic acid cycle), men i denne gjennomgangen vil jeg holde meg til begrepet sitronsyresyklus.
 

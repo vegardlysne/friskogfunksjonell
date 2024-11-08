@@ -15,7 +15,7 @@ Ovariene er en del av kvinnens forplantningssystem, og har primært to hovedoppg
 
 Hormonene som produseres i ovariene er østrogener (fellesnavn for de kvinnelige kjønnshormonene østradiol, østrol og østriol) og progesteron, som alle er steroidhormoner. Produksjonen av disse hormonene varieres i løpet av menstruasjonssyklusen. Her er en kort oversikt over de viktigste effektene av disse hormonene:
 
--   **Østrogener** – stimulerer kjønnsdriften og utviklingen av kvinnelige kjønnsorganer og kroppsformer. Østrogenene regulerer også [hypofysens](brokenlink/hypotalamus-hypofysen-og-binyrene/ "Hypotalamus, hypofysen og binyrene") utskillelse av LH og FSH, som igjen regulerer produksjonen av kjønnshormoner.
+-   **Østrogener** – stimulerer kjønnsdriften og utviklingen av kvinnelige kjønnsorganer og kroppsformer. Østrogenene regulerer også [hypofysens](hypotalamus-hypofyse-binyrene.qmd) utskillelse av LH og FSH, som igjen regulerer produksjonen av kjønnshormoner.
 
 -   **Progesteron** – stimulerer kjertelvekst, hemmer utskillelsen av LH og FSH. Progesteron er også en antagonist til insulin, som gjør at høye nivåer av progesteron er etterfulgt av økt insulinresistens.
 

@@ -3,9 +3,9 @@ title: "Hypofysehormonene"
 date: "2012.01.05"
 ---
 
-Tilbake til [innføringen i hormonsystemet](../../hormonsystemet.qmd "En innføring i hormonsystemet").
+Tilbake til [innføringen i hormonsystemet](../../hormonsystemet.qmd).
 
-[Hypofysen](hypotalamus-hypofyse-binyrene.qmd "Hypotalamus, hypofysen og binyrene") ligger rett under hypotalamus, det øverste senteret for det endokrine systemet, og er med å regulere hele kroppens hormonbalanse. Som nevnt i artikkelen om hypotalamus, hypofysen og binyrene, deles hypofysen inn i forlappen og baklappen. Baklappen består av nervevev, og fungerer som en lagringsplass for hormoner fra hypotalamus, mens forlappen består av endokrine celler som produserer og slipper ut seks forskjellige peptidhormoner. Disse skal vi se nærmere på i denne artikkelen!
+[Hypofysen](hypotalamus-hypofyse-binyrene.qmd) ligger rett under hypotalamus, det øverste senteret for det endokrine systemet, og er med å regulere hele kroppens hormonbalanse. Som nevnt i artikkelen om hypotalamus, hypofysen og binyrene, deles hypofysen inn i forlappen og baklappen. Baklappen består av nervevev, og fungerer som en lagringsplass for hormoner fra hypotalamus, mens forlappen består av endokrine celler som produserer og slipper ut seks forskjellige peptidhormoner. Disse skal vi se nærmere på i denne artikkelen!
 
 Jeg vil her bare nevne effektene av de ulike hormonene fra hypofysens forlapp (også kalt adenohypofysen), og si litt om hvordan de reguleres. Dette er på ingen måte en fullstendig innføring i de ulike hormonene, men en pekepinn om hva de ulike hormonene gjør.
 
@@ -19,11 +19,11 @@ Effektene av ACTH er hovedsakelig en økt produksjon av kortisol, aldosteron og 
 
 TSH er et karbohydratholdig peptidhormon som fungerer på skjoldbruskkjertelen, og stimulerer den til å produsere sine hormoner. Utskillelsen av TSH styres av TSH-stimulerende hormon (TRH) fra hypotalamus, og reguleres ved negativ tilbakekoblingskontroll. T3 og T4 fra skjoldbruskkjertelen har en hemmende effekt på både TSH og TRH.
 
-Effektene av TSH er regulering av vekst og hormonproduksjon i skjoldbruskkjertelen. Normal funksjon i dette systemet, krever tilstrekkelig inntak av [jod](brokenlink/jod/ "Jod"), og mangel på dette næringsstoffet kan føre til ubalanser her. Dette kan gi problemer med stoffskiftet og kan også føre til utvikling av struma.
+Effektene av TSH er regulering av vekst og hormonproduksjon i skjoldbruskkjertelen. Normal funksjon i dette systemet, krever tilstrekkelig inntak av [jod](../naeringsstoffer/jod.qmd), og mangel på dette næringsstoffet kan føre til ubalanser her. Dette kan gi problemer med stoffskiftet og kan også føre til utvikling av struma.
 
 ##### Folikkelstimulerende hormon, FSH
 
-FSH regulerer [gonadenes](brokenlink/ovariene-testiklene-og-morkaken/ "Ovariene, Testiklene og Morkaken") (kjønnsorganenes) hormonproduksjon, og kalles derfor et gonadotropin. Utskillelsen av gonadotropinene styres av gonadotropinstimulerende hormon (Gn-RH) fra hypotalamus, og reguleres ved negativ tilbakekoblingskontroll. I tillegg til å stimulere hormonproduksjonen, vil gonadotropinene være med å regulere veksten til kjønnsorgane.
+FSH regulerer [gonadenes](ovarier-testikkel-morkake.qmd) (kjønnsorganenes) hormonproduksjon, og kalles derfor et gonadotropin. Utskillelsen av gonadotropinene styres av gonadotropinstimulerende hormon (Gn-RH) fra hypotalamus, og reguleres ved negativ tilbakekoblingskontroll. I tillegg til å stimulere hormonproduksjonen, vil gonadotropinene være med å regulere veksten til kjønnsorgane.
 
 Hos menn vil FSH stimulere sertolicellene i testiklene, som regulerer sædcelleproduksjonen.
 

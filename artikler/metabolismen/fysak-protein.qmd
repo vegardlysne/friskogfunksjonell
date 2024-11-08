@@ -18,7 +18,7 @@ Helkropps-turnover av protein skjer hurtig og avhenger ikke bare av fysisk aktiv
 
 ## Aminosyrelageret
 
-Etter proteiner konsumeres og brytes ned i tarmene før absorpsjon, transporteres disse med blodet rundt til ulike vev (hovedsakelig skjelettmuskulatur og lever). Skjelettmuskulatur inneholder den største andelen proteinbundne og frie aminosyrer, mens leveren er det mest aktive organet vi har når det gjelder metabolismen av aminosyrene. De frie aminosyrene man finner i blodet (via syntese, mat eller nedbrytning) og i ekstracellulærvæsker kalles aminosyrelageret. Aminosyrene som ikke brukes til syntese av proteiner vil avhengig av energistatus, forbrukes som energi via [sitronsyresyklusen](brokenlink/sitronsyresyklusen/ "Sitronsyresyklusen"), eller brukes til å danne glukose (glukogene aminosyrer)
+Etter proteiner konsumeres og brytes ned i tarmene før absorpsjon, transporteres disse med blodet rundt til ulike vev (hovedsakelig skjelettmuskulatur og lever). Skjelettmuskulatur inneholder den største andelen proteinbundne og frie aminosyrer, mens leveren er det mest aktive organet vi har når det gjelder metabolismen av aminosyrene. De frie aminosyrene man finner i blodet (via syntese, mat eller nedbrytning) og i ekstracellulærvæsker kalles aminosyrelageret. Aminosyrene som ikke brukes til syntese av proteiner vil avhengig av energistatus, forbrukes som energi via [sitronsyresyklusen](sitronsyresyklusen.qmd "Sitronsyresyklusen"), eller brukes til å danne glukose (glukogene aminosyrer)
 
 ## Proteinmetabolisme under trening
 
@@ -36,7 +36,7 @@ Trening med høy intensitet over tid kan også føre til negativ nitrogenbalanse
 
 Protein fra kosten, aminosyrelageret og endogent vevsprotein er tre viktige kilder til energi fra protein. For at aminosyrer skal kunne metaboliseres til energi må de igjennom prosesser som kalles *transaminering* og *oksidativ deanimering.* Et vanlig eksempel på dette er overføringen av et nitrogenholdig molekyl (amin) fra glutamat til pyruvat. Dette produserer aminosyren alanin som igjen kan gå inn i nydannelsen av glukose via en reaksjon som kalles alanin-syklusen. Nitrogenresten vil omdannes til urea ved hjelp av deanimering i leveren og skilles ut. Det resterende karbonskjelettet kan videre benyttes i sitronsyresyklusen.
 
-Alt i alt kan aminosyrer gi opphav til pyruvat (glukolyse), acetyl-CoA (energimetabolisme), oxaloacetat, fumarat, succinyl-CoA og a-ketoglutarate (sitronsyresyklusen). En annen måte aminosyrer kan bidra er ved å inngå i [glukoneogenesen](brokenlink/glukosemetabolismen/ "Glukosemetabolismen").
+Alt i alt kan aminosyrer gi opphav til pyruvat (glukolyse), acetyl-CoA (energimetabolisme), oxaloacetat, fumarat, succinyl-CoA og a-ketoglutarate (sitronsyresyklusen). En annen måte aminosyrer kan bidra er ved å inngå i [glukoneogenesen](glukosemetabolismen.qmd "Glukosemetabolismen").
 
 ## Rollen til de forgrenede aminosyrene
 

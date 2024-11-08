@@ -14,8 +14,8 @@ Fettløselige substanser fraktes i liten grad fritt i blodet. Mest av alt frakte
 
 Relevante artikler:
 
--   [Kolesterolmetabolismen](brokenlink/kolesterolmetabolismen/ "Kolesterolmetabolismen")
--   [Fettsyresyntese](brokenlink/fettsyresyntese/ "Fettsyresyntese")
+-   [Kolesterolmetabolismen](kolesterolmetabolismen.qmd "Kolesterolmetabolismen")
+-   [Fettsyresyntese](fettsyresyntese.qmd "Fettsyresyntese")
 
 ## De ulike lipoproteinene
 
@@ -39,7 +39,7 @@ Etter hvert som VLDL gir fra seg triglyserider, vil tettheten øke. Da går part
 
 LDL (Low density Lipoprotein) er det lipoproteinet som til daglig får mest oppmerksomhet, og på folkemunne omtales de ofte som «det dårlige kolesterolet». LDL inneholder lite triglyserider (5-15%) og en høy andel kolesterol (40-50%), og har derfor høyere tetthet enn de foregående variantene (1.019-1.063 g/ml). Partiklene har en diameter på 18-25nm, og inneholder som de foregående også ApoB-100. De øvrige apoproteinene overføres til andre lipoproteiner etter hvert som triglyseridinnholdet reduseres, så LDL inneholder bare ApoB-100.
 
-Hovedfunksjonen til LDL er å levere kolesterol til perifere vev. Dermed er LDL også delaktig i å regulere [kolesterolsyntesen](brokenlink/kolesterolmetabolismen/ "Kolesterolmetabolismen"), som i stor grad responderer på de intracellulære nivåene av kolesterol ved regulering av HMG-CoA reduktase, det hastighetsregulerende steget i kolesterolsyntesen. LDL binder til LDL-reseptoren og hele molekylet tas opp i cellen ved endocytose.
+Hovedfunksjonen til LDL er å levere kolesterol til perifere vev. Dermed er LDL også delaktig i å regulere [kolesterolsyntesen](kolesterolmetabolismen.qmd "Kolesterolmetabolismen"), som i stor grad responderer på de intracellulære nivåene av kolesterol ved regulering av HMG-CoA reduktase, det hastighetsregulerende steget i kolesterolsyntesen. LDL binder til LDL-reseptoren og hele molekylet tas opp i cellen ved endocytose.
 
 #### HDL
 
@@ -83,7 +83,7 @@ Det er en invers sammenheng mellom nivåene av triglyserider og HDL. Jo høyere 
 
 ## Er alle lipoproteiner like aterogene?
 
-Kolesterol er innblandet i [den aterosklerotiske prosessen](brokenlink/aterosklerose/ "Aterosklerose – Hva og Hvordan"), men er alle lipoproteinene like skumle i denne sammenhengen? Svaret er nei. Det er de minste ApoB-holdige partiklene, altså LDL, som har det største aterogene potensialet. Dette er fordi disse partiklene er små nok til å binde til reseptorene som sørger for opptak til makrofagene. Dette støttes av det faktum at mennesker som mangler LPL har skyhøye triglyserider, men likevel ikke økt risiko for hjertesykdom. Dette skyldes at uten LPL vil ikke fett fjernes fra VLDL eller kylomikronpartiklene, og det vil derfor heller ikke produseres mindre, aterogene partikler.
+Kolesterol er innblandet i [den aterosklerotiske prosessen](../fysiologi/hjerte4.qmd), men er alle lipoproteinene like skumle i denne sammenhengen? Svaret er nei. Det er de minste ApoB-holdige partiklene, altså LDL, som har det største aterogene potensialet. Dette er fordi disse partiklene er små nok til å binde til reseptorene som sørger for opptak til makrofagene. Dette støttes av det faktum at mennesker som mangler LPL har skyhøye triglyserider, men likevel ikke økt risiko for hjertesykdom. Dette skyldes at uten LPL vil ikke fett fjernes fra VLDL eller kylomikronpartiklene, og det vil derfor heller ikke produseres mindre, aterogene partikler.
 
 Også innenfor LDL finnes det ulike subgrupper, og det er holdepunkter for å si at disse har ulikt aterogent potensiale. De minste partiklene viser seg å være mest aterogene, noe som kan skyldes at de lettere passerer blodåreveggen. På grunn av lavere innhold av fett (og fettløselige antioksidanter) er de også i større grad utsatt for oksidering som øker sannsynligheten for at de tas opp av makrofagene og bidrar til produksjonen av skumceller. Alle har en fordeling av de ulike subfraksjonene av LDL, men en forskyvning mot flere små partikler med høy tetthet kan øke risikoen for å utvikle aterosklerose, og kalles derfor for en aterogen fenotype.
 

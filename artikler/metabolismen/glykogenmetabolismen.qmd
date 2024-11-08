@@ -8,13 +8,13 @@ categories:
 
 [Tilbake til artikkelserien om metabolismen](../../metabolismen.html)
 
-Karbohydrater er et energigivende næringsstoff, og flere av kroppens celler er avhengig av glukose som energikilde. I artikkelen om karbohydratmetabolismen kunne du lese at vi selv kan produsere glukose for å dekke behovet, gjennom glukoneogenesen. Et annet viktig aspekt er det at vi også har egne lagre av karbohydrater, som er spesielt viktig for å regulere blodsukkeret og dermed cellenes tilgang til glukose. Disse karbohydratlagrene kalles glykogen, og finnes i [leveren](brokenlink/leveren/ "Leveren – metabolismens dirigent") og skjelettmusklene.
+Karbohydrater er et energigivende næringsstoff, og flere av kroppens celler er avhengig av glukose som energikilde. I artikkelen om karbohydratmetabolismen kunne du lese at vi selv kan produsere glukose for å dekke behovet, gjennom glukoneogenesen. Et annet viktig aspekt er det at vi også har egne lagre av karbohydrater, som er spesielt viktig for å regulere blodsukkeret og dermed cellenes tilgang til glukose. Disse karbohydratlagrene kalles glykogen, og finnes i [leveren](../fysiologi/lever.qmd "Leveren – metabolismens dirigent") og skjelettmusklene.
 
--   Les mer om [karbohydrater](brokenlink/karbohydrater/ "Karbohydrater")
+-   Les mer om [karbohydrater](../naeringsstoffer/karbohydrater.qmd "Karbohydrater")
 
--   Les om [glukosemetabolismen](brokenlink/glukosemetabolismen/ "Glukosemetabolismen")
+-   Les om [glukosemetabolismen](glukosemetabolismen.qmd "Glukosemetabolismen")
 
--   Les om [fruktose- og galaktosemetabolismen](brokenlink/fruktose-og-galaktosemetabolismen/ "Fruktose- og galaktosemetabolismen")
+-   Les om [fruktose- og galaktosemetabolismen](fruktose-galaktose.qmd "Fruktose- og galaktosemetabolismen")
 
 ## Glykogen
 
@@ -46,7 +46,7 @@ Nedbrytningen av glykogen kalles glykogenolyse og er prosessen der glukosemoleky
 
 Nedbrytningen av glykogen fører altså til frigjøring av G6P, og denne prosessen skjer i tre steg. Først frigjøres G1P, deretter remodeleres glykogenet for å muliggjøre videre nedbrytning og til slutt omdannes G1P til G6P som kan metaboliseres videre. Disse prosessene krever fire ulike enzymer, ett for frigjøring av G1P, to for remodelering av glykogen og ett for omdanning til G6P.
 
-Frigjøring av G1P (et glukosemolekyl med en fosfatgruppe koblet til karbon nummer 1 fra glykogen skjer ved hjelp av enzymet glykogen fosforylase. Dette enzymet spalter av et glukosemolekyl fra den ikkereduserende enden av glukosekjeden ved å koble på en fosfatgruppe. Denne reaksjonen er avhengig av [vitamin B6](brokenlink/b6/ "Pyridoksin, vitamin B6") som kofaktor.
+Frigjøring av G1P (et glukosemolekyl med en fosfatgruppe koblet til karbon nummer 1 fra glykogen skjer ved hjelp av enzymet glykogen fosforylase. Dette enzymet spalter av et glukosemolekyl fra den ikkereduserende enden av glukosekjeden ved å koble på en fosfatgruppe. Denne reaksjonen er avhengig av [vitamin B6](../naeringsstoffer/pyridoksin.qmd "Pyridoksin, vitamin B6") som kofaktor.
 
 ![](images/clipboard-690563771.png)
 

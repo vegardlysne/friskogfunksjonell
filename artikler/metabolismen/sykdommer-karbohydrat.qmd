@@ -12,12 +12,12 @@ Medfødte metabolske sykdommer kan ramme nesten hele metabolismen. Selv om disse
 
 Relevante artikler:
 
--   [Karbohydrater](brokenlink/karbohydrater/ "Karbohydrater")
--   [Glukosemetabolismen](brokenlink/glukosemetabolismen/ "Glukosemetabolismen")
--   [Glykogenmetabolismen](brokenlink/glykogenmetabolismen/ "Glykogenmetabolismen")
--   [Fruktose- og galaktosemetabolismen](brokenlink/fruktose-og-galaktosemetabolismen/ "Fruktose- og galaktosemetabolismen")
--   [Genetikk](brokenlink/genetiske-og-metabolske-sykdommer-genetikk/ "Genetiske og metabolske sykdommer – genetikk")
--   [Metabolske sykdommer – prinsippene](brokenlink/genetiske-og-metabolske-sykdommer-prinsippene/ "Genetiske og metabolske sykdommer – prinsippene")
+-   [Karbohydrater](../naeringsstoffer/karbohydrater.qmd "Karbohydrater")
+-   [Glukosemetabolismen](glukosemetabolismen.qmd "Glukosemetabolismen")
+-   [Glykogenmetabolismen](glykogenmetabolismen.qmd "Glykogenmetabolismen")
+-   [Fruktose- og galaktosemetabolismen](fruktose-galaktose.qmd "Fruktose- og galaktosemetabolismen")
+-   [Genetikk](genetikk.qmd "Genetiske og metabolske sykdommer – genetikk")
+-   [Metabolske sykdommer – prinsippene](metabolskesykdommer.qmd "Genetiske og metabolske sykdommer – prinsippene")
 
 Jeg vil også anbefale en artikkel av Mayatepek og medarbeidere (1), som gir en god innføring i de ulike sykdommmene.
 

@@ -10,11 +10,11 @@ categories:
 
 Kolesterol er en livsviktig forbindelse, og kanskje det ernæringsrelaterte molekylet som er mest debattert. Alle cellene i kroppen vår inneholder kolesterol, og vi finner det både i maten vi spiser og lager det selv i leveren. I denne artikkelen får du en innføring i hvordan kolesterolmolekylet dannes, hva det brukes til og hvordan vi kvitter oss med det.
 
-Les også artikkelen om [lipoproteinmetabolismen](brokenlink/lipoproteinmetabolismen/ "Lipoproteinmetabolismen").
+Les også artikkelen om [lipoproteinmetabolismen](lipoproteinmetabolismen.qmd "Lipoproteinmetabolismen").
 
 ## Produksjon av kolesterol
 
-Kolesterol produseres hovedsakelig i leveren, men de fleste andre celler har også kapasitet til å produsere noe selv. Kolesterol produseres i tre faser, og utgangspunktet er tokarbonenheten Acetyl-CoA. Som vi har sett i artiklene om [glukose](brokenlink/glukosemetabolismen/ "Glukosemetabolismen")- og [fettmetabolismen](brokenlink/fettsyrenedbrytning/ "Fettsyrenedbrytning – β-oksidasjon") så er acetyl-CoA nedbrytningsproduktet som kan fraktes videre inn i sitronsyresyklusen for videre energiproduksjon. I artikkelen om [ketonmetabolismen](brokenlink/ketonmetabolismen/ "Ketonmetabolismen") så vi at acetyl-CoA også er utgangspunktet for produksjon av disse vannløselige energimolekylene.
+Kolesterol produseres hovedsakelig i leveren, men de fleste andre celler har også kapasitet til å produsere noe selv. Kolesterol produseres i tre faser, og utgangspunktet er tokarbonenheten Acetyl-CoA. Som vi har sett i artiklene om [glukose](glukosemetabolismen.qmd "Glukosemetabolismen")- og [fettmetabolismen](fettsyrenedbrytning.qmd "Fettsyrenedbrytning – β-oksidasjon") så er acetyl-CoA nedbrytningsproduktet som kan fraktes videre inn i sitronsyresyklusen for videre energiproduksjon. I artikkelen om [ketonmetabolismen](ketonmetabolismen.qmd "Ketonmetabolismen") så vi at acetyl-CoA også er utgangspunktet for produksjon av disse vannløselige energimolekylene.
 
 Kolesterol består av 27 karbonatomer, og alle disse kommer fra Acetyl-CoA. Byggestenen i kolesterolsyntesen er en aktivert isoprenenhet som heter isopentenyl pyrofosfat. I det første av de tre syntesefasene produseres denne fra acetyl-CoA. I den neste fasen kobles seks slike enheter sammen og danner squalene. I den siste fasen omdannes squalene til kolesterol. Her kommer en gjennomgang av de tre fasene.
 
