@@ -32,13 +32,9 @@ Fosfor har mange viktige funksjoner i kroppen, og er et svært viktig element i 
 
 -   Fosfor er viktig i energimetabolismen. Energimolekylene ATP, GTP og kreatinfosfat inneholder fosfor, og det er avspalting av fosfatgruppene fra disse molekylene som frigir energi som cellene kan benytte seg av.
 
-    ![](images/clipboard-2785702931.png)
-
 -   En del vitaminer, som f.eks. [thiamin](thiamin.qmd), inneholder fosfor, som derfor er viktig for deres funksjoner.
 
 -   Fosfor er viktig i enzymatiske prosesser. En del proteiner aktiveres/deaktiveres ved at det bindes en fosfatgruppe til proteinet, en såkalt fosforylering.
-
-    ![](images/clipboard-129853857.png)
 
 -   Fosfor spiller også inn i reguleringen av syre-base-balansen, ved å inngå i molekyler som fungerer som buffere. Det viktigste av disse molekylene er H~2~PO~4~^-^. Denne mekanismen er ikke så viktig for reguleringen av blodet, da andre buffersystemer finnes her, men i nyrene og intracellulært er den veldig viktig.
 

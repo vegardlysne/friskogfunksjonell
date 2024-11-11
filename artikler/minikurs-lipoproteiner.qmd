@@ -38,8 +38,6 @@ Uten at dette ennå har blitt viet veldig stor oppmerksomhet i dagligdags medisi
 
 Små, tette LDL-partikler er også assosiert med høye triglycerider og lav HDL, ofte kalt aterogen dyslipidemi. **Det er imidlertid ingen sammenheng mellom nivået av kolesterol eller LDL-kolesterol og størrelsen på LDL-partiklene**. En annen interessant observasjon er også at dersom man har større LDL-partikler, dvs. \> 25,64 nm, er ikke lenger Apo-B eller kolesterol en like vesentlig risikofaktor for hjertesykdom.
 
-![Risiko for hjertesykdom ved ulike størrelser av LDL](images/clipboard-2435128836.png)
-
 Hos personer innlagt med mistenkt hjertesykdom gir funn av små tette LDL-partikler større risiko for å finner innsnevringer på kransårene ved hjertekateterisering (3) . Videre fant man i en større kohort-studie med over 25.000 personer at **koronar hjertesykdom var mer assosiert med antall LDL-partikler enn med LDL-kolesterol,- og  jo mindre LDL-partikler man hadde,  jo større var risiko for sykdom** (4). Det gjenstår ennå å se om disse målingene har noen relevans i vanlige undersøkelser for å vurdere risiko. Ikke alle studier viser at de gir noen tilleggsinformasjon utover kolesterol, lipoproteiner og apolipoproteiner, når disse vurderes samlet. De er imidlertid svært interessante når man skal studere årsaken til hvorfor dyslipidemi gir økt risiko for hjertesykdom og hvordan kosthold kan påvirke denne risikoen.
 
 Det finnes to hovedmønstre når det gjelder fordeling av blodlipidene:
@@ -47,8 +45,6 @@ Det finnes to hovedmønstre når det gjelder fordeling av blodlipidene:
 **LDL Pattern A**: en betegnelse for et mønster med større LDL-partikler og lav risiko for hjerte- karsykdom. Dette er også assosiert med høy HDL og lave triglyserider.
 
 **LDL-pattern B**: en betegnelse for et mønster med små tette LDL-partikler og økt risiko for hjerte-karsykdom. Ofte assosiert med lav HDL og høye triglyserider.
-
-![](images/clipboard-826664034.png)
 
 **Referanser:**
 
